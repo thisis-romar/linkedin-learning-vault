@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/vue-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Vue%20Js.md)
@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Managing Dynamic Content and Behavior]]** (6 videos)
-- **[[#3. 2. Form Control Bindings]]** (5 videos)
-- **[[#4. 3. Rendering and Styling Logic]]** (5 videos)
-- **[[#5. 4. Using Vue Components]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Managing Dynamic Content and Behavior]]** (6 videos)
+- **[[#2. Form Control Bindings]]** (5 videos)
+- **[[#3. Rendering and Styling Logic]]** (5 videos)
+- **[[#4. Using Vue Components]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Is Vue for you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Managing Dynamic Content and Behavior
+### 1. Managing Dynamic Content and Behavior
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What problems does Vue.js solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980)
@@ -503,7 +507,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Form Control Bindings
+### 2. Form Control Bindings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Text field bindings
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980)
@@ -862,7 +868,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Rendering and Styling Logic
+### 3. Rendering and Styling Logic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conditional rendering with v-if
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980)
@@ -1312,7 +1320,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. 4. Using Vue Components
+### 4. Using Vue Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and registering components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980)
@@ -1839,7 +1849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980)

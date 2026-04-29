@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Machine%20Learning.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Recap of Python, ML, and Data Cleaning]]** (5 videos)
-- **[[#3. 2. Applied Machine Learning for Finance and Business]]** (5 videos)
-- **[[#4. 3. Practical Applications of Machine Learning in Business and Finance]]** (5 videos)
-- **[[#5. 4. Advanced Analytical Techniques with Python Libraries]]** (3 videos)
-- **[[#6. 5. Machine Learning Algorithms for Business and Finance]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Recap of Python, ML, and Data Cleaning]]** (5 videos)
+- **[[#2. Applied Machine Learning for Finance and Business]]** (5 videos)
+- **[[#3. Practical Applications of Machine Learning in Business and Finance]]** (5 videos)
+- **[[#4. Advanced Analytical Techniques with Python Libraries]]** (3 videos)
+- **[[#5. Machine Learning Algorithms for Business and Finance]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Recap of Python, ML, and Data Cleaning
+### 1. Recap of Python, ML, and Data Cleaning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap of Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
@@ -295,7 +299,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Applied Machine Learning for Finance and Business
+### 2. Applied Machine Learning for Finance and Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to machine learning concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
@@ -487,7 +493,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Practical Applications of Machine Learning in Business and Finance
+### 3. Practical Applications of Machine Learning in Business and Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive analytics for financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
@@ -686,7 +694,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively upbeat music) (1)
 
 
-### 5. 4. Advanced Analytical Techniques with Python Libraries
+### 4. Advanced Analytical Techniques with Python Libraries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data manipulation with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
@@ -779,7 +789,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Machine Learning Algorithms for Business and Finance
+### 5. Machine Learning Algorithms for Business and Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linear regression for business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
@@ -871,7 +883,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/digital-authentication
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP-%20User%20Authentication.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. User Authentication Overview]]** (2 videos)
-- **[[#3. 2. Implementing User Authentication in PHP]]** (8 videos)
-- **[[#4. 3. Working with Strong Passwords]]** (3 videos)
-- **[[#5. 4. Securing User Authentication]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. User Authentication Overview]]** (2 videos)
+- **[[#2. Implementing User Authentication in PHP]]** (8 videos)
+- **[[#3. Working with Strong Passwords]]** (3 videos)
+- **[[#4. Securing User Authentication]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Restricting user access in PHP applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. User Authentication Overview
+### 1. User Authentication Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identification and access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
@@ -313,7 +317,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Implementing User Authentication in PHP
+### 2. Implementing User Authentication in PHP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the database table
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
@@ -1512,7 +1518,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Strong Passwords
+### 3. Working with Strong Passwords
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Password requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
@@ -1929,7 +1937,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Securing User Authentication
+### 4. Securing User Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preventing IDOR
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
@@ -2487,7 +2497,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)

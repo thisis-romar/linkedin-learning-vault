@@ -30,7 +30,7 @@ tags:
   - skill/corporate-sustainability
   - skill/job-description-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Employee%20Engagement-%20Making%20Sustainability%20Part%20of%20Everybody%E2%80%99s%20Job.md)

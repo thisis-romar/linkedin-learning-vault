@@ -31,7 +31,7 @@ tags:
   - skill/local-area-network-lan
   - skill/computer-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Local%20Area%20Networks%20(LANs).md)

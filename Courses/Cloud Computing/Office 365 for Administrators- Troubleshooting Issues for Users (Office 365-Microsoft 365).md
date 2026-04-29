@@ -31,7 +31,7 @@ tags:
   - skill/software-troubleshooting
   - skill/office-365-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Office%20365%20for%20Administrators-%20Troubleshooting%20Issues%20for%20Users%20(Office%20365-Microsoft%20365).md)

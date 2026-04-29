@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/redis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Redis%20Essential%20Training.md)
@@ -47,18 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Basics of Redis]]** (5 videos)
-- **[[#3. 2. Representing Complex Data Structures: Hashes]]** (3 videos)
-- **[[#4. 3. Lists and Sets in Redis]]** (11 videos)
-- **[[#5. 4. Sorted Sets]]** (2 videos)
-- **[[#6. 5. Key Naming Strategies]]** (3 videos)
-- **[[#7. 6. Beyond Data Storage]]** (5 videos)
-- **[[#8. 7. Watching Keys for Updates]]** (4 videos)
-- **[[#9. 8. An introduction to Redis at Scale]]** (3 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Basics of Redis]]** (5 videos)
+- **[[#2. Representing Complex Data Structures: Hashes]]** (3 videos)
+- **[[#3. Lists and Sets in Redis]]** (11 videos)
+- **[[#4. Sorted Sets]]** (2 videos)
+- **[[#5. Key Naming Strategies]]** (3 videos)
+- **[[#6. Beyond Data Storage]]** (5 videos)
+- **[[#7. Watching Keys for Updates]]** (4 videos)
+- **[[#8. An introduction to Redis at Scale]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
@@ -226,7 +228,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Basics of Redis
+### 1. Basics of Redis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
@@ -636,7 +640,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Representing Complex Data Structures: Hashes
+### 2. Representing Complex Data Structures: Hashes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are hashes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
@@ -868,7 +874,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Lists and Sets in Redis
+### 3. Lists and Sets in Redis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
@@ -1409,7 +1417,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. 4. Sorted Sets
+### 4. Sorted Sets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining what a sorted set is
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
@@ -1542,7 +1552,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 6. 5. Key Naming Strategies
+### 5. Key Naming Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing Redis to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
@@ -1662,7 +1674,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Beyond Data Storage
+### 6. Beyond Data Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What else can you do with Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
@@ -2007,7 +2021,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 8. 7. Watching Keys for Updates
+### 7. Watching Keys for Updates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to key-space notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
@@ -2168,7 +2184,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 9. 8. An introduction to Redis at Scale
+### 8. An introduction to Redis at Scale
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's missing for a production-ready architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
@@ -2623,7 +2641,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to learn more about Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)

@@ -32,7 +32,7 @@ tags:
   - skill/pytorch
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20PyTorch%20Machine%20Learning.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Preparation]]** (4 videos)
-- **[[#3. 2. PyTorch Basics]]** (5 videos)
-- **[[#4. 3. Torchvision]]** (2 videos)
-- **[[#5. 4. Torchaudio]]** (2 videos)
-- **[[#6. 5. Torchtext]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Preparation]]** (4 videos)
+- **[[#2. PyTorch Basics]]** (5 videos)
+- **[[#3. Torchvision]]** (2 videos)
+- **[[#4. Torchaudio]]** (2 videos)
+- **[[#5. Torchtext]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the capabilities of PyTorch
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [dr (1)
 
 
-### 2. 1. Preparation
+### 1. Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PyTorch overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
@@ -397,7 +401,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. PyTorch Basics
+### 2. PyTorch Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand PyTorch tensors
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
@@ -716,7 +722,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Torchvision
+### 3. Torchvision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Torchvision introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
@@ -885,7 +893,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Torchaudio
+### 4. Torchaudio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Torchaudio introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
@@ -1037,7 +1047,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 6. 5. Torchtext
+### 5. Torchtext
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Torchtext introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
@@ -1195,7 +1207,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your PyTorch learning process
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)

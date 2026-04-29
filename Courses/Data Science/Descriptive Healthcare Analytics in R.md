@@ -33,7 +33,7 @@ tags:
   - skill/r-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Descriptive%20Healthcare%20Analytics%20in%20R.md)
@@ -51,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is the BRFSS?]]** (13 videos)
-- **[[#3. 2. Designing Your Metadata]]** (8 videos)
-- **[[#4. 3. Reading in Data and Applying Exclusions]]** (11 videos)
-- **[[#5. 4. Preparing for Descriptive Analysis]]** (8 videos)
-- **[[#6. 5. Conducting Descriptive Analysis]]** (7 videos)
-- **[[#7. 6. Descriptive Analysis: Weights and Tests]]** (8 videos)
-- **[[#8. Conclusion]]** (4 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is the BRFSS?]]** (13 videos)
+- **[[#2. Designing Your Metadata]]** (8 videos)
+- **[[#3. Reading in Data and Applying Exclusions]]** (11 videos)
+- **[[#4. Preparing for Descriptive Analysis]]** (8 videos)
+- **[[#5. Conducting Descriptive Analysis]]** (7 videos)
+- **[[#6. Descriptive Analysis: Weights and Tests]]** (8 videos)
+- **[[#Conclusion]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is the BRFSS?
+### 1. What Is the BRFSS?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### U.S. risk factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
@@ -1153,7 +1157,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 3. 2. Designing Your Metadata
+### 2. Designing Your Metadata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uses of a data dictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
@@ -2141,7 +2147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Reading in Data and Applying Exclusions
+### 3. Reading in Data and Applying Exclusions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading in BRFSS XPT data
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
@@ -3465,7 +3473,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Preparing for Descriptive Analysis
+### 4. Preparing for Descriptive Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating the age variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
@@ -4582,7 +4592,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Conducting Descriptive Analysis
+### 5. Conducting Descriptive Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing categorical Table 1 shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
@@ -5528,7 +5540,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Descriptive Analysis: Weights and Tests
+### 6. Descriptive Analysis: Weights and Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three truths about using weights
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
@@ -6760,7 +6774,9 @@ created: 2026-04-28
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review of the metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)

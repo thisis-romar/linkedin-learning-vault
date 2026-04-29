@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Writing%20Great%20Content%20with%20Gen%20AI%20That%20Doesn't%20Sound%20Fake.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Crafting Authentic Marketing Content with AI]]** (4 videos)
-- **[[#3. 2. Personalizing Content for Impact]]** (3 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Crafting Authentic Marketing Content with AI]]** (4 videos)
+- **[[#2. Personalizing Content for Impact]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating marketing content with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Crafting Authentic Marketing Content with AI
+### 1. Crafting Authentic Marketing Content with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Anatomy of a marketing prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
@@ -253,7 +257,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 3. 2. Personalizing Content for Impact
+### 2. Personalizing Content for Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet audience expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
@@ -371,7 +377,9 @@ created: 2026-04-28
 > **Speakers:** - potential (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue generating authenticity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)

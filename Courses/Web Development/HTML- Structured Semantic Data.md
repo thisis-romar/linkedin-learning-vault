@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/semantic-markup
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Structured%20Semantic%20Data.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Implementing Data Schemes with Microdata]]** (8 videos)
-- **[[#3. 2. Working with JSON-LD]]** (5 videos)
-- **[[#4. 3. Structured Data Examples]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Implementing Data Schemes with Microdata]]** (8 videos)
+- **[[#2. Working with JSON-LD]]** (5 videos)
+- **[[#3. Structured Data Examples]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Appreciating the value of the semantic web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
@@ -298,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Implementing Data Schemes with Microdata
+### 1. Implementing Data Schemes with Microdata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using itemscope and itemtype to add meaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
@@ -1049,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with JSON-LD
+### 2. Working with JSON-LD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing JSON-LD by hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
@@ -1358,7 +1364,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 4. 3. Structured Data Examples
+### 3. Structured Data Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding rich search results from Google
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
@@ -1853,7 +1861,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)

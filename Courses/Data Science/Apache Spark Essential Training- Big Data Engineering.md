@@ -42,7 +42,7 @@ tags:
   - skill/apache-spark
   - skill/data-pipelines
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Apache%20Spark%20Essential%20Training-%20Big%20Data%20Engineering.md)
@@ -60,16 +60,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data Engineering Concepts]]** (5 videos)
-- **[[#3. 2. Spark Capabilities for ETL]]** (5 videos)
-- **[[#4. 3. Batch Processing Pipelines]]** (5 videos)
-- **[[#5. 4. Real-Time Processing Pipelines]]** (5 videos)
-- **[[#6. 5. Data Engineering with Spark: Best Practices]]** (4 videos)
-- **[[#7. 6. End-to-End Exercise Project]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data Engineering Concepts]]** (5 videos)
+- **[[#2. Spark Capabilities for ETL]]** (5 videos)
+- **[[#3. Batch Processing Pipelines]]** (5 videos)
+- **[[#4. Real-Time Processing Pipelines]]** (5 videos)
+- **[[#5. Data Engineering with Spark: Best Practices]]** (4 videos)
+- **[[#6. End-to-End Exercise Project]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Driving big data engineering with Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980)
@@ -267,7 +269,9 @@ created: 2026-04-28
 > **URLs:** [docker.com](https://docker.com) (1), [anaconda.com](https://anaconda.com) (1)
 
 
-### 2. 1. Data Engineering Concepts
+### 1. Data Engineering Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980)
@@ -522,7 +526,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Spark Capabilities for ETL
+### 2. Spark Capabilities for ETL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spark architecture review
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980)
@@ -793,7 +799,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Batch Processing Pipelines
+### 3. Batch Processing Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Batch processing use case: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980)
@@ -1097,7 +1105,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Real-Time Processing Pipelines
+### 4. Real-Time Processing Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Real-time use case: Problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980)
@@ -1392,7 +1402,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Engineering with Spark: Best Practices
+### 5. Data Engineering with Spark: Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Batch vs. real-time options
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980)
@@ -1582,7 +1594,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 7. 6. End-to-End Exercise Project
+### 6. End-to-End Exercise Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project exercise requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980)
@@ -1756,7 +1770,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More about Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980)

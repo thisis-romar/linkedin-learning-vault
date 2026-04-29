@@ -28,8 +28,10 @@ tags:
   - topic/cloud-computing
   - skill/office-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)
 
 ![Administrative Professional Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFhuwcUc49Tbg/learning-public-crop_675_1200/B4EZjxWiR.IMAY-/0/1756395873698?e=2147483647&amp;v=beta&amp;t=xuOfwzFC8ZWPOPSuv7H8UHwSXYttW5zgzSMlzGwMLws)
 

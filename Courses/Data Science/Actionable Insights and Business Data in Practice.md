@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/business-data-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Actionable%20Insights%20and%20Business%20Data%20in%20Practice.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Focus on Actionable Insights]]** (9 videos)
-- **[[#3. 2. Present Actionable Insights]]** (9 videos)
-- **[[#4. 3. Keep the Actionable Insights Process Going]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Focus on Actionable Insights]]** (9 videos)
+- **[[#2. Present Actionable Insights]]** (9 videos)
+- **[[#3. Keep the Actionable Insights Process Going]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/welcome?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Focus on Actionable Insights
+### 1. Focus on Actionable Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/identify-actionable-insights?u=76281980)
@@ -1101,7 +1105,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Present Actionable Insights
+### 2. Present Actionable Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose and prepare graphics for insight
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/choose-and-prepare-graphics-for-insight?u=76281980)
@@ -1962,7 +1968,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Keep the Actionable Insights Process Going
+### 3. Keep the Actionable Insights Process Going
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/next-steps-and-additional-resources?u=76281980)

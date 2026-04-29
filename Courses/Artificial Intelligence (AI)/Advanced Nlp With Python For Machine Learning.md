@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Nlp%20With%20Python%20For%20Machine%20Learning.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to NLP Libraries]]** (3 videos)
-- **[[#3. 2. Review NLP and Python Basics]]** (3 videos)
-- **[[#4. 3. Using spaCy for Customer Feedback Analysis]]** (4 videos)
-- **[[#5. 4. Modern NLP: Transformers and Large Language Models]]** (5 videos)
-- **[[#6. 5. Methods That Improve LLM Performance]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to NLP Libraries]]** (3 videos)
+- **[[#2. Review NLP and Python Basics]]** (3 videos)
+- **[[#3. Using spaCy for Customer Feedback Analysis]]** (4 videos)
+- **[[#4. Modern NLP: Transformers and Large Language Models]]** (5 videos)
+- **[[#5. Methods That Improve LLM Performance]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elevate Your NLP expertise using Python and machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [educator] (1)
 
 
-### 2. 1. Introduction to NLP Libraries
+### 1. Introduction to NLP Libraries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
@@ -334,7 +338,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Review NLP and Python Basics
+### 2. Review NLP and Python Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
@@ -560,7 +566,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using spaCy for Customer Feedback Analysis
+### 3. Using spaCy for Customer Feedback Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze customer feedback using spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
@@ -809,7 +817,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 5. 4. Modern NLP: Transformers and Large Language Models
+### 4. Modern NLP: Transformers and Large Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
@@ -1115,7 +1125,9 @@ created: 2026-04-28
 > **Non-Speech:** (smooth uptempo music) (1)
 
 
-### 6. 5. Methods That Improve LLM Performance
+### 5. Methods That Improve LLM Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Methods that improve LLM performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
@@ -1655,7 +1667,9 @@ created: 2026-04-28
 > **CLI Commands:** pip (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/data-science
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20for%20Java%20Developers.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Data Science Basics]]** (5 videos)
-- **[[#3. 2. Representing Data in Java]]** (3 videos)
-- **[[#4. 3. Data Manipulation Techniques]]** (6 videos)
-- **[[#5. 4. Loading Data in Java]]** (9 videos)
-- **[[#6. 5. Data Visualization with JavaFX]]** (8 videos)
-- **[[#7. 6. Modeling and Machine Learning]]** (3 videos)
-- **[[#8. 7. K-Nearest Neighbors (KNN)]]** (7 videos)
-- **[[#9. 8. Naive Bayes]]** (5 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data Science Basics]]** (5 videos)
+- **[[#2. Representing Data in Java]]** (3 videos)
+- **[[#3. Data Manipulation Techniques]]** (6 videos)
+- **[[#4. Loading Data in Java]]** (9 videos)
+- **[[#5. Data Visualization with JavaFX]]** (8 videos)
+- **[[#6. Modeling and Machine Learning]]** (3 videos)
+- **[[#7. K-Nearest Neighbors (KNN)]]** (7 videos)
+- **[[#8. Naive Bayes]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science: Making sense out of chaos
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - [shaun] (1)
 
 
-### 2. 1. Data Science Basics
+### 1. Data Science Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data science anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
@@ -575,7 +579,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Representing Data in Java
+### 2. Representing Data in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data formatting in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
@@ -882,7 +888,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Data Manipulation Techniques
+### 3. Data Manipulation Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
@@ -1309,7 +1317,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Loading Data in Java
+### 4. Loading Data in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reducing file size
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
@@ -2097,7 +2107,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 6. 5. Data Visualization with JavaFX
+### 5. Data Visualization with JavaFX
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up JavaFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
@@ -2825,7 +2837,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Modeling and Machine Learning
+### 6. Modeling and Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building machine learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
@@ -3091,7 +3105,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. K-Nearest Neighbors (KNN)
+### 7. K-Nearest Neighbors (KNN)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### K-nearest neighbor basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
@@ -3680,7 +3696,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 9. 8. Naive Bayes
+### 8. Naive Bayes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Naive Bayes basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)

@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2011%20Integrating%20Non-Blockchain%20Apps.md)
@@ -54,9 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Integrating Non-Blockchain Apps with Ethereum]]** (5 videos)
+- **[[#1. Integrating Non-Blockchain Apps with Ethereum]]** (5 videos)
 
-### 1. 1. Integrating Non-Blockchain Apps with Ethereum
+### 1. Integrating Non-Blockchain Apps with Ethereum
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain and database storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)

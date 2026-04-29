@@ -30,7 +30,7 @@ tags:
   - skill/django
   - skill/forms
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Django-%20Forms.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Forms]]** (6 videos)
-- **[[#3. 2. Working with Advanced Form Features]]** (10 videos)
-- **[[#4. 3. Customizing and Styling Form Appearance]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Forms]]** (6 videos)
+- **[[#2. Working with Advanced Form Features]]** (10 videos)
+- **[[#3. Customizing and Styling Form Appearance]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deep dive into Django forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started with Forms
+### 1. Getting Started with Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting a new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
@@ -762,7 +766,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 3. 2. Working with Advanced Form Features
+### 2. Working with Advanced Form Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding models
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
@@ -1720,7 +1726,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Customizing and Styling Form Appearance
+### 3. Customizing and Styling Form Appearance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Local validation and errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
@@ -2458,7 +2466,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1), exercise files (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)

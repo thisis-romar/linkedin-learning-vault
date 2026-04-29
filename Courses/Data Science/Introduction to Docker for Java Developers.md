@@ -32,7 +32,7 @@ tags:
   - skill/docker-products
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Docker%20for%20Java%20Developers.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (4 videos)
-- **[[#3. 2. Understanding Docker]]** (8 videos)
-- **[[#4. 3. Containerization Best Practices]]** (5 videos)
-- **[[#5. 4. Dockerfile Alternatives]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (4 videos)
+- **[[#2. Understanding Docker]]** (8 videos)
+- **[[#3. Containerization Best Practices]]** (5 videos)
+- **[[#4. Dockerfile Alternatives]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Zero to Zero to Hero
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [mary] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Imagine building and launching a Java app without Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
@@ -542,7 +546,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding Docker
+### 2. Understanding Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding containerization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
@@ -1134,7 +1140,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Containerization Best Practices
+### 3. Containerization Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layering in Docker images
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
@@ -1891,7 +1899,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 5. 4. Dockerfile Alternatives
+### 4. Dockerfile Alternatives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ditching the Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
@@ -2154,7 +2164,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)

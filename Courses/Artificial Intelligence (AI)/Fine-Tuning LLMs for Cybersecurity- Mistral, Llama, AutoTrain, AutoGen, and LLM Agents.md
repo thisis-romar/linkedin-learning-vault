@@ -38,7 +38,7 @@ tags:
   - skill/large-language-models-llm
   - skill/ai-for-cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20LLMs%20for%20Cybersecurity-%20Mistral%2C%20Llama%2C%20AutoTrain%2C%20AutoGen%2C%20and%20LLM%20Agents.md)

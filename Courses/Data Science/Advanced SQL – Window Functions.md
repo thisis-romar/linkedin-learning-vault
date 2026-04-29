@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20%E2%80%93%20Window%20Functions.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Tools, Files, and Query Processing Review]]** (3 videos)
-- **[[#3. 2. Window Functions and the OVER Clause]]** (3 videos)
-- **[[#4. 3. Framing, Exclusions, and Shortcuts]]** (3 videos)
-- **[[#5. 4. Aggregate Window Functions]]** (5 videos)
-- **[[#6. 5. Rank and Distribution Window Functions]]** (6 videos)
-- **[[#7. 6. Offset Window Functions]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Tools, Files, and Query Processing Review]]** (3 videos)
+- **[[#2. Window Functions and the OVER Clause]]** (3 videos)
+- **[[#3. Framing, Exclusions, and Shortcuts]]** (3 videos)
+- **[[#4. Aggregate Window Functions]]** (5 videos)
+- **[[#5. Rank and Distribution Window Functions]]** (6 videos)
+- **[[#6. Offset Window Functions]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
@@ -177,7 +179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tools, Files, and Query Processing Review
+### 1. Tools, Files, and Query Processing Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools and demo database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
@@ -404,7 +408,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Window Functions and the OVER Clause
+### 2. Window Functions and the OVER Clause
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How window functions fit in query processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
@@ -707,7 +713,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Framing, Exclusions, and Shortcuts
+### 3. Framing, Exclusions, and Shortcuts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Framing rows and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
@@ -1095,7 +1103,9 @@ created: 2026-04-28
 > **Best Practices:** rule of thumb (1)
 
 
-### 5. 4. Aggregate Window Functions
+### 4. Aggregate Window Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Aggregate grouped functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
@@ -1489,7 +1499,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Rank and Distribution Window Functions
+### 5. Rank and Distribution Window Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The concept of rank
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
@@ -1917,7 +1929,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Offset Window Functions
+### 6. Offset Window Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Offset window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
@@ -2305,7 +2319,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review, conclusion, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)

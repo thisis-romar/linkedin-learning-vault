@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training-%20Object-Oriented%20and%20Async%20Code.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Object-Oriented Programming with Kotlin]]** (9 videos)
-- **[[#3. 2. Writing Idiomatic Kotlin]]** (5 videos)
-- **[[#4. 3. Writing Asynchronous Code with Kotlin Coroutines]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Object-Oriented Programming with Kotlin]]** (9 videos)
+- **[[#2. Writing Idiomatic Kotlin]]** (5 videos)
+- **[[#3. Writing Asynchronous Code with Kotlin Coroutines]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building more with Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
@@ -175,7 +177,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Object-Oriented Programming with Kotlin
+### 1. Object-Oriented Programming with Kotlin
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
@@ -1521,7 +1525,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 3. 2. Writing Idiomatic Kotlin
+### 2. Writing Idiomatic Kotlin
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Top-level properties and functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
@@ -2171,7 +2177,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Writing Asynchronous Code with Kotlin Coroutines
+### 3. Writing Asynchronous Code with Kotlin Coroutines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threads, thread pools, and executors
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
@@ -2740,7 +2748,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)

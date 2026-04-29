@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Object-Oriented%20Programming.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Code Challenges]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Code Challenges]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Code Challenges
+### 1. Code Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Define a class and create objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-1-define-a-class-and-create-objects?u=76281980)
@@ -393,7 +397,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980)

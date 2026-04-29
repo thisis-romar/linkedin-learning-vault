@@ -30,7 +30,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Advanced%20Bitbucket%20Pipelines-%20Automating%20Deployments%20and%20Managing%20Third-Party%20Integrations.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Pipeline Optimizations]]** (6 videos)
-- **[[#3. 2. Using Pipes in Pipelines]]** (4 videos)
-- **[[#4. 3. Create Custom Pipes]]** (6 videos)
-- **[[#5. 4. Self-Hosted Runners]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Pipeline Optimizations]]** (6 videos)
+- **[[#2. Using Pipes in Pipelines]]** (4 videos)
+- **[[#3. Create Custom Pipes]]** (6 videos)
+- **[[#4. Self-Hosted Runners]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
@@ -134,7 +136,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Pipeline Optimizations
+### 1. Pipeline Optimizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing pipeline performance and reducing build times
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
@@ -556,7 +560,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Pipes in Pipelines
+### 2. Using Pipes in Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting to know pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
@@ -779,7 +785,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Create Custom Pipes
+### 3. Create Custom Pipes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to use custom pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
@@ -1156,7 +1164,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Self-Hosted Runners
+### 4. Self-Hosted Runners
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to use self-hosted runners
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
@@ -1571,7 +1581,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/time-management
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Getting%20Things%20Done.md)
@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Things Done]]** (6 videos)
-- **[[#3. 2. Implications of Getting Things Done]]** (4 videos)
-- **[[#4. 3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Things Done]]** (6 videos)
+- **[[#2. Implications of Getting Things Done]]** (4 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done-23474905?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Speakers:** - getting (1)
 
 
-### 2. 1. Getting Things Done
+### 1. Getting Things Done
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Step 1: Capturing things
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980)
@@ -646,7 +650,9 @@ created: 2026-04-28
 > **Speakers:** - getting (1)
 
 
-### 3. 2. Implications of Getting Things Done
+### 2. Implications of Getting Things Done
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes getting things done different?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980)
@@ -834,7 +840,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 4. 3. Conclusion
+### 3. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/getting-started-with-getting-things-done?u=76281980)

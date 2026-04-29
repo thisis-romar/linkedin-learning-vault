@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C%2B%2B.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (4 videos)
-- **[[#3. 2. Data Types]]** (14 videos)
-- **[[#4. 3. Structures, Classes, and Pointers]]** (12 videos)
-- **[[#5. 4. Control Flow]]** (6 videos)
-- **[[#6. 5. Functions]]** (5 videos)
-- **[[#7. 6. File I/O]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (4 videos)
+- **[[#2. Data Types]]** (14 videos)
+- **[[#3. Structures, Classes, and Pointers]]** (12 videos)
+- **[[#4. Control Flow]]** (6 videos)
+- **[[#5. Functions]]** (5 videos)
+- **[[#6. File I/O]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get up and running with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/get-up-and-running-with-c-plus-plus?u=76281980)
@@ -323,7 +325,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (2), install (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elements of object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/elements-of-object-oriented-programming?u=76281980)
@@ -637,7 +641,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Data Types
+### 2. Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/basic-data-types?u=76281980)
@@ -1995,7 +2001,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Structures, Classes, and Pointers
+### 3. Structures, Classes, and Pointers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/structures?u=76281980)
@@ -3022,7 +3030,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Control Flow
+### 4. Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/if-statements?u=76281980)
@@ -3592,7 +3602,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Functions
+### 5. Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/creating-functions?u=76281980)
@@ -4128,7 +4140,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. File I/O
+### 6. File I/O
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Opening a text file for reading
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/opening-a-text-file-for-reading?u=76281980)
@@ -4406,7 +4420,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/next-steps?u=76281980)

@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java%20Lambdas%20And%20Streams.md)
@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Functional Programming]]** (1 videos)
-- **[[#3. 2. Lambdas]]** (3 videos)
-- **[[#4. 3. Streams]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Functional Programming]]** (1 videos)
+- **[[#2. Lambdas]]** (3 videos)
+- **[[#3. Streams]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Java lambdas and streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
@@ -318,7 +320,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Functional Programming
+### 1. Functional Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
@@ -398,7 +402,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Lambdas
+### 2. Lambdas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
@@ -734,7 +740,9 @@ created: 2026-04-28
 > **Env Vars:** jdk (1)
 
 
-### 4. 3. Streams
+### 3. Streams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
@@ -1160,7 +1168,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)

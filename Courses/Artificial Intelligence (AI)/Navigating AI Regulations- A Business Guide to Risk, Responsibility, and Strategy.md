@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/regulatory-compliance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Navigating%20AI%20Regulations-%20A%20Business%20Guide%20to%20Risk%2C%20Responsibility%2C%20and%20Strategy.md)

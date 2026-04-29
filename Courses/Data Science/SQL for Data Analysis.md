@@ -42,7 +42,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Data%20Analysis.md)
@@ -60,15 +60,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. SQL Introduction and Asking the Right Questions]]** (3 videos)
-- **[[#3. 2. Using Data Types]]** (4 videos)
-- **[[#4. 3. Working with Dates]]** (2 videos)
-- **[[#5. 4. Easy SQL Functions]]** (3 videos)
-- **[[#6. 5. Presenting Your SQL Results in Data Visualization]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. SQL Introduction and Asking the Right Questions]]** (3 videos)
+- **[[#2. Using Data Types]]** (4 videos)
+- **[[#3. Working with Dates]]** (2 videos)
+- **[[#4. Easy SQL Functions]]** (3 videos)
+- **[[#5. Presenting Your SQL Results in Data Visualization]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using SQL for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
@@ -280,7 +282,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SQL Introduction and Asking the Right Questions
+### 1. SQL Introduction and Asking the Right Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick review of Structured Query Language (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
@@ -657,7 +661,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Using Data Types
+### 2. Using Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using data types and identifying the wrong data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
@@ -1122,7 +1128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Dates
+### 3. Working with Dates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with dates
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
@@ -1311,7 +1319,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Easy SQL Functions
+### 4. Easy SQL Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common SQL string functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
@@ -1634,7 +1644,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Presenting Your SQL Results in Data Visualization
+### 5. Presenting Your SQL Results in Data Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
@@ -1756,7 +1768,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveling up SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)

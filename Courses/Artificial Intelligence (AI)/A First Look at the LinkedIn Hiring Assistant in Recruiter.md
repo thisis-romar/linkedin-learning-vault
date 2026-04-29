@@ -19,7 +19,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20First%20Look%20at%20the%20LinkedIn%20Hiring%20Assistant%20in%20Recruiter.md)

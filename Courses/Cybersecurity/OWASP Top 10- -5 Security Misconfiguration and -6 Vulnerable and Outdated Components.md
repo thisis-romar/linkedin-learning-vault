@@ -30,7 +30,7 @@ tags:
   - skill/vulnerability-assessment
   - skill/application-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-5%20Security%20Misconfiguration%20and%20-6%20Vulnerable%20and%20Outdated%20Components.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Security Misconfiguration]]** (6 videos)
-- **[[#3. 2. Insecure Design]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security Misconfiguration]]** (6 videos)
+- **[[#2. Insecure Design]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Security Misconfiguration
+### 1. Security Misconfiguration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is security misconfiguration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
@@ -489,7 +493,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Insecure Design
+### 2. Insecure Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are vulnerable and outdated components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
@@ -768,7 +774,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)

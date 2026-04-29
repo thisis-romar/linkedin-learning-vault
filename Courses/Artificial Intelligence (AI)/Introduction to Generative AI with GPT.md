@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/gpt-4
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Generative%20AI%20with%20GPT.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. AI in Business]]** (1 videos)
-- **[[#3. 2. AI Background]]** (3 videos)
-- **[[#4. 3. Introducing GPT]]** (7 videos)
-- **[[#5. 4. The Future of AI]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI in Business]]** (1 videos)
+- **[[#2. AI Background]]** (3 videos)
+- **[[#3. Introducing GPT]]** (7 videos)
+- **[[#4. The Future of AI]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A leap in artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1. AI in Business
+### 1. AI in Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### And then there was GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980)
@@ -147,7 +151,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 3. 2. AI Background
+### 2. AI Background
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI: The story so far
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980)
@@ -380,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Introducing GPT
+### 3. Introducing GPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GPT and Natural Language Processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980)
@@ -1029,7 +1037,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. The Future of AI
+### 4. The Future of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business preparation for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980)
@@ -1176,7 +1186,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Future of AI and Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980)

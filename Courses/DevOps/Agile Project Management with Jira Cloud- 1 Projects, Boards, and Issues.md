@@ -30,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%201%20Projects%2C%20Boards%2C%20and%20Issues.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Agile and Jira]]** (3 videos)
-- **[[#3. 2. Project Boards]]** (3 videos)
-- **[[#4. 3. Enrich Issues]]** (3 videos)
-- **[[#5. 4. Kanban Method]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Agile and Jira]]** (3 videos)
+- **[[#2. Project Boards]]** (3 videos)
+- **[[#3. Enrich Issues]]** (3 videos)
+- **[[#4. Kanban Method]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Agile and Jira
+### 1. Agile and Jira
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile and Jira overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980)
@@ -416,7 +420,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Project Boards
+### 2. Project Boards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using project boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980)
@@ -807,7 +813,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Enrich Issues
+### 3. Enrich Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enriching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980)
@@ -1346,7 +1354,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Kanban Method
+### 4. Kanban Method
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980)

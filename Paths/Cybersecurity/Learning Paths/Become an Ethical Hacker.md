@@ -7,17 +7,17 @@ course_count: 19
 linkedin_topics:
   - Cybersecurity
   - Network and System Administration
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
   - topic/network-and-system-administration
-  - status/in-progress
-last_activity: 2026-04-22T19:57:13.260Z
-activity_total: 3
-courses_visited: 2
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Ethical Hacking Introduction To Ethical Hacking]]'
     last_opened: null
@@ -95,7 +95,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Become%20an%20Ethical%20Hacker.md)

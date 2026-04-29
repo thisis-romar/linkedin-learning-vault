@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Programming%20with%20the%20Gemini%20Flash%20API.md)
@@ -52,10 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Programming with the Gemini Flash API]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Programming with the Gemini Flash API]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An affordable, multimodal, low latency, large context model
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Programming with the Gemini Flash API
+### 1. Programming with the Gemini Flash API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The technology behind Gemini Flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)

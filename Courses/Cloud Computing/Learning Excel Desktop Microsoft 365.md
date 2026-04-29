@@ -24,7 +24,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Excel%20Desktop%20Microsoft%20365.md)
@@ -42,13 +42,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Get Started with Excel]]** (8 videos)
-- **[[#3. 2. Modify Worksheets]]** (7 videos)
-- **[[#4. 3. Share and Print Workbooks]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with Excel]]** (8 videos)
+- **[[#2. Modify Worksheets]]** (7 videos)
+- **[[#3. Share and Print Workbooks]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your Excel foundation in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started with Excel
+### 1. Get Started with Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
@@ -1002,7 +1006,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Modify Worksheets
+### 2. Modify Worksheets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Format text
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
@@ -2052,7 +2058,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Share and Print Workbooks
+### 3. Share and Print Workbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Print workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
@@ -2409,7 +2417,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expand your Excel knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)

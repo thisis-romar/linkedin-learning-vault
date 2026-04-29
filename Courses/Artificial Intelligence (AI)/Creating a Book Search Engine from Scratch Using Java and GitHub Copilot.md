@@ -38,7 +38,7 @@ tags:
   - skill/github-copilot
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Creating%20a%20Book%20Search%20Engine%20from%20Scratch%20Using%20Java%20and%20GitHub%20Copilot.md)
@@ -56,16 +56,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Java, Maven, and Spring Boot]]** (6 videos)
-- **[[#3. 2. Dockerizing the Project with PostgreSQL]]** (2 videos)
-- **[[#4. 3. Designing the Database Schema and Implementing Full-Text Search]]** (5 videos)
-- **[[#5. 4. Ingesting and Validating Data]]** (3 videos)
-- **[[#6. 5. Implementing Business Logic and Writing Tests]]** (3 videos)
-- **[[#7. 6. Designing and Creating APIs]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Java, Maven, and Spring Boot]]** (6 videos)
+- **[[#2. Dockerizing the Project with PostgreSQL]]** (2 videos)
+- **[[#3. Designing the Database Schema and Implementing Full-Text Search]]** (5 videos)
+- **[[#4. Ingesting and Validating Data]]** (3 videos)
+- **[[#5. Implementing Business Logic and Writing Tests]]** (3 videos)
+- **[[#6. Designing and Creating APIs]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern Java development
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
@@ -252,7 +254,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Setting Up Java, Maven, and Spring Boot
+### 1. Setting Up Java, Maven, and Spring Boot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
@@ -821,7 +825,9 @@ created: 2026-04-28
 > **Cross-References:** we mentioned (1), coming up (1), in the next (1)
 
 
-### 3. 2. Dockerizing the Project with PostgreSQL
+### 2. Dockerizing the Project with PostgreSQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
@@ -1064,7 +1070,9 @@ created: 2026-04-28
 > **Env Vars:** sql (2), aml (1)
 
 
-### 4. 3. Designing the Database Schema and Implementing Full-Text Search
+### 3. Designing the Database Schema and Implementing Full-Text Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing the book schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
@@ -1650,7 +1658,9 @@ created: 2026-04-28
 > **Analogies:** such as (1), for example (1)
 
 
-### 5. 4. Ingesting and Validating Data
+### 4. Ingesting and Validating Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of data ingestion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
@@ -2071,7 +2081,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 6. 5. Implementing Business Logic and Writing Tests
+### 5. Implementing Business Logic and Writing Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
@@ -2397,7 +2409,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 7. 6. Designing and Creating APIs
+### 6. Designing and Creating APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
@@ -2806,7 +2820,9 @@ created: 2026-04-28
 > **Code Identifiers:** application_properties (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)

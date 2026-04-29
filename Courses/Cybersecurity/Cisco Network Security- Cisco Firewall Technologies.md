@@ -31,7 +31,7 @@ tags:
   - skill/network-security
   - skill/cisco-firewall-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Cisco%20Firewall%20Technologies.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Review Firewall Technologies]]** (6 videos)
-- **[[#3. 2. Compare Firewall Types]]** (4 videos)
-- **[[#4. 3. Manage Access Control Lists]]** (4 videos)
-- **[[#5. 4. Implement NAT on Cisco ASA]]** (4 videos)
-- **[[#6. 5. Examine Zone-Based Firewalls]]** (4 videos)
-- **[[#7. 6. Review Firewall Features on a Cisco ASA]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Review Firewall Technologies]]** (6 videos)
+- **[[#2. Compare Firewall Types]]** (4 videos)
+- **[[#3. Manage Access Control Lists]]** (4 videos)
+- **[[#4. Implement NAT on Cisco ASA]]** (4 videos)
+- **[[#5. Examine Zone-Based Firewalls]]** (4 videos)
+- **[[#6. Review Firewall Features on a Cisco ASA]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Allowing only authorized connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
@@ -181,7 +183,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Review Firewall Technologies
+### 1. Review Firewall Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
@@ -631,7 +635,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Compare Firewall Types
+### 2. Compare Firewall Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
@@ -874,7 +880,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Manage Access Control Lists
+### 3. Manage Access Control Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding ACLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
@@ -1189,7 +1197,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Implement NAT on Cisco ASA
+### 4. Implement NAT on Cisco ASA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding NAT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
@@ -1435,7 +1445,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 6. 5. Examine Zone-Based Firewalls
+### 5. Examine Zone-Based Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding zone-based firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
@@ -1742,7 +1754,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Review Firewall Features on a Cisco ASA
+### 6. Review Firewall Features on a Cisco ASA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing access on an ASA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
@@ -2279,7 +2293,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)

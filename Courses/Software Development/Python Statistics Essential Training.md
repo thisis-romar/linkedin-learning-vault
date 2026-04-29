@@ -36,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/statistics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Statistics%20Essential%20Training.md)
@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Loading and Cleaning Data]]** (6 videos)
-- **[[#3. 2. Exploring and Visualizing]]** (9 videos)
-- **[[#4. 3. Linear Regressions]]** (6 videos)
-- **[[#5. 4. Hypothesis Tests]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Loading and Cleaning Data]]** (6 videos)
+- **[[#2. Exploring and Visualizing]]** (9 videos)
+- **[[#3. Linear Regressions]]** (6 videos)
+- **[[#4. Hypothesis Tests]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being a Python statistics MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **File Paths:** requirements.txt (1)
 
 
-### 2. 1. Loading and Cleaning Data
+### 1. Loading and Cleaning Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
@@ -1289,7 +1293,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Exploring and Visualizing
+### 2. Exploring and Visualizing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Categorical exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
@@ -2440,7 +2446,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Linear Regressions
+### 3. Linear Regressions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
@@ -3248,7 +3256,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Hypothesis Tests
+### 4. Hypothesis Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
@@ -3779,7 +3789,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)

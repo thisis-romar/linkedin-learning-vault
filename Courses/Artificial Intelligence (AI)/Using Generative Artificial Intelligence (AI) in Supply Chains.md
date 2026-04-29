@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20Generative%20Artificial%20Intelligence%20(AI)%20in%20Supply%20Chains.md)
@@ -52,11 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Explore Generative AI]]** (11 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Explore Generative AI]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Explore Generative AI
+### 1. Explore Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage the information value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
@@ -631,7 +635,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate ChatGPT into your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)

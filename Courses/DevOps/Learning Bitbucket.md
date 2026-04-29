@@ -28,7 +28,7 @@ tags:
   - skill/bitbucket
   - skill/version-control
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Bitbucket.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Getting Started with Bitbucket]]** (8 videos)
-- **[[#3. 2. Working with Branches and Pull Requests]]** (5 videos)
-- **[[#4. 3. Working with Jira Cloud]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Getting Started with Bitbucket]]** (8 videos)
+- **[[#2. Working with Branches and Pull Requests]]** (5 videos)
+- **[[#3. Working with Jira Cloud]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Streamline your code and collaboration with Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
@@ -229,7 +231,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Getting Started with Bitbucket
+### 1. Getting Started with Bitbucket
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create public and private repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
@@ -914,7 +918,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1), required to (1)
 
 
-### 3. 2. Working with Branches and Pull Requests
+### 2. Working with Branches and Pull Requests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a branch
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
@@ -1379,7 +1385,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (2)
 
 
-### 4. 3. Working with Jira Cloud
+### 3. Working with Jira Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage Projects with Jira and Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
@@ -1855,7 +1863,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat playful music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)

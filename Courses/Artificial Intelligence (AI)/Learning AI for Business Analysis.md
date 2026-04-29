@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/business-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20AI%20for%20Business%20Analysis.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. AI: Language Interactions and Processing]]** (5 videos)
-- **[[#3. 2. AI: Processing Non-Language Things]]** (9 videos)
-- **[[#4. 3. Impact to Requirements and Business Analysis]]** (5 videos)
-- **[[#5. 4. Technique Highlights]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. AI: Language Interactions and Processing]]** (5 videos)
+- **[[#2. AI: Processing Non-Language Things]]** (9 videos)
+- **[[#3. Impact to Requirements and Business Analysis]]** (5 videos)
+- **[[#4. Technique Highlights]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
@@ -382,7 +384,9 @@ created: 2026-04-28
 > **Speakers:** - understanding (1)
 
 
-### 2. 1. AI: Language Interactions and Processing
+### 1. AI: Language Interactions and Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
@@ -686,7 +690,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. 2. AI: Processing Non-Language Things
+### 2. AI: Processing Non-Language Things
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI outside the bounds of traditional generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
@@ -1193,7 +1199,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 4. 3. Impact to Requirements and Business Analysis
+### 3. Impact to Requirements and Business Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linking AI capabilities together for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
@@ -1529,7 +1537,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 5. 4. Technique Highlights
+### 4. Technique Highlights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Experiments and hypothesis in AI business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
@@ -1784,7 +1794,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with AI in business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)

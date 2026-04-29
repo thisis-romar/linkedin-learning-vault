@@ -35,7 +35,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Producing%20Explainable%20AI%20(XAI)%20and%20Interpretable%20Machine%20Learning%20Solutions.md)
@@ -53,17 +53,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. What Are XAI and IML?]]** (7 videos)
-- **[[#3. 2. Why Isolating a Variable’s Contribution Is Difficult]]** (3 videos)
-- **[[#4. 3. Black Box Model 101]]** (4 videos)
-- **[[#5. 4. Introduction to KNIME for XAI and IML]]** (4 videos)
-- **[[#6. 5. XAI Techniques: Global Explanations]]** (5 videos)
-- **[[#7. 6. Techniques for Local Explanations]]** (6 videos)
-- **[[#8. 7. IML Techniques]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Are XAI and IML?]]** (7 videos)
+- **[[#2. Why Isolating a Variable’s Contribution Is Difficult]]** (3 videos)
+- **[[#3. Black Box Model 101]]** (4 videos)
+- **[[#4. Introduction to KNIME for XAI and IML]]** (4 videos)
+- **[[#5. XAI Techniques: Global Explanations]]** (5 videos)
+- **[[#6. Techniques for Local Explanations]]** (6 videos)
+- **[[#7. IML Techniques]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the world of explainable AI and interpretable machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. What Are XAI and IML?
+### 1. What Are XAI and IML?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the what and why your models predict
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980)
@@ -617,7 +621,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Why Isolating a Variable’s Contribution Is Difficult
+### 2. Why Isolating a Variable’s Contribution Is Difficult
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenges of variable attribution with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980)
@@ -974,7 +980,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Black Box Model 101
+### 3. Black Box Model 101
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What qualifies as a black box?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980)
@@ -1261,7 +1269,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Introduction to KNIME for XAI and IML
+### 4. Introduction to KNIME for XAI and IML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980)
@@ -1606,7 +1616,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. XAI Techniques: Global Explanations
+### 5. XAI Techniques: Global Explanations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing global explanations with partial dependence plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980)
@@ -2005,7 +2017,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 7. 6. Techniques for Local Explanations
+### 6. Techniques for Local Explanations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing an intuition for Shapley values
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980)
@@ -2435,7 +2449,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. IML Techniques
+### 7. IML Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### General advice for better IML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980)
@@ -2664,7 +2680,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to explore XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980)

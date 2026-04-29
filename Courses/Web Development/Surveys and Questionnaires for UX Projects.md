@@ -24,8 +24,10 @@ tags:
   - topic/web-development
   - skill/user-experience-ux
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Surveys%20and%20Questionnaires%20for%20UX%20Projects.md)
 
 ![Surveys and Questionnaires for UX Projects](https://media.licdn.com/dms/image/v2/C510DAQHZ7DEoctPdtA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1576170702529?e=2147483647&amp;v=beta&amp;t=NFkmerWieb4SZcaseuSuYZkFahXRiMVGrzdHv6i9Jnw)
 

@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Networking%20Foundations-%20Wide%20Area%20Networks%20(WANs).md)

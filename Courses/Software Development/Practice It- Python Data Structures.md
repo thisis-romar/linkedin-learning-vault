@@ -31,7 +31,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Python%20Data%20Structures.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Counter]]** (6 videos)
-- **[[#3. 2. Deque]]** (6 videos)
-- **[[#4. 3. Namedtuple]]** (4 videos)
-- **[[#5. 4. Defaultdict]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Counter]]** (6 videos)
+- **[[#2. Deque]]** (6 videos)
+- **[[#3. Namedtuple]]** (4 videos)
+- **[[#4. Defaultdict]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice the Python data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
@@ -261,7 +263,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Counter
+### 1. Counter
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try it: Count words from a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
@@ -484,7 +488,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Deque
+### 2. Deque
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try it: Storing a user's most recent food orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
@@ -755,7 +761,9 @@ created: 2026-04-28
 > **Non-Speech:** (typing sounds) (1)
 
 
-### 4. 3. Namedtuple
+### 3. Namedtuple
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try it: Store driver details
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
@@ -930,7 +938,9 @@ created: 2026-04-28
 > **Non-Speech:** (keyboard clicking) (1)
 
 
-### 5. 4. Defaultdict
+### 4. Defaultdict
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try it: Cleaning up duplicate data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
@@ -1117,7 +1127,9 @@ created: 2026-04-28
 > **Speakers:** - [female (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your Python data structures learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)

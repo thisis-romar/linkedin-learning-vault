@@ -28,7 +28,7 @@ tags:
   - skill/cisco-networking
   - skill/network-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Wireless%20Networks%2C%20Services%2C%20Security%2C%20and%20Virtualization.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Network Services]]** (12 videos)
-- **[[#3. 2. Network Security]]** (9 videos)
-- **[[#4. 3. Wireless Networks]]** (9 videos)
-- **[[#5. 4. Network Virtualization]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Network Services]]** (12 videos)
+- **[[#2. Network Security]]** (9 videos)
+- **[[#3. Wireless Networks]]** (9 videos)
+- **[[#4. Network Virtualization]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980)
@@ -188,7 +190,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Network Services
+### 1. Network Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Domain name system (DNS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980)
@@ -1394,7 +1398,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Network Security
+### 2. Network Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common network security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980)
@@ -2339,7 +2345,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Wireless Networks
+### 3. Wireless Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to wireless LANs (WLANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980)
@@ -3136,7 +3144,9 @@ created: 2026-04-28
 > **Definitions:** in other words (1)
 
 
-### 5. 4. Network Virtualization
+### 4. Network Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtualized servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980)
@@ -3429,7 +3439,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980)

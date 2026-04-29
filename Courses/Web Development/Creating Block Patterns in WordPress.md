@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Block%20Patterns%20in%20WordPress.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. How to Make Block Patterns]]** (8 videos)
-- **[[#3. 2. The Block Patterns Cookbook]]** (10 videos)
-- **[[#4. 3. Refactoring]]** (2 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. How to Make Block Patterns]]** (8 videos)
+- **[[#2. The Block Patterns Cookbook]]** (10 videos)
+- **[[#3. Refactoring]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are block patterns and why are they important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. How to Make Block Patterns
+### 1. How to Make Block Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Block patterns vs. reusable blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
@@ -625,7 +629,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Block Patterns Cookbook
+### 2. The Block Patterns Cookbook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
@@ -1862,7 +1868,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Refactoring
+### 3. Refactoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding your own block pattern category
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
@@ -2044,7 +2052,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)

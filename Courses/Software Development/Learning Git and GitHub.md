@@ -45,7 +45,7 @@ tags:
   - skill/git
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Git%20and%20GitHub.md)
@@ -63,14 +63,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Working with Git]]** (11 videos)
-- **[[#3. 2. Working with GitHub]]** (7 videos)
-- **[[#4. 3. GitHub Repos and Projects]]** (9 videos)
-- **[[#5. 4. GitHub Social and Publishing]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with Git]]** (11 videos)
+- **[[#2. Working with GitHub]]** (7 videos)
+- **[[#3. GitHub Repos and Projects]]** (9 videos)
+- **[[#4. GitHub Social and Publishing]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Travel the multiverse with Git and GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Git
+### 1. Working with Git
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
@@ -1818,7 +1822,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with GitHub
+### 2. Working with GitHub
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is GitHub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
@@ -3065,7 +3071,9 @@ created: 2026-04-28
 > **Env Vars:** url (1), mit (1)
 
 
-### 4. 3. GitHub Repos and Projects
+### 3. GitHub Repos and Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
@@ -4478,7 +4486,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (2)
 
 
-### 5. 4. GitHub Social and Publishing
+### 4. GitHub Social and Publishing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GitHub discussions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
@@ -5146,7 +5156,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)

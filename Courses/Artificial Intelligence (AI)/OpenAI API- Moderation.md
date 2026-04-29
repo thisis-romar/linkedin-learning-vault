@@ -34,7 +34,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Moderation.md)
@@ -52,11 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Moderating AI Exchanges]]** (2 videos)
-- **[[#3. 2. Going Further]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Moderating AI Exchanges]]** (2 videos)
+- **[[#2. Going Further]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing potentially harmful language with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Moderating AI Exchanges
+### 1. Moderating AI Exchanges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the OpenAI API moderation feature works
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
@@ -369,7 +373,9 @@ created: 2026-04-28
 > **URLs:** [openai.com](https://openai.com) (2)
 
 
-### 3. 2. Going Further
+### 2. Going Further
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further resources and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)

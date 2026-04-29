@@ -31,7 +31,7 @@ tags:
   - skill/virtual-collaboration
   - skill/microsoft-products
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Collaboration-%20SharePoint%2C%20Teams%2C%20Groups%2C%20and%20Yammer.md)

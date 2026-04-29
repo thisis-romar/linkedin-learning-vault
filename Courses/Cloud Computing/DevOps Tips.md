@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/devops
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/DevOps%20Tips.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Soft Skills]]** (7 videos)
-- **[[#3. 2. Technology]]** (5 videos)
-- **[[#4. 3. Career Building]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Soft Skills]]** (7 videos)
+- **[[#2. Technology]]** (5 videos)
+- **[[#3. Career Building]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to DevOps Tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [michael] (1)
 
 
-### 2. 1. Soft Skills
+### 1. Soft Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hiring for DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
@@ -569,7 +573,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Technology
+### 2. Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing with infrastructure as code (IaC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
@@ -921,7 +927,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Career Building
+### 3. Career Building
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting a DevOps career from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
@@ -1207,7 +1215,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### One last tip
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)

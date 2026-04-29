@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Top%20Five%20Things%20To%20Know%20In%20Advanced%20Sql.md)
@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Subqueries]]** (7 videos)
-- **[[#3. 2. Common Table Expressions (CTE)]]** (5 videos)
-- **[[#4. 3. Windows Functions: ROW_NUMBER()]]** (4 videos)
-- **[[#5. 4. Windows Functions: LAG() and LEAD()]]** (4 videos)
-- **[[#6. 5. Ranking Windows Functions]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Subqueries]]** (7 videos)
+- **[[#2. Common Table Expressions (CTE)]]** (5 videos)
+- **[[#3. Windows Functions: ROW_NUMBER()]]** (4 videos)
+- **[[#4. Windows Functions: LAG() and LEAD()]]** (4 videos)
+- **[[#5. Ranking Windows Functions]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of SQL in a data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980)
@@ -329,7 +331,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 2. 1. Subqueries
+### 1. Subqueries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980)
@@ -714,7 +718,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Common Table Expressions (CTE)
+### 2. Common Table Expressions (CTE)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Syntax of CTEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980)
@@ -1031,7 +1037,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Windows Functions: ROW_NUMBER()
+### 3. Windows Functions: ROW_NUMBER()
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980)
@@ -1347,7 +1355,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Windows Functions: LAG() and LEAD()
+### 4. Windows Functions: LAG() and LEAD()
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use cases and syntax of LAG() and LEAD()
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980)
@@ -1587,7 +1597,9 @@ created: 2026-04-28
 > **Non-Speech:** (exciting music) (1)
 
 
-### 6. 5. Ranking Windows Functions
+### 5. Ranking Windows Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ranking window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980)
@@ -1856,7 +1868,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980)

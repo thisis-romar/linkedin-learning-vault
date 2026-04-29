@@ -35,7 +35,7 @@ tags:
   - skill/human-in-the-loop-machine-learning
   - skill/data-annotation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Executive%20Guide%20to%20Human-in-the-Loop%20Machine%20Learning%20and%20Data%20Annotation.md)

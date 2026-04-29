@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Personal%20Portfolio%20with%20Django.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Portfolio Project Overview]]** (1 videos)
-- **[[#3. 2. Creating Django Apps]]** (3 videos)
-- **[[#4. 3. Django and Databases]]** (7 videos)
-- **[[#5. 4. Designing Your Django Project]]** (6 videos)
-- **[[#6. 5. Object Details in Django]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Portfolio Project Overview]]** (1 videos)
+- **[[#2. Creating Django Apps]]** (3 videos)
+- **[[#3. Django and Databases]]** (7 videos)
+- **[[#4. Designing Your Django Project]]** (6 videos)
+- **[[#5. Object Details in Django]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a website with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Portfolio Project Overview
+### 1. Portfolio Project Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demo project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
@@ -158,7 +162,9 @@ created: 2026-04-28
 > **Speakers:** - [nick] (1)
 
 
-### 3. 2. Creating Django Apps
+### 2. Creating Django Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting a new project in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
@@ -580,7 +586,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 4. 3. Django and Databases
+### 3. Django and Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the models in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
@@ -1330,7 +1338,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing Your Django Project
+### 4. Designing Your Django Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bootstrap overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
@@ -2014,7 +2024,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 6. 5. Object Details in Django
+### 5. Object Details in Django
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting URLs and templates in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
@@ -2587,7 +2599,9 @@ created: 2026-04-28
 > **Exercise Files:** template (2)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)

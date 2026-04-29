@@ -33,7 +33,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Developer%20Career%20Paths%20and%20Certifications.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Planning to Be a Developer]]** (4 videos)
-- **[[#3. 2. Education]]** (5 videos)
-- **[[#4. 3. Finding a Job]]** (4 videos)
-- **[[#5. 4. The Application Process]]** (4 videos)
-- **[[#6. 5. Negotiating Compensation]]** (3 videos)
-- **[[#7. 6. Getting the Job]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Planning to Be a Developer]]** (4 videos)
+- **[[#2. Education]]** (5 videos)
+- **[[#3. Finding a Job]]** (4 videos)
+- **[[#4. The Application Process]]** (4 videos)
+- **[[#5. Negotiating Compensation]]** (3 videos)
+- **[[#6. Getting the Job]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### So, you want to be a developer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Planning to Be a Developer
+### 1. Planning to Be a Developer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What types of developers are there?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
@@ -332,7 +336,9 @@ created: 2026-04-28
 > **Speakers:** - according (1)
 
 
-### 3. 2. Education
+### 2. Education
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Do you need a college degree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
@@ -644,7 +650,9 @@ created: 2026-04-28
 > **Speakers:** - certifications (1)
 
 
-### 4. 3. Finding a Job
+### 3. Finding a Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
@@ -875,7 +883,9 @@ created: 2026-04-28
 > **Speakers:** - developer (1)
 
 
-### 5. 4. The Application Process
+### 4. The Application Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Submitting an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
@@ -1072,7 +1082,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Negotiating Compensation
+### 5. Negotiating Compensation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do you know what you're worth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
@@ -1233,7 +1245,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 7. 6. Getting the Job
+### 6. Getting the Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do you prepare for your new job?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)

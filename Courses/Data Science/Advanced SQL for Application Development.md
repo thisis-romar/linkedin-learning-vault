@@ -32,7 +32,7 @@ tags:
   - skill/application-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Application%20Development.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Advanced Querying with Select]]** (6 videos)
-- **[[#3. 2. Indexing Tables]]** (8 videos)
-- **[[#4. 3. Object-Relational Mapping (ORM)]]** (7 videos)
-- **[[#5. 4. Designing for Scalability]]** (8 videos)
-- **[[#6. 5. Designing for Reliability]]** (7 videos)
-- **[[#7. 6. Designing for Maintainability]]** (6 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Advanced Querying with Select]]** (6 videos)
+- **[[#2. Indexing Tables]]** (8 videos)
+- **[[#3. Object-Relational Mapping (ORM)]]** (7 videos)
+- **[[#4. Designing for Scalability]]** (8 videos)
+- **[[#5. Designing for Reliability]]** (7 videos)
+- **[[#6. Designing for Maintainability]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with SQL for application developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Advanced Querying with Select
+### 1. Advanced Querying with Select
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing an ecommerce application database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
@@ -744,7 +748,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Indexing Tables
+### 2. Indexing Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of index types
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
@@ -1098,7 +1104,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Object-Relational Mapping (ORM)
+### 3. Object-Relational Mapping (ORM)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of object-relational mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
@@ -1536,7 +1544,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Designing for Scalability
+### 4. Designing for Scalability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
@@ -2048,7 +2058,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Designing for Reliability
+### 5. Designing for Reliability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Database errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
@@ -2470,7 +2482,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Designing for Maintainability
+### 6. Designing for Maintainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding schema changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
@@ -2790,7 +2804,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)

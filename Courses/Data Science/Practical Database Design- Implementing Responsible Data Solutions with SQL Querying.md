@@ -36,7 +36,7 @@ tags:
   - skill/database-design
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Database%20Design-%20Implementing%20Responsible%20Data%20Solutions%20with%20SQL%20Querying.md)
@@ -54,16 +54,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Business Rule Development]]** (7 videos)
-- **[[#3. 2. Database Design]]** (6 videos)
-- **[[#4. 3. Data Generation and Datasets]]** (4 videos)
-- **[[#5. 4. Database Implementation]]** (5 videos)
-- **[[#6. 5. SQL Querying]]** (5 videos)
-- **[[#7. 6. Final Project]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Business Rule Development]]** (7 videos)
+- **[[#2. Database Design]]** (6 videos)
+- **[[#3. Data Generation and Datasets]]** (4 videos)
+- **[[#4. Database Implementation]]** (5 videos)
+- **[[#5. SQL Querying]]** (5 videos)
+- **[[#6. Final Project]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing and implementing a data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Business Rule Development
+### 1. Business Rule Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How databases help businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
@@ -564,7 +568,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Database Design
+### 2. Database Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Entities and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
@@ -985,7 +991,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. 3. Data Generation and Datasets
+### 3. Data Generation and Datasets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The data you're given: Now what?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
@@ -1270,7 +1278,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Database Implementation
+### 4. Database Implementation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of MySQL Workbench
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
@@ -1799,7 +1809,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. SQL Querying
+### 5. SQL Querying
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
@@ -2385,7 +2397,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Final Project
+### 6. Final Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
@@ -2462,7 +2476,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)

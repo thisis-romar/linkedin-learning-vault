@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practice%20It-%20SQL%20Joins.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. SQL JOIN and Descriptions]]** (5 videos)
-- **[[#3. 2. Inner Join]]** (6 videos)
-- **[[#4. 3. Left Join]]** (5 videos)
-- **[[#5. 4. Right Join]]** (5 videos)
-- **[[#6. 5. Cross Join]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. SQL JOIN and Descriptions]]** (5 videos)
+- **[[#2. Inner Join]]** (6 videos)
+- **[[#3. Left Join]]** (5 videos)
+- **[[#4. Right Join]]** (5 videos)
+- **[[#5. Cross Join]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980)
@@ -316,7 +318,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SQL JOIN and Descriptions
+### 1. SQL JOIN and Descriptions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL commands for determining relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980)
@@ -635,7 +639,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Inner Join
+### 2. Inner Join
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-inner-joins?u=76281980)
@@ -917,7 +923,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 4. 3. Left Join
+### 3. Left Join
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding left joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980)
@@ -1129,7 +1137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Right Join
+### 4. Right Join
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding right joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-right-joins?u=76281980)
@@ -1280,7 +1290,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Cross Join
+### 5. Cross Join
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cross joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-cross-joins?u=76281980)
@@ -1377,7 +1389,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980)

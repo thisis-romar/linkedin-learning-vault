@@ -30,7 +30,7 @@ tags:
   - skill/owasp
   - skill/application-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-1%20Broken%20Access%20Control%20and%20-2%20Cryptographic%20Failures.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Broken Access Control]]** (6 videos)
-- **[[#3. 2. Cryptographic Failure]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Broken Access Control]]** (6 videos)
+- **[[#2. Cryptographic Failure]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - [caroline] (1)
 
 
-### 2. 1. Broken Access Control
+### 1. Broken Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is broken access control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
@@ -383,7 +387,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cryptographic Failure
+### 2. Cryptographic Failure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cryptographic failure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
@@ -677,7 +683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)

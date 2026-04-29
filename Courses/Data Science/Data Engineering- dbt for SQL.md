@@ -35,7 +35,7 @@ tags:
   - skill/sql
   - skill/data-build-tool-dbt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering-%20dbt%20for%20SQL.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. SQL for Data Engineers]]** (5 videos)
-- **[[#3. 2. Modeling in SQL]]** (6 videos)
-- **[[#4. 3. Table Materializations]]** (5 videos)
-- **[[#5. 4. Common Table Expressions vs. Subqueries]]** (5 videos)
-- **[[#6. 5. Testing SQL with dbt]]** (5 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. SQL for Data Engineers]]** (5 videos)
+- **[[#2. Modeling in SQL]]** (6 videos)
+- **[[#3. Table Materializations]]** (5 videos)
+- **[[#4. Common Table Expressions vs. Subqueries]]** (5 videos)
+- **[[#5. Testing SQL with dbt]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SQL for Data Engineers
+### 1. SQL for Data Engineers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL as a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
@@ -531,7 +535,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Modeling in SQL
+### 2. Modeling in SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supply chain outage: SQL spaghetti
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
@@ -983,7 +989,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. 3. Table Materializations
+### 3. Table Materializations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crypto cost: Materializations
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
@@ -1325,7 +1333,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Common Table Expressions vs. Subqueries
+### 4. Common Table Expressions vs. Subqueries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Construction planning: Query complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
@@ -1673,7 +1683,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Testing SQL with dbt
+### 5. Testing SQL with dbt
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advertising: Testing SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
@@ -2071,7 +2083,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Looking ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)

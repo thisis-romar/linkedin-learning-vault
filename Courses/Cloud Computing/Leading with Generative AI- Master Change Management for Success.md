@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/change-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leading%20with%20Generative%20AI-%20Master%20Change%20Management%20for%20Success.md)
@@ -55,9 +55,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Leading with Generative AI: Master Change Management for Success]]** (15 videos)
+- **[[#1. Leading with Generative AI: Master Change Management for Success]]** (15 videos)
 
-### 1. 1. Leading with Generative AI: Master Change Management for Success
+### 1. Leading with Generative AI: Master Change Management for Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to generative AI and change management: Leading the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)

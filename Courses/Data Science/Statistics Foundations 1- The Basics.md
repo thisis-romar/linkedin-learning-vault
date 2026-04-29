@@ -59,7 +59,7 @@ tags:
   - topic/software-development
   - skill/statistics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Statistics%20Foundations%201-%20The%20Basics.md)

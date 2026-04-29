@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/six-sigma
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Six%20Sigma%20Foundations.md)
@@ -46,18 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Six Sigma]]** (4 videos)
-- **[[#3. 2. Key Concepts in Six Sigma]]** (4 videos)
-- **[[#4. 3. Selection of Six Sigma Projects]]** (2 videos)
-- **[[#5. 4. Define Phase]]** (4 videos)
-- **[[#6. 5. Measure Phase]]** (6 videos)
-- **[[#7. 6. Analyze Phase]]** (6 videos)
-- **[[#8. 7. Improve Phase]]** (5 videos)
-- **[[#9. 8. Control Phase]]** (3 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Six Sigma]]** (4 videos)
+- **[[#2. Key Concepts in Six Sigma]]** (4 videos)
+- **[[#3. Selection of Six Sigma Projects]]** (2 videos)
+- **[[#4. Define Phase]]** (4 videos)
+- **[[#5. Measure Phase]]** (6 videos)
+- **[[#6. Analyze Phase]]** (6 videos)
+- **[[#7. Improve Phase]]** (5 videos)
+- **[[#8. Control Phase]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve performance with Six Sigma
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. Introduction to Six Sigma
+### 1. Introduction to Six Sigma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
@@ -409,7 +413,9 @@ created: 2026-04-28
 > **Speakers:** - six (1)
 
 
-### 3. 2. Key Concepts in Six Sigma
+### 2. Key Concepts in Six Sigma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Critical to quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
@@ -720,7 +726,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 4. 3. Selection of Six Sigma Projects
+### 3. Selection of Six Sigma Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify potential projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
@@ -931,7 +939,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 5. 4. Define Phase
+### 4. Define Phase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Steps in the Define phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
@@ -1230,7 +1240,9 @@ created: 2026-04-28
 > **Speakers:** - would (1)
 
 
-### 6. 5. Measure Phase
+### 5. Measure Phase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Steps in the Measure phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
@@ -1719,7 +1731,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 7. 6. Analyze Phase
+### 6. Analyze Phase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Steps in the Analyze phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
@@ -2176,7 +2190,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 8. 7. Improve Phase
+### 7. Improve Phase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Steps in the Improve phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
@@ -2544,7 +2560,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 9. 8. Control Phase
+### 8. Control Phase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Steps in the Control phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
@@ -2776,7 +2794,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Engage in Six Sigma projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)

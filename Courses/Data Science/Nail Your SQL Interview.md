@@ -32,7 +32,7 @@ tags:
   - skill/interview-preparation
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nail%20Your%20SQL%20Interview.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data Definition Language Review]]** (3 videos)
-- **[[#3. 2. Data Query Language Review and Logical Operators]]** (5 videos)
-- **[[#4. 3. Data Manipulation Language Review]]** (2 videos)
-- **[[#5. 4. Transaction Control Language]]** (1 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data Definition Language Review]]** (3 videos)
+- **[[#2. Data Query Language Review and Logical Operators]]** (5 videos)
+- **[[#3. Data Manipulation Language Review]]** (2 videos)
+- **[[#4. Transaction Control Language]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build confidence for your SQL interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980)
@@ -411,7 +413,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Definition Language Review
+### 1. Data Definition Language Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and seed a table with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980)
@@ -768,7 +772,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Data Query Language Review and Logical Operators
+### 2. Data Query Language Review and Logical Operators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Querying the table with logical operator LIKE
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operator-like?u=76281980)
@@ -1252,7 +1258,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Data Manipulation Language Review
+### 3. Data Manipulation Language Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Update the table with UPDATE or ALTER
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/update-the-table-with-update-or-alter?u=76281980)
@@ -1482,7 +1490,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Transaction Control Language
+### 4. Transaction Control Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating savepoints and commits in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980)
@@ -1570,7 +1580,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be prepared for your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980)

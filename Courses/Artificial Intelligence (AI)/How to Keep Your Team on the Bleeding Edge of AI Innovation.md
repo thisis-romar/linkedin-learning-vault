@@ -26,7 +26,7 @@ tags:
   - topic/cloud-computing
   - topic/software-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Keep%20Your%20Team%20on%20the%20Bleeding%20Edge%20of%20AI%20Innovation.md)

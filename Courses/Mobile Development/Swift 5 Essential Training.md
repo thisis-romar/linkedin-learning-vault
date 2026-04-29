@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift%205%20Essential%20Training.md)
@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (3 videos)
-- **[[#3. 2. Getting to Know Your Data]]** (13 videos)
-- **[[#4. 3. Working with Collections]]** (10 videos)
-- **[[#5. 4. Application Control Flow]]** (9 videos)
-- **[[#6. 5. The Wide World of Functions]]** (10 videos)
-- **[[#7. 6. Classes, Structs, and Beyond]]** (9 videos)
-- **[[#8. 7. Leveling Up with Enums, Protocols, and Errors]]** (9 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Getting to Know Your Data]]** (13 videos)
+- **[[#3. Working with Collections]]** (10 videos)
+- **[[#4. Application Control Flow]]** (9 videos)
+- **[[#5. The Wide World of Functions]]** (10 videos)
+- **[[#6. Classes, Structs, and Beyond]]** (9 videos)
+- **[[#7. Leveling Up with Enums, Protocols, and Errors]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Begin an adventure with Swift 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Swift retrospective
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
@@ -286,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting to Know Your Data
+### 2. Getting to Know Your Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The quest begins: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
@@ -1124,7 +1130,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. 3. Working with Collections
+### 3. Working with Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gathering inventory with collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
@@ -2017,7 +2025,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Application Control Flow
+### 4. Application Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controlling your destiny
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
@@ -2734,7 +2744,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 6. 5. The Wide World of Functions
+### 5. The Wide World of Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveling the playing field
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
@@ -3503,7 +3515,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 7. 6. Classes, Structs, and Beyond
+### 6. Classes, Structs, and Beyond
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Populating the game world
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
@@ -4309,7 +4323,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Leveling Up with Enums, Protocols, and Errors
+### 7. Leveling Up with Enums, Protocols, and Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final stage, final boss
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
@@ -5061,7 +5077,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)

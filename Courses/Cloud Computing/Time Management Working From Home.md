@@ -27,7 +27,7 @@ tags:
   - skill/time-management
   - skill/virtual-work
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Time%20Management%20Working%20From%20Home.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Establishing Your Home Base]]** (4 videos)
-- **[[#3. 2. Crafting Your Schedule]]** (4 videos)
-- **[[#4. 3. Communicating Productively]]** (5 videos)
-- **[[#5. 4. Considerations for Working Parents and Caregivers]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Establishing Your Home Base]]** (4 videos)
+- **[[#2. Crafting Your Schedule]]** (4 videos)
+- **[[#3. Communicating Productively]]** (5 videos)
+- **[[#4. Considerations for Working Parents and Caregivers]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making working from home work
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/making-working-from-home-work?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Establishing Your Home Base
+### 1. Establishing Your Home Base
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a productive workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980)
@@ -523,7 +527,9 @@ created: 2026-04-28
 > **Speakers:** - time (1)
 
 
-### 3. 2. Crafting Your Schedule
+### 2. Crafting Your Schedule
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep work hours in balance
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980)
@@ -917,7 +923,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Communicating Productively
+### 3. Communicating Productively
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determine your company's ground rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980)
@@ -1338,7 +1346,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Considerations for Working Parents and Caregivers
+### 4. Considerations for Working Parents and Caregivers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build boundaries with loved ones
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/build-boundaries-with-loved-ones-14790533?u=76281980)
@@ -1624,7 +1634,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose one action to take today
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/choose-one-action-to-take-today?u=76281980)

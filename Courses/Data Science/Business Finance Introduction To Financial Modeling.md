@@ -26,7 +26,7 @@ tags:
   - skill/corporate-finance
   - skill/financial-modeling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Finance%20Introduction%20To%20Financial%20Modeling.md)

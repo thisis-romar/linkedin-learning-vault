@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20Blocks%20for%20Deep%20Learning%20in%20the%20Wolfram%20Language.md)
@@ -48,16 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Building and Training Basic Neural Networks]]** (1 videos)
-- **[[#2. 2. Recurrent Neural Networks]]** (1 videos)
+- **[[#1. Building and Training Basic Neural Networks]]** (1 videos)
+- **[[#2. Recurrent Neural Networks]]** (1 videos)
 
-### 1. 1. Building and Training Basic Neural Networks
+### 1. Building and Training Basic Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building and training basic neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
 
 
-### 2. 2. Recurrent Neural Networks
+### 2. Recurrent Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recurrent neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)

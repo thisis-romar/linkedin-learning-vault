@@ -28,7 +28,7 @@ tags:
   - skill/penetration-testing
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Stealth%20Penetration%20Testing%20with%20Advanced%20Enumeration.md)

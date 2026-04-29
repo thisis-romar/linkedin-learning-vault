@@ -29,7 +29,7 @@ tags:
   - skill/cloud-computing
   - skill/quantum-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Quantum%20Computing%20Essentials.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Cloud Quantum Computing Services Overview]]** (4 videos)
-- **[[#3. 2. Cloud Quantum Vendors]]** (6 videos)
-- **[[#4. 3. Core Quantum Computing Gates and Operations]]** (6 videos)
-- **[[#5. 4. Quantum Algorithms and Applications]]** (4 videos)
-- **[[#6. 5. Quantum Machine Learning]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Cloud Quantum Computing Services Overview]]** (4 videos)
+- **[[#2. Cloud Quantum Vendors]]** (6 videos)
+- **[[#3. Core Quantum Computing Gates and Operations]]** (6 videos)
+- **[[#4. Quantum Algorithms and Applications]]** (4 videos)
+- **[[#5. Quantum Machine Learning]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating solutions with cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/creating-solutions-with-cloud-quantum-computing?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Quantum Computing Services Overview
+### 1. Cloud Quantum Computing Services Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use cloud quantum computing services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/why-use-cloud-quantum-computing-services?u=76281980)
@@ -492,7 +496,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Cloud Quantum Vendors
+### 2. Cloud Quantum Vendors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud quantum computing vendor choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-vendor-choices?u=76281980)
@@ -1021,7 +1027,9 @@ created: 2026-04-28
 > **Tools:** jupyter (1)
 
 
-### 4. 3. Core Quantum Computing Gates and Operations
+### 3. Core Quantum Computing Gates and Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Quantum NOT gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-not-gate?u=76281980)
@@ -1590,7 +1598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Quantum Algorithms and Applications
+### 4. Quantum Algorithms and Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Quantum random number generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/quantum-random-number-generator?u=76281980)
@@ -2038,7 +2048,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Quantum Machine Learning
+### 5. Quantum Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud quantum computing machine learning basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/cloud-quantum-computing-machine-learning-basics?u=76281980)
@@ -2579,7 +2591,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about cloud quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/learning-more-about-cloud-quantum-computing?u=76281980)

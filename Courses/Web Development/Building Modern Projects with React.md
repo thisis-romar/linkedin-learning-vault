@@ -39,7 +39,7 @@ tags:
   - skill/javascript
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Projects%20with%20React.md)
@@ -57,21 +57,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Project Setup]]** (1 videos)
-- **[[#3. 2. Project Overview]]** (2 videos)
-- **[[#4. 3. Creating React Projects from Scratch]]** (5 videos)
-- **[[#5. 4. Creating Projects with Vite, Next.js, Remix, and More]]** (4 videos)
-- **[[#6. 5. Creating a Basic Project]]** (5 videos)
-- **[[#7. 6. Adding Redux]]** (11 videos)
-- **[[#8. 7. Alternatives to Redux]]** (2 videos)
-- **[[#9. 8. Dealing with Side Effects]]** (10 videos)
-- **[[#10. 9. Selectors]]** (4 videos)
-- **[[#11. 10. Styled-Components]]** (3 videos)
-- **[[#12. 11. Testing]]** (4 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Project Setup]]** (1 videos)
+- **[[#2. Project Overview]]** (2 videos)
+- **[[#3. Creating React Projects from Scratch]]** (5 videos)
+- **[[#4. Creating Projects with Vite, Next.js, Remix, and More]]** (4 videos)
+- **[[#5. Creating a Basic Project]]** (5 videos)
+- **[[#6. Adding Redux]]** (11 videos)
+- **[[#7. Alternatives to Redux]]** (2 videos)
+- **[[#8. Dealing with Side Effects]]** (10 videos)
+- **[[#9. Selectors]]** (4 videos)
+- **[[#10. Styled-Components]]** (3 videos)
+- **[[#11. Testing]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Let's build modern projects with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Project Setup
+### 1. Project Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic setup and exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
@@ -165,7 +169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Project Overview
+### 2. Project Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use the React ecosystem?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
@@ -271,7 +277,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Creating React Projects from Scratch
+### 3. Creating React Projects from Scratch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a React project from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
@@ -819,7 +827,9 @@ created: 2026-04-28
 > **Code Identifiers:** createelement (1)
 
 
-### 5. 4. Creating Projects with Vite, Next.js, Remix, and More
+### 4. Creating Projects with Vite, Next.js, Remix, and More
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a project with Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
@@ -1320,7 +1330,9 @@ created: 2026-04-28
 > **Analogies:** for example (1), similar to (1)
 
 
-### 6. 5. Creating a Basic Project
+### 5. Creating a Basic Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet the sample app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
@@ -1944,7 +1956,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Adding Redux
+### 6. Adding Redux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do we need Redux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
@@ -2875,7 +2889,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Alternatives to Redux
+### 7. Alternatives to Redux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### State management with Recoil
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
@@ -3122,7 +3138,9 @@ created: 2026-04-28
 > **Env Vars:** ide (1)
 
 
-### 9. 8. Dealing with Side Effects
+### 8. Dealing with Side Effects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do we need Redux-Thunk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
@@ -4126,7 +4144,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. 9. Selectors
+### 9. Selectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do we need selectors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
@@ -4387,7 +4407,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Styled-Components
+### 10. Styled-Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do we need styled-components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
@@ -4574,7 +4596,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Testing
+### 11. Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing React ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
@@ -4976,7 +5000,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for building with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)

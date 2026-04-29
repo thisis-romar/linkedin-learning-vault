@@ -34,7 +34,7 @@ tags:
   - skill/data-stewardship
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Automated%20Data%20Governance%20in%20Practice.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Basics]]** (3 videos)
-- **[[#3. 2. Functions of DataGovOps]]** (4 videos)
-- **[[#4. 3. DataGovOps Solution Categories]]** (6 videos)
-- **[[#5. 4. Implementing DataGovOps]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Basics]]** (3 videos)
+- **[[#2. Functions of DataGovOps]]** (4 videos)
+- **[[#3. DataGovOps Solution Categories]]** (6 videos)
+- **[[#4. Implementing DataGovOps]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Governance-as-code
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 2. 1. The Basics
+### 1. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data governance defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980)
@@ -282,7 +286,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Functions of DataGovOps
+### 2. Functions of DataGovOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automating data governance functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980)
@@ -552,7 +558,9 @@ created: 2026-04-28
 > **Speakers:** - monitoring (1)
 
 
-### 4. 3. DataGovOps Solution Categories
+### 3. DataGovOps Solution Categories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980)
@@ -914,7 +922,9 @@ created: 2026-04-28
 > **Speakers:** - identifying (1)
 
 
-### 5. 4. Implementing DataGovOps
+### 4. Implementing DataGovOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementation strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980)
@@ -1277,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - succeeding (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your DataGovOps learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980)

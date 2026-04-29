@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/active-listening
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Effective%20Listening%20(2019).md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Assessing Your Listening Skills]]** (7 videos)
-- **[[#3. 2. Challenges to Listening]]** (5 videos)
-- **[[#4. 3. Effective Listening Behaviors]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Assessing Your Listening Skills]]** (7 videos)
+- **[[#2. Challenges to Listening]]** (5 videos)
+- **[[#3. Effective Listening Behaviors]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your listening skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Assessing Your Listening Skills
+### 1. Assessing Your Listening Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Five skills for improved listening
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
@@ -703,7 +707,9 @@ created: 2026-04-28
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 
 
-### 3. 2. Challenges to Listening
+### 2. Challenges to Listening
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting distracted by internal noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
@@ -1313,7 +1319,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 4. 3. Effective Listening Behaviors
+### 3. Effective Listening Behaviors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Effective listening behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
@@ -1757,7 +1765,9 @@ created: 2026-04-28
 > **Speakers:** - okay (3), - i (3), - yes (2), - yeah (2), - now (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting listening goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)

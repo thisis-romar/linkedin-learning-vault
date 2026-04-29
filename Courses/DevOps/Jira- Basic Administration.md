@@ -31,7 +31,7 @@ tags:
   - skill/system-administration
   - skill/jira
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Basic%20Administration.md)
@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. What Is Jira and How Is It Used?]]** (5 videos)
-- **[[#3. 2. Admin Types and Responsibilities]]** (3 videos)
-- **[[#4. 3. Setting Up a Test Environment]]** (2 videos)
-- **[[#5. 4. Managing Users]]** (4 videos)
-- **[[#6. 5. Creating Jira Projects]]** (4 videos)
-- **[[#7. 6. Creating Workflows]]** (5 videos)
-- **[[#8. 7. Troubleshooting Permission Problems]]** (4 videos)
-- **[[#9. 8. Troubleshooting Missing Notifications]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is Jira and How Is It Used?]]** (5 videos)
+- **[[#2. Admin Types and Responsibilities]]** (3 videos)
+- **[[#3. Setting Up a Test Environment]]** (2 videos)
+- **[[#4. Managing Users]]** (4 videos)
+- **[[#5. Creating Jira Projects]]** (4 videos)
+- **[[#6. Creating Workflows]]** (5 videos)
+- **[[#7. Troubleshooting Permission Problems]]** (4 videos)
+- **[[#8. Troubleshooting Missing Notifications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - ideally (1)
 
 
-### 2. 1. What Is Jira and How Is It Used?
+### 1. What Is Jira and How Is It Used?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
@@ -563,7 +567,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Admin Types and Responsibilities
+### 2. Admin Types and Responsibilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of Jira users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
@@ -772,7 +778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Setting Up a Test Environment
+### 3. Setting Up a Test Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose a test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
@@ -954,7 +962,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Users
+### 4. Managing Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to manage users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
@@ -1164,7 +1174,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Creating Jira Projects
+### 5. Creating Jira Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of Jira projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
@@ -1420,7 +1432,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Creating Workflows
+### 6. Creating Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
@@ -1880,7 +1894,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Troubleshooting Permission Problems
+### 7. Troubleshooting Permission Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of Jira permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
@@ -2214,7 +2230,9 @@ created: 2026-04-28
 > **Non-Speech:** (peppy digital music) (1)
 
 
-### 9. 8. Troubleshooting Missing Notifications
+### 8. Troubleshooting Missing Notifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of Jira notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
@@ -2468,7 +2486,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional learning resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)

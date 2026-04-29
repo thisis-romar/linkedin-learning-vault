@@ -41,7 +41,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20k-Means%20Clustering.md)
@@ -59,12 +59,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Understanding K-Means Clustering]]** (4 videos)
-- **[[#3. 2. Segmenting Data with K-Means Clustering]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Understanding K-Means Clustering]]** (4 videos)
+- **[[#2. Segmenting Data with K-Means Clustering]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Python and k-means clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980)
@@ -219,7 +221,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding K-Means Clustering
+### 1. Understanding K-Means Clustering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is clustering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980)
@@ -595,7 +599,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Segmenting Data with K-Means Clustering
+### 2. Segmenting Data with K-Means Clustering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to segment data with k-means clustering in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980)
@@ -1024,7 +1030,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980)

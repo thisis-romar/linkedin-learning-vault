@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-excel
   - skill/powerpivot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Power Query and Power Pivot]]** (1 videos)
-- **[[#3. 2. Using Power Query]]** (5 videos)
-- **[[#4. 3. Using Power Pivot]]** (6 videos)
-- **[[#5. 4. Using Power Query with Power Pivot]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Power Query and Power Pivot]]** (1 videos)
+- **[[#2. Using Power Query]]** (5 videos)
+- **[[#3. Using Power Pivot]]** (6 videos)
+- **[[#4. Using Power Query with Power Pivot]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the most out of your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/getting-the-most-out-of-your-data?u=76281980)
@@ -124,7 +126,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Power Query and Power Pivot
+### 1. Understanding Power Query and Power Pivot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How Power Query and Power Pivot work together
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/how-power-query-and-power-pivot-work-together?u=76281980)
@@ -187,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - previously (1)
 
 
-### 3. 2. Using Power Query
+### 2. Using Power Query
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/select-your-data?u=76281980)
@@ -530,7 +536,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Power Pivot
+### 3. Using Power Pivot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/create-your-data-model?u=76281980)
@@ -908,7 +916,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 5. 4. Using Power Query with Power Pivot
+### 4. Using Power Query with Power Pivot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scenario 1: Refresh source data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/scenario-1-refresh-source-data?u=76281980)
@@ -1216,7 +1226,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-working-together-with-power-query-and-power-pivot/next-steps?u=76281980)

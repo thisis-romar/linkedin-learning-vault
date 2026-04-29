@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Classes.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Defining Classes]]** (7 videos)
-- **[[#3. 2. Constructors and Getters/Setters]]** (3 videos)
-- **[[#4. 3. Extends and Mixins]]** (2 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Defining Classes]]** (7 videos)
+- **[[#2. Constructors and Getters/Setters]]** (3 videos)
+- **[[#3. Extends and Mixins]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JavaScript classes explored
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Defining Classes
+### 1. Defining Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
@@ -608,7 +612,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Constructors and Getters/Setters
+### 2. Constructors and Getters/Setters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
@@ -854,7 +860,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Extends and Mixins
+### 3. Extends and Mixins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to extends and usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
@@ -1052,7 +1060,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)

@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/probability
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Probability.md)
@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Probability]]** (5 videos)
-- **[[#3. 2. The Rules of Probability]]** (6 videos)
-- **[[#4. 3. The Joint and Marginal Probability]]** (3 videos)
-- **[[#5. 4. Discrete Probability Distributions]]** (6 videos)
-- **[[#6. 5. Continuous Probability Distributions]]** (3 videos)
-- **[[#7. 6. The Bayes' Theorem]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Probability]]** (5 videos)
+- **[[#2. The Rules of Probability]]** (6 videos)
+- **[[#3. The Joint and Marginal Probability]]** (3 videos)
+- **[[#4. Discrete Probability Distributions]]** (6 videos)
+- **[[#5. Continuous Probability Distributions]]** (3 videos)
+- **[[#6. The Bayes' Theorem]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Probability for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Probability
+### 1. Introduction to Probability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
@@ -490,7 +494,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Rules of Probability
+### 2. The Rules of Probability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Probability of an event
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
@@ -830,7 +836,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. The Joint and Marginal Probability
+### 3. The Joint and Marginal Probability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Joint and marginal probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
@@ -993,7 +1001,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Discrete Probability Distributions
+### 4. Discrete Probability Distributions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Probability distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
@@ -1308,7 +1318,9 @@ created: 2026-04-28
 > **Speakers:** - sometimes (1)
 
 
-### 6. 5. Continuous Probability Distributions
+### 5. Continuous Probability Distributions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The continuous probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
@@ -1486,7 +1498,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. The Bayes' Theorem
+### 6. The Bayes' Theorem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Bayes' theorem
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
@@ -1678,7 +1692,9 @@ created: 2026-04-28
 > **Speakers:** - [teacher] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)

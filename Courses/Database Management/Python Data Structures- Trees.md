@@ -32,7 +32,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Python%20Data%20Structures-%20Trees.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Navigating Trees]]** (7 videos)
-- **[[#3. 2. Modifying Trees]]** (6 videos)
-- **[[#4. 3. Rebalancing Trees]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Navigating Trees]]** (7 videos)
+- **[[#2. Modifying Trees]]** (6 videos)
+- **[[#3. Rebalancing Trees]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
@@ -250,7 +252,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Navigating Trees
+### 1. Navigating Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a basic tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
@@ -948,7 +952,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Modifying Trees
+### 2. Modifying Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
@@ -1417,7 +1423,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Rebalancing Trees
+### 3. Rebalancing Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to rotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
@@ -1877,7 +1885,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)

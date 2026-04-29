@@ -36,7 +36,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%207%20Smart%20Contracts.md)
@@ -54,9 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Learning about Smart Contracts]]** (14 videos)
+- **[[#1. Learning about Smart Contracts]]** (14 videos)
 
-### 1. 1. Learning about Smart Contracts
+### 1. Learning about Smart Contracts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Smart contracts review
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)

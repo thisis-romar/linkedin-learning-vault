@@ -9,7 +9,7 @@ level_advanced: 2
 tags:
   - skill
   - skill/react-native
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/React%20Native.md)

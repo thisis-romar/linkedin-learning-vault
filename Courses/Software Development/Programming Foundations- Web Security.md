@@ -30,7 +30,7 @@ tags:
   - skill/web-services-security
   - skill/programming-foundations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Foundations-%20Web%20Security.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Security Overview]]** (5 videos)
-- **[[#3. 2. General Security Principles]]** (9 videos)
-- **[[#4. 3. Filter Input, Control Output]]** (8 videos)
-- **[[#5. 4. The Most Common Attacks]]** (13 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Security Overview]]** (5 videos)
+- **[[#2. General Security Principles]]** (9 videos)
+- **[[#3. Filter Input, Control Output]]** (8 videos)
+- **[[#4. The Most Common Attacks]]** (13 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - security (1)
 
 
-### 2. 1. Security Overview
+### 1. Security Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
@@ -504,7 +508,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. General Security Principles
+### 2. General Security Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
@@ -1385,7 +1391,9 @@ created: 2026-04-28
 > **Speakers:** - our (1)
 
 
-### 4. 3. Filter Input, Control Output
+### 3. Filter Input, Control Output
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Regulate requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
@@ -2137,7 +2145,9 @@ created: 2026-04-28
 > **Speakers:** - logging (1)
 
 
-### 5. 4. The Most Common Attacks
+### 4. The Most Common Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of credential attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
@@ -3643,7 +3653,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)

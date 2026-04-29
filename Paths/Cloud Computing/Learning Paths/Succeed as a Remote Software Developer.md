@@ -16,12 +16,12 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-  - status/in-progress
-last_activity: 2026-04-27T20:12:08.666Z
-activity_total: 1
-courses_visited: 1
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Time Management Working From Home]]'
     last_opened: null
@@ -47,7 +47,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/Succeed%20as%20a%20Remote%20Software%20Developer.md)

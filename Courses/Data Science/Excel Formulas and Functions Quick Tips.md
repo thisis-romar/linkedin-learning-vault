@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Formulas%20and%20Functions%20Quick%20Tips.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Formula and Function Basics]]** (5 videos)
-- **[[#3. 2. Identifying Values]]** (7 videos)
-- **[[#4. 3. Count Functions]]** (4 videos)
-- **[[#5. 4. Text Functions]]** (7 videos)
-- **[[#6. 5. Index, Match, and Lookups]]** (4 videos)
-- **[[#7. 6. Avoiding Errors and Invalid Formulas]]** (2 videos)
-- **[[#8. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Formula and Function Basics]]** (5 videos)
+- **[[#2. Identifying Values]]** (7 videos)
+- **[[#3. Count Functions]]** (4 videos)
+- **[[#4. Text Functions]]** (7 videos)
+- **[[#5. Index, Match, and Lookups]]** (4 videos)
+- **[[#6. Avoiding Errors and Invalid Formulas]]** (2 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate data with ease in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - hello (1)
 
 
-### 2. 1. Formula and Function Basics
+### 1. Formula and Function Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a formula in a cell with =
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980)
@@ -263,7 +267,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Identifying Values
+### 2. Identifying Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate a total with SUM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980)
@@ -505,7 +511,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Count Functions
+### 3. Count Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Count cells that contain numbers with COUNT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980)
@@ -652,7 +660,9 @@ created: 2026-04-28
 > **Speakers:** - hello (1)
 
 
-### 5. 4. Text Functions
+### 4. Text Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Format numbers and dates with TEXT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980)
@@ -928,7 +938,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Index, Match, and Lookups
+### 5. Index, Match, and Lookups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Retrieve a specific value with XLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980)
@@ -1090,7 +1102,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Avoiding Errors and Invalid Formulas
+### 6. Avoiding Errors and Invalid Formulas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remove leading spaces with TRIM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/remove-leading-spaces-with-trim?u=76281980)
@@ -1172,7 +1186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

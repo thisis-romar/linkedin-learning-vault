@@ -24,7 +24,7 @@ tags:
   - skill/financial-analysis
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Starting%20Your%20Career%20As%20A%20Financial%20Analyst.md)
@@ -42,9 +42,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Starting Your Career as a Financial Analyst]]** (19 videos)
+- **[[#1. Starting Your Career as a Financial Analyst]]** (19 videos)
 
-### 1. 1. Starting Your Career as a Financial Analyst
+### 1. Starting Your Career as a Financial Analyst
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)

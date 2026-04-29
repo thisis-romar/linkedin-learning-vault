@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools%20(2023).md)

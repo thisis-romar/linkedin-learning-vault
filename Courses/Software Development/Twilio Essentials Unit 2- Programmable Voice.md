@@ -30,7 +30,7 @@ tags:
   - skill/interactive-voice-response-ivr
   - skill/twilio
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%202-%20Programmable%20Voice.md)
@@ -48,9 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Programmable Voice]]** (5 videos)
+- **[[#1. Programmable Voice]]** (5 videos)
 
-### 1. 1. Programmable Voice
+### 1. Programmable Voice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Appreciating the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-key-financial-analyst-skills
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 13
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/data-science
@@ -41,7 +41,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Master%20Key%20Financial%20Analyst%20Skills.md)

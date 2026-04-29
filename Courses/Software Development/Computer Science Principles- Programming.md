@@ -30,7 +30,7 @@ tags:
   - skill/computer-science
   - skill/programming
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Computer%20Science%20Principles-%20Programming.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Control Computers with Code]]** (2 videos)
-- **[[#3. 2. Define Actions Using Code]]** (7 videos)
-- **[[#4. 3. Repeat Actions and Test for Conditions]]** (9 videos)
-- **[[#5. 4. Objects and OOP]]** (6 videos)
-- **[[#6. 5. Beyond Programming]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Control Computers with Code]]** (2 videos)
+- **[[#2. Define Actions Using Code]]** (7 videos)
+- **[[#3. Repeat Actions and Test for Conditions]]** (9 videos)
+- **[[#4. Objects and OOP]]** (6 videos)
+- **[[#5. Beyond Programming]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
@@ -133,7 +135,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Control Computers with Code
+### 1. Control Computers with Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### History of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
@@ -286,7 +290,9 @@ created: 2026-04-28
 > **Analogies:** think of it like (1)
 
 
-### 3. 2. Define Actions Using Code
+### 2. Define Actions Using Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with values and variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
@@ -757,7 +763,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Repeat Actions and Test for Conditions
+### 3. Repeat Actions and Test for Conditions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capture input from the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
@@ -1385,7 +1393,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. 4. Objects and OOP
+### 4. Objects and OOP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Everything is an object
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
@@ -1842,7 +1852,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Beyond Programming
+### 5. Beyond Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debug problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
@@ -2149,7 +2161,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)

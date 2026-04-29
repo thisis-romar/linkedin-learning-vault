@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Sales%20Strategy%20Using%20Ai%20And%20Automation%20To%20Sell%20More.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Sales Prospecting and Lead Generation: AI and Automation Tools]]** (5 videos)
-- **[[#3. 2. Selling Processes: AI and Automation Tools]]** (5 videos)
-- **[[#4. 3. Post Sales and Forecasting: AI and Automation Tools]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Sales Prospecting and Lead Generation: AI and Automation Tools]]** (5 videos)
+- **[[#2. Selling Processes: AI and Automation Tools]]** (5 videos)
+- **[[#3. Post Sales and Forecasting: AI and Automation Tools]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become superhuman with your sales activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/become-superhuman-with-your-sales-activities?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Sales Prospecting and Lead Generation: AI and Automation Tools
+### 1. Sales Prospecting and Lead Generation: AI and Automation Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sales prospecting with AI and automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/sales-prospecting-with-ai-and-automation-tools?u=76281980)
@@ -469,7 +473,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Selling Processes: AI and Automation Tools
+### 2. Selling Processes: AI and Automation Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The process of selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/the-process-of-selling?u=76281980)
@@ -754,7 +760,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Post Sales and Forecasting: AI and Automation Tools
+### 3. Post Sales and Forecasting: AI and Automation Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How post-sales and forecasting may be automated
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/how-post-sales-and-forecasting-may-be-automated?u=76281980)
@@ -1097,7 +1105,9 @@ created: 2026-04-28
 > **Speakers:** - monitoring (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to grow your sales AI and automation mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-using-ai-and-automation-to-sell-more/continuing-to-grow-your-sales-ai-and-automation-mindset?u=76281980)

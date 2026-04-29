@@ -38,7 +38,7 @@ tags:
   - skill/data-cleaning
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Cleaning%20and%20Manipulating%20with%20Python%20in%20Excel.md)
@@ -56,14 +56,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Intro to Data Cleaning]]** (6 videos)
-- **[[#3. 2. Advanced Data Cleaning Techniques]]** (6 videos)
-- **[[#4. 3. Data Manipulation]]** (6 videos)
-- **[[#5. 4. Advanced Data Manipulation]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Intro to Data Cleaning]]** (6 videos)
+- **[[#2. Advanced Data Cleaning Techniques]]** (6 videos)
+- **[[#3. Data Manipulation]]** (6 videos)
+- **[[#4. Advanced Data Manipulation]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leverage Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Intro to Data Cleaning
+### 1. Intro to Data Cleaning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980)
@@ -835,7 +839,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 3. 2. Advanced Data Cleaning Techniques
+### 2. Advanced Data Cleaning Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cleaning text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980)
@@ -1466,7 +1472,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Data Manipulation
+### 3. Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data aggregation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980)
@@ -2173,7 +2181,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Advanced Data Manipulation
+### 4. Advanced Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Merging and joining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980)
@@ -3004,7 +3014,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your next steps with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980)

@@ -27,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Action-%20Global%20Case%20Studies%20from%20Public%20Institutions.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. AI for Water, Health, and Climate Resilience]]** (3 videos)
-- **[[#3. 2. Small AI and the Global Goals]]** (2 videos)
-- **[[#4. 3. AI and City Services in Asia-Pacific]]** (3 videos)
-- **[[#5. 4. Youth Perspectives on Generative AI]]** (3 videos)
-- **[[#6. 5. AI and the Global Goals]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI for Water, Health, and Climate Resilience]]** (3 videos)
+- **[[#2. Small AI and the Global Goals]]** (2 videos)
+- **[[#3. AI and City Services in Asia-Pacific]]** (3 videos)
+- **[[#4. Youth Perspectives on Generative AI]]** (3 videos)
+- **[[#5. AI and the Global Goals]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 2. 1. AI for Water, Health, and Climate Resilience
+### 1. AI for Water, Health, and Climate Resilience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI-powered disease surveillance through wastewater
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980)
@@ -320,7 +324,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Small AI and the Global Goals
+### 2. Small AI and the Global Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Global Goals potential of small AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980)
@@ -397,7 +403,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 4. 3. AI and City Services in Asia-Pacific
+### 3. AI and City Services in Asia-Pacific
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI for social services in Asia-Pacific
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980)
@@ -538,7 +546,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1), this, (1), for, (1)
 
 
-### 5. 4. Youth Perspectives on Generative AI
+### 4. Youth Perspectives on Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI use among young adults
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980)
@@ -683,7 +693,9 @@ created: 2026-04-28
 > **Code Keywords:** self (1)
 
 
-### 6. 5. AI and the Global Goals
+### 5. AI and the Global Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI design for the Global Goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980)

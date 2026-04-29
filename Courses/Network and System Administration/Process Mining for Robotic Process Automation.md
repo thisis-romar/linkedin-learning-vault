@@ -35,7 +35,7 @@ tags:
   - skill/robotic-process-automation-rpa
   - skill/process-mining
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Process%20Mining%20for%20Robotic%20Process%20Automation.md)

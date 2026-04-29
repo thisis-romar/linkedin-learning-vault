@@ -30,7 +30,7 @@ tags:
   - skill/data-management
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Best%20Practices%20for%20Data.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Why Best Practices?]]** (4 videos)
-- **[[#3. 2. Declaring Variables]]** (7 videos)
-- **[[#4. 3. Assigning Values]]** (6 videos)
-- **[[#5. 4. Type Casting]]** (6 videos)
-- **[[#6. 5. Comparing Values]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Why Best Practices?]]** (4 videos)
+- **[[#2. Declaring Variables]]** (7 videos)
+- **[[#3. Assigning Values]]** (6 videos)
+- **[[#4. Type Casting]]** (6 videos)
+- **[[#5. Comparing Values]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working effectively with JavaScript data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980)
@@ -196,7 +198,9 @@ created: 2026-04-28
 > **URLs:** [js.org](https://js.org) (1)
 
 
-### 2. 1. Why Best Practices?
+### 1. Why Best Practices?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980)
@@ -487,7 +491,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 3. 2. Declaring Variables
+### 2. Declaring Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prefer const, then let
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980)
@@ -1002,7 +1008,9 @@ created: 2026-04-28
 > **Best Practices:** avoid doing (1)
 
 
-### 4. 3. Assigning Values
+### 3. Assigning Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Don't assign variables in chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980)
@@ -1320,7 +1328,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 5. 4. Type Casting
+### 4. Type Casting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Type cast strings with the String wrapper
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980)
@@ -1622,7 +1632,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Comparing Values
+### 5. Comparing Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use triple-character equality operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980)
@@ -2124,7 +2136,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980)

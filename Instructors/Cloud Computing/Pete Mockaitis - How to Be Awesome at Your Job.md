@@ -15,7 +15,7 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cloud%20Computing/Pete%20Mockaitis%20-%20How%20to%20Be%20Awesome%20at%20Your%20Job.md)

@@ -31,7 +31,7 @@ tags:
   - skill/jira
   - skill/automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Administration-%20Automation.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. What Is Automation?]]** (3 videos)
-- **[[#3. 2. Jira Automation Concepts]]** (10 videos)
-- **[[#4. 3. Managing Automation Rules]]** (7 videos)
-- **[[#5. 4. Extending Capabilities with Smart Values]]** (8 videos)
-- **[[#6. 5. Use Cases and Examples]]** (9 videos)
-- **[[#7. 6. Automation with Apps]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. What Is Automation?]]** (3 videos)
+- **[[#2. Jira Automation Concepts]]** (10 videos)
+- **[[#3. Managing Automation Rules]]** (7 videos)
+- **[[#4. Extending Capabilities with Smart Values]]** (8 videos)
+- **[[#5. Use Cases and Examples]]** (9 videos)
+- **[[#6. Automation with Apps]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automating common Jira activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
@@ -303,7 +305,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. What Is Automation?
+### 1. What Is Automation?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Levels of automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
@@ -451,7 +455,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 3. 2. Jira Automation Concepts
+### 2. Jira Automation Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
@@ -1150,7 +1156,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 4. 3. Managing Automation Rules
+### 3. Managing Automation Rules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintaining rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
@@ -1685,7 +1693,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle music) (1)
 
 
-### 5. 4. Extending Capabilities with Smart Values
+### 4. Extending Capabilities with Smart Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using smart values
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
@@ -2253,7 +2263,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Use Cases and Examples
+### 5. Use Cases and Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating information
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
@@ -2657,7 +2669,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Automation with Apps
+### 6. Automation with Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Post functions with JMWE
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
@@ -3008,7 +3022,9 @@ created: 2026-04-28
 > **Speakers:** - finally (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)

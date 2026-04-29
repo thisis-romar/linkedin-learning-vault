@@ -36,7 +36,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20for%20Data%20Engineering-%20ChatGPT%20Power%20Tips.md)
@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Prompt Engineering Basics]]** (6 videos)
-- **[[#3. 2. Practical Applications of ChatGPT in Data Engineering]]** (6 videos)
-- **[[#4. 3. Advanced Applications in PySpark and Databricks]]** (3 videos)
-- **[[#5. 4. Security and Ethical Considerations]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Prompt Engineering Basics]]** (6 videos)
+- **[[#2. Practical Applications of ChatGPT in Data Engineering]]** (6 videos)
+- **[[#3. Advanced Applications in PySpark and Databricks]]** (3 videos)
+- **[[#4. Security and Ethical Considerations]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ChatGPT for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Prompt Engineering Basics
+### 1. Prompt Engineering Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980)
@@ -575,7 +579,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Practical Applications of ChatGPT in Data Engineering
+### 2. Practical Applications of ChatGPT in Data Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating data engineering code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980)
@@ -943,7 +949,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Applications in PySpark and Databricks
+### 3. Advanced Applications in PySpark and Databricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating PySpark code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980)
@@ -1106,7 +1114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Security and Ethical Considerations
+### 4. Security and Ethical Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data privacy and security with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980)
@@ -1277,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980)

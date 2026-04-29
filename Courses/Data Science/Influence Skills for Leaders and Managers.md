@@ -30,7 +30,7 @@ tags:
   - skill/influencing-others
   - skill/leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Influence%20Skills%20for%20Leaders%20and%20Managers.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Influence to Manage Your Team]]** (5 videos)
-- **[[#3. 2. Using Organizational Influence to Get Things Done]]** (6 videos)
-- **[[#4. 3. Using Influence for Visibility and Impact]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Influence to Manage Your Team]]** (5 videos)
+- **[[#2. Using Organizational Influence to Get Things Done]]** (6 videos)
+- **[[#3. Using Influence for Visibility and Impact]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Influencing at the leadership level
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
@@ -219,7 +221,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 2. 1. Using Influence to Manage Your Team
+### 1. Using Influence to Manage Your Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inspiring your team to act
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
@@ -637,7 +641,9 @@ created: 2026-04-28
 > **Speakers:** - priorities (1)
 
 
-### 3. 2. Using Organizational Influence to Get Things Done
+### 2. Using Organizational Influence to Get Things Done
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing organizational awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
@@ -1099,7 +1105,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Using Influence for Visibility and Impact
+### 3. Using Influence for Visibility and Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Earning authority and autonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
@@ -1470,7 +1478,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Influence for the greatest good
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)

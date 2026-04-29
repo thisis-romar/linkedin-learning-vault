@@ -31,7 +31,7 @@ tags:
   - skill/excel-formulas
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20Introduction%20To%20Formulas%20And%20Functions.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introducing Excel Formulas and Functions]]** (7 videos)
-- **[[#3. 2. Creating Basic Summary Functions]]** (5 videos)
-- **[[#4. 3. Managing Named Ranges and Excel Tables]]** (4 videos)
-- **[[#5. 4. Managing Data in Excel]]** (4 videos)
-- **[[#6. 5. Auditing Worksheet Formulas]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introducing Excel Formulas and Functions]]** (7 videos)
+- **[[#2. Creating Basic Summary Functions]]** (5 videos)
+- **[[#3. Managing Named Ranges and Excel Tables]]** (4 videos)
+- **[[#4. Managing Data in Excel]]** (4 videos)
+- **[[#5. Auditing Worksheet Formulas]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create powerful Excel formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Excel Formulas and Functions
+### 1. Introducing Excel Formulas and Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Familiarize yourself with functions and formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980)
@@ -904,7 +908,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Basic Summary Functions
+### 2. Creating Basic Summary Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a SUM or AVERAGE formula
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980)
@@ -1366,7 +1372,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Managing Named Ranges and Excel Tables
+### 3. Managing Named Ranges and Excel Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize data using named ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980)
@@ -1797,7 +1805,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Data in Excel
+### 4. Managing Data in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage data using text functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980)
@@ -2179,7 +2189,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Auditing Worksheet Formulas
+### 5. Auditing Worksheet Formulas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trace formula precedents and dependents
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980)
@@ -2430,7 +2442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980)

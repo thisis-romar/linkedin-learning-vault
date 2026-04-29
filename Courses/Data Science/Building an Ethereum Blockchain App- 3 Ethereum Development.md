@@ -34,7 +34,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%203%20Ethereum%20Development.md)
@@ -52,9 +52,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. The Ethereum Ecosystem and Development Life Cycle]]** (10 videos)
+- **[[#1. The Ethereum Ecosystem and Development Life Cycle]]** (10 videos)
 
-### 1. 1. The Ethereum Ecosystem and Development Life Cycle
+### 1. The Ethereum Ecosystem and Development Life Cycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Parts of the Ethereum blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)

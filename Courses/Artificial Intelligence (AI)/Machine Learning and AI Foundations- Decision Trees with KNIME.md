@@ -39,7 +39,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20KNIME.md)
@@ -57,14 +57,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introducing Decision Trees]]** (5 videos)
-- **[[#3. 2. Introducing the C5.0 Algorithm]]** (12 videos)
-- **[[#4. 3. Introducing Classification Trees]]** (7 videos)
-- **[[#5. 4. Introducing Regression Trees]]** (9 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introducing Decision Trees]]** (5 videos)
+- **[[#2. Introducing the C5.0 Algorithm]]** (12 videos)
+- **[[#3. Introducing Classification Trees]]** (7 videos)
+- **[[#4. Introducing Regression Trees]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basics of decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Decision Trees
+### 1. Introducing Decision Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
@@ -626,7 +630,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 3. 2. Introducing the C5.0 Algorithm
+### 2. Introducing the C5.0 Algorithm
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ross Quinlan, ID3, C4.5, and C5.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
@@ -1545,7 +1551,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Introducing Classification Trees
+### 3. Introducing Classification Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Leo Breiman and CART
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
@@ -2009,7 +2017,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Introducing Regression Trees
+### 4. Introducing Regression Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MPG data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
@@ -2630,7 +2640,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)

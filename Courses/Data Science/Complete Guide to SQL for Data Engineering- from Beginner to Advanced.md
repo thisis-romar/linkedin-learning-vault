@@ -37,7 +37,7 @@ tags:
   - skill/data-engineering
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20SQL%20for%20Data%20Engineering-%20from%20Beginner%20to%20Advanced.md)
@@ -55,22 +55,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. SQL Introduction]]** (4 videos)
-- **[[#3. 2. SQL Basics]]** (7 videos)
-- **[[#4. 3. Data Manipulation]]** (6 videos)
-- **[[#5. 4. Advanced Data Querying]]** (11 videos)
-- **[[#6. 5. SQL Functions]]** (8 videos)
-- **[[#7. 6. SQL Analytical Functions]]** (9 videos)
-- **[[#8. 7. Views and Stored Procedures]]** (6 videos)
-- **[[#9. 8. Indexes and Performance]]** (6 videos)
-- **[[#10. 9. Database Security and User Management]]** (8 videos)
-- **[[#11. 10. Debugging: Common Mistakes and SQL Errors]]** (4 videos)
-- **[[#12. 11. ETL Overview]]** (3 videos)
-- **[[#13. 12. Real-World Project]]** (2 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. SQL Introduction]]** (4 videos)
+- **[[#2. SQL Basics]]** (7 videos)
+- **[[#3. Data Manipulation]]** (6 videos)
+- **[[#4. Advanced Data Querying]]** (11 videos)
+- **[[#5. SQL Functions]]** (8 videos)
+- **[[#6. SQL Analytical Functions]]** (9 videos)
+- **[[#7. Views and Stored Procedures]]** (6 videos)
+- **[[#8. Indexes and Performance]]** (6 videos)
+- **[[#9. Database Security and User Management]]** (8 videos)
+- **[[#10. Debugging: Common Mistakes and SQL Errors]]** (4 videos)
+- **[[#11. ETL Overview]]** (3 videos)
+- **[[#12. Real-World Project]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SQL Introduction
+### 1. SQL Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SQL and why learn it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980)
@@ -725,7 +729,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. SQL Basics
+### 2. SQL Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to databases and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980)
@@ -1627,7 +1633,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Data Manipulation
+### 3. Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980)
@@ -2226,7 +2234,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Advanced Data Querying
+### 4. Advanced Data Querying
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980)
@@ -3501,7 +3511,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. SQL Functions
+### 5. SQL Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to SQL functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980)
@@ -4301,7 +4313,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. SQL Analytical Functions
+### 6. SQL Analytical Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to analytical functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980)
@@ -5179,7 +5193,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Views and Stored Procedures
+### 7. Views and Stored Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to views
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980)
@@ -5681,7 +5697,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat synth music) (1)
 
 
-### 9. 8. Indexes and Performance
+### 8. Indexes and Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980)
@@ -6191,7 +6209,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. 9. Database Security and User Management
+### 9. Database Security and User Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to database security
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980)
@@ -6983,7 +7003,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 11. 10. Debugging: Common Mistakes and SQL Errors
+### 10. Debugging: Common Mistakes and SQL Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding SQL syntax errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980)
@@ -7538,7 +7560,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. ETL Overview
+### 11. ETL Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ETL and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980)
@@ -7864,7 +7888,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 13. 12. Real-World Project
+### 12. Real-World Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final project: Insurance claims analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980)
@@ -8176,7 +8202,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)

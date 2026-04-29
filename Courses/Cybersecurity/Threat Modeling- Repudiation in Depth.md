@@ -30,7 +30,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Repudiation%20in%20Depth.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Technical Repudiation]]** (2 videos)
-- **[[#3. 2. Fraud]]** (3 videos)
-- **[[#4. 3. Identity Theft]]** (2 videos)
-- **[[#5. 4. Attacks on Logs]]** (2 videos)
-- **[[#6. 5. Repudiation in Specific Technologies]]** (3 videos)
-- **[[#7. 6. Defenses]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Technical Repudiation]]** (2 videos)
+- **[[#2. Fraud]]** (3 videos)
+- **[[#3. Identity Theft]]** (2 videos)
+- **[[#4. Attacks on Logs]]** (2 videos)
+- **[[#5. Repudiation in Specific Technologies]]** (3 videos)
+- **[[#6. Defenses]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The threat of repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Technical Repudiation
+### 1. Technical Repudiation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Message repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
@@ -237,7 +241,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Fraud
+### 2. Fraud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Buyers and sellers
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
@@ -359,7 +365,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Identity Theft
+### 3. Identity Theft
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identity theft and repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
@@ -429,7 +437,9 @@ created: 2026-04-28
 > **Speakers:** - that (1)
 
 
-### 5. 4. Attacks on Logs
+### 4. Attacks on Logs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Attacks on logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
@@ -495,7 +505,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Repudiation in Specific Technologies
+### 5. Repudiation in Specific Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
@@ -594,7 +606,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Defenses
+### 6. Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptographic defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
@@ -803,7 +817,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)

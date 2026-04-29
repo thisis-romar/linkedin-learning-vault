@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/content-marketing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/A%20Content%20Marketer's%20Guide%20to%20Responsible%20AI.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding AI in Content Marketing]]** (3 videos)
-- **[[#3. 2. Ethical Considerations for AI in Marketing]]** (3 videos)
-- **[[#4. 3. Implementing a Responsible AI Strategy]]** (3 videos)
-- **[[#5. 4. Future Trends and Responsible Practices]]** (1 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding AI in Content Marketing]]** (3 videos)
+- **[[#2. Ethical Considerations for AI in Marketing]]** (3 videos)
+- **[[#3. Implementing a Responsible AI Strategy]]** (3 videos)
+- **[[#4. Future Trends and Responsible Practices]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/responsible-ai-in-content-marketing?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Code Keywords:** let (2)
 
 
-### 2. 1. Understanding AI in Content Marketing
+### 1. Understanding AI in Content Marketing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating AI in content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/integrating-ai-in-content-marketing?u=76281980)
@@ -264,7 +268,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1), case. (1)
 
 
-### 3. 2. Ethical Considerations for AI in Marketing
+### 2. Ethical Considerations for AI in Marketing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying and mitigating bias in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/identifying-and-mitigating-bias-in-ai?u=76281980)
@@ -434,7 +440,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 4. 3. Implementing a Responsible AI Strategy
+### 3. Implementing a Responsible AI Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing an ethical AI policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/developing-an-ethical-ai-policy?u=76281980)
@@ -599,7 +607,9 @@ created: 2026-04-28
 > **Code Keywords:** super (1), for, (1)
 
 
-### 5. 4. Future Trends and Responsible Practices
+### 4. Future Trends and Responsible Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensuring long-term ethical AI practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/ensuring-long-term-ethical-ai-practices?u=76281980)
@@ -665,7 +675,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enhance your marketing with ethical AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-content-marketer-s-guide-to-responsible-ai/enhance-your-marketing-with-ethical-ai-integration?u=76281980)

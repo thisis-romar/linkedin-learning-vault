@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Cybersecurity
   - Data Science
-louvain_cluster: 5
+louvain_cluster: 3
 tags:
   - learning-path
   - topic/security
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Getting%20Started%20in%20Blockchain.md)

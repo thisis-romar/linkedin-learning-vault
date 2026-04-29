@@ -39,7 +39,7 @@ tags:
   - skill/data-modeling
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20To%20R%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
@@ -57,21 +57,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is R?]]** (2 videos)
-- **[[#3. 2. Getting Started]]** (10 videos)
-- **[[#4. 3. Importing Data]]** (6 videos)
-- **[[#5. 4. Visualizing Data with ggplot2]]** (9 videos)
-- **[[#6. 5. Wrangling Data]]** (10 videos)
-- **[[#7. 6. Recoding Data]]** (5 videos)
-- **[[#8. 7. An R for Data Science Case Study]]** (1 videos)
-- **[[#9. 8. Exploring Data]]** (7 videos)
-- **[[#10. 9. Analyzing Data]]** (6 videos)
-- **[[#11. 10. Predicting Outcomes]]** (6 videos)
-- **[[#12. 11. Clustering and Classifying Cases]]** (5 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is R?]]** (2 videos)
+- **[[#2. Getting Started]]** (10 videos)
+- **[[#3. Importing Data]]** (6 videos)
+- **[[#4. Visualizing Data with ggplot2]]** (9 videos)
+- **[[#5. Wrangling Data]]** (10 videos)
+- **[[#6. Recoding Data]]** (5 videos)
+- **[[#7. An R for Data Science Case Study]]** (1 videos)
+- **[[#8. Exploring Data]]** (7 videos)
+- **[[#9. Analyzing Data]]** (6 videos)
+- **[[#10. Predicting Outcomes]]** (6 videos)
+- **[[#11. Clustering and Classifying Cases]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make your data make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. What Is R?
+### 1. What Is R?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
@@ -527,7 +531,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Getting Started
+### 2. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
@@ -1717,7 +1723,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Importing Data
+### 3. Importing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### R's built-in datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
@@ -2442,7 +2450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Visualizing Data with ggplot2
+### 4. Visualizing Data with ggplot2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ggplot2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
@@ -3928,7 +3938,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Wrangling Data
+### 5. Wrangling Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating tidy data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
@@ -5245,7 +5257,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Recoding Data
+### 6. Recoding Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recoding categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
@@ -6004,7 +6018,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. An R for Data Science Case Study
+### 7. An R for Data Science Case Study
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science with R: A case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
@@ -6411,7 +6427,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 9. 8. Exploring Data
+### 8. Exploring Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -7748,7 +7766,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Analyzing Data
+### 9. Analyzing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -8829,7 +8849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Predicting Outcomes
+### 10. Predicting Outcomes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predicting outcomes with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
@@ -9943,7 +9965,9 @@ created: 2026-04-28
 > **Analogies:** think of it as (1), for instance (1)
 
 
-### 12. 11. Clustering and Classifying Cases
+### 11. Clustering and Classifying Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grouping cases with hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
@@ -11068,7 +11092,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)

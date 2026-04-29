@@ -30,7 +30,7 @@ tags:
   - skill/virtual-teams
   - skill/team-leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Leading%20Remote%20Projects%20and%20Virtual%20Teams.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Remote and Virtual Projects Overview]]** (3 videos)
-- **[[#3. 2. Engaging Remote Project Teams]]** (3 videos)
-- **[[#4. 3. Getting Project Work Done Virtually]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Remote and Virtual Projects Overview]]** (3 videos)
+- **[[#2. Engaging Remote Project Teams]]** (3 videos)
+- **[[#3. Getting Project Work Done Virtually]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to remote project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Remote and Virtual Projects Overview
+### 1. Remote and Virtual Projects Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is different about remote projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
@@ -288,7 +292,9 @@ created: 2026-04-28
 > **Speakers:** - working (1)
 
 
-### 3. 2. Engaging Remote Project Teams
+### 2. Engaging Remote Project Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing expectations for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
@@ -473,7 +479,9 @@ created: 2026-04-28
 > **Speakers:** - communicating (1)
 
 
-### 4. 3. Getting Project Work Done Virtually
+### 3. Getting Project Work Done Virtually
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaboration tools for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
@@ -734,7 +742,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Takeaways for remote project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)

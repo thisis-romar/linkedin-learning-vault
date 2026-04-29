@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Working%20with%20Files.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding the Files API]]** (2 videos)
-- **[[#3. 2. Using the Files API]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the Files API]]** (2 videos)
+- **[[#2. Using the Files API]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uploading large files to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding the Files API
+### 1. Understanding the Files API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The significance of the Files API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
@@ -222,7 +226,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Using the Files API
+### 2. Using the Files API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
@@ -870,7 +876,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)

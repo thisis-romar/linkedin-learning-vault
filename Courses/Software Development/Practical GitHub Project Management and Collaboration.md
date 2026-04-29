@@ -30,7 +30,7 @@ tags:
   - skill/project-management
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Project%20Management%20and%20Collaboration.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Creating a Project]]** (9 videos)
-- **[[#3. 2. Working with Projects]]** (5 videos)
-- **[[#4. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Creating a Project]]** (9 videos)
+- **[[#2. Working with Projects]]** (5 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 2. 1. Creating a Project
+### 1. Creating a Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Projects vs. classic projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
@@ -1152,7 +1156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Projects
+### 2. Working with Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
@@ -1842,7 +1848,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

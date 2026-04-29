@@ -33,7 +33,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Advanced%20SQL.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Joins]]** (3 videos)
-- **[[#3. 2. Grouping]]** (3 videos)
-- **[[#4. 3. Advanced Select Options]]** (3 videos)
-- **[[#5. 4. Windowing Functions]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Joins]]** (3 videos)
+- **[[#2. Grouping]]** (3 videos)
+- **[[#3. Advanced Select Options]]** (3 videos)
+- **[[#4. Windowing Functions]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced SQL code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
@@ -328,7 +330,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. Joins
+### 1. Joins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a list of employees and their immediate managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
@@ -500,7 +504,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Grouping
+### 2. Grouping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How many cars have been sold per employee?
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
@@ -677,7 +683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Select Options
+### 3. Advanced Select Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize sales per year by using a CTE
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
@@ -872,7 +880,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Windowing Functions
+### 4. Windowing Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### For each salesperson, rank the car models they've sold the most
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
@@ -1077,7 +1087,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)

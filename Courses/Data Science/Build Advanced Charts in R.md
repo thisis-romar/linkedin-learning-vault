@@ -30,7 +30,7 @@ tags:
   - skill/r-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Build%20Advanced%20Charts%20in%20R.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Explore the Data]]** (2 videos)
-- **[[#3. 2. Chords Diagrams]]** (6 videos)
-- **[[#4. 3. Other Advanced Charts]]** (4 videos)
-- **[[#5. 4. Accessibility and Annotations]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Explore the Data]]** (2 videos)
+- **[[#2. Chords Diagrams]]** (6 videos)
+- **[[#3. Other Advanced Charts]]** (4 videos)
+- **[[#4. Accessibility and Annotations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Explore the Data
+### 1. Explore the Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Load and inspect your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
@@ -301,7 +305,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Chords Diagrams
+### 2. Chords Diagrams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to {circlize} package
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
@@ -983,7 +989,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Other Advanced Charts
+### 3. Other Advanced Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
@@ -1434,7 +1442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Accessibility and Annotations
+### 4. Accessibility and Annotations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible color palettes
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
@@ -1755,7 +1765,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)

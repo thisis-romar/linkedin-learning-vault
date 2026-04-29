@@ -32,7 +32,7 @@ tags:
   - skill/wordpress
   - skill/internationalization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Internationalization.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introducing Internationalization]]** (3 videos)
-- **[[#3. 2. Internationalization Concepts]]** (3 videos)
-- **[[#4. 3. Working with Translation Functions in PHP]]** (6 videos)
-- **[[#5. 4. Working with Translation Functions in JavaScript]]** (3 videos)
-- **[[#6. 5. Make a Plugin Translation-Ready]]** (10 videos)
-- **[[#7. 6. Advanced Concepts]]** (3 videos)
-- **[[#8. 7. Contributing to Open Source]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introducing Internationalization]]** (3 videos)
+- **[[#2. Internationalization Concepts]]** (3 videos)
+- **[[#3. Working with Translation Functions in PHP]]** (6 videos)
+- **[[#4. Working with Translation Functions in JavaScript]]** (3 videos)
+- **[[#5. Make a Plugin Translation-Ready]]** (10 videos)
+- **[[#6. Advanced Concepts]]** (3 videos)
+- **[[#7. Contributing to Open Source]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### WordPress internationalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
@@ -172,7 +174,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introducing Internationalization
+### 1. Introducing Internationalization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is internationalization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
@@ -324,7 +328,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Internationalization Concepts
+### 2. Internationalization Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is gettext?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
@@ -518,7 +524,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Translation Functions in PHP
+### 3. Working with Translation Functions in PHP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
@@ -956,7 +964,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Translation Functions in JavaScript
+### 4. Working with Translation Functions in JavaScript
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Including wp-i18n
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
@@ -1054,7 +1064,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Make a Plugin Translation-Ready
+### 5. Make a Plugin Translation-Ready
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
@@ -1788,7 +1800,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 7. 6. Advanced Concepts
+### 6. Advanced Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automating text domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
@@ -1903,7 +1917,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Contributing to Open Source
+### 7. Contributing to Open Source
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translating for WordPress with GlotPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
@@ -1970,7 +1986,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)

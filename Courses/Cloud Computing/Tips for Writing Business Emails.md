@@ -28,7 +28,7 @@ tags:
   - skill/business-communications
   - skill/email-etiquette
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tips%20for%20Writing%20Business%20Emails.md)

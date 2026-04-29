@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/spring-framework
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20Framework%20in%20Depth.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Spring Overview]]** (2 videos)
-- **[[#3. 2. Configuring the ApplicationContext]]** (7 videos)
-- **[[#4. 3. Component Scanning]]** (3 videos)
-- **[[#5. 4. The Bean Lifecycle]]** (10 videos)
-- **[[#6. 5. Aspect-Oriented Programming]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Spring Overview]]** (2 videos)
+- **[[#2. Configuring the ApplicationContext]]** (7 videos)
+- **[[#3. Component Scanning]]** (3 videos)
+- **[[#4. The Bean Lifecycle]]** (10 videos)
+- **[[#5. Aspect-Oriented Programming]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building blocks of Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980)
@@ -163,7 +165,9 @@ created: 2026-04-28
 > **Tools:** intellij (1)
 
 
-### 2. 1. Spring Overview
+### 1. Spring Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980)
@@ -377,7 +381,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Configuring the ApplicationContext
+### 2. Configuring the ApplicationContext
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the ApplicationContext
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980)
@@ -959,7 +965,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Component Scanning
+### 3. Component Scanning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The component scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980)
@@ -1186,7 +1194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. The Bean Lifecycle
+### 4. The Bean Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why the lifecycle is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980)
@@ -1801,7 +1811,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Aspect-Oriented Programming
+### 5. Aspect-Oriented Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Aspecting in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/aspecting-in-spring?u=76281980)
@@ -2296,7 +2308,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/cloud-administration
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Networking.md)
@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. AWS Network Foundations]]** (5 videos)
-- **[[#3. 2. Virtual Private Cloud]]** (10 videos)
-- **[[#4. 3. VPC Security]]** (10 videos)
-- **[[#5. 4. VPC Peering]]** (4 videos)
-- **[[#6. 5. Transit Gateway]]** (6 videos)
-- **[[#7. 6. Route 53]]** (8 videos)
-- **[[#8. 7. Global Considerations]]** (16 videos)
-- **[[#9. 8. Troubleshooting Strategies]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AWS Network Foundations]]** (5 videos)
+- **[[#2. Virtual Private Cloud]]** (10 videos)
+- **[[#3. VPC Security]]** (10 videos)
+- **[[#4. VPC Peering]]** (4 videos)
+- **[[#5. Transit Gateway]]** (6 videos)
+- **[[#6. Route 53]]** (8 videos)
+- **[[#7. Global Considerations]]** (16 videos)
+- **[[#8. Troubleshooting Strategies]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS networking overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
@@ -139,7 +141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AWS Network Foundations
+### 1. AWS Network Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtual Private Cloud (VPC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
@@ -700,7 +704,9 @@ created: 2026-04-28
 > **Cross-References:** next chapter (1)
 
 
-### 3. 2. Virtual Private Cloud
+### 2. Virtual Private Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the default VPC
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
@@ -2267,7 +2273,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. VPC Security
+### 3. VPC Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding security groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
@@ -3191,7 +3199,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. VPC Peering
+### 4. VPC Peering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### VPC peering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
@@ -3512,7 +3522,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Transit Gateway
+### 5. Transit Gateway
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Transit Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
@@ -4026,7 +4038,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 7. 6. Route 53
+### 6. Route 53
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure Route 53 DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
@@ -4654,7 +4668,9 @@ created: 2026-04-28
 > **Tools:** aws console (1)
 
 
-### 8. 7. Global Considerations
+### 7. Global Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand CloudFront
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
@@ -5994,7 +6010,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 9. 8. Troubleshooting Strategies
+### 8. Troubleshooting Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshooting connectivity issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
@@ -6468,7 +6486,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)

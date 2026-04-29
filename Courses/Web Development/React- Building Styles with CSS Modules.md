@@ -30,7 +30,7 @@ tags:
   - skill/cascading-style-sheets-css
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Building%20Styles%20with%20CSS%20Modules.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setting Up]]** (2 videos)
-- **[[#3. 2. Basics of CSS Modules]]** (7 videos)
-- **[[#4. 3. Interactions and Responsive Design]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up]]** (2 videos)
+- **[[#2. Basics of CSS Modules]]** (7 videos)
+- **[[#3. Interactions and Responsive Design]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a React site with CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React with CSS Modules without ejecting
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
@@ -298,7 +302,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Basics of CSS Modules
+### 2. Basics of CSS Modules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
@@ -1343,7 +1349,9 @@ created: 2026-04-28
 > **Versions:** 0.2 (1), 0.3 (1)
 
 
-### 4. 3. Interactions and Responsive Design
+### 3. Interactions and Responsive Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic animation with CSS keyframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
@@ -2138,7 +2146,9 @@ created: 2026-04-28
 > **UI Navigation:** open the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)

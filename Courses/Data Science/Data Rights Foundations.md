@@ -24,7 +24,7 @@ tags:
   - skill/data-privacy
   - skill/personal-data-protection
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Rights%20Foundations.md)
@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction]]** (5 videos)
-- **[[#3. 2. Global Policies]]** (6 videos)
-- **[[#4. 3. Data Types and Data Rights]]** (4 videos)
-- **[[#5. 4. Data Protection and Security]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. Global Policies]]** (6 videos)
+- **[[#3. Data Types and Data Rights]]** (4 videos)
+- **[[#4. Data Protection and Security]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of data rights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/overview-of-data-rights?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction
+### 1. Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are data rights?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980)
@@ -322,7 +326,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Global Policies
+### 2. Global Policies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Global best practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980)
@@ -543,7 +549,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Data Types and Data Rights
+### 3. Data Types and Data Rights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980)
@@ -715,7 +723,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Data Protection and Security
+### 4. Data Protection and Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protection from data leaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980)
@@ -859,7 +869,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright chime) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Actions you can take
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/actions-you-can-take?u=76281980)

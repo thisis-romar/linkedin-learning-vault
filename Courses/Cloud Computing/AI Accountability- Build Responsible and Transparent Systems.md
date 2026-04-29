@@ -31,7 +31,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Accountability-%20Build%20Responsible%20and%20Transparent%20Systems.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Context for AI]]** (4 videos)
-- **[[#3. 2. Technical Challenges of AI]]** (10 videos)
-- **[[#4. 3. Social Challenges of AI]]** (3 videos)
-- **[[#5. 4. Legal Challenges of AI]]** (7 videos)
-- **[[#6. 5. Safety Challenges of AI]]** (4 videos)
-- **[[#7. 6. Confronting the Challenges of AI]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Context for AI]]** (4 videos)
+- **[[#2. Technical Challenges of AI]]** (10 videos)
+- **[[#3. Social Challenges of AI]]** (3 videos)
+- **[[#4. Legal Challenges of AI]]** (7 videos)
+- **[[#5. Safety Challenges of AI]]** (4 videos)
+- **[[#6. Confronting the Challenges of AI]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Context for AI
+### 1. The Context for AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The promise of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
@@ -490,7 +494,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Technical Challenges of AI
+### 2. Technical Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Technical challenges for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
@@ -1690,7 +1696,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Social Challenges of AI
+### 3. Social Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimensions of justice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
@@ -1966,7 +1974,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Legal Challenges of AI
+### 4. Legal Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAI laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
@@ -2546,7 +2556,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Safety Challenges of AI
+### 5. Safety Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI in life and death situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
@@ -2903,7 +2915,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Confronting the Challenges of AI
+### 6. Confronting the Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategies for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
@@ -3346,7 +3360,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)

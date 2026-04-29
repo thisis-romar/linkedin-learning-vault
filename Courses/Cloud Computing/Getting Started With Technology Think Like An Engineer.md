@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/software-design
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Getting%20Started%20With%20Technology%20Think%20Like%20An%20Engineer.md)
@@ -45,12 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating Programs]]** (5 videos)
-- **[[#3. 2. Core Principles]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating Programs]]** (5 videos)
+- **[[#2. Core Principles]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thinking like an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating Programs
+### 1. Creating Programs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coding languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
@@ -509,7 +513,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Core Principles
+### 2. Core Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Efficiency is key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
@@ -743,7 +749,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your journey with technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)

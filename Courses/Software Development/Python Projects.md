@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/software-projects
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Planning the Project]]** (5 videos)
-- **[[#3. 2. Retrieving Content]]** (5 videos)
-- **[[#4. 3. Emailing the Digest]]** (3 videos)
-- **[[#5. 4. Building the GUI]]** (2 videos)
-- **[[#6. 5. Iterating on the Design]]** (2 videos)
-- **[[#7. 6. Packaging and Distribution]]** (1 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Planning the Project]]** (5 videos)
+- **[[#2. Retrieving Content]]** (5 videos)
+- **[[#3. Emailing the Digest]]** (3 videos)
+- **[[#4. Building the GUI]]** (2 videos)
+- **[[#5. Iterating on the Design]]** (2 videos)
+- **[[#6. Packaging and Distribution]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your own Python projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Planning the Project
+### 1. Planning the Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
@@ -539,7 +543,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 3. 2. Retrieving Content
+### 2. Retrieving Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Daily inspirational quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
@@ -1005,7 +1011,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Emailing the Digest
+### 3. Emailing the Digest
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Format an email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
@@ -1394,7 +1402,9 @@ created: 2026-04-28
 > **Cross-References:** earlier in (1)
 
 
-### 5. 4. Building the GUI
+### 4. Building the GUI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan the GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
@@ -1633,7 +1643,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 6. 5. Iterating on the Design
+### 5. Iterating on the Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Iterative improvements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
@@ -1748,7 +1760,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Packaging and Distribution
+### 6. Packaging and Distribution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Distribute Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
@@ -1805,7 +1819,9 @@ created: 2026-04-28
 > **UI Navigation:** double-click (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)

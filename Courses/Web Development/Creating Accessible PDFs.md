@@ -30,7 +30,7 @@ tags:
   - skill/pdf-management
   - skill/it-accessibility
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Creating%20Accessible%20PDFs.md)

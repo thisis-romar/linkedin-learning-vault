@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20PLC%20Ladder%20Logic-%202%20Diving%20Deeper.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. PLC Data Input/Output BCD]]** (11 videos)
-- **[[#3. 2. Math Instructions]]** (10 videos)
-- **[[#4. 3. Data Compare Instructions]]** (7 videos)
-- **[[#5. 4. Data Transfer Operation]]** (7 videos)
-- **[[#6. 5. Sequence Logic]]** (11 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. PLC Data Input/Output BCD]]** (11 videos)
+- **[[#2. Math Instructions]]** (10 videos)
+- **[[#3. Data Compare Instructions]]** (7 videos)
+- **[[#4. Data Transfer Operation]]** (7 videos)
+- **[[#5. Sequence Logic]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn to climb the PLC ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. PLC Data Input/Output BCD
+### 1. PLC Data Input/Output BCD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to binary coded decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
@@ -613,7 +617,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Math Instructions
+### 2. Math Instructions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to math instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
@@ -1073,7 +1079,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Compare Instructions
+### 3. Data Compare Instructions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to comparison instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
@@ -1347,7 +1355,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Transfer Operation
+### 4. Data Transfer Operation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to MOV instruction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
@@ -1628,7 +1638,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Sequence Logic
+### 5. Sequence Logic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to sequence logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
@@ -2164,7 +2176,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)

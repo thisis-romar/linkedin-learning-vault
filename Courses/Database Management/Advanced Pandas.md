@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/pandas-software
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Pandas.md)
@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. From Beginner to Advanced pandas]]** (4 videos)
-- **[[#3. 2. Advanced Calculations]]** (5 videos)
-- **[[#4. 3. Transforming DataFrames]]** (4 videos)
-- **[[#5. 4. Exploratory Data Analysis and Visualization]]** (2 videos)
-- **[[#6. 5. Beyond pandas]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. From Beginner to Advanced pandas]]** (4 videos)
+- **[[#2. Advanced Calculations]]** (5 videos)
+- **[[#3. Transforming DataFrames]]** (4 videos)
+- **[[#4. Exploratory Data Analysis and Visualization]]** (2 videos)
+- **[[#5. Beyond pandas]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take pandas to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/take-pandas-to-the-next-level?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - [brett] (1)
 
 
-### 2. 1. From Beginner to Advanced pandas
+### 1. From Beginner to Advanced pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/getting-started-with-pandas?u=76281980)
@@ -309,7 +313,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Advanced Calculations
+### 2. Advanced Calculations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data type conversions using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/data-type-conversions-using-pandas?u=76281980)
@@ -684,7 +690,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transforming DataFrames
+### 3. Transforming DataFrames
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Groupby and aggregations using pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/groupby-and-aggregations-using-pandas?u=76281980)
@@ -1067,7 +1075,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Exploratory Data Analysis and Visualization
+### 4. Exploratory Data Analysis and Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plotting with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/plotting-with-pandas?u=76281980)
@@ -1254,7 +1264,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Beyond pandas
+### 5. Beyond pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accelerate exploratory data analysis with pandas-profiling
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/accelerate-eda-with-pandas-profiling?u=76281980)
@@ -1489,7 +1501,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your path forward using advanced pandas functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pandas-29724107/your-path-forward-using-advanced-pandas-functions?u=76281980)

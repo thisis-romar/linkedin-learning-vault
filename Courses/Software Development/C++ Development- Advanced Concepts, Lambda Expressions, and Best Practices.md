@@ -30,7 +30,7 @@ tags:
   - topic/data-science
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%2B%2B%20Development-%20Advanced%20Concepts%2C%20Lambda%20Expressions%2C%20and%20Best%20Practices.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Operator Overloads]]** (5 videos)
-- **[[#3. 2. Move Semantics]]** (7 videos)
-- **[[#4. 3. Lambda Expressions]]** (4 videos)
-- **[[#5. 4. Constraints and Concepts]]** (3 videos)
-- **[[#6. 5. Optionals and Variants]]** (3 videos)
-- **[[#7. 6. Concurrency]]** (6 videos)
-- **[[#8. 7. Other Subjects]]** (5 videos)
-- **[[#9. 8. Other C++20 New Features]]** (4 videos)
-- **[[#10. Final Project and Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Operator Overloads]]** (5 videos)
+- **[[#2. Move Semantics]]** (7 videos)
+- **[[#3. Lambda Expressions]]** (4 videos)
+- **[[#4. Constraints and Concepts]]** (3 videos)
+- **[[#5. Optionals and Variants]]** (3 videos)
+- **[[#6. Concurrency]]** (6 videos)
+- **[[#7. Other Subjects]]** (5 videos)
+- **[[#8. Other C++20 New Features]]** (4 videos)
+- **[[#Final Project and Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### About this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Tools:** visual studio (1)
 
 
-### 2. 1. Operator Overloads
+### 1. Operator Overloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Operator overloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
@@ -780,7 +784,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 3. 2. Move Semantics
+### 2. Move Semantics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is move semantics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
@@ -1398,7 +1404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Lambda Expressions
+### 3. Lambda Expressions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lambda syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
@@ -1729,7 +1737,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Constraints and Concepts
+### 4. Constraints and Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why constraints?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
@@ -1992,7 +2002,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Optionals and Variants
+### 5. Optionals and Variants
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The optional class
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
@@ -2202,7 +2214,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Concurrency
+### 6. Concurrency
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sleeping
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
@@ -2767,7 +2781,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Other Subjects
+### 7. Other Subjects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
@@ -3522,7 +3538,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 9. 8. Other C++20 New Features
+### 8. Other C++20 New Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The format library
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
@@ -3912,7 +3930,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Final Project and Conclusion
+### Final Project and Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final project: Numword
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)

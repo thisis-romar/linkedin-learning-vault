@@ -30,7 +30,7 @@ tags:
   - skill/django
   - skill/membership-systems
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20Paid%20Membership%20Site%20with%20Django.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Our Project]]** (3 videos)
-- **[[#3. 2. Checkout Basics]]** (5 videos)
-- **[[#4. 3. Processing Payments]]** (4 videos)
-- **[[#5. 4. Canceling a Subscription]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Our Project]]** (3 videos)
+- **[[#2. Checkout Basics]]** (5 videos)
+- **[[#3. Processing Payments]]** (4 videos)
+- **[[#4. Canceling a Subscription]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a paid membership site with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980)
@@ -237,7 +239,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (2)
 
 
-### 2. 1. Setting Up Our Project
+### 1. Setting Up Our Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The starter project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980)
@@ -541,7 +545,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (2)
 
 
-### 3. 2. Checkout Basics
+### 2. Checkout Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select yearly or monthly
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980)
@@ -1636,7 +1642,9 @@ created: 2026-04-28
 > **Versions:** 6.90 (2)
 
 
-### 4. 3. Processing Payments
+### 3. Processing Payments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Process payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/process-payment?u=76281980)
@@ -2188,7 +2196,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (2)
 
 
-### 5. 4. Canceling a Subscription
+### 4. Canceling a Subscription
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Settings for a GET request
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-for-a-get-request?u=76281980)
@@ -2790,7 +2800,9 @@ created: 2026-04-28
 > **Analogies:** for instance (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980)

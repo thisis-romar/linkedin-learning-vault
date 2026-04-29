@@ -27,7 +27,7 @@ tags:
   - topic/security
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS%20Quick%20Tips%20for%20Developers.md)

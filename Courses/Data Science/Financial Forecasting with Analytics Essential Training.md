@@ -30,7 +30,7 @@ tags:
   - skill/business-analytics
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Financial%20Forecasting%20with%20Analytics%20Essential%20Training.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Basics]]** (6 videos)
-- **[[#3. 2. Financial Metrics]]** (3 videos)
-- **[[#4. 3. Forecasting in Finance]]** (3 videos)
-- **[[#5. 4. Performing Forecasting]]** (3 videos)
-- **[[#6. 5. Interpret Forecast Results]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics]]** (6 videos)
+- **[[#2. Financial Metrics]]** (3 videos)
+- **[[#3. Forecasting in Finance]]** (3 videos)
+- **[[#4. Performing Forecasting]]** (3 videos)
+- **[[#5. Interpret Forecast Results]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role that analytics plays in financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [michael] (1)
 
 
-### 2. 1. The Basics
+### 1. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980)
@@ -679,7 +683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Financial Metrics
+### 2. Financial Metrics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Financial forecasting applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980)
@@ -996,7 +1002,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Forecasting in Finance
+### 3. Forecasting in Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980)
@@ -1402,7 +1410,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Performing Forecasting
+### 4. Performing Forecasting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applied forecasting with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980)
@@ -1717,7 +1727,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Interpret Forecast Results
+### 5. Interpret Forecast Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980)
@@ -2061,7 +2073,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your financial forecasting learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980)

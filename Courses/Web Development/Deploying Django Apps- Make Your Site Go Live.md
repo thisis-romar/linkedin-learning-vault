@@ -21,7 +21,7 @@ tags:
   - course
   - topic/web-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Deploying%20Django%20Apps-%20Make%20Your%20Site%20Go%20Live.md)
@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Digital Ocean]]** (10 videos)
-- **[[#3. 2. AWS]]** (8 videos)
-- **[[#4. 3. Heroku]]** (5 videos)
-- **[[#5. 4. Azure]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Digital Ocean]]** (10 videos)
+- **[[#2. AWS]]** (8 videos)
+- **[[#3. Heroku]]** (5 videos)
+- **[[#4. Azure]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making your site go live
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Digital Ocean
+### 1. Digital Ocean
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital Ocean account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980)
@@ -1198,7 +1202,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 3. 2. AWS
+### 2. AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980)
@@ -2119,7 +2125,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Heroku
+### 3. Heroku
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Heroku account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980)
@@ -2926,7 +2934,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Azure
+### 4. Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980)
@@ -3627,7 +3637,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980)

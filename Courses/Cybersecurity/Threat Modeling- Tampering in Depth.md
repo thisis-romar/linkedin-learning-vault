@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Tampering%20in%20Depth.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Tampering with a Process]]** (3 videos)
-- **[[#3. 2. Tampering with Storage]]** (3 videos)
-- **[[#4. 3. Tampering with Things]]** (2 videos)
-- **[[#5. 4. Tampering with Time Itself]]** (1 videos)
-- **[[#6. 5. Tampering with Cloud]]** (2 videos)
-- **[[#7. 6. Tampering with Data Flows]]** (3 videos)
-- **[[#8. 7. Integrity Defenses]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Tampering with a Process]]** (3 videos)
+- **[[#2. Tampering with Storage]]** (3 videos)
+- **[[#3. Tampering with Things]]** (2 videos)
+- **[[#4. Tampering with Time Itself]]** (1 videos)
+- **[[#5. Tampering with Cloud]]** (2 videos)
+- **[[#6. Tampering with Data Flows]]** (3 videos)
+- **[[#7. Integrity Defenses]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mitigate tampering threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
@@ -162,7 +164,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tampering with a Process
+### 1. Tampering with a Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debuggers and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
@@ -298,7 +302,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tampering with Storage
+### 2. Tampering with Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tampering with local storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
@@ -418,7 +424,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Tampering with Things
+### 3. Tampering with Things
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Whose screw? Physical tampering matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
@@ -501,7 +509,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Tampering with Time Itself
+### 4. Tampering with Time Itself
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time is increasingly important
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
@@ -557,7 +567,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 6. 5. Tampering with Cloud
+### 5. Tampering with Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controls and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
@@ -659,7 +671,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Tampering with Data Flows
+### 6. Tampering with Data Flows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Channels and messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
@@ -823,7 +837,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Integrity Defenses
+### 7. Integrity Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prevention and detection goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
@@ -988,7 +1004,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure by design: Bring integrity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)

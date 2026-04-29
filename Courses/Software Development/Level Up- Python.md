@@ -36,8 +36,10 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Python.md)
 
 ![Level Up: Python](https://media.licdn.com/dms/image/v2/C4E0DAQGnwvqIftQDEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668016084325?e=2147483647&amp;v=beta&amp;t=dFt6FEqbWzFRhssfqXg6vrZFm7aXoRpl1993YJS__RY)
 
@@ -1421,4 +1423,4 @@ _Courses sharing skills:_
 
 ---
 
-[↑ Back to top](#)                                                                                        
+[↑ Back to top](#)

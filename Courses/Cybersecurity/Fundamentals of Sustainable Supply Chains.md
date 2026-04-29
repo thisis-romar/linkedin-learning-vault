@@ -30,7 +30,7 @@ tags:
   - skill/sustainable-business
   - skill/supply-chain-operations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Fundamentals%20of%20Sustainable%20Supply%20Chains.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Power of Planning]]** (5 videos)
-- **[[#3. 2. Suppliers and Procurement]]** (3 videos)
-- **[[#4. 3. Data Analysis and Review]]** (3 videos)
-- **[[#5. 4. Getting Supply Chain Sustainability Plans Off the Ground]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Power of Planning]]** (5 videos)
+- **[[#2. Suppliers and Procurement]]** (3 videos)
+- **[[#3. Data Analysis and Review]]** (3 videos)
+- **[[#4. Getting Supply Chain Sustainability Plans Off the Ground]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact of supply chain on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 2. 1. The Power of Planning
+### 1. The Power of Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why planning is important to achieving sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
@@ -477,7 +481,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Suppliers and Procurement
+### 2. Suppliers and Procurement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking a proactive approach to supplier management
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
@@ -683,7 +689,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Data Analysis and Review
+### 3. Data Analysis and Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why good data is important to achieve sustainability targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
@@ -894,7 +902,9 @@ created: 2026-04-28
 > **Speakers:** - from (1)
 
 
-### 5. 4. Getting Supply Chain Sustainability Plans Off the Ground
+### 4. Getting Supply Chain Sustainability Plans Off the Ground
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Refine your approach to supply chain sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)

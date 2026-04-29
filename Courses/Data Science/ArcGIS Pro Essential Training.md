@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/ArcGIS%20Pro%20Essential%20Training.md)
@@ -46,20 +46,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding ArcGIS Pro]]** (6 videos)
-- **[[#3. 2. Vector Data]]** (4 videos)
-- **[[#4. 3. Raster Data]]** (5 videos)
-- **[[#5. 4. Styling Data]]** (5 videos)
-- **[[#6. 5. Labeling Features]]** (2 videos)
-- **[[#7. 6. 3D Maps]]** (4 videos)
-- **[[#8. 7. Printing with Map Layouts]]** (3 videos)
-- **[[#9. 8. Creating Data]]** (5 videos)
-- **[[#10. 9. Geospatial Tools]]** (3 videos)
-- **[[#11. 10. Sharing Data]]** (4 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding ArcGIS Pro]]** (6 videos)
+- **[[#2. Vector Data]]** (4 videos)
+- **[[#3. Raster Data]]** (5 videos)
+- **[[#4. Styling Data]]** (5 videos)
+- **[[#5. Labeling Features]]** (2 videos)
+- **[[#6. 3D Maps]]** (4 videos)
+- **[[#7. Printing with Map Layouts]]** (3 videos)
+- **[[#8. Creating Data]]** (5 videos)
+- **[[#9. Geospatial Tools]]** (3 videos)
+- **[[#10. Sharing Data]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the amazing world of GIS using ArcGIS Pro
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/exploring-the-amazing-world-of-gis-using-arcgis-pro?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - [gordon] (1)
 
 
-### 2. 1. Understanding ArcGIS Pro
+### 1. Understanding ArcGIS Pro
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sign in to ArcGIS Pro
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980)
@@ -1003,7 +1007,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Vector Data
+### 2. Vector Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating data connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-data-connections?u=76281980)
@@ -1570,7 +1576,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Raster Data
+### 3. Raster Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Raster tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/introduction-to-raster-tools?u=76281980)
@@ -2473,7 +2481,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Styling Data
+### 4. Styling Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/point-layers?u=76281980)
@@ -3352,7 +3362,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Labeling Features
+### 5. Labeling Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Label vector data
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/label-vector-data?u=76281980)
@@ -3786,7 +3798,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. 3D Maps
+### 6. 3D Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Global 3D scenes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/global-3d-scenes?u=76281980)
@@ -4263,7 +4277,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Printing with Map Layouts
+### 7. Printing with Map Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/setting-up-layouts?u=76281980)
@@ -5205,7 +5221,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Creating Data
+### 8. Creating Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating feature classes in a geodatabase
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/creating-feature-classes-in-a-geodatabase?u=76281980)
@@ -6114,7 +6132,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 10. 9. Geospatial Tools
+### 9. Geospatial Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overlaying two vector layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/overlaying-two-vector-layers?u=76281980)
@@ -6567,7 +6587,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Sharing Data
+### 10. Sharing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Publishing to ArcGIS Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/publishing-to-arcgis-online?u=76281980)
@@ -7147,7 +7169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/next-steps?u=76281980)

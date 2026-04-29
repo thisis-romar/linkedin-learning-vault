@@ -35,7 +35,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/15%20Tips%20for%20Landing%20a%20Data%20Science%20Job.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Find Opportunities]]** (3 videos)
-- **[[#3. 2. Present Your Experience]]** (4 videos)
-- **[[#4. 3. Build Your Online Presence]]** (3 videos)
-- **[[#5. 4. Leverage Your Network]]** (2 videos)
-- **[[#6. 5. Ace Your Interviews]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Find Opportunities]]** (3 videos)
+- **[[#2. Present Your Experience]]** (4 videos)
+- **[[#3. Build Your Online Presence]]** (3 videos)
+- **[[#4. Leverage Your Network]]** (2 videos)
+- **[[#5. Ace Your Interviews]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Land your dream job
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Find Opportunities
+### 1. Find Opportunities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify job types
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980)
@@ -309,7 +313,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Present Your Experience
+### 2. Present Your Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Showcase your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980)
@@ -566,7 +572,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 4. 3. Build Your Online Presence
+### 3. Build Your Online Presence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize your LinkedIn profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
@@ -762,7 +770,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 5. 4. Leverage Your Network
+### 4. Leverage Your Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify valuable connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980)
@@ -870,7 +880,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 6. 5. Ace Your Interviews
+### 5. Ace Your Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare for assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980)
@@ -1042,7 +1054,9 @@ created: 2026-04-28
 > **Speakers:** - whether (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Begin your journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980)

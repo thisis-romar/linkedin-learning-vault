@@ -39,7 +39,7 @@ tags:
   - skill/cloud-computing
   - skill/predictive-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI%20and%20Predictive%20AI%20in%20the%20Cloud-%20Foundational%20Concepts%20and%20Scenarios.md)

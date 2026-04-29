@@ -35,7 +35,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data-Centric%20AI-%20Best%20Practices%2C%20Responsible%20AI%2C%20and%20More.md)
@@ -53,20 +53,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is Data-Centric AI?]]** (3 videos)
-- **[[#3. 2. Why Is Data-Centric AI Important?]]** (3 videos)
-- **[[#4. 3. Workflow of Data-Centric AI]]** (3 videos)
-- **[[#5. 4. MLOps: Introduction and Importance]]** (2 videos)
-- **[[#6. 5. Building Optimized MLOps with Data-Centric AI]]** (4 videos)
-- **[[#7. 6. Data-Centric AI in Action]]** (3 videos)
-- **[[#8. 7. Explainability and Interpretability]]** (3 videos)
-- **[[#9. 8. Bias Detection and Mitigation]]** (3 videos)
-- **[[#10. 9. Data Drift and Model Drift]]** (2 videos)
-- **[[#11. 10. Responsible AI]]** (2 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Data-Centric AI?]]** (3 videos)
+- **[[#2. Why Is Data-Centric AI Important?]]** (3 videos)
+- **[[#3. Workflow of Data-Centric AI]]** (3 videos)
+- **[[#4. MLOps: Introduction and Importance]]** (2 videos)
+- **[[#5. Building Optimized MLOps with Data-Centric AI]]** (4 videos)
+- **[[#6. Data-Centric AI in Action]]** (3 videos)
+- **[[#7. Explainability and Interpretability]]** (3 videos)
+- **[[#8. Bias Detection and Mitigation]]** (3 videos)
+- **[[#9. Data Drift and Model Drift]]** (2 videos)
+- **[[#10. Responsible AI]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A different approach to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. What Is Data-Centric AI?
+### 1. What Is Data-Centric AI?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980)
@@ -362,7 +366,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Why Is Data-Centric AI Important?
+### 2. Why Is Data-Centric AI Important?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Significance of data-centric AI in real-world scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980)
@@ -623,7 +629,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Workflow of Data-Centric AI
+### 3. Workflow of Data-Centric AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### End-to-end workflow of data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980)
@@ -835,7 +843,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. MLOps: Introduction and Importance
+### 4. MLOps: Introduction and Importance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose of MLOps (Machine Learning Operations)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980)
@@ -1045,7 +1055,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Building Optimized MLOps with Data-Centric AI
+### 5. Building Optimized MLOps with Data-Centric AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding data-centric AI principles into the MLOps workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980)
@@ -1506,7 +1518,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Data-Centric AI in Action
+### 6. Data-Centric AI in Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data validation, train-test validation, and model validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980)
@@ -2051,7 +2065,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Explainability and Interpretability
+### 7. Explainability and Interpretability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of model explainability and interpretability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980)
@@ -2252,7 +2268,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Bias Detection and Mitigation
+### 8. Bias Detection and Mitigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discussion on the challenges of bias in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980)
@@ -2502,7 +2520,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Data Drift and Model Drift
+### 9. Data Drift and Model Drift
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monitoring and maintaining ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980)
@@ -2820,7 +2840,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Responsible AI
+### 10. Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980)
@@ -3032,7 +3054,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Closing remarks and next steps for further learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980)

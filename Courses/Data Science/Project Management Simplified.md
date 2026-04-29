@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/project-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Project%20Management%20Simplified.md)
@@ -46,22 +46,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Define Your Project]]** (5 videos)
-- **[[#3. 2. List the Tasks]]** (2 videos)
-- **[[#4. 3. Plan the Running Order]]** (3 videos)
-- **[[#5. 4. Add Contingency]]** (2 videos)
-- **[[#6. 5. Crashing]]** (1 videos)
-- **[[#7. 6. Gantt Chart]]** (5 videos)
-- **[[#8. 7. Resources]]** (2 videos)
-- **[[#9. 8. Risk]]** (1 videos)
-- **[[#10. 9. Monitor Progress]]** (1 videos)
-- **[[#11. 10. Monitor Cost]]** (3 videos)
-- **[[#12. 11. Re-adjust the Plan]]** (2 videos)
-- **[[#13. 12. Review]]** (2 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Define Your Project]]** (5 videos)
+- **[[#2. List the Tasks]]** (2 videos)
+- **[[#3. Plan the Running Order]]** (3 videos)
+- **[[#4. Add Contingency]]** (2 videos)
+- **[[#5. Crashing]]** (1 videos)
+- **[[#6. Gantt Chart]]** (5 videos)
+- **[[#7. Resources]]** (2 videos)
+- **[[#8. Risk]]** (1 videos)
+- **[[#9. Monitor Progress]]** (1 videos)
+- **[[#10. Monitor Cost]]** (3 videos)
+- **[[#11. Re-adjust the Plan]]** (2 videos)
+- **[[#12. Review]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project management: A priceless skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
@@ -182,7 +184,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 2. 1. Define Your Project
+### 1. Define Your Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a project?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
@@ -505,7 +509,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. List the Tasks
+### 2. List the Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three ways to list all the project tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
@@ -644,7 +650,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Plan the Running Order
+### 3. Plan the Running Order
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Post-its to plan the order of tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
@@ -836,7 +844,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Add Contingency
+### 4. Add Contingency
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How much safety margin does a project need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
@@ -1001,7 +1011,9 @@ created: 2026-04-28
 > **Speakers:** - some (1)
 
 
-### 6. 5. Crashing
+### 5. Crashing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to speed up your plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
@@ -1065,7 +1077,9 @@ created: 2026-04-28
 > **Speakers:** - speeding (1)
 
 
-### 7. 6. Gantt Chart
+### 6. Gantt Chart
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to create a Gantt chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
@@ -1655,7 +1669,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Resources
+### 7. Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resource planning for one project
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
@@ -1789,7 +1805,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 9. 8. Risk
+### 8. Risk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to create a Risk chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
@@ -1856,7 +1874,9 @@ created: 2026-04-28
 > **Speakers:** - all (1)
 
 
-### 10. 9. Monitor Progress
+### 9. Monitor Progress
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to monitor project progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
@@ -1943,7 +1963,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 11. 10. Monitor Cost
+### 10. Monitor Cost
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cost monitoring: The potential traps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
@@ -2182,7 +2204,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 12. 11. Re-adjust the Plan
+### 11. Re-adjust the Plan
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to re-adjust the plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
@@ -2296,7 +2320,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 13. 12. Review
+### 12. Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why people avoid reviewing projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
@@ -2431,7 +2457,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the simple 12-step process
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)

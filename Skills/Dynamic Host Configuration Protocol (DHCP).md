@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/dynamic-host-configuration-protocol-dhcp
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Dynamic%20Host%20Configuration%20Protocol%20(DHCP).md)

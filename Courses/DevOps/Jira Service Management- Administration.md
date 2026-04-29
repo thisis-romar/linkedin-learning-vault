@@ -31,7 +31,7 @@ tags:
   - skill/it-service-management
   - skill/jira
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira%20Service%20Management-%20Administration.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Jira Service Management]]** (6 videos)
-- **[[#3. 2. Jira and JSM Differences]]** (4 videos)
-- **[[#4. 3. Setting Up a Test Environment]]** (3 videos)
-- **[[#5. 4. Managing Project Settings]]** (9 videos)
-- **[[#6. 5. Creating Service Level Agreements]]** (6 videos)
-- **[[#7. 6. Using Automation]]** (4 videos)
-- **[[#8. 7. Using Reporting]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Jira Service Management]]** (6 videos)
+- **[[#2. Jira and JSM Differences]]** (4 videos)
+- **[[#3. Setting Up a Test Environment]]** (3 videos)
+- **[[#4. Managing Project Settings]]** (9 videos)
+- **[[#5. Creating Service Level Agreements]]** (6 videos)
+- **[[#6. Using Automation]]** (4 videos)
+- **[[#7. Using Reporting]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administration in Jira Service Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
@@ -164,7 +166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Using Jira Service Management
+### 1. Using Jira Service Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Jira Service Management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
@@ -819,7 +823,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Jira and JSM Differences
+### 2. Jira and JSM Differences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JSM feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
@@ -1346,7 +1352,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 4. 3. Setting Up a Test Environment
+### 3. Setting Up a Test Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test environment tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
@@ -1561,7 +1569,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Project Settings
+### 4. Managing Project Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a service project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
@@ -3035,7 +3045,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Creating Service Level Agreements
+### 5. Creating Service Level Agreements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SLA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
@@ -3513,7 +3525,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Using Automation
+### 6. Using Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
@@ -3908,7 +3922,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Using Reporting
+### 7. Using Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reporting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
@@ -4282,7 +4298,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)

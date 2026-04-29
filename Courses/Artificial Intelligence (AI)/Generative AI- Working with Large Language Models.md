@@ -44,7 +44,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/transformer-models
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Generative%20AI-%20Working%20with%20Large%20Language%20Models.md)
@@ -62,13 +62,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Transformers in NLP]]** (3 videos)
-- **[[#3. 2. Training Transformers and Their Architecture]]** (4 videos)
-- **[[#4. 3. Large Language Models]]** (14 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Transformers in NLP]]** (3 videos)
+- **[[#2. Training Transformers and Their Architecture]]** (4 videos)
+- **[[#3. Large Language Models]]** (14 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning about Large Language Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - large (1)
 
 
-### 2. 1. Transformers in NLP
+### 1. Transformers in NLP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
@@ -244,7 +248,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Training Transformers and Their Architecture
+### 2. Training Transformers and Their Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transfer learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
@@ -527,7 +533,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 4. 3. Large Language Models
+### 3. Large Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GPT-3
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
@@ -1918,7 +1926,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going further with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)

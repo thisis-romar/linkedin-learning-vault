@@ -26,7 +26,7 @@ tags:
   - topic/security
   - skill/international-project-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management-%20International%20Projects.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Collaboration]]** (3 videos)
-- **[[#3. 2. True Communication]]** (4 videos)
-- **[[#4. 3. Distance]]** (3 videos)
-- **[[#5. 4. Culture]]** (4 videos)
-- **[[#6. 5. Language]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Collaboration]]** (3 videos)
+- **[[#2. True Communication]]** (4 videos)
+- **[[#3. Distance]]** (3 videos)
+- **[[#4. Culture]]** (4 videos)
+- **[[#5. Language]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your global project results
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - things (1)
 
 
-### 2. 1. Collaboration
+### 1. Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
@@ -276,7 +280,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. True Communication
+### 2. True Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding the illusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
@@ -537,7 +543,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Distance
+### 3. Distance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Addressing physical separation
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
@@ -736,7 +744,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 5. 4. Culture
+### 4. Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Social programming and values
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
@@ -998,7 +1008,9 @@ created: 2026-04-28
 > **Speakers:** - different (1)
 
 
-### 6. 5. Language
+### 5. Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common language
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
@@ -1273,7 +1285,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)

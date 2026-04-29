@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Filtering%20Data%20for%20Beginners.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Basic Excel Filter Concepts]]** (2 videos)
-- **[[#3. 2. Refining Filters in Excel]]** (4 videos)
-- **[[#4. 3. Excel Filtering Tips]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Basic Excel Filter Concepts]]** (2 videos)
+- **[[#2. Refining Filters in Excel]]** (4 videos)
+- **[[#3. Excel Filtering Tips]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Zero in on the right data with filters in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Basic Excel Filter Concepts
+### 1. Basic Excel Filter Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
@@ -284,7 +288,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Refining Filters in Excel
+### 2. Refining Filters in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Custom filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
@@ -643,7 +649,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Excel Filtering Tips
+### 3. Excel Filtering Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use slicers to filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
@@ -938,7 +946,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps: From filters to advanced Excel analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Outlook-%20Maximize%20Your%20Workday%20Efficiency%20(2025).md)
@@ -51,10 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Copilot in Outlook]]** (5 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Copilot in Outlook]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Copilot in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Using Copilot in Outlook
+### 1. Using Copilot in Outlook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Draft a new email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-office
   - skill/microsoft-365
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Microsoft%20Office%20Specialist-%20Excel%20Associate%20(Microsoft%20365%20Apps)%20Cert%20Prep.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Microsoft Office Specialist Exam Overview]]** (2 videos)
-- **[[#3. 2. Manage Worksheets and Workbooks]]** (15 videos)
-- **[[#4. 3. Manage Data Cells and Ranges]]** (11 videos)
-- **[[#5. 4. Manage Tables and Table Data]]** (5 videos)
-- **[[#6. 5. Perform Operations Using Formulas and Functions]]** (11 videos)
-- **[[#7. 6. Manage Charts]]** (5 videos)
-- **[[#8. 7. Final Practice Exam]]** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Microsoft Office Specialist Exam Overview]]** (2 videos)
+- **[[#2. Manage Worksheets and Workbooks]]** (15 videos)
+- **[[#3. Manage Data Cells and Ranges]]** (11 videos)
+- **[[#4. Manage Tables and Table Data]]** (5 videos)
+- **[[#5. Perform Operations Using Formulas and Functions]]** (11 videos)
+- **[[#6. Manage Charts]]** (5 videos)
+- **[[#7. Final Practice Exam]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prove your Excel skills with a MOS certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/prove-your-excel-skills-with-a-mos-certification?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Microsoft Office Specialist Exam Overview
+### 1. Microsoft Office Specialist Exam Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Different kinds of Microsoft Office Specialist certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/different-kinds-of-microsoft-office-specialist-certifications?u=76281980)
@@ -339,7 +343,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 3. 2. Manage Worksheets and Workbooks
+### 2. Manage Worksheets and Workbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Import TXT data into a new or existing workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/import-txt-data-into-a-new-or-existing-workbook?u=76281980)
@@ -2042,7 +2048,9 @@ created: 2026-04-28
 > **Versions:** 0.25 (1)
 
 
-### 4. 3. Manage Data Cells and Ranges
+### 3. Manage Data Cells and Ranges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Paste data using special paste options
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/paste-data-using-special-paste-options?u=76281980)
@@ -3116,7 +3124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Manage Tables and Table Data
+### 4. Manage Tables and Table Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-format-tables?u=76281980)
@@ -3545,7 +3555,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Perform Operations Using Formulas and Functions
+### 5. Perform Operations Using Formulas and Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Insert relative, absolute, and mixed references
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/insert-relative-absolute-and-mixed-references?u=76281980)
@@ -4533,7 +4545,9 @@ created: 2026-04-28
 > **Best Practices:** always make sure (1)
 
 
-### 7. 6. Manage Charts
+### 6. Manage Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and modify charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-modify-charts?u=76281980)
@@ -4980,7 +4994,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Final Practice Exam
+### 7. Final Practice Exam
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Full-length practice exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/challenge-full-length-practice-exam?u=76281980)

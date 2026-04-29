@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Embeddings.md)
@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding Embeddings]]** (2 videos)
-- **[[#3. 2. Obtaining Embeddings via the Embeddings API]]** (3 videos)
-- **[[#4. 3. Using Embeddings in the Real World]]** (2 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Embeddings]]** (2 videos)
+- **[[#2. Obtaining Embeddings via the Embeddings API]]** (3 videos)
+- **[[#3. Using Embeddings in the Real World]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - [kesha] (1)
 
 
-### 2. 1. Understanding Embeddings
+### 1. Understanding Embeddings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
@@ -198,7 +202,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Obtaining Embeddings via the Embeddings API
+### 2. Obtaining Embeddings via the Embeddings API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the Embeddings API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
@@ -429,7 +435,9 @@ created: 2026-04-28
 > **URLs:** [openai.com](https://openai.com) (1)
 
 
-### 4. 3. Using Embeddings in the Real World
+### 3. Using Embeddings in the Real World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cluster similar words
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
@@ -608,7 +616,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your embeddings journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)

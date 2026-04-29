@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-outlook
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Outlook%20Desktop%20(Microsoft%20365).md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Get Started]]** (2 videos)
-- **[[#3. 2. Work with Email]]** (5 videos)
-- **[[#4. 3. Work with Contacts]]** (2 videos)
-- **[[#5. 4. Work with the Calendar]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started]]** (2 videos)
+- **[[#2. Work with Email]]** (5 videos)
+- **[[#3. Work with Contacts]]** (2 videos)
+- **[[#4. Work with the Calendar]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stay organized and collaborate with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started
+### 1. Get Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add an email account
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
@@ -295,7 +299,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Work with Email
+### 2. Work with Email
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Read your mail
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
@@ -730,7 +736,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Work with Contacts
+### 3. Work with Contacts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
@@ -895,7 +903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Work with the Calendar
+### 4. Work with the Calendar
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigate the calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
@@ -1242,7 +1252,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more features of Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)

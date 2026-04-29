@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/electronics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Electronics%20Foundations-%20Fundamentals.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Fundamentals of Electricity]]** (9 videos)
-- **[[#3. 2. Multimeter Measurements]]** (3 videos)
-- **[[#4. 3. Power]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Fundamentals of Electricity]]** (9 videos)
+- **[[#2. Multimeter Measurements]]** (3 videos)
+- **[[#3. Power]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The fundamentals of electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
@@ -185,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - working (1)
 
 
-### 2. 1. Fundamentals of Electricity
+### 1. Fundamentals of Electricity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Electrical charge
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
@@ -814,7 +818,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat bright bouncy music) (1)
 
 
-### 3. 2. Multimeter Measurements
+### 2. Multimeter Measurements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a multimeter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
@@ -1081,7 +1087,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Power
+### 3. Power
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Electric power
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
@@ -1558,7 +1566,9 @@ created: 2026-04-28
 > **Non-Speech:** (offbeat uplifting music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your electronics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)

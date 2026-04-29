@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20and%20CSS-%20Linking.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Links in HTML]]** (10 videos)
-- **[[#3. 2. Styling Links with CSS]]** (6 videos)
-- **[[#4. 3. Maintaining Links]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Links in HTML]]** (10 videos)
+- **[[#2. Styling Links with CSS]]** (6 videos)
+- **[[#3. Maintaining Links]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hyperlinks: The glue connecting the World Wide Web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - links (1)
 
 
-### 2. 1. Links in HTML
+### 1. Links in HTML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basic link
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
@@ -1106,7 +1110,9 @@ created: 2026-04-28
 > **Analogies:** kind of like (1)
 
 
-### 3. 2. Styling Links with CSS
+### 2. Styling Links with CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Styling links and link states
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
@@ -1781,7 +1787,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Maintaining Links
+### 3. Maintaining Links
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Checking sites for link rot and broken links
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
@@ -2246,7 +2254,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)

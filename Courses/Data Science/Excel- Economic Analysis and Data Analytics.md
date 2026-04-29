@@ -38,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Economic%20Analysis%20and%20Data%20Analytics.md)
@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1.The Basics]]** (6 videos)
-- **[[#3. 2. Economic Data Analysis]]** (5 videos)
-- **[[#4. 3. Forecasting Economic Trends]]** (6 videos)
-- **[[#5. 4. Using Economic Forecasts]]** (3 videos)
-- **[[#6. 5. Economic Data]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1.The Basics]]** (6 videos)
+- **[[#2. Economic Data Analysis]]** (5 videos)
+- **[[#3. Forecasting Economic Trends]]** (6 videos)
+- **[[#4. Using Economic Forecasts]]** (3 videos)
+- **[[#5. Economic Data]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Economic forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/economic-forecasting?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1.The Basics
+### 1.The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of economic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/basics-of-economic-analysis?u=76281980)
@@ -619,7 +623,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Economic Data Analysis
+### 2. Economic Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trend analysis in forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/trend-analysis-in-forecasting?u=76281980)
@@ -1342,7 +1348,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Forecasting Economic Trends
+### 3. Forecasting Economic Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced forecasting methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/advanced-forecasting-methods?u=76281980)
@@ -1929,7 +1937,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using Economic Forecasts
+### 4. Using Economic Forecasts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/what-do-the-results-mean?u=76281980)
@@ -2418,7 +2428,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 6. 5. Economic Data
+### 5. Economic Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common economic variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/common-economic-variables?u=76281980)
@@ -2887,7 +2899,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Projects to try next
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics-15102394/projects-to-try-next?u=76281980)

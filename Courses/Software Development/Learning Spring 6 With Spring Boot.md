@@ -34,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Spring%206%20With%20Spring%20Boot.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Spring Boot]]** (5 videos)
-- **[[#3. 2. Data Access in Spring]]** (6 videos)
-- **[[#4. 3. Service Tier]]** (3 videos)
-- **[[#5. 4. Web Pages with Spring]]** (5 videos)
-- **[[#6. 5. Exposing RESTful Endpoints]]** (4 videos)
-- **[[#7. 6. Additional Topics with Spring Boot]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Spring Boot]]** (5 videos)
+- **[[#2. Data Access in Spring]]** (6 videos)
+- **[[#3. Service Tier]]** (3 videos)
+- **[[#4. Web Pages with Spring]]** (5 videos)
+- **[[#5. Exposing RESTful Endpoints]]** (4 videos)
+- **[[#6. Additional Topics with Spring Boot]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn the premier framework for the JVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
@@ -275,7 +277,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (2)
 
 
-### 2. 1. Getting Started with Spring Boot
+### 1. Getting Started with Spring Boot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
@@ -720,7 +724,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Access in Spring
+### 2. Data Access in Spring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
@@ -1181,7 +1187,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 4. 3. Service Tier
+### 3. Service Tier
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand dependency injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
@@ -1510,7 +1518,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Web Pages with Spring
+### 4. Web Pages with Spring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
@@ -1764,7 +1774,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Exposing RESTful Endpoints
+### 5. Exposing RESTful Endpoints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding RestController
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
@@ -1998,7 +2010,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Additional Topics with Spring Boot
+### 6. Additional Topics with Spring Boot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test Spring Boot applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
@@ -2227,7 +2241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)

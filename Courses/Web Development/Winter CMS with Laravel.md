@@ -28,7 +28,7 @@ tags:
   - skill/content-management-systems-cms
   - skill/laravel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Winter%20CMS%20with%20Laravel.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Introduction to Winter CMS]]** (3 videos)
-- **[[#3. 2. Moving to Winter]]** (6 videos)
-- **[[#4. 3. Using Winter Features]]** (5 videos)
-- **[[#5. 4. Winter Plug-Ins and Prepping for Production]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Introduction to Winter CMS]]** (3 videos)
+- **[[#2. Moving to Winter]]** (6 videos)
+- **[[#3. Using Winter Features]]** (5 videos)
+- **[[#4. Winter Plug-Ins and Prepping for Production]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to turn a static website into a content-managed one
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
@@ -231,7 +233,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 2. 1. Introduction to Winter CMS
+### 1. Introduction to Winter CMS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Winter CMS overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
@@ -476,7 +480,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Moving to Winter
+### 2. Moving to Winter
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the default theme and creating your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
@@ -1029,7 +1035,9 @@ created: 2026-04-28
 > **Speakers:** - continuing (1)
 
 
-### 4. 3. Using Winter Features
+### 3. Using Winter Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using a plug-in to set the navbar
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
@@ -1388,7 +1396,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Winter Plug-Ins and Prepping for Production
+### 4. Winter Plug-Ins and Prepping for Production
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Magic Forms plug-in
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
@@ -1687,7 +1697,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further your knowledge and connect to the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)

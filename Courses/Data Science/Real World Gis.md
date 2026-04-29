@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Real%20World%20Gis.md)
@@ -42,17 +42,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Got GIS Data?]]** (10 videos)
-- **[[#3. 2. What Can Be Done with GIS Data?]]** (6 videos)
-- **[[#4. 3. What Is Up with Projections?]]** (6 videos)
-- **[[#5. 4. How to Collect GIS Data in the Field?]]** (6 videos)
-- **[[#6. 5. How to Master ArcGIS Online?]]** (6 videos)
-- **[[#7. 6. How to Build a GIS Project from Scratch?]]** (20 videos)
-- **[[#8. 7. How to Land a GIS job?]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Got GIS Data?]]** (10 videos)
+- **[[#2. What Can Be Done with GIS Data?]]** (6 videos)
+- **[[#3. What Is Up with Projections?]]** (6 videos)
+- **[[#4. How to Collect GIS Data in the Field?]]** (6 videos)
+- **[[#5. How to Master ArcGIS Online?]]** (6 videos)
+- **[[#6. How to Build a GIS Project from Scratch?]]** (20 videos)
+- **[[#7. How to Land a GIS job?]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Need help with your GIS projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Got GIS Data?
+### 1. Got GIS Data?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where is the GIS data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
@@ -945,7 +949,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. What Can Be Done with GIS Data?
+### 2. What Can Be Done with GIS Data?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding GIS data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
@@ -1450,7 +1456,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. What Is Up with Projections?
+### 3. What Is Up with Projections?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to understand the latitude, longitude, and scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
@@ -2074,7 +2082,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. How to Collect GIS Data in the Field?
+### 4. How to Collect GIS Data in the Field?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Geospatial data collection basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
@@ -3137,7 +3147,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. 5. How to Master ArcGIS Online?
+### 5. How to Master ArcGIS Online?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ArcGIS Online?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
@@ -4355,7 +4367,9 @@ created: 2026-04-28
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 
 
-### 7. 6. How to Build a GIS Project from Scratch?
+### 6. How to Build a GIS Project from Scratch?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Get the GIS data
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
@@ -5453,7 +5467,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. How to Land a GIS job?
+### 7. How to Land a GIS job?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the different types of GIS jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
@@ -5761,7 +5777,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are your next steps in GIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)

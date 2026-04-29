@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - skill/devops
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/DevOps%20Foundations-%20Your%20First%20Project.md)
@@ -44,17 +44,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Project/The Mission]]** (3 videos)
-- **[[#3. 2. Testing Locally with Docker]]** (4 videos)
-- **[[#4. 3. Getting Started with Git]]** (4 videos)
-- **[[#5. 4. Collaborative Version Control]]** (6 videos)
-- **[[#6. 5.  Testing Your App with RSpec, Capybara, and Selenium]]** (9 videos)
-- **[[#7. 6. Infrastructure as Code with OpenTofu]]** (10 videos)
-- **[[#8. 7. CI/CD as Code]]** (8 videos)
-- **[[#9. 8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Project/The Mission]]** (3 videos)
+- **[[#2. Testing Locally with Docker]]** (4 videos)
+- **[[#3. Getting Started with Git]]** (4 videos)
+- **[[#4. Collaborative Version Control]]** (6 videos)
+- **[[#5.  Testing Your App with RSpec, Capybara, and Selenium]]** (9 videos)
+- **[[#6. Infrastructure as Code with OpenTofu]]** (10 videos)
+- **[[#7. CI/CD as Code]]** (8 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your first project, DevOps-ified!
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980)
@@ -364,7 +366,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (2), install (1)
 
 
-### 2. 1. The Project/The Mission
+### 1. The Project/The Mission
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### So what is this DevOps thing anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980)
@@ -613,7 +617,9 @@ created: 2026-04-28
 > **Code Identifiers:** ios (1)
 
 
-### 3. 2. Testing Locally with Docker
+### 2. Testing Locally with Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bring production to your laptop with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980)
@@ -1251,7 +1257,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Getting Started with Git
+### 3. Getting Started with Git
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Version control: The secret weapon of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980)
@@ -1692,7 +1700,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 5. 4. Collaborative Version Control
+### 4. Collaborative Version Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beyond local repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980)
@@ -2511,7 +2521,9 @@ created: 2026-04-28
 > **URLs:** [example.com](https://example.com) (2)
 
 
-### 6. 5.  Testing Your App with RSpec, Capybara, and Selenium
+### 5.  Testing Your App with RSpec, Capybara, and Selenium
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test often, ship often
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980)
@@ -3560,7 +3572,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1), just like (1)
 
 
-### 7. 6. Infrastructure as Code with OpenTofu
+### 6. Infrastructure as Code with OpenTofu
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploy with confidence with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980)
@@ -4796,7 +4810,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 8. 7. CI/CD as Code
+### 7. CI/CD as Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shipping fast with CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980)
@@ -5826,7 +5842,9 @@ created: 2026-04-28
 > **File Paths:** unit/page_spec.rb (1), gitlab-ci.yml (1)
 
 
-### 9. 8. Conclusion
+### 8. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980)

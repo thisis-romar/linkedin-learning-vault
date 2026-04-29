@@ -32,7 +32,7 @@ tags:
   - topic/devops
   - skill/agile-software-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Agile%20Software%20Development-%20Remote%20Teams%20(2019).md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Remote Working]]** (3 videos)
-- **[[#3. 2. Collaboration and Conversations]]** (9 videos)
-- **[[#4. 3. Technical Excellence & Security]]** (7 videos)
-- **[[#5. 4. Deploying Early and Often]]** (3 videos)
-- **[[#6. 5. Hiring, Planning, and Measuring]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Remote Working]]** (3 videos)
+- **[[#2. Collaboration and Conversations]]** (9 videos)
+- **[[#3. Technical Excellence & Security]]** (7 videos)
+- **[[#4. Deploying Early and Often]]** (3 videos)
+- **[[#5. Hiring, Planning, and Measuring]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remote-first culture for agile teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Remote Working
+### 1. Remote Working
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The rise of remote working
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
@@ -340,7 +344,9 @@ created: 2026-04-28
 > **Speakers:** - about (1)
 
 
-### 3. 2. Collaboration and Conversations
+### 2. Collaboration and Conversations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remote working models
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
@@ -1048,7 +1054,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Technical Excellence & Security
+### 3. Technical Excellence & Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtual private networks (VPNs) and firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
@@ -1511,7 +1519,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Deploying Early and Often
+### 4. Deploying Early and Often
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Atomic commits: One change, one commit
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
@@ -1698,7 +1708,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Hiring, Planning, and Measuring
+### 5. Hiring, Planning, and Measuring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating job descriptions for remote positions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
@@ -2194,7 +2206,9 @@ created: 2026-04-28
 > **Speakers:** - regular (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)

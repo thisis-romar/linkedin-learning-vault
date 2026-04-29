@@ -31,7 +31,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Selenium-%20Structure%2C%20Scale%2C%20Run%2C%20and%20Optimize%20Automated%20Tests.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Selenium]]** (10 videos)
-- **[[#3. 2. Structuring Your Tests]]** (7 videos)
-- **[[#4. 3. Running Tests at Scale]]** (5 videos)
-- **[[#5. 4. Enhancing Tests with Modern Tools]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Selenium]]** (10 videos)
+- **[[#2. Structuring Your Tests]]** (7 videos)
+- **[[#3. Running Tests at Scale]]** (5 videos)
+- **[[#4. Enhancing Tests with Modern Tools]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn Selenium for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
@@ -198,7 +200,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started with Selenium
+### 1. Getting Started with Selenium
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the Selenium framework for macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
@@ -813,7 +817,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Structuring Your Tests
+### 2. Structuring Your Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a page object model (POM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
@@ -1266,7 +1272,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Running Tests at Scale
+### 3. Running Tests at Scale
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test across browsers locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
@@ -1707,7 +1715,9 @@ created: 2026-04-28
 > **Env Vars:** readme (3)
 
 
-### 5. 4. Enhancing Tests with Modern Tools
+### 4. Enhancing Tests with Modern Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capture screenshots on failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
@@ -2043,7 +2053,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)

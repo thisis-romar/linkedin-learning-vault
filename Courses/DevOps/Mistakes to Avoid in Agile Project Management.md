@@ -26,7 +26,7 @@ tags:
   - topic/devops
   - skill/agile-project-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Launching Agile Project Management]]** (4 videos)
-- **[[#3. 2. Mistakes When Gaining Buy-In]]** (3 videos)
-- **[[#4. 3. Mistakes When Building Teams]]** (4 videos)
-- **[[#5. 4. Mistakes When Setting Cadence]]** (4 videos)
-- **[[#6. 5. Mistakes When Making Improvements]]** (4 videos)
-- **[[#7. 6. Mistakes When Managing Work]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Launching Agile Project Management]]** (4 videos)
+- **[[#2. Mistakes When Gaining Buy-In]]** (3 videos)
+- **[[#3. Mistakes When Building Teams]]** (4 videos)
+- **[[#4. Mistakes When Setting Cadence]]** (4 videos)
+- **[[#5. Mistakes When Making Improvements]]** (4 videos)
+- **[[#6. Mistakes When Managing Work]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Launching Agile Project Management
+### 1. Launching Agile Project Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Misunderstanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
@@ -386,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - changing (1)
 
 
-### 3. 2. Mistakes When Gaining Buy-In
+### 2. Mistakes When Gaining Buy-In
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Not setting the tone
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
@@ -608,7 +614,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Mistakes When Building Teams
+### 3. Mistakes When Building Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assigning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
@@ -927,7 +935,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Mistakes When Setting Cadence
+### 4. Mistakes When Setting Cadence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Not planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
@@ -1229,7 +1239,9 @@ created: 2026-04-28
 > **Speakers:** - feedback (1)
 
 
-### 6. 5. Mistakes When Making Improvements
+### 5. Mistakes When Making Improvements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting too large
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
@@ -1541,7 +1553,9 @@ created: 2026-04-28
 > **Speakers:** - handoffs (1)
 
 
-### 7. 6. Mistakes When Managing Work
+### 6. Mistakes When Managing Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unclear priorities
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
@@ -1766,7 +1780,9 @@ created: 2026-04-28
 > **Speakers:** - traditional (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting yourself up for long-term success
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)

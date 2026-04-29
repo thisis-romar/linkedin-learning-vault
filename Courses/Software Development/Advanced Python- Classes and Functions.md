@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Classes%20and%20Functions.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Language Features]]** (5 videos)
-- **[[#3. 2. Advanced Functions]]** (5 videos)
-- **[[#4. 3. Python Comprehensions]]** (5 videos)
-- **[[#5. 4. Classes and Objects]]** (7 videos)
-- **[[#6. 5. Structural Pattern Matching]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Language Features]]** (5 videos)
+- **[[#2. Advanced Functions]]** (5 videos)
+- **[[#3. Python Comprehensions]]** (5 videos)
+- **[[#4. Classes and Objects]]** (7 videos)
+- **[[#5. Structural Pattern Matching]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980)
@@ -247,7 +249,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Language Features
+### 1. Language Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python coding style
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980)
@@ -822,7 +826,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Advanced Functions
+### 2. Advanced Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980)
@@ -1309,7 +1315,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Python Comprehensions
+### 3. Python Comprehensions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to comprehensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980)
@@ -1824,7 +1832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Classes and Objects
+### 4. Classes and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python classes overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980)
@@ -2781,7 +2791,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Structural Pattern Matching
+### 5. Structural Pattern Matching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980)
@@ -3329,7 +3341,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980)

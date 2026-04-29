@@ -36,7 +36,7 @@ tags:
   - skill/technical-support
   - skill/windows-10
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%2010%20for%20IT%20Support-%20Troubleshooting%20Basics.md)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-hr
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20Future%20of%20Workforce%20Learning-%20AI-Powered%20Personalization%20for%20Skill%20Development.md)

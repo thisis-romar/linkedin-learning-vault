@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20AI%20as%20Your%20SEO%20Assistant.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Using AI to Improve Your SEO]]** (11 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Using AI to Improve Your SEO]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### You plus AI equals better SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
@@ -191,7 +193,9 @@ created: 2026-04-28
 > **Speakers:** - thanks (1)
 
 
-### 2. 1. Using AI to Improve Your SEO
+### 1. Using AI to Improve Your SEO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to generate keywords for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
@@ -1590,7 +1594,9 @@ created: 2026-04-28
 > **Speakers:** - just (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)

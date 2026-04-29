@@ -30,7 +30,7 @@ tags:
   - skill/stata
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%2C%20Economic%20Modeling%2C%20and%20Forecasting%20with%20Stata.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Overview]]** (2 videos)
-- **[[#3. 2. Modeling Basics]]** (5 videos)
-- **[[#4. 3. Screencap Basics in Stata]]** (11 videos)
-- **[[#5. 4. Advanced Topics]]** (1 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview]]** (2 videos)
+- **[[#2. Modeling Basics]]** (5 videos)
+- **[[#3. Screencap Basics in Stata]]** (11 videos)
+- **[[#4. Advanced Topics]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be prepared for the data jobs of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - people (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose of modeling in Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
@@ -148,7 +152,9 @@ created: 2026-04-28
 > **Speakers:** - big (1)
 
 
-### 3. 2. Modeling Basics
+### 2. Modeling Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Statistics and econometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
@@ -337,7 +343,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Screencap Basics in Stata
+### 3. Screencap Basics in Stata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview and enter data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
@@ -1039,7 +1047,9 @@ created: 2026-04-28
 > **Speakers:** - [jason] (1)
 
 
-### 5. 4. Advanced Topics
+### 4. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
@@ -1151,7 +1161,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)

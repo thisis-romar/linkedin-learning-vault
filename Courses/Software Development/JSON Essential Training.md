@@ -34,7 +34,7 @@ tags:
   - topic/network-and-system-administration
   - skill/json
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JSON%20Essential%20Training.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Understanding JSON]]** (7 videos)
-- **[[#3. 2. Processing JSON Data]]** (5 videos)
-- **[[#4. 3. Using JSON Data]]** (7 videos)
-- **[[#5. 4. Applying Techniques for Working with JSON]]** (3 videos)
-- **[[#6. 5. Working with JSON Schema]]** (7 videos)
-- **[[#7. 6. Structuring Data with JSON-LD]]** (7 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Understanding JSON]]** (7 videos)
+- **[[#2. Processing JSON Data]]** (5 videos)
+- **[[#3. Using JSON Data]]** (7 videos)
+- **[[#4. Applying Techniques for Working with JSON]]** (3 videos)
+- **[[#5. Working with JSON Schema]]** (7 videos)
+- **[[#6. Structuring Data with JSON-LD]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The essentials of using JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Understanding JSON
+### 1. Understanding JSON
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is JSON?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980)
@@ -750,7 +754,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 3. 2. Processing JSON Data
+### 2. Processing JSON Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Process JSON with language tools and libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980)
@@ -1092,7 +1098,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Using JSON Data
+### 3. Using JSON Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to send and receive JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980)
@@ -1553,7 +1561,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Applying Techniques for Working with JSON
+### 4. Applying Techniques for Working with JSON
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prevent data reuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980)
@@ -1879,7 +1889,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. 5. Working with JSON Schema
+### 5. Working with JSON Schema
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is JSON Schema?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980)
@@ -2630,7 +2642,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. 6. Structuring Data with JSON-LD
+### 6. Structuring Data with JSON-LD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is JSON-LD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980)
@@ -3311,7 +3325,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980)

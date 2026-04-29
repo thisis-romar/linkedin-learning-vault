@@ -30,7 +30,7 @@ tags:
   - skill/troubleshooting
   - skill/windows-10
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010%20for%20IT%20Support-%20Advanced%20Troubleshooting.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Devices and Services]]** (6 videos)
-- **[[#3. 2. Network Troubleshooting]]** (8 videos)
-- **[[#4. 3. Troubleshooting Logins]]** (3 videos)
-- **[[#5. 4. Troubleshooting System Updates and Integrity]]** (7 videos)
-- **[[#6. 5. Performance Troubleshooting]]** (4 videos)
-- **[[#7. 6. Troubleshooting the Blue Screen of Death]]** (6 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Devices and Services]]** (6 videos)
+- **[[#2. Network Troubleshooting]]** (8 videos)
+- **[[#3. Troubleshooting Logins]]** (3 videos)
+- **[[#4. Troubleshooting System Updates and Integrity]]** (7 videos)
+- **[[#5. Performance Troubleshooting]]** (4 videos)
+- **[[#6. Troubleshooting the Blue Screen of Death]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn advanced troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [brien] (1)
 
 
-### 2. 1. Devices and Services
+### 1. Devices and Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Checking for stopped services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
@@ -623,7 +627,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Network Troubleshooting
+### 2. Network Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Verifying IP address assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
@@ -1331,7 +1337,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Troubleshooting Logins
+### 3. Troubleshooting Logins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fixing a computer account
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
@@ -1644,7 +1652,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 5. 4. Troubleshooting System Updates and Integrity
+### 4. Troubleshooting System Updates and Integrity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running CHKDSK
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
@@ -2121,7 +2131,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Performance Troubleshooting
+### 5. Performance Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Task Manager for performance assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
@@ -2450,7 +2462,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Troubleshooting the Blue Screen of Death
+### 6. Troubleshooting the Blue Screen of Death
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a blue screen error on demand
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
@@ -2904,7 +2918,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)

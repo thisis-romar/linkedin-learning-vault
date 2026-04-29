@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Crafting%20Meaningful%20HTML.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Convert Content to Semantic HTML Markup]]** (7 videos)
-- **[[#3. 2. Build the Rest of the Webpage]]** (9 videos)
-- **[[#4. 3. Additional Important Semantic Elements]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Convert Content to Semantic HTML Markup]]** (7 videos)
+- **[[#2. Build the Rest of the Webpage]]** (9 videos)
+- **[[#3. Additional Important Semantic Elements]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Craft meaningful HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
@@ -154,7 +156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Convert Content to Semantic HTML Markup
+### 1. Convert Content to Semantic HTML Markup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore content and add it to CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
@@ -815,7 +819,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Build the Rest of the Webpage
+### 2. Build the Rest of the Webpage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Move your code from CodePen to Visual Studio Code (VS Code)
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
@@ -1893,7 +1899,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Additional Important Semantic Elements
+### 3. Additional Important Semantic Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controlling breaks with <wbr> or &shy;
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
@@ -2393,7 +2401,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)

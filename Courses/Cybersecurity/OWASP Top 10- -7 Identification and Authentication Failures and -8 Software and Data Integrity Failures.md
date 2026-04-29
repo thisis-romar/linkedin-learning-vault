@@ -36,7 +36,7 @@ tags:
   - skill/identity-and-access-management-iam
   - skill/data-integrity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-7%20Identification%20and%20Authentication%20Failures%20and%20-8%20Software%20and%20Data%20Integrity%20Failures.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Identification and Authentication Failures]]** (6 videos)
-- **[[#3. 2. Software and Data Integrity Failures]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Identification and Authentication Failures]]** (6 videos)
+- **[[#2. Software and Data Integrity Failures]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Identification and Authentication Failures
+### 1. Identification and Authentication Failures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are identification and authentication failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980)
@@ -471,7 +475,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Software and Data Integrity Failures
+### 2. Software and Data Integrity Failures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are software and data integrity failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980)
@@ -765,7 +771,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980)

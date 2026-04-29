@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/version-control
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Version%20Control.md)

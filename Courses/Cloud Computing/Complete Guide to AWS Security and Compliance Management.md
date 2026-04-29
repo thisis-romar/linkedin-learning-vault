@@ -33,7 +33,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/aws-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Security%20and%20Compliance%20Management.md)
@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. AWS Security Foundations]]** (12 videos)
-- **[[#3. 2. IAM Concepts in AWS]]** (34 videos)
-- **[[#4. 3. Multi-Account Access]]** (7 videos)
-- **[[#5. 4. Detection and Response]]** (20 videos)
-- **[[#6. 5. Network and Application Protection]]** (10 videos)
-- **[[#7. 6. Data Protection and Operations]]** (31 videos)
-- **[[#8. 7. S3 Access Management]]** (22 videos)
-- **[[#9. 8. Security Audits in AWS]]** (9 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AWS Security Foundations]]** (12 videos)
+- **[[#2. IAM Concepts in AWS]]** (34 videos)
+- **[[#3. Multi-Account Access]]** (7 videos)
+- **[[#4. Detection and Response]]** (20 videos)
+- **[[#5. Network and Application Protection]]** (10 videos)
+- **[[#6. Data Protection and Operations]]** (31 videos)
+- **[[#7. S3 Access Management]]** (22 videos)
+- **[[#8. Security Audits in AWS]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AWS Security Foundations
+### 1. AWS Security Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980)
@@ -1388,7 +1392,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 3. 2. IAM Concepts in AWS
+### 2. IAM Concepts in AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Identity and Access Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980)
@@ -4280,7 +4286,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 4. 3. Multi-Account Access
+### 3. Multi-Account Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-organizations?u=76281980)
@@ -4866,7 +4874,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Detection and Response
+### 4. Detection and Response
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980)
@@ -6672,7 +6682,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Network and Application Protection
+### 5. Network and Application Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Web Application Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980)
@@ -7555,7 +7567,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Data Protection and Operations
+### 6. Data Protection and Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Amazon Macie
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980)
@@ -10427,7 +10441,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. S3 Access Management
+### 7. S3 Access Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring S3 management options
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980)
@@ -12835,7 +12851,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Security Audits in AWS
+### 8. Security Audits in AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AWS Security Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980)
@@ -13842,7 +13860,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980)

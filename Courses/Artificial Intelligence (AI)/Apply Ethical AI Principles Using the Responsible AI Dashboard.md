@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Apply%20Ethical%20AI%20Principles%20Using%20the%20Responsible%20AI%20Dashboard.md)
@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Foundations of Responsible AI]]** (5 videos)
-- **[[#3. 2. Using the Responsible AI Dashboard]]** (8 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Foundations of Responsible AI]]** (5 videos)
+- **[[#2. Using the Responsible AI Dashboard]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Foundations of Responsible AI
+### 1. Foundations of Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is responsible AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980)
@@ -283,7 +287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using the Responsible AI Dashboard
+### 2. Using the Responsible AI Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980)
@@ -833,7 +839,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980)

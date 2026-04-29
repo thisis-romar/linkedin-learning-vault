@@ -32,7 +32,7 @@ tags:
   - skill/spring-security
   - skill/spring-boot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%206-%20Spring%20Security.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Spring Security Concepts]]** (2 videos)
-- **[[#3. 2. Securing Web Applications with Spring]]** (9 videos)
-- **[[#4. 3. LDAP Authentication]]** (4 videos)
-- **[[#5. 4. Leveraging OAuth 2.0 with Spring Security]]** (3 videos)
-- **[[#6. 5. WebFlux Security]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Spring Security Concepts]]** (2 videos)
+- **[[#2. Securing Web Applications with Spring]]** (9 videos)
+- **[[#3. LDAP Authentication]]** (4 videos)
+- **[[#4. Leveraging OAuth 2.0 with Spring Security]]** (3 videos)
+- **[[#5. WebFlux Security]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure with Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980)
@@ -149,7 +151,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 2. 1. Spring Security Concepts
+### 1. Spring Security Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Spring Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980)
@@ -300,7 +304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Securing Web Applications with Spring
+### 2. Securing Web Applications with Spring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980)
@@ -1180,7 +1186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. LDAP Authentication
+### 3. LDAP Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to LDAP for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980)
@@ -1483,7 +1491,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Leveraging OAuth 2.0 with Spring Security
+### 4. Leveraging OAuth 2.0 with Spring Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980)
@@ -1784,7 +1794,9 @@ created: 2026-04-28
 > **Versions:** java 21 (1)
 
 
-### 6. 5. WebFlux Security
+### 5. WebFlux Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to WebFlux Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980)
@@ -1944,7 +1956,9 @@ created: 2026-04-28
 > **Tools:** terminal (2)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980)

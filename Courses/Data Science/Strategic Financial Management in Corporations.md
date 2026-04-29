@@ -30,7 +30,7 @@ tags:
   - skill/corporate-finance
   - skill/strategic-financial-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Financial%20Management%20in%20Corporations.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Navigate Corporate Financial Structures]]** (2 videos)
-- **[[#3. 2. Optimize Investment Decisions and Capital Allocation]]** (3 videos)
-- **[[#4. 3. Enhance Financing Strategies and Capital Structure]]** (2 videos)
-- **[[#5. 4. Streamline Working Capital and Cash Flow Strategies]]** (2 videos)
-- **[[#6. 5. Assess Valuation and Navigate Post-Merger Integration]]** (2 videos)
-- **[[#7. 6. Develop Risk Management Strategies and Ensure Compliance]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Navigate Corporate Financial Structures]]** (2 videos)
+- **[[#2. Optimize Investment Decisions and Capital Allocation]]** (3 videos)
+- **[[#3. Enhance Financing Strategies and Capital Structure]]** (2 videos)
+- **[[#4. Streamline Working Capital and Cash Flow Strategies]]** (2 videos)
+- **[[#5. Assess Valuation and Navigate Post-Merger Integration]]** (2 videos)
+- **[[#6. Develop Risk Management Strategies and Ensure Compliance]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Drive business success through strategic financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Navigate Corporate Financial Structures
+### 1. Navigate Corporate Financial Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Differentiate between corporate financial structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980)
@@ -244,7 +248,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 3. 2. Optimize Investment Decisions and Capital Allocation
+### 2. Optimize Investment Decisions and Capital Allocation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluate corporate investment opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/evaluate-corporate-investment-opportunities?u=76281980)
@@ -421,7 +427,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Enhance Financing Strategies and Capital Structure
+### 3. Enhance Financing Strategies and Capital Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strengthen capital structure for corporate growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/strengthen-capital-structure-for-corporate-growth?u=76281980)
@@ -583,7 +591,9 @@ created: 2026-04-28
 > **Best Practices:** you should always (1)
 
 
-### 5. 4. Streamline Working Capital and Cash Flow Strategies
+### 4. Streamline Working Capital and Cash Flow Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enhance cash flow management for corporate financial health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980)
@@ -732,7 +742,9 @@ created: 2026-04-28
 > **Code Keywords:** let (2), finally, (1)
 
 
-### 6. 5. Assess Valuation and Navigate Post-Merger Integration
+### 5. Assess Valuation and Navigate Post-Merger Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assess company valuation for mergers and acquisitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980)
@@ -854,7 +866,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 7. 6. Develop Risk Management Strategies and Ensure Compliance
+### 6. Develop Risk Management Strategies and Ensure Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design a corporate risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980)
@@ -994,7 +1008,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Achieve corporate finance success
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980)

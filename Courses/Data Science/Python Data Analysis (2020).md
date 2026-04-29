@@ -29,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Data%20Analysis%20(2020).md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Installation and Setup]]** (5 videos)
-- **[[#3. 2. Data Structures in Pure Python]]** (5 videos)
-- **[[#4. 3. Wordplay: Anagrams and Palindromes]]** (5 videos)
-- **[[#5. 4. Arrays with NumPy]]** (5 videos)
-- **[[#6. 5. Use Case: Weather Data]]** (7 videos)
-- **[[#7. 6. pandas]]** (4 videos)
-- **[[#8. 7. Use Case: Baby Names]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Installation and Setup]]** (5 videos)
+- **[[#2. Data Structures in Pure Python]]** (5 videos)
+- **[[#3. Wordplay: Anagrams and Palindromes]]** (5 videos)
+- **[[#4. Arrays with NumPy]]** (5 videos)
+- **[[#5. Use Case: Weather Data]]** (7 videos)
+- **[[#6. pandas]]** (4 videos)
+- **[[#7. Use Case: Baby Names]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started in data analysis with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Installation and Setup
+### 1. Installation and Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install Anaconda Python on OS X
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
@@ -478,7 +482,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 3. 2. Data Structures in Pure Python
+### 2. Data Structures in Pure Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
@@ -1141,7 +1147,9 @@ created: 2026-04-28
 > **Code Identifiers:** collection_defaultdict (1)
 
 
-### 4. 3. Wordplay: Anagrams and Palindromes
+### 3. Wordplay: Anagrams and Palindromes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Anagrams overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
@@ -1532,7 +1540,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Arrays with NumPy
+### 4. Arrays with NumPy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
@@ -2063,7 +2073,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Use Case: Weather Data
+### 5. Use Case: Weather Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
@@ -2642,7 +2654,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. pandas
+### 6. pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
@@ -3071,7 +3085,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Use Case: Baby Names
+### 7. Use Case: Baby Names
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
@@ -3481,7 +3497,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)

@@ -32,7 +32,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20Agents-%20Build%20Your%20Own%20AI%20Assistant%20in%20Copilot%20and%20Teams%20(No%20Code%20Required)%20(February%202025).md)

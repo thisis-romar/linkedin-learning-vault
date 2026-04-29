@@ -30,7 +30,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Openai%20Api%20Introduction.md)
@@ -48,10 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Using the OpenAI API]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Using the OpenAI API]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building AI-powered apps with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/building-ai-powered-apps-with-the-openai-api?u=76281980)
@@ -73,7 +75,9 @@ created: 2026-04-28
 > **Speakers:** - give (1)
 
 
-### 2. 1. Using the OpenAI API
+### 1. Using the OpenAI API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Five steps to using the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/5-steps-to-using-the-openai-api?u=76281980)

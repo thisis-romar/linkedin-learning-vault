@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20TensorFlow-%20Insights%20and%20Innovations.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Diving into Codespaces]]** (2 videos)
-- **[[#3. 2. Understanding TensorFlow]]** (5 videos)
-- **[[#4. 3. Building Your First Model]]** (8 videos)
-- **[[#5. 4. Mastering TensorBoard]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Diving into Codespaces]]** (2 videos)
+- **[[#2. Understanding TensorFlow]]** (5 videos)
+- **[[#3. Building Your First Model]]** (8 videos)
+- **[[#4. Mastering TensorBoard]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to deep learning with TensorFlow
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/welcome-to-deep-learning-with-tensorflow?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - ready (1)
 
 
-### 2. 1. Diving into Codespaces
+### 1. Diving into Codespaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Codespaces: Your ready-to-use workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/codespaces-your-ready-to-use-workspace?u=76281980)
@@ -223,7 +227,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. 2. Understanding TensorFlow
+### 2. Understanding TensorFlow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TensorFlow essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/tensorflow-essentials?u=76281980)
@@ -822,7 +828,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 4. 3. Building Your First Model
+### 3. Building Your First Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Let's create a TensorFlow model
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/let-s-create-a-tensorflow-model?u=76281980)
@@ -2421,7 +2429,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1), in the next (1)
 
 
-### 5. 4. Mastering TensorBoard
+### 4. Mastering TensorBoard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing success with TensorBoard
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/visualizing-success-with-tensorboard?u=76281980)
@@ -3066,7 +3076,9 @@ created: 2026-04-28
 > **File Paths:** 04_02_end.py (2), 04_02_begin.py (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-tensorflow-insights-and-innovations/next-steps?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/linux-system-administration
   - skill/cli
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Linux%20Command%20Line%20(2023).md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Your Environment]]** (3 videos)
-- **[[#3. 2. Command-Line Basics]]** (7 videos)
-- **[[#4. 3. Files, Directories, and Permissions]]** (15 videos)
-- **[[#5. 4. Common Command-Line Tasks and Tools]]** (14 videos)
-- **[[#6. 5. A Peek at Some More Advanced Topics]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Your Environment]]** (3 videos)
+- **[[#2. Command-Line Basics]]** (7 videos)
+- **[[#3. Files, Directories, and Permissions]]** (15 videos)
+- **[[#4. Common Command-Line Tasks and Tools]]** (14 videos)
+- **[[#5. A Peek at Some More Advanced Topics]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Linux command line
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/learning-linux-command-line?u=76281980)
@@ -219,7 +221,9 @@ created: 2026-04-28
 > **Speakers:** - [man] (1)
 
 
-### 2. 1. Setting Up Your Environment
+### 1. Setting Up Your Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a Linux virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/creating-a-linux-virtual-machine?u=76281980)
@@ -631,7 +635,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Command-Line Basics
+### 2. Command-Line Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/what-is-the-command-line?u=76281980)
@@ -1367,7 +1373,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Files, Directories, and Permissions
+### 3. Files, Directories, and Permissions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Linux file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/the-linux-file-system?u=76281980)
@@ -2857,7 +2865,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Common Command-Line Tasks and Tools
+### 4. Common Command-Line Tasks and Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Unix philosophy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/the-unix-philosophy?u=76281980)
@@ -4190,7 +4200,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. A Peek at Some More Advanced Topics
+### 5. A Peek at Some More Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Find information about your Linux distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/find-information-about-your-linux-distribution?u=76281980)
@@ -4475,7 +4487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-2023/next-steps?u=76281980)

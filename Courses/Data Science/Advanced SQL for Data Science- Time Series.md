@@ -32,7 +32,7 @@ tags:
   - skill/sql
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20SQL%20for%20Data%20Science-%20Time%20Series.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Time Series Data]]** (4 videos)
-- **[[#3. 2. Installing Database and Tools]]** (4 videos)
-- **[[#4. 3. Querying Time Series Data]]** (5 videos)
-- **[[#5. 4. Modeling Time Series Data]]** (7 videos)
-- **[[#6. 5. Commonly Used Functions for Time Series]]** (4 videos)
-- **[[#7. 6. Time Series Analysis]]** (7 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Time Series Data]]** (4 videos)
+- **[[#2. Installing Database and Tools]]** (4 videos)
+- **[[#3. Querying Time Series Data]]** (5 videos)
+- **[[#4. Modeling Time Series Data]]** (7 videos)
+- **[[#5. Commonly Used Functions for Time Series]]** (4 videos)
+- **[[#6. Time Series Analysis]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn time series data analysis with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to Time Series Data
+### 1. Introduction to Time Series Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Characteristics of time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980)
@@ -339,7 +343,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Installing Database and Tools
+### 2. Installing Database and Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980)
@@ -566,7 +572,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Querying Time Series Data
+### 3. Querying Time Series Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time window queries and aggregates
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/time-window-queries-and-aggregates?u=76281980)
@@ -811,7 +819,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Modeling Time Series Data
+### 4. Modeling Time Series Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Example data set 1: Temperature by time and location
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980)
@@ -1381,7 +1391,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Commonly Used Functions for Time Series
+### 5. Commonly Used Functions for Time Series
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lead?u=76281980)
@@ -1487,7 +1499,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Time Series Analysis
+### 6. Time Series Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common Table Expressions and recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980)
@@ -1975,7 +1989,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980)

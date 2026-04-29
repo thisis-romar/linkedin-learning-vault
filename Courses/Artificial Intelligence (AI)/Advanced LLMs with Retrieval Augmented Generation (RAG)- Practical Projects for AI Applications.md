@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20(RAG)-%20Practical%20Projects%20for%20AI%20Applications.md)
@@ -52,12 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Text Encoding Using Embedding Vectors]]** (6 videos)
-- **[[#3. 2. Document Chunking and Enrichment Strategies]]** (6 videos)
-- **[[#4. 3. Improving Document Retrieval]]** (5 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Text Encoding Using Embedding Vectors]]** (6 videos)
+- **[[#2. Document Chunking and Enrichment Strategies]]** (6 videos)
+- **[[#3. Improving Document Retrieval]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
@@ -525,7 +527,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Text Encoding Using Embedding Vectors
+### 1. Text Encoding Using Embedding Vectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embedding introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
@@ -1189,7 +1193,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Document Chunking and Enrichment Strategies
+### 2. Document Chunking and Enrichment Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chunking introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
@@ -1906,7 +1912,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Improving Document Retrieval
+### 3. Improving Document Retrieval
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid search introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20for%20Data%20Visualization.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data Visualization Overview]]** (3 videos)
-- **[[#3. 2. Leverage pandas for Analysis]]** (12 videos)
-- **[[#4. 3. Simplify Visualization with Matplotlib]]** (8 videos)
-- **[[#5. 4. Customize Visualizations with Matplotlib]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data Visualization Overview]]** (3 videos)
+- **[[#2. Leverage pandas for Analysis]]** (12 videos)
+- **[[#3. Simplify Visualization with Matplotlib]]** (8 videos)
+- **[[#4. Customize Visualizations with Matplotlib]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Effectively present data with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980)
@@ -153,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 2. 1. Data Visualization Overview
+### 1. Data Visualization Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Value of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/value-of-data-visualization?u=76281980)
@@ -323,7 +327,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Leverage pandas for Analysis
+### 2. Leverage pandas for Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980)
@@ -1191,7 +1197,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Simplify Visualization with Matplotlib
+### 3. Simplify Visualization with Matplotlib
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of Matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980)
@@ -1692,7 +1700,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. 4. Customize Visualizations with Matplotlib
+### 4. Customize Visualizations with Matplotlib
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980)
@@ -1999,7 +2009,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980)

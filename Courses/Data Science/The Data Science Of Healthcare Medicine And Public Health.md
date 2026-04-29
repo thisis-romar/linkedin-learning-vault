@@ -31,7 +31,7 @@ tags:
   - skill/data-science
   - skill/healthcare-industry
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Data%20Science%20Of%20Healthcare%20Medicine%20And%20Public%20Health.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Connecting Data Science]]** (1 videos)
-- **[[#3. 2. Researching Diseases and Populations]]** (4 videos)
-- **[[#4. 3. Researching Treatment and Outcomes]]** (4 videos)
-- **[[#5. 4. Patient Care]]** (6 videos)
-- **[[#6. 5. Self-Care]]** (3 videos)
-- **[[#7. 6. Medical Administration and Insurance]]** (3 videos)
-- **[[#8. 7. Challenges]]** (3 videos)
-- **[[#9. 8. Continuing Your Data Science of Healthcare Learning Journey]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Connecting Data Science]]** (1 videos)
+- **[[#2. Researching Diseases and Populations]]** (4 videos)
+- **[[#3. Researching Treatment and Outcomes]]** (4 videos)
+- **[[#4. Patient Care]]** (6 videos)
+- **[[#5. Self-Care]]** (3 videos)
+- **[[#6. Medical Administration and Insurance]]** (3 videos)
+- **[[#7. Challenges]]** (3 videos)
+- **[[#8. Continuing Your Data Science of Healthcare Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Healthcare and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - [barton] (1)
 
 
-### 2. 1. Connecting Data Science
+### 1. Connecting Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science and COVID-19
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980)
@@ -232,7 +236,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Researching Diseases and Populations
+### 2. Researching Diseases and Populations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shared history of health and data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980)
@@ -641,7 +647,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Researching Treatment and Outcomes
+### 3. Researching Treatment and Outcomes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diagnosing diseases
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980)
@@ -1105,7 +1113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Patient Care
+### 4. Patient Care
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting treatments and interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980)
@@ -1673,7 +1683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Self-Care
+### 5. Self-Care
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wearables and health monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980)
@@ -2073,7 +2085,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Medical Administration and Insurance
+### 6. Medical Administration and Insurance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administrative burden for doctors and staff
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980)
@@ -2374,7 +2388,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Challenges
+### 7. Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Limitations and barriers
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980)
@@ -2762,7 +2778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Continuing Your Data Science of Healthcare Learning Journey
+### 8. Continuing Your Data Science of Healthcare Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980)

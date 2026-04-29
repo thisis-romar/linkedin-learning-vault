@@ -31,7 +31,7 @@ tags:
   - skill/change-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Digital%20Transformation%20Tips.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Foundations of Digital Transformation]]** (5 videos)
-- **[[#3. 2. Check Readiness: Look Before You Leap]]** (4 videos)
-- **[[#4. 3. Planning for Success]]** (4 videos)
-- **[[#5. 4. Communication Best Practices]]** (4 videos)
-- **[[#6. 5. Iterate]]** (5 videos)
-- **[[#7. 6. Workplace Transformation]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Foundations of Digital Transformation]]** (5 videos)
+- **[[#2. Check Readiness: Look Before You Leap]]** (4 videos)
+- **[[#3. Planning for Success]]** (4 videos)
+- **[[#4. Communication Best Practices]]** (4 videos)
+- **[[#5. Iterate]]** (5 videos)
+- **[[#6. Workplace Transformation]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital transformation and your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [phil] (1)
 
 
-### 2. 1. Foundations of Digital Transformation
+### 1. Foundations of Digital Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making data and systems accessible via the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
@@ -440,7 +444,9 @@ created: 2026-04-28
 > **Speakers:** - [demonstrator] (1)
 
 
-### 3. 2. Check Readiness: Look Before You Leap
+### 2. Check Readiness: Look Before You Leap
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build leadership buy-in for transformation success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
@@ -699,7 +705,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Planning for Success
+### 3. Planning for Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know what problems you're trying to solve
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
@@ -924,7 +932,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Communication Best Practices
+### 4. Communication Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the communication needs of your participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
@@ -1173,7 +1183,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Iterate
+### 5. Iterate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring your digital transformation against metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
@@ -1467,7 +1479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Workplace Transformation
+### 6. Workplace Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chat vs. email: Use the right tool for better communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
@@ -1785,7 +1799,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making your digital transformation a success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)

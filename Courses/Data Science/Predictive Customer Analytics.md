@@ -34,7 +34,7 @@ tags:
   - skill/customer-analysis
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Customer%20Analytics.md)
@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Customer Analytics Overview]]** (6 videos)
-- **[[#3. 2. Will You Become My Customer?]]** (5 videos)
-- **[[#4. 3. What Else Are You Interested In?]]** (5 videos)
-- **[[#5. 4. How Much Is Your Future Business Worth?]]** (5 videos)
-- **[[#6. 5. Are You Happy with Me?]]** (5 videos)
-- **[[#7. 6. Will You Leave Me?]]** (5 videos)
-- **[[#8. 7. Best Practices]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Customer Analytics Overview]]** (6 videos)
+- **[[#2. Will You Become My Customer?]]** (5 videos)
+- **[[#3. What Else Are You Interested In?]]** (5 videos)
+- **[[#4. How Much Is Your Future Business Worth?]]** (5 videos)
+- **[[#5. Are You Happy with Me?]]** (5 videos)
+- **[[#6. Will You Leave Me?]]** (5 videos)
+- **[[#7. Best Practices]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
@@ -164,7 +166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Customer Analytics Overview
+### 1. Customer Analytics Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of customer analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
@@ -543,7 +547,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Will You Become My Customer?
+### 2. Will You Become My Customer?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The customer acquisition process
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
@@ -932,7 +938,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. What Else Are You Interested In?
+### 3. What Else Are You Interested In?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upselling and cross-selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
@@ -1309,7 +1317,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. How Much Is Your Future Business Worth?
+### 4. How Much Is Your Future Business Worth?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generate customer loyalty
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
@@ -1617,7 +1627,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Are You Happy with Me?
+### 5. Are You Happy with Me?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve customer satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
@@ -1940,7 +1952,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Will You Leave Me?
+### 6. Will You Leave Me?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prevent customer attrition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
@@ -2273,7 +2287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Best Practices
+### 7. Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Devise customer analytics processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
@@ -2453,7 +2469,9 @@ created: 2026-04-28
 > **Speakers:** - things (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)

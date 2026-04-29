@@ -34,7 +34,7 @@ tags:
   - skill/natural-language-processing-nlp
   - skill/spacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20NLP%20Pipelines%20with%20spaCy.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Text Processing with spaCy]]** (6 videos)
-- **[[#3. 2. Data Analysis Using spaCy]]** (5 videos)
-- **[[#4. 3. Processing Pipelines with spaCy]]** (7 videos)
-- **[[#5. 4. Training an Artificial Neural Network]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Text Processing with spaCy]]** (6 videos)
+- **[[#2. Data Analysis Using spaCy]]** (5 videos)
+- **[[#3. Processing Pipelines with spaCy]]** (7 videos)
+- **[[#4. Training an Artificial Neural Network]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use spaCy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
@@ -177,7 +179,9 @@ created: 2026-04-28
 > **CLI Commands:** pip (1)
 
 
-### 2. 1. Text Processing with spaCy
+### 1. Text Processing with spaCy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
@@ -551,7 +555,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Data Analysis Using spaCy
+### 2. Data Analysis Using spaCy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### spaCy's data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
@@ -872,7 +878,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 4. 3. Processing Pipelines with spaCy
+### 3. Processing Pipelines with spaCy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Processing pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
@@ -1278,7 +1286,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Training an Artificial Neural Network
+### 4. Training an Artificial Neural Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training and updating models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
@@ -1615,7 +1625,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)

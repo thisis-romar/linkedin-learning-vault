@@ -31,7 +31,7 @@ tags:
   - skill/microservices
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Microservices-%20Security.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Microservice Security Foundations]]** (3 videos)
-- **[[#3. 2. Identity Management and Access Control]]** (5 videos)
-- **[[#4. 3. Token-Based Security and Standards]]** (9 videos)
-- **[[#5. 4. Security between Microservices]]** (4 videos)
-- **[[#6. 5. Application and Container Security]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Microservice Security Foundations]]** (3 videos)
+- **[[#2. Identity Management and Access Control]]** (5 videos)
+- **[[#3. Token-Based Security and Standards]]** (9 videos)
+- **[[#4. Security between Microservices]]** (4 videos)
+- **[[#5. Application and Container Security]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Microservice Security Foundations
+### 1. Microservice Security Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microservice concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
@@ -321,7 +325,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Identity Management and Access Control
+### 2. Identity Management and Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Distributed access management patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
@@ -727,7 +733,9 @@ created: 2026-04-28
 > **Env Vars:** iam (1)
 
 
-### 4. 3. Token-Based Security and Standards
+### 3. Token-Based Security and Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
@@ -1654,7 +1662,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Security between Microservices
+### 4. Security between Microservices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MTLS
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
@@ -1965,7 +1975,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Application and Container Security
+### 5. Application and Container Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Throttling and rate limiting
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
@@ -2623,7 +2635,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)

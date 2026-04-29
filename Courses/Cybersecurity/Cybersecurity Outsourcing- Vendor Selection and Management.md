@@ -30,7 +30,7 @@ tags:
   - skill/third-party-vendor-management
   - skill/security-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20Outsourcing-%20Vendor%20Selection%20and%20Management.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Prepare to Outsource Cybersecurity Work]]** (7 videos)
-- **[[#3. 2. Identify Candidate Work to Outsource]]** (3 videos)
-- **[[#4. 3. Document Requirements]]** (4 videos)
-- **[[#5. 4. Select a Vendor]]** (4 videos)
-- **[[#6. 5. Contract with the Vendor]]** (3 videos)
-- **[[#7. 6. Implement the Agreement]]** (3 videos)
-- **[[#8. 7. Managing the Vendor]]** (3 videos)
-- **[[#9. 8. Renewing the Agreement]]** (3 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Prepare to Outsource Cybersecurity Work]]** (7 videos)
+- **[[#2. Identify Candidate Work to Outsource]]** (3 videos)
+- **[[#3. Document Requirements]]** (4 videos)
+- **[[#4. Select a Vendor]]** (4 videos)
+- **[[#5. Contract with the Vendor]]** (3 videos)
+- **[[#6. Implement the Agreement]]** (3 videos)
+- **[[#7. Managing the Vendor]]** (3 videos)
+- **[[#8. Renewing the Agreement]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outsourcing cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980)
@@ -154,7 +156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Prepare to Outsource Cybersecurity Work
+### 1. Prepare to Outsource Cybersecurity Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is outsourcing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980)
@@ -523,7 +527,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Identify Candidate Work to Outsource
+### 2. Identify Candidate Work to Outsource
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What should you outsource?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980)
@@ -681,7 +687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Document Requirements
+### 3. Document Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980)
@@ -866,7 +874,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Select a Vendor
+### 4. Select a Vendor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an MSSP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980)
@@ -1050,7 +1060,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Contract with the Vendor
+### 5. Contract with the Vendor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do I contract with a vendor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980)
@@ -1187,7 +1199,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Implement the Agreement
+### 6. Implement the Agreement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan and perform transition to the vendor
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980)
@@ -1321,7 +1335,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Managing the Vendor
+### 7. Managing the Vendor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage by Service Level Agreements (SLA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-service-level-agreements-sla?u=76281980)
@@ -1449,7 +1465,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Renewing the Agreement
+### 8. Renewing the Agreement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to renew the agreement
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-to-renew-the-agreement?u=76281980)
@@ -1571,7 +1589,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980)

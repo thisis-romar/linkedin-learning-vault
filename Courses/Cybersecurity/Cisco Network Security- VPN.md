@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-vpn
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20VPN.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Understand VPN Concepts]]** (7 videos)
-- **[[#3. 2. Discover IP Security (IPsec)]]** (5 videos)
-- **[[#4. 3. Configure a VPN]]** (4 videos)
-- **[[#5. 4. Examine a Remote Access VPN]]** (4 videos)
-- **[[#6. 5. Investigate a Site-to-Site VPN]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Understand VPN Concepts]]** (7 videos)
+- **[[#2. Discover IP Security (IPsec)]]** (5 videos)
+- **[[#3. Configure a VPN]]** (4 videos)
+- **[[#4. Examine a Remote Access VPN]]** (4 videos)
+- **[[#5. Investigate a Site-to-Site VPN]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing data in transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
@@ -280,7 +282,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understand VPN Concepts
+### 1. Understand VPN Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing a VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
@@ -741,7 +745,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 3. 2. Discover IP Security (IPsec)
+### 2. Discover IP Security (IPsec)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
@@ -1081,7 +1087,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Configure a VPN
+### 3. Configure a VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting with an always-on VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
@@ -1395,7 +1403,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Examine a Remote Access VPN
+### 4. Examine a Remote Access VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Clientless SSL VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
@@ -1643,7 +1653,9 @@ created: 2026-04-28
 > **Speakers:** - [educator] (1)
 
 
-### 6. 5. Investigate a Site-to-Site VPN
+### 5. Investigate a Site-to-Site VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensuring Perfect Forward Secrecy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
@@ -2047,7 +2059,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)

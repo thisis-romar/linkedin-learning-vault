@@ -34,7 +34,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%204%20Ethereum%20Development%20Tools.md)
@@ -52,9 +52,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Ethereum Development Tools]]** (5 videos)
+- **[[#1. Ethereum Development Tools]]** (5 videos)
 
-### 1. 1. Ethereum Development Tools
+### 1. Ethereum Development Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your Ethereum development toolbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)

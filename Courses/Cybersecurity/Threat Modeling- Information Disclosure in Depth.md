@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/threat-modeling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Information%20Disclosure%20in%20Depth.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data at Rest]]** (3 videos)
-- **[[#3. 2. Data in Motion]]** (3 videos)
-- **[[#4. 3. Information Disclosure by Processes]]** (2 videos)
-- **[[#5. 4. Side Effects]]** (3 videos)
-- **[[#6. 5. Disclosure in Certain Technologies]]** (3 videos)
-- **[[#7. 6. Defenses]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data at Rest]]** (3 videos)
+- **[[#2. Data in Motion]]** (3 videos)
+- **[[#3. Information Disclosure by Processes]]** (2 videos)
+- **[[#4. Side Effects]]** (3 videos)
+- **[[#5. Disclosure in Certain Technologies]]** (3 videos)
+- **[[#6. Defenses]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Allow me to disclose something
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data at Rest
+### 1. Data at Rest
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authorized access
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data in Motion
+### 2. Data in Motion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Encrypted and unencrypted
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
@@ -411,7 +417,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Information Disclosure by Processes
+### 3. Information Disclosure by Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intentional disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
@@ -485,7 +493,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Side Effects
+### 4. Side Effects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Radios: Intentional and accidental
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
@@ -594,7 +604,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 6. 5. Disclosure in Certain Technologies
+### 5. Disclosure in Certain Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
@@ -695,7 +707,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Defenses
+### 6. Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
@@ -818,7 +832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure by design: Bring confidentiality to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)

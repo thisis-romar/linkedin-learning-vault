@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Ethical%20AI%20for%20Hiring%20and%20Talent%20Acquisition-%20A%20Conversation%20with%20Don%20Phin.md)

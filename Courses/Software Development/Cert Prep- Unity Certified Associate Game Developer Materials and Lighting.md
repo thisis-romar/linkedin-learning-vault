@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/unity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Materials%20and%20Lighting.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Materials]]** (6 videos)
-- **[[#3. 2. Lighting]]** (6 videos)
-- **[[#4. 3. Lighting and Performance]]** (4 videos)
-- **[[#5. 4. Post-Processing]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Materials]]** (6 videos)
+- **[[#2. Lighting]]** (6 videos)
+- **[[#3. Lighting and Performance]]** (4 videos)
+- **[[#4. Post-Processing]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Material and lighting foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Materials
+### 1. Materials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Render pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980)
@@ -1016,7 +1020,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. 2. Lighting
+### 2. Lighting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standard lights
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980)
@@ -1857,7 +1863,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Lighting and Performance
+### 3. Lighting and Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shadows and quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980)
@@ -2593,7 +2601,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. 4. Post-Processing
+### 4. Post-Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Volumes and effects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980)
@@ -3198,7 +3208,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980)

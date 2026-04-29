@@ -35,7 +35,7 @@ tags:
   - skill/database-development
   - skill/database-applications
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Application%20Development.md)
@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Application Layers]]** (4 videos)
-- **[[#3. 2. PostgreSQL and PHP]]** (10 videos)
-- **[[#4. 3. SQL Server and ASP.NET Core]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Application Layers]]** (4 videos)
+- **[[#2. PostgreSQL and PHP]]** (10 videos)
+- **[[#3. SQL Server and ASP.NET Core]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating databases with an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
@@ -153,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Application Layers
+### 1. Application Layers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multitier architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. PostgreSQL and PHP
+### 2. PostgreSQL and PHP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PHP and Apache?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
@@ -1675,7 +1681,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 4. 3. SQL Server and ASP.NET Core
+### 3. SQL Server and ASP.NET Core
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ASP.NET Core?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
@@ -2626,7 +2634,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)

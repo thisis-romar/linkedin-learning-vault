@@ -29,7 +29,7 @@ tags:
   - topic/data-science
   - skill/digital-marketing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Digital%20Marketing%20Foundations.md)
@@ -47,19 +47,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Digital Marketing Framework]]** (4 videos)
-- **[[#3. 2. Digital Marketing Basics]]** (7 videos)
-- **[[#4. 3. Digital Marketing Key Concepts]]** (3 videos)
-- **[[#5. 4. Digital Marketing Hub and Spokes]]** (5 videos)
-- **[[#6. 5. Digital Marketing with Your Website]]** (3 videos)
-- **[[#7. 6. Digital Marketing with Paid Channels]]** (4 videos)
-- **[[#8. 7. Digital Marketing with Social Media]]** (3 videos)
-- **[[#9. 8. Digital Marketing with Email]]** (4 videos)
-- **[[#10. 9. Marketing Analytics Skills]]** (2 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Digital Marketing Framework]]** (4 videos)
+- **[[#2. Digital Marketing Basics]]** (7 videos)
+- **[[#3. Digital Marketing Key Concepts]]** (3 videos)
+- **[[#4. Digital Marketing Hub and Spokes]]** (5 videos)
+- **[[#5. Digital Marketing with Your Website]]** (3 videos)
+- **[[#6. Digital Marketing with Paid Channels]]** (4 videos)
+- **[[#7. Digital Marketing with Social Media]]** (3 videos)
+- **[[#8. Digital Marketing with Email]]** (4 videos)
+- **[[#9. Marketing Analytics Skills]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting with customers online
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/connecting-with-customers-online?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. The Digital Marketing Framework
+### 1. The Digital Marketing Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The building blocks of digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-building-blocks-of-digital-marketing?u=76281980)
@@ -496,7 +500,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Digital Marketing Basics
+### 2. Digital Marketing Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to develop a marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-develop-a-marketing-strategy?u=76281980)
@@ -948,7 +954,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Digital Marketing Key Concepts
+### 3. Digital Marketing Key Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital marketing: Persuading with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/digital-marketing-persuading-with-data?u=76281980)
@@ -1154,7 +1162,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Digital Marketing Hub and Spokes
+### 4. Digital Marketing Hub and Spokes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to outline your online marketing presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-outline-your-online-marketing-presence?u=76281980)
@@ -1463,7 +1473,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 6. 5. Digital Marketing with Your Website
+### 5. Digital Marketing with Your Website
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to optimize your website
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-optimize-your-website?u=76281980)
@@ -1670,7 +1682,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 7. 6. Digital Marketing with Paid Channels
+### 6. Digital Marketing with Paid Channels
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to paid advertising
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/introduction-to-paid-advertising?u=76281980)
@@ -1962,7 +1976,9 @@ created: 2026-04-28
 > **Speakers:** - text (1)
 
 
-### 8. 7. Digital Marketing with Social Media
+### 7. Digital Marketing with Social Media
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Social media marketing: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/social-media-marketing-first-steps?u=76281980)
@@ -2155,7 +2171,9 @@ created: 2026-04-28
 > **Speakers:** - social (1)
 
 
-### 9. 8. Digital Marketing with Email
+### 8. Digital Marketing with Email
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/the-power-of-email-marketing?u=76281980)
@@ -2411,7 +2429,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 10. 9. Marketing Analytics Skills
+### 9. Marketing Analytics Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to decide what to track in marketing analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-what-to-track-in-marketing-analytics?u=76281980)
@@ -2537,7 +2557,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to continually build digital marketing skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-continually-build-digital-marketing-skills?u=76281980)

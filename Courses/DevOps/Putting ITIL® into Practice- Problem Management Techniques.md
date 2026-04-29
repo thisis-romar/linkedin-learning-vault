@@ -31,7 +31,7 @@ tags:
   - skill/itil
   - skill/problem-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Problem%20Management%20Techniques.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Brainstorming]]** (6 videos)
-- **[[#3. 2. Cause-Effect Analysis]]** (6 videos)
-- **[[#4. 3. Kepner-Tregoe Root Cause Analysis (RCA)]]** (6 videos)
-- **[[#5. 4. Fault Tree Analysis (FTA)]]** (6 videos)
-- **[[#6. 5. Component Failure Impact Analysis (CFIA)]]** (6 videos)
-- **[[#7. 6. Service Outage Analysis (SOA)]]** (6 videos)
-- **[[#8. 7. Problem Review (PIR)]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Brainstorming]]** (6 videos)
+- **[[#2. Cause-Effect Analysis]]** (6 videos)
+- **[[#3. Kepner-Tregoe Root Cause Analysis (RCA)]]** (6 videos)
+- **[[#4. Fault Tree Analysis (FTA)]]** (6 videos)
+- **[[#5. Component Failure Impact Analysis (CFIA)]]** (6 videos)
+- **[[#6. Service Outage Analysis (SOA)]]** (6 videos)
+- **[[#7. Problem Review (PIR)]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stand apart as a problem practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980)
@@ -383,7 +385,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Brainstorming
+### 1. Brainstorming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is brainstorming, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980)
@@ -892,7 +896,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cause-Effect Analysis
+### 2. Cause-Effect Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cause-effect analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cause-effect-analysis-and-why-use-it?u=76281980)
@@ -1425,7 +1431,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Kepner-Tregoe Root Cause Analysis (RCA)
+### 3. Kepner-Tregoe Root Cause Analysis (RCA)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Kepner-Tregoe RCA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-kepner-tregoe-rca-and-why-use-it?u=76281980)
@@ -1982,7 +1990,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Fault Tree Analysis (FTA)
+### 4. Fault Tree Analysis (FTA)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is fault tree analysis, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980)
@@ -2570,7 +2580,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Component Failure Impact Analysis (CFIA)
+### 5. Component Failure Impact Analysis (CFIA)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is CFIA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980)
@@ -3117,7 +3129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Service Outage Analysis (SOA)
+### 6. Service Outage Analysis (SOA)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SOA, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980)
@@ -3615,7 +3629,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Problem Review (PIR)
+### 7. Problem Review (PIR)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a problem review, and why use one?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-a-problem-review-and-why-use-one?u=76281980)
@@ -4257,7 +4273,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further your problem management journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980)

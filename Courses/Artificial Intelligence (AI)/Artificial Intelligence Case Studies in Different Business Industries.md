@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Case%20Studies%20in%20Different%20Business%20Industries.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. AI Case Studies]]** (12 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Case Studies]]** (12 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI is transforming every industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Code Keywords:** function (1)
 
 
-### 2. 1. AI Case Studies
+### 1. AI Case Studies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Aquaculture: How Aquabyte applies machine learning to fish farming
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
@@ -951,7 +955,9 @@ created: 2026-04-28
 > **Speakers:** - without (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating AI into your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)

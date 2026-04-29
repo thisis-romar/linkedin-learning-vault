@@ -35,7 +35,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures-%20Linked%20Lists.md)
@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (4 videos)
-- **[[#3. 2. Building Functionality]]** (4 videos)
-- **[[#4. 3. Variations on a Theme]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (4 videos)
+- **[[#2. Building Functionality]]** (4 videos)
+- **[[#3. Variations on a Theme]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The best dynamic Python data structure: Linked Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
@@ -210,7 +212,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lists, Linked Lists, and Memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
@@ -608,7 +612,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Building Functionality
+### 2. Building Functionality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Searching
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
@@ -997,7 +1003,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Variations on a Theme
+### 3. Variations on a Theme
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Circular Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
@@ -1571,7 +1579,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)

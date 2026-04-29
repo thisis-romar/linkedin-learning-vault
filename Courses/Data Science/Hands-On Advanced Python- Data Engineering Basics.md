@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20Advanced%20Python-%20Data%20Engineering%20Basics.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Parsing and Exploring Data]]** (7 videos)
-- **[[#3. 2. Working with Collections]]** (5 videos)
-- **[[#4. 3. Math and Statistics]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Parsing and Exploring Data]]** (7 videos)
+- **[[#2. Working with Collections]]** (5 videos)
+- **[[#3. Math and Statistics]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hands-on with advanced Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
@@ -313,7 +315,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Parsing and Exploring Data
+### 1. Parsing and Exploring Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading and parsing JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
@@ -1117,7 +1121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Collections
+### 2. Working with Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Count values with defaultdict
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
@@ -1904,7 +1910,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Math and Statistics
+### 3. Math and Statistics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Random values
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
@@ -2386,7 +2394,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)

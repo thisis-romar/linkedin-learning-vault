@@ -30,7 +30,7 @@ tags:
   - skill/debugging
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Advanced%20PHP-%20Debugging%20Techniques.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Default Tools for Logging and Identifying Issues]]** (7 videos)
-- **[[#3. 2. Local Development Tools]]** (9 videos)
-- **[[#4. 3. Debugging on Non-Local Environments]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Default Tools for Logging and Identifying Issues]]** (7 videos)
+- **[[#2. Local Development Tools]]** (9 videos)
+- **[[#3. Debugging on Non-Local Environments]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging and PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Default Tools for Logging and Identifying Issues
+### 1. Default Tools for Logging and Identifying Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring PHP errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
@@ -830,7 +834,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Local Development Tools
+### 2. Local Development Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### var_dump() debugging: Blue-collar debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
@@ -1738,7 +1744,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Debugging on Non-Local Environments
+### 3. Debugging on Non-Local Environments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What tools are available
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
@@ -2026,7 +2034,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)

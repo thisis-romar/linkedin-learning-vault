@@ -27,7 +27,7 @@ tags:
   - skill/swift-programming-language
   - skill/ios-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Programming%20For%20Non%20Programmers%20Ios%2017%20And%20Swift%205.md)
@@ -45,16 +45,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Your Coding Environment]]** (3 videos)
-- **[[#3. 2. Programming Building Blocks: Variables]]** (4 videos)
-- **[[#4. 3. Using Variables to Build a UI]]** (8 videos)
-- **[[#5. 4. Programming Building Blocks: Methods]]** (9 videos)
-- **[[#6. 5. Programming Building Blocks: Control Flow]]** (7 videos)
-- **[[#7. 6. Finishing the Application]]** (7 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Your Coding Environment]]** (3 videos)
+- **[[#2. Programming Building Blocks: Variables]]** (4 videos)
+- **[[#3. Using Variables to Build a UI]]** (8 videos)
+- **[[#4. Programming Building Blocks: Methods]]** (9 videos)
+- **[[#5. Programming Building Blocks: Control Flow]]** (7 videos)
+- **[[#6. Finishing the Application]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up Your Coding Environment
+### 1. Setting Up Your Coding Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an Xcode project
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 3. 2. Programming Building Blocks: Variables
+### 2. Programming Building Blocks: Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding how programming works
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
@@ -575,7 +581,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Variables to Build a UI
+### 3. Using Variables to Build a UI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SwiftUI layout basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
@@ -1193,7 +1201,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Programming Building Blocks: Methods
+### 4. Programming Building Blocks: Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
@@ -1968,7 +1978,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Programming Building Blocks: Control Flow
+### 5. Programming Building Blocks: Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
@@ -2615,7 +2627,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Finishing the Application
+### 6. Finishing the Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storing the saved number
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
@@ -3045,7 +3059,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)

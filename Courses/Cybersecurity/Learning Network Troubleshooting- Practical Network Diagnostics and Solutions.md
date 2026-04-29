@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-troubleshooting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Learning%20Network%20Troubleshooting-%20Practical%20Network%20Diagnostics%20and%20Solutions.md)

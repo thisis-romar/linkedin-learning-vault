@@ -30,7 +30,7 @@ tags:
   - skill/neural-networks
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Attention-Based%20Neural%20Networks.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Recurrent Neural Networks to Learn Sequential Data]]** (5 videos)
-- **[[#3. 2. Encoder-Decoder Networks for Language Models]]** (2 videos)
-- **[[#4. 3. Attention-Based Neural Networks]]** (6 videos)
-- **[[#5. 4. Image Captioning Model without Attention]]** (9 videos)
-- **[[#6. 5. Image Captioning Model Using Attention]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Recurrent Neural Networks to Learn Sequential Data]]** (5 videos)
+- **[[#2. Encoder-Decoder Networks for Language Models]]** (2 videos)
+- **[[#3. Attention-Based Neural Networks]]** (6 videos)
+- **[[#4. Image Captioning Model without Attention]]** (9 videos)
+- **[[#5. Image Captioning Model Using Attention]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
@@ -242,7 +244,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Recurrent Neural Networks to Learn Sequential Data
+### 1. Recurrent Neural Networks to Learn Sequential Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Feed forward networks and their limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
@@ -733,7 +737,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Encoder-Decoder Networks for Language Models
+### 2. Encoder-Decoder Networks for Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Language generation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
@@ -926,7 +932,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Attention-Based Neural Networks
+### 3. Attention-Based Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role of attention in sequence to sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
@@ -1433,7 +1441,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Image Captioning Model without Attention
+### 4. Image Captioning Model without Attention
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Colab and Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
@@ -2348,7 +2358,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Image Captioning Model Using Attention
+### 5. Image Captioning Model Using Attention
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading the dataset and setting up utility functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
@@ -2956,7 +2968,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)

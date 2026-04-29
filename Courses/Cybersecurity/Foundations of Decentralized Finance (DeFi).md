@@ -29,7 +29,7 @@ tags:
   - skill/decentralization
   - skill/finance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Foundations%20of%20Decentralized%20Finance%20(DeFi).md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What is Decentralized Finance?]]** (6 videos)
-- **[[#3. 2. Yields Available in DeFi]]** (5 videos)
-- **[[#4. 3. Essential Tools of DeFi]]** (6 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What is Decentralized Finance?]]** (6 videos)
+- **[[#2. Yields Available in DeFi]]** (5 videos)
+- **[[#3. Essential Tools of DeFi]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The rapid growth of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
@@ -100,7 +102,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. What is Decentralized Finance?
+### 1. What is Decentralized Finance?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is DeFi?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
@@ -433,7 +437,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Yields Available in DeFi
+### 2. Yields Available in DeFi
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Higher-risk adjusted returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
@@ -811,7 +817,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Essential Tools of DeFi
+### 3. Essential Tools of DeFi
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to enter the world of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
@@ -1482,7 +1490,9 @@ created: 2026-04-28
 > **Speakers:** - lending (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more about DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)

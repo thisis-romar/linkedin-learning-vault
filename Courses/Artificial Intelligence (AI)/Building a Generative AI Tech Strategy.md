@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/it-strategy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20a%20Generative%20AI%20Tech%20Strategy.md)

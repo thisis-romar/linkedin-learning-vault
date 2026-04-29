@@ -40,7 +40,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20and%20Analytics%20Career%20Paths%20and%20Certifications-%20First%20Steps.md)
@@ -58,17 +58,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Defining Data Science]]** (6 videos)
-- **[[#3. 2. Marketplaces]]** (8 videos)
-- **[[#4. 3. Skills]]** (7 videos)
-- **[[#5. 4. Roles]]** (8 videos)
-- **[[#6. 5. Certifications]]** (7 videos)
-- **[[#7. 6. Future of Data Science]]** (5 videos)
-- **[[#8. 7. Voices from the Field]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Defining Data Science]]** (6 videos)
+- **[[#2. Marketplaces]]** (8 videos)
+- **[[#3. Skills]]** (7 videos)
+- **[[#4. Roles]]** (8 videos)
+- **[[#5. Certifications]]** (7 videos)
+- **[[#6. Future of Data Science]]** (5 videos)
+- **[[#7. Voices from the Field]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An expanding universe of data science career options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Defining Data Science
+### 1. Defining Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
@@ -372,7 +376,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 3. 2. Marketplaces
+### 2. Marketplaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to marketplaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
@@ -637,7 +643,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Skills
+### 3. Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Required skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
@@ -889,7 +897,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Roles
+### 4. Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
@@ -1212,7 +1222,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 6. 5. Certifications
+### 5. Certifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
@@ -1421,7 +1433,9 @@ created: 2026-04-28
 > **Code Keywords:** self (1)
 
 
-### 7. 6. Future of Data Science
+### 6. Future of Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the future of data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
@@ -1594,7 +1608,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Voices from the Field
+### 7. Voices from the Field
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to voices from the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
@@ -1913,7 +1929,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your data science and analytics career journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)

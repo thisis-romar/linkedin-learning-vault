@@ -35,7 +35,7 @@ tags:
   - skill/data-modeling
   - skill/dax
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Data%20Modeling%20with%20DAX.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Set Up the Data Model]]** (4 videos)
-- **[[#3. 2. DAX Aggregate Functions]]** (8 videos)
-- **[[#4. 3. Measures and Calculated Columns]]** (6 videos)
-- **[[#5. 4. DAX Logical and Filter Functions]]** (5 videos)
-- **[[#6. 5. Using DAX Time-Intelligence Functions]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Set Up the Data Model]]** (4 videos)
+- **[[#2. DAX Aggregate Functions]]** (8 videos)
+- **[[#3. Measures and Calculated Columns]]** (6 videos)
+- **[[#4. DAX Logical and Filter Functions]]** (5 videos)
+- **[[#5. Using DAX Time-Intelligence Functions]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build powerful data models with DAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/build-powerful-data-models-with-dax?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/what-you-ll-need?u=76281980)
 
 
-### 2. 1. Set Up the Data Model
+### 1. Set Up the Data Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data modeling: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/data-modeling-the-basics?u=76281980)
@@ -195,7 +199,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. DAX Aggregate Functions
+### 2. DAX Aggregate Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a measure with SUM
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-sum?u=76281980)
@@ -222,7 +228,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/create-a-measure-with-distinctcount?u=76281980)
 
 
-### 4. 3. Measures and Calculated Columns
+### 3. Measures and Calculated Columns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a calculated column
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/add-a-calculated-column?u=76281980)
@@ -298,7 +306,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/basic-dax-date-and-time-functions?u=76281980)
 
 
-### 5. 4. DAX Logical and Filter Functions
+### 4. DAX Logical and Filter Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use FIND
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-find?u=76281980)
@@ -376,7 +386,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/use-switch?u=76281980)
 
 
-### 6. 5. Using DAX Time-Intelligence Functions
+### 5. Using DAX Time-Intelligence Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DAX time-intelligence functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/dax-time-intelligence-functions?u=76281980)
@@ -533,7 +545,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-modeling-with-dax-26160373/next-steps?u=76281980)

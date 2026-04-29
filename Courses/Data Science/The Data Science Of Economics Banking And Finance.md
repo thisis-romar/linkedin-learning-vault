@@ -30,7 +30,7 @@ tags:
   - skill/banking
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Data%20Science%20Of%20Economics%20Banking%20And%20Finance.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Applying Data Science]]** (12 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Applying Data Science]]** (12 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The data science of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - [barton] (1)
 
 
-### 2. 1. Applying Data Science
+### 1. Applying Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science and money
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
@@ -1677,7 +1681,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)

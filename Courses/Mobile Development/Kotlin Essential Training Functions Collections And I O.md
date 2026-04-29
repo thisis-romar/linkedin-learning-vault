@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/kotlin
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Essential%20Training%20Functions%20Collections%20And%20I%20O.md)
@@ -44,18 +44,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Your Kotlin Development Environment]]** (4 videos)
-- **[[#3. 2. Common Data Types]]** (4 videos)
-- **[[#4. 3. Working with Functions]]** (6 videos)
-- **[[#5. 4. Control Flow Structures]]** (8 videos)
-- **[[#6. 5. Debugging Kotlin Code]]** (3 videos)
-- **[[#7. 6. Working with Collections]]** (7 videos)
-- **[[#8. 7. Working with Inputs and Outputs]]** (5 videos)
-- **[[#9. 8. Testing Kotlin Code]]** (2 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Your Kotlin Development Environment]]** (4 videos)
+- **[[#2. Common Data Types]]** (4 videos)
+- **[[#3. Working with Functions]]** (6 videos)
+- **[[#4. Control Flow Structures]]** (8 videos)
+- **[[#5. Debugging Kotlin Code]]** (3 videos)
+- **[[#6. Working with Collections]]** (7 videos)
+- **[[#7. Working with Inputs and Outputs]]** (5 videos)
+- **[[#8. Testing Kotlin Code]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Setting Up Your Kotlin Development Environment
+### 1. Setting Up Your Kotlin Development Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing IntelliJ IDEA
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **Definitions:** stands for (2)
 
 
-### 3. 2. Common Data Types
+### 2. Common Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mutable and immutable data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
@@ -1081,7 +1087,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Functions
+### 3. Working with Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
@@ -1882,7 +1890,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 5. 4. Control Flow Structures
+### 4. Control Flow Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### if and when statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
@@ -2824,7 +2834,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 6. 5. Debugging Kotlin Code
+### 5. Debugging Kotlin Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting breakpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
@@ -3170,7 +3182,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 7. 6. Working with Collections
+### 6. Working with Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
@@ -4077,7 +4091,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Working with Inputs and Outputs
+### 7. Working with Inputs and Outputs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
@@ -4615,7 +4631,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 9. 8. Testing Kotlin Code
+### 8. Testing Kotlin Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing JUnit tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
@@ -4956,7 +4974,9 @@ created: 2026-04-28
 > **Env Vars:** api (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)

@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/open-source-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Create%20an%20Open-Source%20Project%20in%20Python.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Starting a Project with Poetry]]** (7 videos)
-- **[[#3. 2. Power Up Your Tests]]** (9 videos)
-- **[[#4. 3. Tidy Up Your Code]]** (7 videos)
-- **[[#5. 4. Standardize Testing Using tox]]** (4 videos)
-- **[[#6. 5. Setting up a Workflow on GitHub Action]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Starting a Project with Poetry]]** (7 videos)
+- **[[#2. Power Up Your Tests]]** (9 videos)
+- **[[#3. Tidy Up Your Code]]** (7 videos)
+- **[[#4. Standardize Testing Using tox]]** (4 videos)
+- **[[#5. Setting up a Workflow on GitHub Action]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an open-source project in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Starting a Project with Poetry
+### 1. Starting a Project with Poetry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Poetry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
@@ -507,7 +511,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Power Up Your Tests
+### 2. Power Up Your Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is pytest?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
@@ -1147,7 +1153,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 4. 3. Tidy Up Your Code
+### 3. Tidy Up Your Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PEP 8?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
@@ -1717,7 +1725,9 @@ created: 2026-04-28
 > **Speakers:** - [cheuk] (1)
 
 
-### 5. 4. Standardize Testing Using tox
+### 4. Standardize Testing Using tox
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is tox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
@@ -1933,7 +1943,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Setting up a Workflow on GitHub Action
+### 5. Setting up a Workflow on GitHub Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is GitHub Action?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
@@ -2210,7 +2222,9 @@ created: 2026-04-28
 > **URLs:** [codecov.io](https://codecov.io) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Open-source project with good practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)

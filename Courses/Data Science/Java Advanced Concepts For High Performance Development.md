@@ -28,7 +28,7 @@ tags:
   - skill/java-software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Advanced%20Concepts%20For%20High%20Performance%20Development.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (1 videos)
-- **[[#3. 2. Generics in Java]]** (7 videos)
-- **[[#4. 3. Advanced Data Structures]]** (6 videos)
-- **[[#5. 4. Functional Programming in Java]]** (7 videos)
-- **[[#6. 5. Concurrency in Java]]** (7 videos)
-- **[[#7. 6. Input and Output]]** (6 videos)
-- **[[#8. 7. Working with Files and Directories]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (1 videos)
+- **[[#2. Generics in Java]]** (7 videos)
+- **[[#3. Advanced Data Structures]]** (6 videos)
+- **[[#4. Functional Programming in Java]]** (7 videos)
+- **[[#5. Concurrency in Java]]** (7 videos)
+- **[[#6. Input and Output]]** (6 videos)
+- **[[#7. Working with Files and Directories]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn advanced Java programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **Prerequisites:** before we start (1), you'll need (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Which version of Java to use?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
@@ -227,7 +231,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Generics in Java
+### 2. Generics in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
@@ -784,7 +790,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Advanced Data Structures
+### 3. Advanced Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collections in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
@@ -1290,7 +1298,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Functional Programming in Java
+### 4. Functional Programming in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional Interfaces in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
@@ -1903,7 +1913,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Concurrency in Java
+### 5. Concurrency in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to concurrency in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
@@ -2416,7 +2428,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 7. 6. Input and Output
+### 6. Input and Output
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding I/O in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
@@ -2917,7 +2931,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 8. 7. Working with Files and Directories
+### 7. Working with Files and Directories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with files in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
@@ -3349,7 +3365,9 @@ created: 2026-04-28
 > **Non-Speech:** (dynamic music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)

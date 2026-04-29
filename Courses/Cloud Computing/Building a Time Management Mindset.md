@@ -26,8 +26,10 @@ tags:
   - topic/cloud-computing
   - skill/time-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Time%20Management%20Mindset.md)
 
 ![Building a Time Management Mindset](https://media.licdn.com/dms/image/v2/D4E0DAQGmk6fVb6iosw/learning-public-crop_675_1200/B4EZXzdPQhH0AY-/0/1743546283371?e=2147483647&amp;v=beta&amp;t=t9rU0p6OIsRahFWHxihVJraYFzcjp4AspjQHuqgM5yU)
 

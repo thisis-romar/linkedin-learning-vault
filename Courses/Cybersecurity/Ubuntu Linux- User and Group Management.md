@@ -33,7 +33,7 @@ tags:
   - skill/ubuntu
   - skill/user-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20User%20and%20Group%20Management.md)
@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Local Users and Groups]]** (7 videos)
-- **[[#3. 2. Authentication Tools]]** (3 videos)
-- **[[#4. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Local Users and Groups]]** (7 videos)
+- **[[#2. Authentication Tools]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
@@ -265,7 +267,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Local Users and Groups
+### 1. Local Users and Groups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
@@ -913,7 +917,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Authentication Tools
+### 2. Authentication Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore pluggable authentication modules (PAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
@@ -1340,7 +1346,9 @@ created: 2026-04-28
 > **UI Navigation:** switch to (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools for exploring user logins
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/sustainable-business
   - skill/workplace-transformation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Tips%20to%20Make%20Your%20Office%20Eco-Friendly.md)

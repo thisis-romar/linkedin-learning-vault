@@ -31,7 +31,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20Full-Stack%20Apps%20with%20React%20and%20Spring.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Initial Setup]]** (7 videos)
-- **[[#3. 2. Spring Models]]** (4 videos)
-- **[[#4. 3. HTTP with Spring]]** (6 videos)
-- **[[#5. 4. Basic Frontend with React]]** (7 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Initial Setup]]** (7 videos)
+- **[[#2. Spring Models]]** (4 videos)
+- **[[#3. HTTP with Spring]]** (6 videos)
+- **[[#4. Basic Frontend with React]]** (7 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your own mighty full-stack app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Initial Setup
+### 1. Initial Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
@@ -455,7 +459,9 @@ created: 2026-04-28
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
 
-### 3. 2. Spring Models
+### 2. Spring Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data options and JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
@@ -708,7 +714,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. HTTP with Spring
+### 3. HTTP with Spring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finalize base server
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
@@ -1060,7 +1068,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Basic Frontend with React
+### 4. Basic Frontend with React
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create contact listing component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
@@ -1758,7 +1768,9 @@ created: 2026-04-28
 > **Tools:** postman (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Context and state
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)

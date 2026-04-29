@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20Advanced.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Adding Finesse to Your Scrum]]** (3 videos)
-- **[[#3. 2. Product Owner as Business Representative]]** (4 videos)
-- **[[#4. 3. Product Owner as Team Business Guide]]** (3 videos)
-- **[[#5. 4. Scrum Master as Team Advocate]]** (3 videos)
-- **[[#6. 5. Scrum Master as Team Guardian]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Adding Finesse to Your Scrum]]** (3 videos)
+- **[[#2. Product Owner as Business Representative]]** (4 videos)
+- **[[#3. Product Owner as Team Business Guide]]** (3 videos)
+- **[[#4. Scrum Master as Team Advocate]]** (3 videos)
+- **[[#5. Scrum Master as Team Guardian]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take scrum to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 2. 1. Adding Finesse to Your Scrum
+### 1. Adding Finesse to Your Scrum
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review scrum fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980)
@@ -299,7 +303,9 @@ created: 2026-04-28
 > **Speakers:** - given (1)
 
 
-### 3. 2. Product Owner as Business Representative
+### 2. Product Owner as Business Representative
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product owner as chief negotiator
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-as-chief-negotiator?u=76281980)
@@ -635,7 +641,9 @@ created: 2026-04-28
 > **Speakers:** - scrum (1)
 
 
-### 4. 3. Product Owner as Team Business Guide
+### 3. Product Owner as Team Business Guide
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced story-writing tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980)
@@ -872,7 +880,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 5. 4. Scrum Master as Team Advocate
+### 4. Scrum Master as Team Advocate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be a leader who serves
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980)
@@ -1117,7 +1127,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 6. 5. Scrum Master as Team Guardian
+### 5. Scrum Master as Team Guardian
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remove impediments for the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980)
@@ -1362,7 +1374,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980)

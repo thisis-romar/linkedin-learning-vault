@@ -37,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Built-in%20Machine%20Learning%20in%20the%20Wolfram%20Language.md)
@@ -55,10 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Built-in Machine Learning in the Wolfram Language]]** (1 videos)
-- **[[#2. 2. Dedicated Functions: Natural Language Processing]]** (1 videos)
+- **[[#1. Built-in Machine Learning in the Wolfram Language]]** (1 videos)
+- **[[#2. Dedicated Functions: Natural Language Processing]]** (1 videos)
 
-### 1. 1. Built-in Machine Learning in the Wolfram Language
+### 1. Built-in Machine Learning in the Wolfram Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Built-in machine learning in the Wolfram language
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
@@ -204,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - [abrita] (1)
 
 
-### 2. 2. Dedicated Functions: Natural Language Processing
+### 2. Dedicated Functions: Natural Language Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dedicated functions: Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerPoint%20Desktop%20(Microsoft%20365).md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (3 videos)
-- **[[#3. 2. Working with Text, Images, and Multimedia]]** (6 videos)
-- **[[#4. 3. Formatting Presentations]]** (4 videos)
-- **[[#5. 4. Presenting]]** (3 videos)
-- **[[#6. 5. Exporting and Sharing]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Working with Text, Images, and Multimedia]]** (6 videos)
+- **[[#3. Formatting Presentations]]** (4 videos)
+- **[[#4. Presenting]]** (3 videos)
+- **[[#5. Exporting and Sharing]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover the power of PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Browse the presentation gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980)
@@ -419,7 +423,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Text, Images, and Multimedia
+### 2. Working with Text, Images, and Multimedia
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add text with text slides, boxes, and shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980)
@@ -1178,7 +1184,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Formatting Presentations
+### 3. Formatting Presentations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980)
@@ -1539,7 +1547,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Presenting
+### 4. Presenting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980)
@@ -1778,7 +1788,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Exporting and Sharing
+### 5. Exporting and Sharing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Export as a PDF
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980)
@@ -1984,7 +1996,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue improving your presentation skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980)

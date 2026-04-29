@@ -35,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Gemini%20for%20Developers.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Test Prompts]]** (4 videos)
-- **[[#3. 2. Manage Prompts]]** (4 videos)
-- **[[#4. 3. Use Model Garden]]** (4 videos)
-- **[[#5. 4. Build AI Applications]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Test Prompts]]** (4 videos)
+- **[[#2. Manage Prompts]]** (4 videos)
+- **[[#3. Use Model Garden]]** (4 videos)
+- **[[#4. Build AI Applications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating enterprise GenAI apps with Google Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - [lynn] (1)
 
 
-### 2. 1. Test Prompts
+### 1. Test Prompts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test prompts with Prompt Tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
@@ -418,7 +422,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Manage Prompts
+### 2. Manage Prompts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Prompt Management to write prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
@@ -846,7 +852,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (2)
 
 
-### 4. 3. Use Model Garden
+### 3. Use Model Garden
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test Gemini and Gemma models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
@@ -1245,7 +1253,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Build AI Applications
+### 4. Build AI Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore AI applications and Vertex AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
@@ -1635,7 +1645,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)

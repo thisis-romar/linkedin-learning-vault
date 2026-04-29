@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/mongodb
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/MongoDB%20Essential%20Training.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Install MongoDB]]** (5 videos)
-- **[[#3. 2. Set Up Your Database]]** (6 videos)
-- **[[#4. 3. Working with MongoDB]]** (6 videos)
-- **[[#5. 4. CRUD Operations]]** (11 videos)
-- **[[#6. 5. Aggregation Pipelines]]** (10 videos)
-- **[[#7. 6. Data Modeling]]** (5 videos)
-- **[[#8. 7. Drivers]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Install MongoDB]]** (5 videos)
+- **[[#2. Set Up Your Database]]** (6 videos)
+- **[[#3. Working with MongoDB]]** (6 videos)
+- **[[#4. CRUD Operations]]** (11 videos)
+- **[[#5. Aggregation Pipelines]]** (10 videos)
+- **[[#6. Data Modeling]]** (5 videos)
+- **[[#7. Drivers]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Install MongoDB
+### 1. Install MongoDB
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Self-hosted vs. managed MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
@@ -561,7 +565,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 3. 2. Set Up Your Database
+### 2. Set Up Your Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mongod
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
@@ -1482,7 +1488,9 @@ created: 2026-04-28
 > **Tools:** vs code (1)
 
 
-### 4. 3. Working with MongoDB
+### 3. Working with MongoDB
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The document model
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
@@ -1992,7 +2000,9 @@ created: 2026-04-28
 > **Non-Speech:** (cheerful music) (1)
 
 
-### 5. 4. CRUD Operations
+### 4. CRUD Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### insertOne and insertMany
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
@@ -3258,7 +3268,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Aggregation Pipelines
+### 5. Aggregation Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
@@ -4097,7 +4109,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### 7. 6. Data Modeling
+### 6. Data Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relational vs. document
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
@@ -4550,7 +4564,9 @@ created: 2026-04-28
 > **Speakers:** - alright (1)
 
 
-### 8. 7. Drivers
+### 7. Drivers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
@@ -4849,7 +4865,9 @@ created: 2026-04-28
 > **Documentation:** the docs (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advancing with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)

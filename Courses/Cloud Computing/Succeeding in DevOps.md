@@ -36,7 +36,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20in%20DevOps.md)
@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (3 videos)
-- **[[#3. 2. Pathways to DevOps]]** (3 videos)
-- **[[#4. 3. Increasing Your Chances of Success]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Pathways to DevOps]]** (3 videos)
+- **[[#3. Increasing Your Chances of Success]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your role as a DevOps engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - historically (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is unique about DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
@@ -259,7 +263,9 @@ created: 2026-04-28
 > **Speakers:** - due (1)
 
 
-### 3. 2. Pathways to DevOps
+### 2. Pathways to DevOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps skills for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
@@ -370,7 +376,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Increasing Your Chances of Success
+### 3. Increasing Your Chances of Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Success tips from a DevOps recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
@@ -670,7 +678,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)

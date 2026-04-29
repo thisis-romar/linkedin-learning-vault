@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/end-to-end-testing
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/End-to-end%20Testing.md)

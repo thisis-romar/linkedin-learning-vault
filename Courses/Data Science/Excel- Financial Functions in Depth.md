@@ -30,7 +30,7 @@ tags:
   - skill/financial-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Financial%20Functions%20in%20Depth.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Analyzing Loans, Payments, and Interest in Excel]]** (8 videos)
-- **[[#3. 2. Calculating Depreciation with Excel Functions]]** (6 videos)
-- **[[#4. 3. Determining Values and Rates of Return in Excel]]** (10 videos)
-- **[[#5. 4. New Tools in Excel for MS365]]** (10 videos)
-- **[[#6. 5. Combining Excel Functions Perform Financial Analysis]]** (11 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Analyzing Loans, Payments, and Interest in Excel]]** (8 videos)
+- **[[#2. Calculating Depreciation with Excel Functions]]** (6 videos)
+- **[[#3. Determining Values and Rates of Return in Excel]]** (10 videos)
+- **[[#4. New Tools in Excel for MS365]]** (10 videos)
+- **[[#5. Combining Excel Functions Perform Financial Analysis]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Perform financial analysis in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Analyzing Loans, Payments, and Interest in Excel
+### 1. Analyzing Loans, Payments, and Interest in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PMT: Calculate a loan payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
@@ -658,7 +662,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Calculating Depreciation with Excel Functions
+### 2. Calculating Depreciation with Excel Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SLN: Depreciation using the straight-line method
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
@@ -985,7 +991,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Determining Values and Rates of Return in Excel
+### 3. Determining Values and Rates of Return in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### FV: Future value of an investment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
@@ -1362,7 +1370,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. New Tools in Excel for MS365
+### 4. New Tools in Excel for MS365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### STOCKHISTORY: Get historical stock prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
@@ -1992,7 +2002,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Combining Excel Functions Perform Financial Analysis
+### 5. Combining Excel Functions Perform Financial Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TODAY, EOMONTH, EDATE, and timing flags
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
@@ -2983,7 +2995,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Great resources for learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)

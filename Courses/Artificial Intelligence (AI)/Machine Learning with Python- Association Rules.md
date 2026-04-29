@@ -37,7 +37,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Association%20Rules.md)
@@ -55,12 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Association Rules]]** (6 videos)
-- **[[#3. 2. Discovering Patterns with Association Rules]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Association Rules]]** (6 videos)
+- **[[#2. Discovering Patterns with Association Rules]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
@@ -315,7 +317,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 2. 1. Association Rules
+### 1. Association Rules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are association rules?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
@@ -959,7 +963,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Discovering Patterns with Association Rules
+### 2. Discovering Patterns with Association Rules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to collect data for association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
@@ -1682,7 +1688,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)

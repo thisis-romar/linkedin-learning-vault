@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations%20Fundamentals%20Of%20Cisco%20Networking.md)
@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Network Basics]]** (9 videos)
-- **[[#3. 2. Network Concepts and Components]]** (9 videos)
-- **[[#4. 3. Network Cabling]]** (4 videos)
-- **[[#5. 4. Cisco Router and Catalyst Switch Configuration]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Network Basics]]** (9 videos)
+- **[[#2. Network Concepts and Components]]** (9 videos)
+- **[[#3. Network Cabling]]** (4 videos)
+- **[[#4. Cisco Router and Catalyst Switch Configuration]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn the fundamentals of Cisco networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Network Basics
+### 1. Network Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980)
@@ -749,7 +753,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Network Concepts and Components
+### 2. Network Concepts and Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSMA/CD vs. CSMA/CA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/csma-cd-vs-csma-ca?u=76281980)
@@ -1545,7 +1551,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Network Cabling
+### 3. Network Cabling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Copper cables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/copper-cables?u=76281980)
@@ -1861,7 +1869,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cisco Router and Catalyst Switch Configuration
+### 4. Cisco Router and Catalyst Switch Configuration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cisco routers and catalyst switch ports
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980)
@@ -2441,7 +2451,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980)

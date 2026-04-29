@@ -31,7 +31,7 @@ tags:
   - skill/test-driven-development
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Test-Driven%20Development%20in%20C%2B%2B.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Overview of Test-Driven Development]]** (3 videos)
-- **[[#3. 2. Setting Up Your Development Environment]]** (4 videos)
-- **[[#4. 3. Google Test Overview]]** (1 videos)
-- **[[#5. 4. The Supermarket Checkout Kata]]** (5 videos)
-- **[[#6. 5. Test Doubles]]** (3 videos)
-- **[[#7. 6. Test-Drive Development Best Practices]]** (1 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of Test-Driven Development]]** (3 videos)
+- **[[#2. Setting Up Your Development Environment]]** (4 videos)
+- **[[#3. Google Test Overview]]** (1 videos)
+- **[[#4. The Supermarket Checkout Kata]]** (5 videos)
+- **[[#5. Test Doubles]]** (3 videos)
+- **[[#6. Test-Drive Development Best Practices]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview of Test-Driven Development
+### 1. Overview of Test-Driven Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is unit testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980)
@@ -703,7 +707,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (2)
 
 
-### 3. 2. Setting Up Your Development Environment
+### 2. Setting Up Your Development Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up Google Test with Eclipse
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980)
@@ -1224,7 +1230,9 @@ created: 2026-04-28
 > **Code Keywords:** pass (1)
 
 
-### 4. 3. Google Test Overview
+### 3. Google Test Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Test
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980)
@@ -1391,7 +1399,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. The Supermarket Checkout Kata
+### 4. The Supermarket Checkout Kata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview, setup, and the first test case
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980)
@@ -2169,7 +2179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Test Doubles
+### 5. Test Doubles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test doubles overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980)
@@ -2610,7 +2622,9 @@ created: 2026-04-28
 > **UI Navigation:** right-click (1)
 
 
-### 7. 6. Test-Drive Development Best Practices
+### 6. Test-Drive Development Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test-driven development best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980)
@@ -2685,7 +2699,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/TensorFlow-%20Working%20with%20NLP.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. NLP and Transformers]]** (5 videos)
-- **[[#3. 2. BERT and Transfer Learning]]** (3 videos)
-- **[[#4. 3. Transformers and BERT]]** (6 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. NLP and Transformers]]** (5 videos)
+- **[[#2. BERT and Transfer Learning]]** (3 videos)
+- **[[#3. Transformers and BERT]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why TensorFlow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. NLP and Transformers
+### 1. NLP and Transformers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is NLP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. BERT and Transfer Learning
+### 2. BERT and Transfer Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias in BERT and GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
@@ -656,7 +662,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transformers and BERT
+### 3. Transformers and BERT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transformer: Architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
@@ -1100,7 +1108,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)

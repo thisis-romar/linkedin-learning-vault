@@ -31,7 +31,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Design%20Patterns%20Part%202.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Observer]]** (5 videos)
-- **[[#3. 2. Builder]]** (6 videos)
-- **[[#4. 3. Command]]** (5 videos)
-- **[[#5. 4. Proxy]]** (5 videos)
-- **[[#6. 5. Chain of Responsibility]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Observer]]** (5 videos)
+- **[[#2. Builder]]** (6 videos)
+- **[[#3. Command]]** (5 videos)
+- **[[#4. Proxy]]** (5 videos)
+- **[[#5. Chain of Responsibility]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object-oriented design patterns in C#, part 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/object-oriented-design-patterns-in-c-sharp-part-2?u=76281980)
@@ -66,7 +68,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980)
 
 
-### 2. 1. Observer
+### 1. Observer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Observer pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/observer-pattern-definition?u=76281980)
@@ -84,7 +88,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-replace-a-direct-call-with-the-observer-pattern?u=76281980)
 
 
-### 3. 2. Builder
+### 2. Builder
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Builder pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/builder-pattern-definition?u=76281980)
@@ -105,7 +111,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-fluent-order-builder?u=76281980)
 
 
-### 4. 3. Command
+### 3. Command
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Command pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/command-pattern-definition?u=76281980)
@@ -123,7 +131,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-undo-with-the-command-pattern?u=76281980)
 
 
-### 5. 4. Proxy
+### 4. Proxy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Proxy pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/proxy-pattern-definition?u=76281980)
@@ -141,7 +151,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-proxy-facade?u=76281980)
 
 
-### 6. 5. Chain of Responsibility
+### 5. Chain of Responsibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chain of Responsibility pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/chain-of-responsibility-pattern-definition?u=76281980)
@@ -162,7 +174,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/solution-chain-of-responsibility-grocery-list?u=76281980)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/next-steps?u=76281980)

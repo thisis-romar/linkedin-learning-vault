@@ -34,7 +34,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel-%20Data%20Outputs%20in%20Custom%20Data%20Visualizations%20and%20Algorithms.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introducing Excel and Python]]** (11 videos)
-- **[[#3. 2. Applying Algorithms]]** (9 videos)
-- **[[#4. 3. Creating Visuals]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introducing Excel and Python]]** (11 videos)
+- **[[#2. Applying Algorithms]]** (9 videos)
+- **[[#3. Creating Visuals]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the power of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Excel and Python
+### 1. Introducing Excel and Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Breaking down Excel and Python processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
@@ -1061,7 +1065,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 3. 2. Applying Algorithms
+### 2. Applying Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing AI and machine learning algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
@@ -1717,7 +1723,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Creating Visuals
+### 3. Creating Visuals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
@@ -2387,7 +2395,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)

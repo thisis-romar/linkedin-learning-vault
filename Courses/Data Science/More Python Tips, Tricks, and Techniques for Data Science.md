@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/More%20Python%20Tips%2C%20Tricks%2C%20and%20Techniques%20for%20Data%20Science.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. IPython and Jupyter Notebook]]** (3 videos)
-- **[[#3. 2. NumPy and Pandas]]** (7 videos)
-- **[[#4. 3. Visualization with Matplotlib]]** (3 videos)
-- **[[#5. 4. Machine Learning Tips]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. IPython and Jupyter Notebook]]** (3 videos)
+- **[[#2. NumPy and Pandas]]** (7 videos)
+- **[[#3. Visualization with Matplotlib]]** (3 videos)
+- **[[#4. Machine Learning Tips]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tips and tricks in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
@@ -149,7 +151,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. IPython and Jupyter Notebook
+### 1. IPython and Jupyter Notebook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessing methods and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
@@ -528,7 +532,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. NumPy and Pandas
+### 2. NumPy and Pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Essentials of NumPy arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
@@ -1435,7 +1441,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Visualization with Matplotlib
+### 3. Visualization with Matplotlib
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### General plotting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
@@ -1938,7 +1946,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Machine Learning Tips
+### 4. Machine Learning Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### sklearn Estimator API
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
@@ -2450,7 +2460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)

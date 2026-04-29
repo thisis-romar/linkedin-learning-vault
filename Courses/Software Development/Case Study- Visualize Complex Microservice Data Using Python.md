@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/microservices
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Case%20Study-%20Visualize%20Complex%20Microservice%20Data%20Using%20Python.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Defining the Problem and Researching a Solution]]** (4 videos)
-- **[[#3. 2. Learning PlantUML]]** (4 videos)
-- **[[#4. 3. Planning for the Development]]** (3 videos)
-- **[[#5. 4. Building a Python Script to Convert Data into PlantUML Code]]** (9 videos)
-- **[[#6. 5. Going Above and Beyond]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Defining the Problem and Researching a Solution]]** (4 videos)
+- **[[#2. Learning PlantUML]]** (4 videos)
+- **[[#3. Planning for the Development]]** (3 videos)
+- **[[#4. Building a Python Script to Convert Data into PlantUML Code]]** (9 videos)
+- **[[#5. Going Above and Beyond]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to make an impact in your organization as an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **Env Vars:** ide (1)
 
 
-### 2. 1. Defining the Problem and Researching a Solution
+### 1. Defining the Problem and Researching a Solution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are microservices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
@@ -443,7 +447,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Learning PlantUML
+### 2. Learning PlantUML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PlantUML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
@@ -704,7 +710,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Planning for the Development
+### 3. Planning for the Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an implementation plan for the initiative
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
@@ -881,7 +889,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 5. 4. Building a Python Script to Convert Data into PlantUML Code
+### 4. Building a Python Script to Convert Data into PlantUML Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establish input of the script
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
@@ -1569,7 +1579,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Going Above and Beyond
+### 5. Going Above and Beyond
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review your code for inefficiencies and unnecessary complication
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
@@ -1933,7 +1945,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Contributing to your engineering organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)

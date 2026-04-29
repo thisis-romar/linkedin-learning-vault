@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/knowledge-graphs
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Knowledge%20Graph%20Data%20Engineering%20for%20Generative%20AI%20Use%20Cases.md)
@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setup: Data Engineering Foundations]]** (4 videos)
-- **[[#3. 2. Extraction]]** (4 videos)
-- **[[#4. 3. Data Modeling]]** (7 videos)
-- **[[#5. 4. Transform]]** (2 videos)
-- **[[#6. 5. Load]]** (5 videos)
-- **[[#7. 6. Using the Knowledge Graph with AI]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setup: Data Engineering Foundations]]** (4 videos)
+- **[[#2. Extraction]]** (4 videos)
+- **[[#3. Data Modeling]]** (7 videos)
+- **[[#4. Transform]]** (2 videos)
+- **[[#5. Load]]** (5 videos)
+- **[[#6. Using the Knowledge Graph with AI]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of knowledge graphs in data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Setup: Data Engineering Foundations
+### 1. Setup: Data Engineering Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
@@ -300,7 +304,9 @@ created: 2026-04-28
 > **Speakers:** - [facilitator] (1)
 
 
-### 3. 2. Extraction
+### 2. Extraction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What data do you need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
@@ -543,7 +549,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Modeling
+### 3. Data Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your design document
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
@@ -1045,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Transform
+### 4. Transform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
@@ -1273,7 +1283,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Load
+### 5. Load
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up our Stardog project, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
@@ -1951,7 +1963,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 7. 6. Using the Knowledge Graph with AI
+### 6. Using the Knowledge Graph with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
@@ -2143,7 +2157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)

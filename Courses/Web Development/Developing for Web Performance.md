@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/web-application-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Developing%20for%20Web%20Performance.md)
@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Web Performance: An Introduction]]** (3 videos)
-- **[[#3. 2. Web Performance Basics]]** (5 videos)
-- **[[#4. 3. Creating a Performance Budget]]** (3 videos)
-- **[[#5. 4. Optimizing Images]]** (8 videos)
-- **[[#6. 5. Markup and Content]]** (8 videos)
-- **[[#7. 6. Web Fonts]]** (5 videos)
-- **[[#8. 7. Optimizing Delivery]]** (5 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Web Performance: An Introduction]]** (3 videos)
+- **[[#2. Web Performance Basics]]** (5 videos)
+- **[[#3. Creating a Performance Budget]]** (3 videos)
+- **[[#4. Optimizing Images]]** (8 videos)
+- **[[#5. Markup and Content]]** (8 videos)
+- **[[#6. Web Fonts]]** (5 videos)
+- **[[#7. Optimizing Delivery]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is performance and why is it so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-performance-and-why-is-it-so-important?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [morten] (1)
 
 
-### 2. 1. Web Performance: An Introduction
+### 1. Web Performance: An Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is web performance and optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-web-performance-and-optimization?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Web Performance Basics
+### 2. Web Performance Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How browsers render content
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980)
@@ -804,7 +810,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Creating a Performance Budget
+### 3. Creating a Performance Budget
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a performance budget?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980)
@@ -1025,7 +1033,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Optimizing Images
+### 4. Optimizing Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Images are the leading cause of the slow web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980)
@@ -1907,7 +1917,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Markup and Content
+### 5. Markup and Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automated optimization of JavaScript and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980)
@@ -2738,7 +2750,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Web Fonts
+### 6. Web Fonts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web fonts can be major performance hogs
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980)
@@ -3105,7 +3119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Optimizing Delivery
+### 7. Optimizing Delivery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compress data with Gzip and Brotli
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980)
@@ -3383,7 +3399,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/thank-you?u=76281980)

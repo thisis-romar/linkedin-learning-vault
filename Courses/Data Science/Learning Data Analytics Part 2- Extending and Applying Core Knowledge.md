@@ -34,7 +34,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Data%20Analytics%20Part%202-%20Extending%20and%20Applying%20Core%20Knowledge.md)
@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Working with Business Data]]** (5 videos)
-- **[[#3. 2. Building Data Sets with Queries]]** (8 videos)
-- **[[#4. 3. Chart Data Anytime and Anywhere]]** (7 videos)
-- **[[#5. 4. Pivot Data Anytime and Anywhere]]** (7 videos)
-- **[[#6. 5. Building in Power BI Desktop]]** (7 videos)
-- **[[#7. 6. Power Query Tips and Tricks for Data Analysts]]** (7 videos)
-- **[[#8. 7. Presenting Data in Meetings]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Working with Business Data]]** (5 videos)
+- **[[#2. Building Data Sets with Queries]]** (8 videos)
+- **[[#3. Chart Data Anytime and Anywhere]]** (7 videos)
+- **[[#4. Pivot Data Anytime and Anywhere]]** (7 videos)
+- **[[#5. Building in Power BI Desktop]]** (7 videos)
+- **[[#6. Power Query Tips and Tricks for Data Analysts]]** (7 videos)
+- **[[#7. Presenting Data in Meetings]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending your data analysis skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Business Data
+### 1. Working with Business Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding business rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980)
@@ -464,7 +468,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Building Data Sets with Queries
+### 2. Building Data Sets with Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980)
@@ -1400,7 +1406,9 @@ created: 2026-04-28
 > **Non-Speech:** (bouncy music) (1)
 
 
-### 4. 3. Chart Data Anytime and Anywhere
+### 3. Chart Data Anytime and Anywhere
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ad hoc reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980)
@@ -2186,7 +2194,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Pivot Data Anytime and Anywhere
+### 4. Pivot Data Anytime and Anywhere
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are pivots?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980)
@@ -2835,7 +2845,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Building in Power BI Desktop
+### 5. Building in Power BI Desktop
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980)
@@ -3739,7 +3751,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Power Query Tips and Tricks for Data Analysts
+### 6. Power Query Tips and Tricks for Data Analysts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using column profile to learn the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980)
@@ -4363,7 +4377,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 8. 7. Presenting Data in Meetings
+### 7. Presenting Data in Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consider how to present data in meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980)
@@ -4926,7 +4942,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Functionality.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Menus and Toolbars]]** (8 videos)
-- **[[#3. 2. Capturing Traffic]]** (9 videos)
-- **[[#4. 3. Personalizing the Interface]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Menus and Toolbars]]** (8 videos)
+- **[[#2. Capturing Traffic]]** (9 videos)
+- **[[#3. Personalizing the Interface]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your Wireshark workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. Menus and Toolbars
+### 1. Menus and Toolbars
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File: Open, Import, and Save
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
@@ -1119,7 +1123,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Capturing Traffic
+### 2. Capturing Traffic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capture options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
@@ -1920,7 +1926,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Personalizing the Interface
+### 3. Personalizing the Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File and packet comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
@@ -2540,7 +2548,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)

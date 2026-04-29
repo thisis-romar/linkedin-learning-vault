@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI-%20Advanced%20Decision%20Trees%20with%20SPSS.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Understanding QUEST]]** (6 videos)
-- **[[#3. 2. Understanding C5.0]]** (6 videos)
-- **[[#4. 3. Advanced Topics]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding QUEST]]** (6 videos)
+- **[[#2. Understanding C5.0]]** (6 videos)
+- **[[#3. Advanced Topics]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced decision trees with SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding QUEST
+### 1. Understanding QUEST
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
@@ -639,7 +643,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding C5.0
+### 2. Understanding C5.0
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ID3 and C4.5
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
@@ -1119,7 +1125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Topics
+### 3. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensembles
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
@@ -1848,7 +1856,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)

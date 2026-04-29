@@ -32,7 +32,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Intro%20To%20Snowflake%20For%20Devs%20Data%20Scientists%20Data%20Engineers.md)
@@ -50,35 +50,37 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Worksheets]]** (2 videos)
-- **[[#3. 2. Virtual Warehouses]]** (3 videos)
-- **[[#4. 3. Stages and Basic Ingestion]]** (2 videos)
-- **[[#5. 4. Databases and Schemas]]** (2 videos)
-- **[[#6. 5. Tables]]** (2 videos)
-- **[[#7. 6. Views]]** (2 videos)
-- **[[#8. 7. Semistructured Data]]** (2 videos)
-- **[[#9. 8. Snowflake Architecture]]** (2 videos)
-- **[[#10. 9. Time Travel]]** (3 videos)
-- **[[#11. 10. Table Types]]** (1 videos)
-- **[[#12. 11. Cloning]]** (1 videos)
-- **[[#13. 12. Resource Monitors]]** (1 videos)
-- **[[#14. 13. User-Defined Functions (UDFs)]]** (3 videos)
-- **[[#15. 14. Stored Procedures]]** (2 videos)
-- **[[#16. 15. Role-based Access Control (RBAC)]]** (2 videos)
-- **[[#17. 16. Snowpark DataFrames and VS Code Extension]]** (3 videos)
-- **[[#18. 17. Snowflake CLI]]** (2 videos)
-- **[[#19. 18. Data Engineering with Snowflake]]** (3 videos)
-- **[[#20. 19. Ingesting Data with Snowpipe]]** (2 videos)
-- **[[#21. 20. GenAI with Snowflake]]** (2 videos)
-- **[[#22. 21. Snowflake Cortex LLM Functions]]** (2 videos)
-- **[[#23. 22. Machine Learning with Snowflake]]** (2 videos)
-- **[[#24. 23. Snowpark ML Modeling]]** (3 videos)
-- **[[#25. 24. Applications with Snowflake]]** (2 videos)
-- **[[#26. 25. Streamlit in Snowflake]]** (2 videos)
-- **[[#27. 26. The Data Cloud]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Worksheets]]** (2 videos)
+- **[[#2. Virtual Warehouses]]** (3 videos)
+- **[[#3. Stages and Basic Ingestion]]** (2 videos)
+- **[[#4. Databases and Schemas]]** (2 videos)
+- **[[#5. Tables]]** (2 videos)
+- **[[#6. Views]]** (2 videos)
+- **[[#7. Semistructured Data]]** (2 videos)
+- **[[#8. Snowflake Architecture]]** (2 videos)
+- **[[#9. Time Travel]]** (3 videos)
+- **[[#10. Table Types]]** (1 videos)
+- **[[#11. Cloning]]** (1 videos)
+- **[[#12. Resource Monitors]]** (1 videos)
+- **[[#13. User-Defined Functions (UDFs)]]** (3 videos)
+- **[[#14. Stored Procedures]]** (2 videos)
+- **[[#15. Role-based Access Control (RBAC)]]** (2 videos)
+- **[[#16. Snowpark DataFrames and VS Code Extension]]** (3 videos)
+- **[[#17. Snowflake CLI]]** (2 videos)
+- **[[#18. Data Engineering with Snowflake]]** (3 videos)
+- **[[#19. Ingesting Data with Snowpipe]]** (2 videos)
+- **[[#20. GenAI with Snowflake]]** (2 videos)
+- **[[#21. Snowflake Cortex LLM Functions]]** (2 videos)
+- **[[#22. Machine Learning with Snowflake]]** (2 videos)
+- **[[#23. Snowpark ML Modeling]]** (3 videos)
+- **[[#24. Applications with Snowflake]]** (2 videos)
+- **[[#25. Streamlit in Snowflake]]** (2 videos)
+- **[[#26. The Data Cloud]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-and-course-overview?u=76281980)
@@ -201,7 +203,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 2. 1. Worksheets
+### 1. Worksheets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Worksheets and a simple example: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/worksheets-and-a-simple-example-part-i?u=76281980)
@@ -436,7 +440,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Virtual Warehouses
+### 2. Virtual Warehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtual warehouses overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/virtual-warehouses-overview?u=76281980)
@@ -803,7 +809,9 @@ created: 2026-04-28
 > **Cross-References:** earlier in (1)
 
 
-### 4. 3. Stages and Basic Ingestion
+### 3. Stages and Basic Ingestion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stages and basic ingestion: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stages-and-basic-ingestion-part-i?u=76281980)
@@ -1048,7 +1056,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Databases and Schemas
+### 4. Databases and Schemas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Databases and schemas: Part I
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/databases-and-schemas-part-i?u=76281980)
@@ -1297,7 +1307,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Tables
+### 5. Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tables: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/tables-part-i?u=76281980)
@@ -1522,7 +1534,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Views
+### 6. Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Views: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/views-part-i?u=76281980)
@@ -1743,7 +1757,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 8. 7. Semistructured Data
+### 7. Semistructured Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Semistructured data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/semi-structured-data-types?u=76281980)
@@ -2078,7 +2094,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 9. 8. Snowflake Architecture
+### 8. Snowflake Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-architecture-overview?u=76281980)
@@ -2240,7 +2258,9 @@ created: 2026-04-28
 > **Non-Speech:** (subtle groovy music) (1)
 
 
-### 10. 9. Time Travel
+### 9. Time Travel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to Snowflake feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-snowflake-feature-overview?u=76281980)
@@ -2589,7 +2609,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 11. 10. Table Types
+### 10. Table Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Permanent, transient, and temporary tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/permanent-transient-and-temporary-tables?u=76281980)
@@ -2749,7 +2771,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 12. 11. Cloning
+### 11. Cloning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloning
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/cloning?u=76281980)
@@ -2892,7 +2916,9 @@ created: 2026-04-28
 > **Non-Speech:** (bold jazzy music) (1)
 
 
-### 13. 12. Resource Monitors
+### 12. Resource Monitors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resource monitors
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/resource-monitors?u=76281980)
@@ -3085,7 +3111,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 14. 13. User-Defined Functions (UDFs)
+### 13. User-Defined Functions (UDFs)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User-defined functions (UDFs): Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/user-defined-functions-udfs-part-i?u=76281980)
@@ -3436,7 +3464,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 15. 14. Stored Procedures
+### 14. Stored Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stored procedures: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/stored-procedures-part-i?u=76281980)
@@ -3739,7 +3769,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1), we covered (1)
 
 
-### 16. 15. Role-based Access Control (RBAC)
+### 15. Role-based Access Control (RBAC)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Role-based access control (RBAC): Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/role-based-access-control-rbac-part-i?u=76281980)
@@ -3954,7 +3986,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 17. 16. Snowpark DataFrames and VS Code Extension
+### 16. Snowpark DataFrames and VS Code Extension
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### VS Code extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/vs-code-extension?u=76281980)
@@ -4395,7 +4429,9 @@ created: 2026-04-28
 > **Analogies:** for example (2)
 
 
-### 18. 17. Snowflake CLI
+### 17. Snowflake CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cli?u=76281980)
@@ -4633,7 +4669,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 19. 18. Data Engineering with Snowflake
+### 18. Data Engineering with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to overview of builder workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/intro-to-overview-of-builder-workloads?u=76281980)
@@ -5010,7 +5048,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 20. 19. Ingesting Data with Snowpipe
+### 19. Ingesting Data with Snowpipe
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowpipe: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpipe-part-i?u=76281980)
@@ -5357,7 +5397,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 21. 20. GenAI with Snowflake
+### 20. GenAI with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake genAI overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-genai-overview-part-i?u=76281980)
@@ -5625,7 +5667,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 22. 21. Snowflake Cortex LLM Functions
+### 21. Snowflake Cortex LLM Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake Cortex LLM functions: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-cortex-llm-functions-part-i?u=76281980)
@@ -5862,7 +5906,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 23. 22. Machine Learning with Snowflake
+### 22. Machine Learning with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake ML overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-ml-overview-part-i?u=76281980)
@@ -6127,7 +6173,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 24. 23. Snowpark ML Modeling
+### 23. Snowpark ML Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowpark ML modeling: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowpark-ml-modeling-part-i?u=76281980)
@@ -6526,7 +6574,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 25. 24. Applications with Snowflake
+### 24. Applications with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snowflake applications overview: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/snowflake-applications-overview-part-i?u=76281980)
@@ -6745,7 +6795,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 26. 25. Streamlit in Snowflake
+### 25. Streamlit in Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Streamlit in Snowflake: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/streamlit-in-snowflake-part-i?u=76281980)
@@ -7008,7 +7060,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 27. 26. The Data Cloud
+### 26. The Data Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The data cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/intro-to-snowflake-for-devs-data-scientists-data-engineers/the-data-cloud?u=76281980)

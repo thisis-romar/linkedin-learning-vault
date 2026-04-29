@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Rust.md)
@@ -48,10 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Rust Coding Challenges]]** (17 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Rust Coding Challenges]]** (17 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Put Rust into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
@@ -280,7 +282,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Rust Coding Challenges
+### 1. Rust Coding Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate the median
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)

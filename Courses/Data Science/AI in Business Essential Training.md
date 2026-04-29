@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-business
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/AI%20in%20Business%20Essential%20Training.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Artificial Intelligence (AI)]]** (7 videos)
-- **[[#3. 2. Data Analytics and Optimization]]** (4 videos)
-- **[[#4. 3. Using AI in Business]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Artificial Intelligence (AI)]]** (7 videos)
+- **[[#2. Data Analytics and Optimization]]** (4 videos)
+- **[[#3. Using AI in Business]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI for business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - [michael] (1)
 
 
-### 2. 1. Artificial Intelligence (AI)
+### 1. Artificial Intelligence (AI)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
@@ -610,7 +614,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Data Analytics and Optimization
+### 2. Data Analytics and Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
@@ -1049,7 +1055,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using AI in Business
+### 3. Using AI in Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of uses of AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
@@ -1836,7 +1844,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)

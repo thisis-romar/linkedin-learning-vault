@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Sequencer%20Logic.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. PLC Sequencer Output Instruction (SQO)]]** (10 videos)
-- **[[#3. 2. SQO Examples]]** (12 videos)
-- **[[#4. 3.PLC Sequencer Compare Instruction (SQC)]]** (8 videos)
-- **[[#5. 4. PLC Sequencer Load Instruction (SQL)]]** (8 videos)
-- **[[#6. 5. Final Challenge]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. PLC Sequencer Output Instruction (SQO)]]** (10 videos)
+- **[[#2. SQO Examples]]** (12 videos)
+- **[[#3.PLC Sequencer Compare Instruction (SQC)]]** (8 videos)
+- **[[#4. PLC Sequencer Load Instruction (SQL)]]** (8 videos)
+- **[[#5. Final Challenge]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting to know PLC sequencers
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/getting-to-know-plc-sequencers?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. PLC Sequencer Output Instruction (SQO)
+### 1. PLC Sequencer Output Instruction (SQO)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to sequencer instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/intro-to-sequencer-instructions?u=76281980)
@@ -686,7 +690,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. SQO Examples
+### 2. SQO Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Example dishwasher sequence
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/example-dishwasher-sequence?u=76281980)
@@ -1168,7 +1174,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3.PLC Sequencer Compare Instruction (SQC)
+### 3.PLC Sequencer Compare Instruction (SQC)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sequencer compare instruction (SQC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-compare-instruction-sqc?u=76281980)
@@ -1467,7 +1475,9 @@ created: 2026-04-28
 > **Non-Speech:** (funky music) (1)
 
 
-### 5. 4. PLC Sequencer Load Instruction (SQL)
+### 4. PLC Sequencer Load Instruction (SQL)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sequencer load instruction (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980)
@@ -1735,7 +1745,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Final Challenge
+### 5. Final Challenge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final challenge introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/final-challenge-introduction?u=76281980)
@@ -1957,7 +1969,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-
 course_count: 4
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/security
@@ -33,7 +33,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Professional%20Certificates/Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.md)

@@ -35,7 +35,7 @@ tags:
   - skill/it-service-management
   - skill/change-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Change%20Management.md)
@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Change Management Fundamentals]]** (4 videos)
-- **[[#3. 2. Your Change Control Process]]** (13 videos)
-- **[[#4. 3. Implementing Change Management]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Change Management Fundamentals]]** (4 videos)
+- **[[#2. Your Change Control Process]]** (13 videos)
+- **[[#3. Implementing Change Management]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing change with minimal pain
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Change Management Fundamentals
+### 1. Change Management Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Change Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
@@ -392,7 +396,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Your Change Control Process
+### 2. Your Change Control Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
@@ -1681,7 +1687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Implementing Change Management
+### 3. Implementing Change Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting change management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
@@ -2040,7 +2048,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be the change you want to approve
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)

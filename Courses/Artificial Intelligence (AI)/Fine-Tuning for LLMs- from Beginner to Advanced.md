@@ -35,7 +35,7 @@ tags:
   - skill/large-language-models-llm
   - skill/fine-tuning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Fine-Tuning%20for%20LLMs-%20from%20Beginner%20to%20Advanced.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to Large Language Models (LLMs)]]** (6 videos)
-- **[[#3. 2. Utilizing LLMs with Prompt Engineering]]** (7 videos)
-- **[[#4. 3. Transfer Learning for NLP Tasks]]** (6 videos)
-- **[[#5. 4. PEFT Fine-Tuning with LoRA]]** (7 videos)
-- **[[#6. 5. Project: Creating a Full NLP Solution]]** (4 videos)
-- **[[#7. Conclusion]]** (4 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Large Language Models (LLMs)]]** (6 videos)
+- **[[#2. Utilizing LLMs with Prompt Engineering]]** (7 videos)
+- **[[#3. Transfer Learning for NLP Tasks]]** (6 videos)
+- **[[#4. PEFT Fine-Tuning with LoRA]]** (7 videos)
+- **[[#5. Project: Creating a Full NLP Solution]]** (4 videos)
+- **[[#Conclusion]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beginning to fine-tune your LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/beginning-to-fine-tune-your-llms?u=76281980)
@@ -159,7 +161,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to Large Language Models (LLMs)
+### 1. Introduction to Large Language Models (LLMs)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LLMs: Revolutionizing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/llms-revolutionizing-ai?u=76281980)
@@ -505,7 +509,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Utilizing LLMs with Prompt Engineering
+### 2. Utilizing LLMs with Prompt Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/basics-of-prompt-engineering?u=76281980)
@@ -1230,7 +1236,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transfer Learning for NLP Tasks
+### 3. Transfer Learning for NLP Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transfer learning in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/transfer-learning-in-llms?u=76281980)
@@ -1873,7 +1881,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. PEFT Fine-Tuning with LoRA
+### 4. PEFT Fine-Tuning with LoRA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to PEFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/introduction-to-peft?u=76281980)
@@ -2764,7 +2774,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music begins) (1)
 
 
-### 6. 5. Project: Creating a Full NLP Solution
+### 5. Project: Creating a Full NLP Solution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Fine-tuning the sentiment analysis model
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/solution-finetuning-the-sentiment-analysis-model?u=76281980)
@@ -3460,7 +3472,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/course-recap-and-key-takeaways?u=76281980)

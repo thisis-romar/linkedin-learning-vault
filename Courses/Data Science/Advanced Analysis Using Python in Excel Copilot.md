@@ -29,7 +29,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Analysis%20Using%20Python%20in%20Excel%20Copilot.md)
@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Advanced Analysis]]** (3 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Advanced Analysis]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced analysis using Python in Excel Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980)
@@ -160,7 +162,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Advanced Analysis
+### 1. Advanced Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using advanced analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980)
@@ -428,7 +432,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980)

@@ -26,7 +26,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Learning%20React%20Native.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. What Is React Native?]]** (4 videos)
-- **[[#3. 2. Working with Expo]]** (4 videos)
-- **[[#4. 3. Components and APIs]]** (5 videos)
-- **[[#5. 4. Working with Views]]** (8 videos)
-- **[[#6. 5. Platform APIs]]** (6 videos)
-- **[[#7. 6. Building Your Project]]** (7 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is React Native?]]** (4 videos)
+- **[[#2. Working with Expo]]** (4 videos)
+- **[[#3. Components and APIs]]** (5 videos)
+- **[[#4. Working with Views]]** (8 videos)
+- **[[#5. Platform APIs]]** (6 videos)
+- **[[#6. Building Your Project]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Framework of learning React
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980)
@@ -220,7 +222,9 @@ created: 2026-04-28
 > **Tools:** vs code (1)
 
 
-### 2. 1. What Is React Native?
+### 1. What Is React Native?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980)
@@ -489,7 +493,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Expo
+### 2. Working with Expo
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing the Expo client
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980)
@@ -813,7 +819,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Components and APIs
+### 3. Components and APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Native components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980)
@@ -1220,7 +1228,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Views
+### 4. Working with Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responding to touches
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980)
@@ -1973,7 +1983,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Platform APIs
+### 5. Platform APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AsyncStorage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980)
@@ -2555,7 +2567,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 7. 6. Building Your Project
+### 6. Building Your Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing an iOS simulator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980)
@@ -3108,7 +3122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980)

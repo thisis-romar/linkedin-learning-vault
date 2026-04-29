@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Python%20with%20Excel.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Python and pandas]]** (6 videos)
-- **[[#3. 2. openpyxl]]** (4 videos)
-- **[[#4. 3. Working with Reports]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Python and pandas]]** (6 videos)
+- **[[#2. openpyxl]]** (4 videos)
+- **[[#3. Working with Reports]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing Excel with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Env Vars:** mvp (1)
 
 
-### 2. 1. Python and pandas
+### 1. Python and pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Jupyter Notebooks basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
@@ -534,7 +538,9 @@ created: 2026-04-28
 > **UI Navigation:** open the (1)
 
 
-### 3. 2. openpyxl
+### 2. openpyxl
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using openpyxl with Workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
@@ -847,7 +853,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Working with Reports
+### 3. Working with Reports
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing multiple sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
@@ -1266,7 +1274,9 @@ created: 2026-04-28
 > **Tools:** anaconda (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)

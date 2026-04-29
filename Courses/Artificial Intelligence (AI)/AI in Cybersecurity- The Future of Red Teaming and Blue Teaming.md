@@ -35,7 +35,7 @@ tags:
   - skill/ai-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20in%20Cybersecurity-%20The%20Future%20of%20Red%20Teaming%20and%20Blue%20Teaming.md)
@@ -53,12 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Red Teaming Enhanced by AI]]** (5 videos)
-- **[[#3. 2. Blue Teaming Enhanced by AI]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Red Teaming Enhanced by AI]]** (5 videos)
+- **[[#2. Blue Teaming Enhanced by AI]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to red teaming and blue teaming enhanced by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
@@ -259,7 +261,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. Red Teaming Enhanced by AI
+### 1. Red Teaming Enhanced by AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing and enhancing red team documentation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
@@ -624,7 +628,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Blue Teaming Enhanced by AI
+### 2. Blue Teaming Enhanced by AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Techniques for effective AI-powered threat hunting
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
@@ -1008,7 +1014,9 @@ created: 2026-04-28
 > **Speakers:** - from (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)

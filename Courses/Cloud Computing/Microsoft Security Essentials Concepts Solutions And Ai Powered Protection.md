@@ -27,7 +27,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/microsoft-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Security%20Essentials%20Concepts%20Solutions%20And%20Ai%20Powered%20Protection.md)
@@ -45,21 +45,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Security Concepts]]** (6 videos)
-- **[[#3. 2. Identity and Access]]** (14 videos)
-- **[[#4. 3. Security Information and Event Management (SIEM)]]** (2 videos)
-- **[[#5. 4. Extended Detection and Response (XDR)]]** (8 videos)
-- **[[#6. 5. Cloud Infrastructure Security]]** (7 videos)
-- **[[#7. 6. Cloud-Native Application Protection Platform (CNAPP)]]** (4 videos)
-- **[[#8. 7. Endpoint Management and Security]]** (1 videos)
-- **[[#9. 8. Risk and Compliance Management]]** (7 videos)
-- **[[#10. 9. Data Security and Governance]]** (5 videos)
-- **[[#11. 10. Privacy Protection]]** (3 videos)
-- **[[#12. 11. AI-Powered Protection]]** (4 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security Concepts]]** (6 videos)
+- **[[#2. Identity and Access]]** (14 videos)
+- **[[#3. Security Information and Event Management (SIEM)]]** (2 videos)
+- **[[#4. Extended Detection and Response (XDR)]]** (8 videos)
+- **[[#5. Cloud Infrastructure Security]]** (7 videos)
+- **[[#6. Cloud-Native Application Protection Platform (CNAPP)]]** (4 videos)
+- **[[#7. Endpoint Management and Security]]** (1 videos)
+- **[[#8. Risk and Compliance Management]]** (7 videos)
+- **[[#9. Data Security and Governance]]** (5 videos)
+- **[[#10. Privacy Protection]]** (3 videos)
+- **[[#11. AI-Powered Protection]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Microsoft Security Essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Security Concepts
+### 1. Security Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980)
@@ -491,7 +495,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Identity and Access
+### 2. Identity and Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identity and access security with Microsoft Entra
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980)
@@ -1480,7 +1486,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Security Information and Event Management (SIEM)
+### 3. Security Information and Event Management (SIEM)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SIEM and SOAR with Microsoft Sentinel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980)
@@ -1606,7 +1614,9 @@ created: 2026-04-28
 > **Speakers:** - [announcer] (1)
 
 
-### 5. 4. Extended Detection and Response (XDR)
+### 4. Extended Detection and Response (XDR)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threat protection with Microsoft Defender XDR
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980)
@@ -2073,7 +2083,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Cloud Infrastructure Security
+### 5. Cloud Infrastructure Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Virtual Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980)
@@ -2479,7 +2491,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Cloud-Native Application Protection Platform (CNAPP)
+### 6. Cloud-Native Application Protection Platform (CNAPP)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CNAPP with Microsoft Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980)
@@ -2718,7 +2732,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Endpoint Management and Security
+### 7. Endpoint Management and Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Endpoint management and security with Microsoft Intune
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980)
@@ -2803,7 +2819,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Risk and Compliance Management
+### 8. Risk and Compliance Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Risk and compliance management with Microsoft Purview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980)
@@ -3256,7 +3274,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Data Security and Governance
+### 9. Data Security and Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data security and governance with Microsoft Purview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980)
@@ -3577,7 +3597,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 11. 10. Privacy Protection
+### 10. Privacy Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Privacy protection with Microsoft Priva
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980)
@@ -3803,7 +3825,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. 11. AI-Powered Protection
+### 11. AI-Powered Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI-powered protection with Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980)
@@ -4239,7 +4263,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning Microsoft security essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980)

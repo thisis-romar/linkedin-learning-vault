@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Characteristics%20of%20a%20Great%20Scrum%20Master.md)
@@ -45,11 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Characteristics]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Characteristics]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming a great scrum master
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. The Characteristics
+### 1. The Characteristics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be an honest broker
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
@@ -389,7 +393,9 @@ created: 2026-04-28
 > **Speakers:** - study (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)

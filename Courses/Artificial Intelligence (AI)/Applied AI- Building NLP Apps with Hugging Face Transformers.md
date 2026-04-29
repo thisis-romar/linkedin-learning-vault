@@ -32,7 +32,7 @@ tags:
   - skill/hugging-face-products
   - skill/applied-machine-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Applied%20AI-%20Building%20NLP%20Apps%20with%20Hugging%20Face%20Transformers.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Question-Answering (Qu-An)]]** (5 videos)
-- **[[#3. 2. Text Summarization]]** (5 videos)
-- **[[#4. 3. Natural Language Generation]]** (6 videos)
-- **[[#5. 4. Customizing Models with Transfer Learning]]** (6 videos)
-- **[[#6. 5. Deploying and Using Hugging Face Models]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Question-Answering (Qu-An)]]** (5 videos)
+- **[[#2. Text Summarization]]** (5 videos)
+- **[[#3. Natural Language Generation]]** (6 videos)
+- **[[#4. Customizing Models with Transfer Learning]]** (6 videos)
+- **[[#5. Deploying and Using Hugging Face Models]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building NLP apps with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/building-nlp-apps-with-transformers?u=76281980)
@@ -224,7 +226,9 @@ created: 2026-04-28
 > **URLs:** [anconda.com](https://anconda.com) (1)
 
 
-### 2. 1. Question-Answering (Qu-An)
+### 1. Question-Answering (Qu-An)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Question-answering in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/question-answering-in-nlp?u=76281980)
@@ -478,7 +482,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Text Summarization
+### 2. Text Summarization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Text summarization in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/text-summarization-in-nlp?u=76281980)
@@ -702,7 +708,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Natural Language Generation
+### 3. Natural Language Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Natural language generation in NLP
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/natural-language-generation-in-nlp?u=76281980)
@@ -973,7 +981,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Customizing Models with Transfer Learning
+### 4. Customizing Models with Transfer Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/training-a-custom-model?u=76281980)
@@ -1323,7 +1333,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Deploying and Using Hugging Face Models
+### 5. Deploying and Using Hugging Face Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inference challenges with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/inference-challenges-with-transformers?u=76281980)
@@ -1563,7 +1575,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/continuing-with-hugging-face?u=76281980)

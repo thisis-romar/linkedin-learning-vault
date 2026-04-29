@@ -31,7 +31,7 @@ tags:
   - skill/generic-programming
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Java-%20Generic%20Classes.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Fundamentals of Generics]]** (5 videos)
-- **[[#3. 2. Generic Classes and Methods]]** (7 videos)
-- **[[#4. 3. Generics: Deep Dive]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fundamentals of Generics]]** (5 videos)
+- **[[#2. Generic Classes and Methods]]** (7 videos)
+- **[[#3. Generics: Deep Dive]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
@@ -139,7 +141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Fundamentals of Generics
+### 1. Fundamentals of Generics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the need for generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
@@ -950,7 +954,9 @@ created: 2026-04-28
 > **Speakers:** - [instructors] (1)
 
 
-### 3. 2. Generic Classes and Methods
+### 2. Generic Classes and Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generic classes/interface use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
@@ -2146,7 +2152,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Generics: Deep Dive
+### 3. Generics: Deep Dive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generic class hierarchies
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
@@ -3253,7 +3261,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)

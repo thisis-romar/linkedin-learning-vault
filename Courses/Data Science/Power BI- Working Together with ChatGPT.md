@@ -37,7 +37,7 @@ tags:
   - skill/microsoft-power-bi
   - skill/chatgpt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Working%20Together%20with%20ChatGPT.md)
@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Power BI and OpenAI]]** (3 videos)
-- **[[#3. 2. Power BI ChatGPT Data Integration]]** (5 videos)
-- **[[#4. 3. Power BI ChatGPT Data Manipulation]]** (8 videos)
-- **[[#5. 4. Power BI ChatGPT Data Analysis]]** (5 videos)
-- **[[#6. Continuing Your Power BI and Generative AI Learning Journey]]** (3 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Power BI and OpenAI]]** (3 videos)
+- **[[#2. Power BI ChatGPT Data Integration]]** (5 videos)
+- **[[#3. Power BI ChatGPT Data Manipulation]]** (8 videos)
+- **[[#4. Power BI ChatGPT Data Analysis]]** (5 videos)
+- **[[#Continuing Your Power BI and Generative AI Learning Journey]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with Power BI and ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Understanding Power BI and OpenAI
+### 1. Understanding Power BI and OpenAI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
@@ -257,7 +261,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 3. 2. Power BI ChatGPT Data Integration
+### 2. Power BI ChatGPT Data Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data source troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
@@ -572,7 +578,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Power BI ChatGPT Data Manipulation
+### 3. Power BI ChatGPT Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use ChatGPT for data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
@@ -998,7 +1006,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1), type. (1)
 
 
-### 5. 4. Power BI ChatGPT Data Analysis
+### 4. Power BI ChatGPT Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use ChatGPT for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
@@ -1278,7 +1288,9 @@ created: 2026-04-28
 > **Definitions:** is called (1)
 
 
-### 6. Continuing Your Power BI and Generative AI Learning Journey
+### Continuing Your Power BI and Generative AI Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the next step with Copliot
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)

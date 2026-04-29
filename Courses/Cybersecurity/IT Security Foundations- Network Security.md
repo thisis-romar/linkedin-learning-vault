@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - topic/cloud-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/IT%20Security%20Foundations-%20Network%20Security.md)

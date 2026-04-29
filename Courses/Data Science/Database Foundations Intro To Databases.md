@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/databases
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations%20Intro%20To%20Databases.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Database Core Concepts]]** (4 videos)
-- **[[#3. 2. Set Up a Database Playground]]** (7 videos)
-- **[[#4. 3. Graphical Interfaces]]** (7 videos)
-- **[[#5. 4. Create Table Objects]]** (9 videos)
-- **[[#6. 5. Add Data to a Table]]** (7 videos)
-- **[[#7. 6. Retrieve Information]]** (7 videos)
-- **[[#8. 7. Manipulate Data]]** (8 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Database Core Concepts]]** (4 videos)
+- **[[#2. Set Up a Database Playground]]** (7 videos)
+- **[[#3. Graphical Interfaces]]** (7 videos)
+- **[[#4. Create Table Objects]]** (9 videos)
+- **[[#5. Add Data to a Table]]** (7 videos)
+- **[[#6. Retrieve Information]]** (7 videos)
+- **[[#7. Manipulate Data]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to database foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Database Core Concepts
+### 1. Database Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
@@ -554,7 +558,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 3. 2. Set Up a Database Playground
+### 2. Set Up a Database Playground
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose of the playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
@@ -1452,7 +1458,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Graphical Interfaces
+### 3. Graphical Interfaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Management interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
@@ -2184,7 +2192,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Create Table Objects
+### 4. Create Table Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structured Query Language
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
@@ -3214,7 +3224,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Add Data to a Table
+### 5. Add Data to a Table
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Table rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
@@ -4059,7 +4071,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Retrieve Information
+### 6. Retrieve Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Querying data
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
@@ -4805,7 +4819,9 @@ created: 2026-04-28
 > **Non-Speech:** (bouncy upbeat music) (1)
 
 
-### 8. 7. Manipulate Data
+### 7. Manipulate Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Display column aliases with AS
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
@@ -5782,7 +5798,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)

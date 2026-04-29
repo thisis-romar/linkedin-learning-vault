@@ -35,7 +35,7 @@ tags:
   - skill/databases
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20with%20Databases.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Databases in Python]]** (4 videos)
-- **[[#3. 2. Using SQLite in Python]]** (11 videos)
-- **[[#4. 3. Using MySQL in Python]]** (13 videos)
-- **[[#5. 4. Using PostgreSQL in Python]]** (11 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Databases in Python]]** (4 videos)
+- **[[#2. Using SQLite in Python]]** (11 videos)
+- **[[#3. Using MySQL in Python]]** (13 videos)
+- **[[#4. Using PostgreSQL in Python]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Databases in Python
+### 1. Introduction to Databases in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using SQLite in Python
+### 2. Using SQLite in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SQLite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
@@ -1202,7 +1208,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Using MySQL in Python
+### 3. Using MySQL in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
@@ -2222,7 +2230,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using PostgreSQL in Python
+### 4. Using PostgreSQL in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PostgreSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
@@ -3022,7 +3032,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue using databases in Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)

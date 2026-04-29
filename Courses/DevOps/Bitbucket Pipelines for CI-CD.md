@@ -32,7 +32,7 @@ tags:
   - skill/bitbucket
   - skill/continuous-integration-and-continuous-delivery-ci-cd
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Bitbucket%20Pipelines%20for%20CI-CD.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Getting Started with Bitbucket Pipelines]]** (7 videos)
-- **[[#3. 2. Working with Variables and Artifacts]]** (6 videos)
-- **[[#4. 3. Configuring Build Environments]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Getting Started with Bitbucket Pipelines]]** (7 videos)
+- **[[#2. Working with Variables and Artifacts]]** (6 videos)
+- **[[#3. Configuring Build Environments]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From commit to deployment with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
@@ -232,7 +234,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Bitbucket Pipelines
+### 1. Getting Started with Bitbucket Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
@@ -821,7 +825,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 3. 2. Working with Variables and Artifacts
+### 2. Working with Variables and Artifacts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Variables and secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
@@ -1470,7 +1476,9 @@ created: 2026-04-28
 > **Definitions:** is a  (3)
 
 
-### 4. 3. Configuring Build Environments
+### 3. Configuring Build Environments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use default images and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
@@ -1976,7 +1984,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)

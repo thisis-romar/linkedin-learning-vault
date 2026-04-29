@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Figuring%20Out%20Your%20Next%20Move.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What's Next in Your Career]]** (2 videos)
-- **[[#3. 2. Plant]]** (4 videos)
-- **[[#4. 3. Scan]]** (4 videos)
-- **[[#5. 4. Pilot]]** (4 videos)
-- **[[#6. 5. Lead]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What's Next in Your Career]]** (2 videos)
+- **[[#2. Plant]]** (4 videos)
+- **[[#3. Scan]]** (4 videos)
+- **[[#4. Pilot]]** (4 videos)
+- **[[#5. Lead]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/welcome-18780141?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. What's Next in Your Career
+### 1. What's Next in Your Career
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The career pivot methodology
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980)
@@ -258,7 +262,9 @@ created: 2026-04-28
 > **Speakers:** - contrary (1)
 
 
-### 3. 2. Plant
+### 2. Plant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reverse engineer past career pivots
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/reverse-engineer-past-career-pivots?u=76281980)
@@ -522,7 +528,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 4. 3. Scan
+### 3. Scan
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scan your network for connection opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980)
@@ -785,7 +793,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 5. 4. Pilot
+### 4. Pilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take small steps to experiment in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980)
@@ -1085,7 +1095,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 6. 5. Lead
+### 5. Lead
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply pivot as coaching or conversation framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980)
@@ -1326,7 +1338,9 @@ created: 2026-04-28
 > **Speakers:** - coaching (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980)

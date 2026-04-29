@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/marketing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Building Blocks of Your Marketing Strategy]]** (5 videos)
-- **[[#3. 2. Developing a Value Proposition for Your Brand]]** (5 videos)
-- **[[#4. 3. Creating the Customer-Brand Experience]]** (5 videos)
-- **[[#5. 4. Creating the Marketing Plan and Learning from Your Work]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Building Blocks of Your Marketing Strategy]]** (5 videos)
+- **[[#2. Developing a Value Proposition for Your Brand]]** (5 videos)
+- **[[#3. Creating the Customer-Brand Experience]]** (5 videos)
+- **[[#4. Creating the Marketing Plan and Learning from Your Work]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Think like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. The Building Blocks of Your Marketing Strategy
+### 1. The Building Blocks of Your Marketing Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining brands and brand architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
@@ -552,7 +556,9 @@ created: 2026-04-28
 > **Speakers:** - customer (1)
 
 
-### 3. 2. Developing a Value Proposition for Your Brand
+### 2. Developing a Value Proposition for Your Brand
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discovering customer segments
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
@@ -935,7 +941,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 4. 3. Creating the Customer-Brand Experience
+### 3. Creating the Customer-Brand Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a brand-customer experience map
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
@@ -1350,7 +1358,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 5. 4. Creating the Marketing Plan and Learning from Your Work
+### 4. Creating the Marketing Plan and Learning from Your Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing the strategic narrative: The marketing plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
@@ -1491,7 +1501,9 @@ created: 2026-04-28
 > **Speakers:** - great (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thinking like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)

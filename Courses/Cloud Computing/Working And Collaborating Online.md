@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/virtual-collaboration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Working%20And%20Collaborating%20Online.md)

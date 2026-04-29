@@ -31,7 +31,7 @@ tags:
   - skill/decision-making
   - skill/critical-thinking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Critical%20Thinking.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is Critical Thinking?]]** (3 videos)
-- **[[#3. 2. Thinking the Problem Through]]** (6 videos)
-- **[[#4. 3. Using Critical Thinking Tools]]** (6 videos)
-- **[[#5. 4. Practice Critical Thinking]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Critical Thinking?]]** (3 videos)
+- **[[#2. Thinking the Problem Through]]** (6 videos)
+- **[[#3. Using Critical Thinking Tools]]** (6 videos)
+- **[[#4. Practice Critical Thinking]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. What Is Critical Thinking?
+### 1. What Is Critical Thinking?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
@@ -274,7 +278,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Thinking the Problem Through
+### 2. Thinking the Problem Through
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
@@ -691,7 +697,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Using Critical Thinking Tools
+### 3. Using Critical Thinking Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge how the business operates
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
@@ -1263,7 +1271,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Practice Critical Thinking
+### 4. Practice Critical Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Teach others how to think critically
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
@@ -1428,7 +1438,9 @@ created: 2026-04-28
 > **Speakers:** - during (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply critical thinking every day
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/vertex
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20Vertex%20AI-%20MLOps%20with%20Google%20Cloud.md)
@@ -51,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to MLOps]]** (4 videos)
-- **[[#3. 2. Feature Engineering]]** (2 videos)
-- **[[#4. 3. Training and Hyperparameter]]** (4 videos)
-- **[[#5. 4. Model Serving and Deployment]]** (3 videos)
-- **[[#6. 5. Model Monitoring and Management]]** (2 videos)
-- **[[#7. 6. Deploy Your Project Using Vertex AI]]** (2 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to MLOps]]** (4 videos)
+- **[[#2. Feature Engineering]]** (2 videos)
+- **[[#3. Training and Hyperparameter]]** (4 videos)
+- **[[#4. Model Serving and Deployment]]** (3 videos)
+- **[[#5. Model Monitoring and Management]]** (2 videos)
+- **[[#6. Deploy Your Project Using Vertex AI]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Vertex AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to MLOps
+### 1. Introduction to MLOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MLOps lifecycle: ML development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980)
@@ -465,7 +469,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Feature Engineering
+### 2. Feature Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vertex AI feature store
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980)
@@ -719,7 +725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Training and Hyperparameter
+### 3. Training and Hyperparameter
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vertex AI AutoML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980)
@@ -1199,7 +1207,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 5. 4. Model Serving and Deployment
+### 4. Model Serving and Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vertex AI prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980)
@@ -1505,7 +1515,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Model Monitoring and Management
+### 5. Model Monitoring and Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vertex AI model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980)
@@ -1759,7 +1771,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Deploy Your Project Using Vertex AI
+### 6. Deploy Your Project Using Vertex AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Deploy a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980)
@@ -1860,7 +1874,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vertex AI vs. other MLOps platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Jigsaw%20for%20PHP%20and%20Laravel%20Developers.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started with Jigsaw]]** (5 videos)
-- **[[#3. 2. Jigsaw Internals]]** (7 videos)
-- **[[#4. 3. Deploying Jigsaw on Netlify]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started with Jigsaw]]** (5 videos)
+- **[[#2. Jigsaw Internals]]** (7 videos)
+- **[[#3. Deploying Jigsaw on Netlify]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. Getting Started with Jigsaw
+### 1. Getting Started with Jigsaw
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Jigsaw?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
@@ -420,7 +424,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Jigsaw Internals
+### 2. Jigsaw Internals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
@@ -1099,7 +1105,9 @@ created: 2026-04-28
 > **Cross-References:** we covered (1)
 
 
-### 4. 3. Deploying Jigsaw on Netlify
+### 3. Deploying Jigsaw on Netlify
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Netlify introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
@@ -1454,7 +1462,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat invigorating music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)

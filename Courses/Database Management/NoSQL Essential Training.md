@@ -40,7 +40,7 @@ tags:
   - topic/web-development
   - skill/nosql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/NoSQL%20Essential%20Training.md)
@@ -58,15 +58,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. What Is NoSQL?]]** (7 videos)
-- **[[#3. 2. Different Types of NoSQL Databases]]** (7 videos)
-- **[[#4. 3. Pros and Cons of NoSQL]]** (4 videos)
-- **[[#5. 4. Is NoSQL Right for Your Job?]]** (3 videos)
-- **[[#6. 5. Vector Databases]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is NoSQL?]]** (7 videos)
+- **[[#2. Different Types of NoSQL Databases]]** (7 videos)
+- **[[#3. Pros and Cons of NoSQL]]** (4 videos)
+- **[[#4. Is NoSQL Right for Your Job?]]** (3 videos)
+- **[[#5. Vector Databases]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get to know NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/get-to-know-nosql?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. What Is NoSQL?
+### 1. What Is NoSQL?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why the hype over NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/why-the-hype-over-nosql?u=76281980)
@@ -606,7 +610,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Different Types of NoSQL Databases
+### 2. Different Types of NoSQL Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of NoSQL database types
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/overview-of-nosql-database-types?u=76281980)
@@ -907,7 +913,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Pros and Cons of NoSQL
+### 3. Pros and Cons of NoSQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where NoSQL thrives
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/where-nosql-thrives?u=76281980)
@@ -1109,7 +1117,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Is NoSQL Right for Your Job?
+### 4. Is NoSQL Right for Your Job?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Is NoSQL right for you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/is-nosql-right-for-you?u=76281980)
@@ -1285,7 +1295,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Vector Databases
+### 5. Vector Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/introduction-to-vector-databases?u=76281980)
@@ -1350,7 +1362,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/next-steps-24076573?u=76281980)

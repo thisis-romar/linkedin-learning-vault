@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Working%20with%20Files%20and%20Directories.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Working with Files]]** (13 videos)
-- **[[#3. 2. Working with Directories]]** (7 videos)
-- **[[#4. 3. Accepting User-Uploaded Files]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with Files]]** (13 videos)
+- **[[#2. Working with Directories]]** (7 videos)
+- **[[#3. Accepting User-Uploaded Files]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with files and directories in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Files
+### 1. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filesystem basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
@@ -1755,7 +1759,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Working with Directories
+### 2. Working with Directories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Directory basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
@@ -2511,7 +2517,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Accepting User-Uploaded Files
+### 3. Accepting User-Uploaded Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring PHP for file uploads
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
@@ -3466,7 +3474,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)

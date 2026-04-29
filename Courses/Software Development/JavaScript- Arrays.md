@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Arrays.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Arrays: The Basics]]** (5 videos)
-- **[[#3. 2.  Working with Ordered Data]]** (5 videos)
-- **[[#4. 3. Evaluating Data for a Single Value]]** (4 videos)
-- **[[#5. 4.  Implementing Stacks and Queues]]** (4 videos)
-- **[[#6. 5.  Bringing It Together: Advanced Methods]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Arrays: The Basics]]** (5 videos)
+- **[[#2.  Working with Ordered Data]]** (5 videos)
+- **[[#3. Evaluating Data for a Single Value]]** (4 videos)
+- **[[#4.  Implementing Stacks and Queues]]** (4 videos)
+- **[[#5.  Bringing It Together: Advanced Methods]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### So many ways to work with arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Arrays: The Basics
+### 1. Arrays: The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Arrays overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980)
@@ -436,7 +440,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2.  Working with Ordered Data
+### 2.  Working with Ordered Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Order arrays with sort
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/order-arrays-with-sort?u=76281980)
@@ -747,7 +753,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Evaluating Data for a Single Value
+### 3. Evaluating Data for a Single Value
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Does the array Include an element?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/does-the-array-include-an-element?u=76281980)
@@ -1000,7 +1008,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4.  Implementing Stacks and Queues
+### 4.  Implementing Stacks and Queues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The end: Push and pop data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/the-end-push-and-pop-data?u=76281980)
@@ -1248,7 +1258,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5.  Bringing It Together: Advanced Methods
+### 5.  Bringing It Together: Advanced Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reformat data with map
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/reformat-data-with-map?u=76281980)
@@ -1871,7 +1883,9 @@ created: 2026-04-28
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980)

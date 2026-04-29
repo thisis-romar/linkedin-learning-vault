@@ -34,7 +34,7 @@ tags:
   - skill/r-programming-language
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Code%20Challenges-%20Data%20Science.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Data Science Basics with R]]** (4 videos)
-- **[[#3. 2. Data Science Concepts with R]]** (3 videos)
-- **[[#4. 3. Think Like an R Programmer]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Science Basics with R]]** (4 videos)
+- **[[#2. Data Science Concepts with R]]** (3 videos)
+- **[[#3. Think Like an R Programmer]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice with R programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Science Basics with R
+### 1. Data Science Basics with R
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Subsetting
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
@@ -460,7 +464,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Science Concepts with R
+### 2. Data Science Concepts with R
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Fizz buzz
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
@@ -775,7 +781,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Think Like an R Programmer
+### 3. Think Like an R Programmer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Play rock, paper, scissors, lizard, spock
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
@@ -1129,7 +1137,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)

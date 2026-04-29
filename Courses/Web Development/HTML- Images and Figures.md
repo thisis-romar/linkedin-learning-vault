@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Images%20and%20Figures.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Image Essentials]]** (4 videos)
-- **[[#3. 2. Image Formats]]** (4 videos)
-- **[[#4. 3. Images and CSS]]** (6 videos)
-- **[[#5. 4. Responsive Images]]** (7 videos)
-- **[[#6. 5. Figures]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Image Essentials]]** (4 videos)
+- **[[#2. Image Formats]]** (4 videos)
+- **[[#3. Images and CSS]]** (6 videos)
+- **[[#4. Responsive Images]]** (7 videos)
+- **[[#5. Figures]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
@@ -158,7 +160,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Image Essentials
+### 1. Image Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the img element and src attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
@@ -464,7 +468,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Image Formats
+### 2. Image Formats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image format overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
@@ -665,7 +671,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Images and CSS
+### 3. Images and CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Borders, padding, and spacing
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
@@ -1131,7 +1139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Responsive Images
+### 4. Responsive Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resolution and pixel density
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
@@ -1519,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Figures
+### 5. Figures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using figure and figcaption elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
@@ -1639,7 +1651,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)

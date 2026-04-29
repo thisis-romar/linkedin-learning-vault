@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Hands-On%20Introduction-%20Java.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Model Objects]]** (3 videos)
-- **[[#3. 2. External Data Sources]]** (3 videos)
-- **[[#4. 3. Utility Classes]]** (3 videos)
-- **[[#5. 4. State Management]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Model Objects]]** (3 videos)
+- **[[#2. External Data Sources]]** (3 videos)
+- **[[#3. Utility Classes]]** (3 videos)
+- **[[#4. State Management]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting hands on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
@@ -326,7 +328,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Model Objects
+### 1. Model Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design a solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
@@ -547,7 +551,9 @@ created: 2026-04-28
 > **Non-Speech:** (jazz music) (1)
 
 
-### 3. 2. External Data Sources
+### 2. External Data Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect to data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
@@ -900,7 +906,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 4. 3. Utility Classes
+### 3. Utility Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create Authenticator
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
@@ -1286,7 +1294,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. 4. State Management
+### 4. State Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deposit
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
@@ -1582,7 +1592,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with Java and project-based learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)

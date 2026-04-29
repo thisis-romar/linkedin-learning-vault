@@ -34,7 +34,7 @@ tags:
   - skill/data-literacy
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20in%20the%20Age%20of%20AI.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Defining Big Data]]** (7 videos)
-- **[[#3. 2. How Is Big Data Used?]]** (3 videos)
-- **[[#4. 3. Ethics in Big Data]]** (6 videos)
-- **[[#5. 4. Data Logistics]]** (4 videos)
-- **[[#6. 5. Analyzing Big Data]]** (9 videos)
-- **[[#7. Continuing Your Big Data in AI Learning Journey]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Defining Big Data]]** (7 videos)
+- **[[#2. How Is Big Data Used?]]** (3 videos)
+- **[[#3. Ethics in Big Data]]** (6 videos)
+- **[[#4. Data Logistics]]** (4 videos)
+- **[[#5. Analyzing Big Data]]** (9 videos)
+- **[[#Continuing Your Big Data in AI Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Big data in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Defining Big Data
+### 1. Defining Big Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The volume, velocity, and variety of big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
@@ -916,7 +920,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. How Is Big Data Used?
+### 2. How Is Big Data Used?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Big data for competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
@@ -1298,7 +1304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Ethics in Big Data
+### 3. Ethics in Big Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Big data and privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
@@ -1963,7 +1971,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Data Logistics
+### 4. Data Logistics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structured, semi-structured, and unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
@@ -2313,7 +2323,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Analyzing Big Data
+### 5. Analyzing Big Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenges with data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
@@ -3146,7 +3158,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 7. Continuing Your Big Data in AI Learning Journey
+### Continuing Your Big Data in AI Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)

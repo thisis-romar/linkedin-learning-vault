@@ -28,7 +28,7 @@ tags:
   - topic/mobile-development
   - skill/react-native
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/From%20React%20to%20React%20Native.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Overview of This Course]]** (4 videos)
-- **[[#3. 2. Conversion of Views]]** (5 videos)
-- **[[#4. 3. Conversion of Styles]]** (3 videos)
-- **[[#5. 4. Debugging in React Native]]** (1 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview of This Course]]** (4 videos)
+- **[[#2. Conversion of Views]]** (5 videos)
+- **[[#3. Conversion of Styles]]** (3 videos)
+- **[[#4. Debugging in React Native]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From React to React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview of This Course
+### 1. Overview of This Course
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the React project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
@@ -703,7 +707,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Conversion of Views
+### 2. Conversion of Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initial setup of extra libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
@@ -1141,7 +1147,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Conversion of Styles
+### 3. Conversion of Styles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Options for styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
@@ -1521,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Debugging in React Native
+### 4. Debugging in React Native
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debug options
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
@@ -1589,7 +1599,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)

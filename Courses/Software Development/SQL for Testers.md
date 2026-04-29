@@ -28,7 +28,7 @@ tags:
   - skill/sql
   - skill/database-testing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/SQL%20for%20Testers.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (4 videos)
-- **[[#3. 2. Querying SQL Data]]** (4 videos)
-- **[[#4. 3. Using SQL for Data Generation]]** (5 videos)
-- **[[#5. 4. Testing SQL Queries]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (4 videos)
+- **[[#2. Querying SQL Data]]** (4 videos)
+- **[[#3. Using SQL for Data Generation]]** (5 videos)
+- **[[#4. Testing SQL Queries]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dive deep into quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SQL and why use it as a tester?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
@@ -491,7 +495,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Querying SQL Data
+### 2. Querying SQL Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up a site for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
@@ -872,7 +878,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using SQL for Data Generation
+### 3. Using SQL for Data Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create new entries in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
@@ -1331,7 +1339,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Testing SQL Queries
+### 4. Testing SQL Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
@@ -2226,7 +2236,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)

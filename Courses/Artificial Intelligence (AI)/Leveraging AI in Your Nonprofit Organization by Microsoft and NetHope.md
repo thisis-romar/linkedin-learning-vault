@@ -32,7 +32,7 @@ tags:
   - skill/ai-readiness
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20in%20Your%20Nonprofit%20Organization%20by%20Microsoft%20and%20NetHope.md)
@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Organizational AI Readiness and Integration for Nonprofits]]** (5 videos)
-- **[[#2. 2. Sustainable AI Adoption for Nonprofits]]** (5 videos)
-- **[[#3. 3. Responsible AI for Nonprofits]]** (5 videos)
-- **[[#4. 4. AI and Data Governance for Nonprofits]]** (5 videos)
+- **[[#1. Organizational AI Readiness and Integration for Nonprofits]]** (5 videos)
+- **[[#2. Sustainable AI Adoption for Nonprofits]]** (5 videos)
+- **[[#3. Responsible AI for Nonprofits]]** (5 videos)
+- **[[#4. AI and Data Governance for Nonprofits]]** (5 videos)
 
-### 1. 1. Organizational AI Readiness and Integration for Nonprofits
+### 1. Organizational AI Readiness and Integration for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting AI to people and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
@@ -348,7 +350,9 @@ created: 2026-04-28
 > **Analogies:** such as (2)
 
 
-### 2. 2. Sustainable AI Adoption for Nonprofits
+### 2. Sustainable AI Adoption for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Changing habits, not just systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
@@ -702,7 +706,9 @@ created: 2026-04-28
 > **Env Vars:** api (1)
 
 
-### 3. 3. Responsible AI for Nonprofits
+### 3. Responsible AI for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When AI goes wrong, people pay the price
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
@@ -1151,7 +1157,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 4. 4. AI and Data Governance for Nonprofits
+### 4. AI and Data Governance for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data shapes decisions, decisions shape data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)

@@ -43,7 +43,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/How%20to%20Boost%20Your%20Productivity%20with%20AI%20Tools%20(2023).md)

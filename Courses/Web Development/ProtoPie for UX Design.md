@@ -30,8 +30,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/protopie
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/ProtoPie%20for%20UX%20Design.md)
 
 ![ProtoPie for UX Design](https://media.licdn.com/dms/image/v2/C560DAQEqLK7R7bdWHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1634060303945?e=2147483647&amp;v=beta&amp;t=VMi_D0BVPl_HVc9Zol5g6z_DG4AkF956zQbQJ9StPlI)
 
@@ -1570,4 +1572,9 @@ _Courses sharing skills:_
 - [[Miro for UX- Brainstorming and Collaboration]] — User Experience Design (UED)
 - [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — User Experience Design (UED)
 - [[UX Deep Dive- Mapping]] — User Experience Design (UED)
-- [[UX for AI- Design Practices for AI Developers]] — User E
+- [[UX for AI- Design Practices for AI Developers]] — User Experience Design (UED)
+- [[Empathy in UX Design]] — User Experience Design (UED)
+
+---
+
+[↑ Back to top](#)

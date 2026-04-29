@@ -32,7 +32,7 @@ tags:
   - skill/test-automation-tools
   - skill/automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Playwright.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Playwright Installation and Configuration]]** (7 videos)
-- **[[#3. 2. Creating Tests with Playwright]]** (11 videos)
-- **[[#4. 3. Maintaining Playwright Tests]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Playwright Installation and Configuration]]** (7 videos)
+- **[[#2. Creating Tests with Playwright]]** (11 videos)
+- **[[#3. Maintaining Playwright Tests]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock the future of test automation with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
@@ -209,7 +211,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Playwright Installation and Configuration
+### 1. Playwright Installation and Configuration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
@@ -1206,7 +1210,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Creating Tests with Playwright
+### 2. Creating Tests with Playwright
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the website under test
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
@@ -3160,7 +3166,9 @@ created: 2026-04-28
 > **File Paths:** challenge.spec.ts (1)
 
 
-### 4. 3. Maintaining Playwright Tests
+### 3. Maintaining Playwright Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to maintaining tests with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
@@ -3627,7 +3635,9 @@ created: 2026-04-28
 > **Code Identifiers:** checkoutchallenge (1), loginpage (1), node_modules (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)

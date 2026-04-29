@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/react-hooks
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React%20Hooks.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Intro to React Hooks]]** (2 videos)
-- **[[#3. 2. The useState Hook]]** (7 videos)
-- **[[#4. 3. The useEffect Hook]]** (4 videos)
-- **[[#5. 4. Additional Hooks]]** (6 videos)
-- **[[#6. 5. Creating Custom Hooks]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
-- **[[#8. Appendix]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Intro to React Hooks]]** (2 videos)
+- **[[#2. The useState Hook]]** (7 videos)
+- **[[#3. The useEffect Hook]]** (4 videos)
+- **[[#4. Additional Hooks]]** (6 videos)
+- **[[#5. Creating Custom Hooks]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
+- **[[#Appendix]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding modern React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - [eve] (1)
 
 
-### 2. 1. Intro to React Hooks
+### 1. Intro to React Hooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980)
@@ -216,7 +220,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The useState Hook
+### 2. The useState Hook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing Array and Object destructuring
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980)
@@ -796,7 +802,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. The useEffect Hook
+### 3. The useEffect Hook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing useEffect
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980)
@@ -1171,7 +1179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Additional Hooks
+### 4. Additional Hooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling complex state with useReducer
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/handling-complex-state-with-usereducer?u=76281980)
@@ -1651,7 +1661,9 @@ created: 2026-04-28
 > **Non-Speech:** (dramatic music) (1)
 
 
-### 6. 5. Creating Custom Hooks
+### 5. Creating Custom Hooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reusing form logic with custom Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980)
@@ -2273,7 +2285,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980)
@@ -2302,7 +2316,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Appendix
+### Appendix
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React Hooks history
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980)

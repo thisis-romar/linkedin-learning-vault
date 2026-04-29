@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/transact-sql-t-sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Program%20Databases%20with%20Transact-SQL.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Create Views of the Data]]** (4 videos)
-- **[[#3. 2. Create User-Defined Functions]]** (6 videos)
-- **[[#4. 3. Work with Stored Procedures]]** (6 videos)
-- **[[#5. 4. Create Transactions]]** (6 videos)
-- **[[#6. 5. Implement Error Handling]]** (6 videos)
-- **[[#7. 6. Data Type Conversions and NULLs]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Create Views of the Data]]** (4 videos)
+- **[[#2. Create User-Defined Functions]]** (6 videos)
+- **[[#3. Work with Stored Procedures]]** (6 videos)
+- **[[#4. Create Transactions]]** (6 videos)
+- **[[#5. Implement Error Handling]]** (6 videos)
+- **[[#6. Data Type Conversions and NULLs]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Program databases with SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
@@ -186,7 +188,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 2. 1. Create Views of the Data
+### 1. Create Views of the Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save a query as a view object
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
@@ -681,7 +685,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 3. 2. Create User-Defined Functions
+### 2. Create User-Defined Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deterministic vs. nondeterministic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
@@ -1478,7 +1484,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Work with Stored Procedures
+### 3. Work with Stored Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write and execute a stored procedure
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
@@ -2151,7 +2159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Create Transactions
+### 4. Create Transactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensure data consistency with transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
@@ -2814,7 +2824,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Implement Error Handling
+### 5. Implement Error Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is error handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
@@ -3422,7 +3434,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 7. 6. Data Type Conversions and NULLs
+### 6. Data Type Conversions and NULLs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implicit data type conversions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
@@ -3886,7 +3900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)

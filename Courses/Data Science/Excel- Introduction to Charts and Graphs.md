@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Charts%20and%20Graphs.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding Excel Chart Concepts]]** (4 videos)
-- **[[#3. 2. Creating Basic Charts Quickly]]** (4 videos)
-- **[[#4. 3. Modifying Chart Appearances]]** (5 videos)
-- **[[#5. 4. Working with Column, Bar, and Line Charts]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Excel Chart Concepts]]** (4 videos)
+- **[[#2. Creating Basic Charts Quickly]]** (4 videos)
+- **[[#3. Modifying Chart Appearances]]** (5 videos)
+- **[[#4. Working with Column, Bar, and Line Charts]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Craft engaging charts and graphs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/craft-engaging-charts-and-graphs-in-excel?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - [dennis] (1)
 
 
-### 2. 1. Understanding Excel Chart Concepts
+### 1. Understanding Excel Chart Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying chart elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/identifying-chart-elements?u=76281980)
@@ -580,7 +584,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Basic Charts Quickly
+### 2. Creating Basic Charts Quickly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting data to display as a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/selecting-data-to-display-as-a-chart?u=76281980)
@@ -907,7 +913,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Modifying Chart Appearances
+### 3. Modifying Chart Appearances
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing a chart layout with Quick Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/choosing-a-chart-layout-with-quick-layout?u=76281980)
@@ -1352,7 +1360,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Column, Bar, and Line Charts
+### 4. Working with Column, Bar, and Line Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using column and bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/using-column-and-bar-charts?u=76281980)
@@ -1711,7 +1721,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more about Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-charts-and-graphs-23743448/where-to-learn-more-about-excel?u=76281980)

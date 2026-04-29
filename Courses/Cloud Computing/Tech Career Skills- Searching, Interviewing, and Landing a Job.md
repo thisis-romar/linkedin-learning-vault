@@ -35,7 +35,7 @@ tags:
   - skill/job-search-strategies
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Tech%20Career%20Skills-%20Searching%2C%20Interviewing%2C%20and%20Landing%20a%20Job.md)
@@ -53,18 +53,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding the Tech Hiring Process]]** (4 videos)
-- **[[#3. 2. The Well-Rounded Engineer: What Employers Want]]** (2 videos)
-- **[[#4. 3. Better Defining Your Tech Job Search]]** (3 videos)
-- **[[#5. 4. Identifying the Key Players in a Tech Interview]]** (7 videos)
-- **[[#6. 5. Preparing for Your Technical Interview]]** (4 videos)
-- **[[#7. 6. Common Tech Interview Mistakes]]** (4 videos)
-- **[[#8. 7. Presenting Yourself in a Tech Interview]]** (5 videos)
-- **[[#9. 8. Post-Interview Advice]]** (3 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the Tech Hiring Process]]** (4 videos)
+- **[[#2. The Well-Rounded Engineer: What Employers Want]]** (2 videos)
+- **[[#3. Better Defining Your Tech Job Search]]** (3 videos)
+- **[[#4. Identifying the Key Players in a Tech Interview]]** (7 videos)
+- **[[#5. Preparing for Your Technical Interview]]** (4 videos)
+- **[[#6. Common Tech Interview Mistakes]]** (4 videos)
+- **[[#7. Presenting Yourself in a Tech Interview]]** (5 videos)
+- **[[#8. Post-Interview Advice]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the Hiring Landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/understanding-the-hiring-landscape-23082115?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Understanding the Tech Hiring Process
+### 1. Understanding the Tech Hiring Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The tech hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-tech-hiring-process?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. The Well-Rounded Engineer: What Employers Want
+### 2. The Well-Rounded Engineer: What Employers Want
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Technical candidates need soft skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/technical-candidates-need-soft-skills-23076601?u=76281980)
@@ -636,7 +642,9 @@ created: 2026-04-28
 > **Speakers:** - during (1)
 
 
-### 4. 3. Better Defining Your Tech Job Search
+### 3. Better Defining Your Tech Job Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid prejudging the role
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/avoid-prejudging-the-role?u=76281980)
@@ -785,7 +793,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Identifying the Key Players in a Tech Interview
+### 4. Identifying the Key Players in a Tech Interview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Different types of interviewers
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/different-types-of-interviewers?u=76281980)
@@ -1226,7 +1236,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 6. 5. Preparing for Your Technical Interview
+### 5. Preparing for Your Technical Interview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The job description
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/the-job-description?u=76281980)
@@ -1492,7 +1504,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 7. 6. Common Tech Interview Mistakes
+### 6. Common Tech Interview Mistakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting too tactical in a tech interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/getting-too-tactical-in-a-tech-interview?u=76281980)
@@ -1950,7 +1964,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 8. 7. Presenting Yourself in a Tech Interview
+### 7. Presenting Yourself in a Tech Interview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/setting-the-stage?u=76281980)
@@ -2330,7 +2346,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 9. 8. Post-Interview Advice
+### 8. Post-Interview Advice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating with the recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/communicating-with-the-recruiter?u=76281980)
@@ -2425,7 +2443,9 @@ created: 2026-04-28
 > **Speakers:** - sending (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Closing thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-searching-interviewing-and-landing-a-job/closing-thoughts-and-next-steps?u=76281980)

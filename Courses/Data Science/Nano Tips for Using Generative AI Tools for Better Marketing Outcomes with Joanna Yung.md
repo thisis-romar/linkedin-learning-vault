@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/marketing-strategy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20Generative%20AI%20Tools%20for%20Better%20Marketing%20Outcomes%20with%20Joanna%20Yung.md)
@@ -46,9 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Harness AI for Better Marketing Outcomes]]** (10 videos)
+- **[[#1. Harness AI for Better Marketing Outcomes]]** (10 videos)
 
-### 1. 1. Harness AI for Better Marketing Outcomes
+### 1. Harness AI for Better Marketing Outcomes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of marketing: Understanding the role of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)

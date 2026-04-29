@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Automation%20and%20Testing.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. What Is Automation Testing and Python-Selenium Framework?]]** (5 videos)
-- **[[#3. 2. Parsing the HTML DOM Structure]]** (11 videos)
-- **[[#4. 3. Navigating through Pages]]** (5 videos)
-- **[[#5. 4. Waits]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is Automation Testing and Python-Selenium Framework?]]** (5 videos)
+- **[[#2. Parsing the HTML DOM Structure]]** (11 videos)
+- **[[#3. Navigating through Pages]]** (5 videos)
+- **[[#4. Waits]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
@@ -165,7 +167,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is Automation Testing and Python-Selenium Framework?
+### 1. What Is Automation Testing and Python-Selenium Framework?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is automated testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
@@ -543,7 +547,9 @@ created: 2026-04-28
 > **Speakers:** - [iinstructor] (1)
 
 
-### 3. 2. Parsing the HTML DOM Structure
+### 2. Parsing the HTML DOM Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the HTML DOM structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
@@ -1349,7 +1355,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Navigating through Pages
+### 3. Navigating through Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Page interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
@@ -1801,7 +1809,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Waits
+### 4. Waits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are waits and why do we need them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
@@ -1996,7 +2006,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)

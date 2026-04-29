@@ -36,7 +36,7 @@ tags:
   - skill/github
   - skill/data-pipelines
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Pipeline%20Automation%20with%20GitHub%20Actions%20Using%20R%20and%20Python.md)

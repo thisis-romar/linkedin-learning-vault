@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20Getting%20Started.md)
@@ -59,16 +59,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to Deep Learning]]** (6 videos)
-- **[[#3. 2. Neural Network Architecture]]** (5 videos)
-- **[[#4. 3. Training a Neural Network]]** (10 videos)
-- **[[#5. 4. Deep Learning Example 1]]** (6 videos)
-- **[[#6. 5. Deep Learning Example 2]]** (4 videos)
-- **[[#7. 6. Deep Learning Exercise]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Deep Learning]]** (6 videos)
+- **[[#2. Neural Network Architecture]]** (5 videos)
+- **[[#3. Training a Neural Network]]** (10 videos)
+- **[[#4. Deep Learning Example 1]]** (6 videos)
+- **[[#5. Deep Learning Example 2]]** (4 videos)
+- **[[#6. Deep Learning Exercise]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
@@ -244,7 +246,9 @@ created: 2026-04-28
 > **URLs:** [anaconda.com](https://anaconda.com) (1)
 
 
-### 2. 1. Introduction to Deep Learning
+### 1. Introduction to Deep Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
@@ -634,7 +638,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Neural Network Architecture
+### 2. Neural Network Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The input layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
@@ -927,7 +933,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Training a Neural Network
+### 3. Training a Neural Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setup and initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
@@ -1440,7 +1448,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Deep Learning Example 1
+### 4. Deep Learning Example 1
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Iris classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
@@ -1789,7 +1799,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 6. 5. Deep Learning Example 2
+### 5. Deep Learning Example 2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spam classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
@@ -1988,7 +2000,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Deep Learning Exercise
+### 6. Deep Learning Exercise
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exercise problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
@@ -2138,7 +2152,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending your deep learning education
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)

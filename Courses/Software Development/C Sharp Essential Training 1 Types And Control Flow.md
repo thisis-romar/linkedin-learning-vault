@@ -28,7 +28,7 @@ tags:
   - skill/control-flow
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Sharp%20Essential%20Training%201%20Types%20And%20Control%20Flow.md)

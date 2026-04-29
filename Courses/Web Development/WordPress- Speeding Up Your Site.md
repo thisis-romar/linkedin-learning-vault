@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Speeding%20Up%20Your%20Site.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Fundamentals of Performance]]** (4 videos)
-- **[[#3. 2. Hosting]]** (3 videos)
-- **[[#4. 3. Media]]** (5 videos)
-- **[[#5. 4. Plugins and Themes]]** (3 videos)
-- **[[#6. 5. Database]]** (3 videos)
-- **[[#7. 6. Caching]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fundamentals of Performance]]** (4 videos)
+- **[[#2. Hosting]]** (3 videos)
+- **[[#3. Media]]** (5 videos)
+- **[[#4. Plugins and Themes]]** (3 videos)
+- **[[#5. Database]]** (3 videos)
+- **[[#6. Caching]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make your WordPress website lightning fast
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Fundamentals of Performance
+### 1. Fundamentals of Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why speed is important for websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980)
@@ -484,7 +488,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Hosting
+### 2. Hosting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why hosting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980)
@@ -720,7 +726,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Media
+### 3. Media
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980)
@@ -1197,7 +1205,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 5. 4. Plugins and Themes
+### 4. Plugins and Themes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your theme matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980)
@@ -1594,7 +1604,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 6. 5. Database
+### 5. Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### WordPress database structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980)
@@ -1843,7 +1855,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 7. 6. Caching
+### 6. Caching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is caching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980)
@@ -2082,7 +2096,9 @@ created: 2026-04-28
 > **Warnings:** troubleshoot (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980)

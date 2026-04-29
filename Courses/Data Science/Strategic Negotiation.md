@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/strategic-negotiations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Negotiation.md)
@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Assess the Situation]]** (4 videos)
-- **[[#3. 2. Gather Data]]** (3 videos)
-- **[[#4. 3. Make a Deal]]** (3 videos)
-- **[[#5. 4. Measure and Adjust]]** (3 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Assess the Situation]]** (4 videos)
+- **[[#2. Gather Data]]** (3 videos)
+- **[[#3. Make a Deal]]** (3 videos)
+- **[[#4. Measure and Adjust]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intentional negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 2. 1. Assess the Situation
+### 1. Assess the Situation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the context of the negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
@@ -348,7 +352,9 @@ created: 2026-04-28
 > **Speakers:** - two (1)
 
 
-### 3. 2. Gather Data
+### 2. Gather Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding players and positions in negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
@@ -546,7 +552,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Make a Deal
+### 3. Make a Deal
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining your goals in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
@@ -724,7 +732,9 @@ created: 2026-04-28
 > **Speakers:** - over (1)
 
 
-### 5. 4. Measure and Adjust
+### 4. Measure and Adjust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing what happened in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
@@ -911,7 +921,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding common negotiation pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)

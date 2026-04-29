@@ -30,7 +30,7 @@ tags:
   - skill/search-engine-optimization-seo
   - skill/wordpress
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20SEO.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. SEO Principles]]** (6 videos)
-- **[[#3. 2. SEO All in One Pack]]** (7 videos)
-- **[[#4. 3. WordPress SEO by Yoast]]** (6 videos)
-- **[[#5. 4. WordPress SEO by Yoast Settings]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. SEO Principles]]** (6 videos)
+- **[[#2. SEO All in One Pack]]** (7 videos)
+- **[[#3. WordPress SEO by Yoast]]** (6 videos)
+- **[[#4. WordPress SEO by Yoast Settings]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reach customers with SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SEO Principles
+### 1. SEO Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals of SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980)
@@ -514,7 +518,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. SEO All in One Pack
+### 2. SEO All in One Pack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and activate All in One SEO Pack
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980)
@@ -1047,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. WordPress SEO by Yoast
+### 3. WordPress SEO by Yoast
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and activate Yoast SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980)
@@ -1672,7 +1680,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. WordPress SEO by Yoast Settings
+### 4. WordPress SEO by Yoast Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bulk edit posts and pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980)
@@ -2123,7 +2133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize your posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980)

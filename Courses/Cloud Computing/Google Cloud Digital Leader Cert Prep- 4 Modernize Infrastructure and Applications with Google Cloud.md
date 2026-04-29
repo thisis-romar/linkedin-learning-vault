@@ -34,7 +34,7 @@ tags:
   - skill/it-infrastructure-management
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep-%204%20Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud.md)
@@ -52,12 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Modernizing Infrastructure in the Cloud]]** (6 videos)
-- **[[#3. 2. Modernizing Applications in the Cloud]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Modernizing Infrastructure in the Cloud]]** (6 videos)
+- **[[#2. Modernizing Applications in the Cloud]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
@@ -187,7 +189,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Modernizing Infrastructure in the Cloud
+### 1. Modernizing Infrastructure in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
@@ -583,7 +587,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Modernizing Applications in the Cloud
+### 2. Modernizing Applications in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
@@ -903,7 +909,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)

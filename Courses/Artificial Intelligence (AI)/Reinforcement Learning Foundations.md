@@ -38,7 +38,7 @@ tags:
   - skill/reinforcement-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Reinforcement%20Learning%20Foundations.md)
@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started with Reinforcement Learning]]** (4 videos)
-- **[[#3. 2. Reinforcement Learning Algorithms]]** (3 videos)
-- **[[#4. 3. Monte Carlo Method]]** (6 videos)
-- **[[#5. 4. Temporal Difference Methods]]** (4 videos)
-- **[[#6. 5. Modified Forms of Reinforcement]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started with Reinforcement Learning]]** (4 videos)
+- **[[#2. Reinforcement Learning Algorithms]]** (3 videos)
+- **[[#3. Monte Carlo Method]]** (6 videos)
+- **[[#4. Temporal Difference Methods]]** (4 videos)
+- **[[#5. Modified Forms of Reinforcement]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reinforcement learning in a nutshell
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - picture (1)
 
 
-### 2. 1. Getting Started with Reinforcement Learning
+### 1. Getting Started with Reinforcement Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Terms in reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
@@ -376,7 +380,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Reinforcement Learning Algorithms
+### 2. Reinforcement Learning Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monte Carlo method
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
@@ -473,7 +479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Monte Carlo Method
+### 3. Monte Carlo Method
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
@@ -685,7 +693,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Temporal Difference Methods
+### 4. Temporal Difference Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
@@ -874,7 +884,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Modified Forms of Reinforcement
+### 5. Modified Forms of Reinforcement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deep reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
@@ -961,7 +973,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your reinforcement learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)

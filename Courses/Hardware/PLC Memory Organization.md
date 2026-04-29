@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/programmable-logic-controller-plc
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Memory%20Organization.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Processor Memory Organization]]** (2 videos)
-- **[[#3. 2. Rack-Based System]]** (7 videos)
-- **[[#4. 3. Tag-Based System]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Processor Memory Organization]]** (2 videos)
+- **[[#2. Rack-Based System]]** (7 videos)
+- **[[#3. Tag-Based System]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Memory organization for PLCs
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Processor Memory Organization
+### 1. Processor Memory Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Allen-Bradley PLCs types
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
@@ -202,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Rack-Based System
+### 2. Rack-Based System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rack-based systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
@@ -540,7 +546,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Tag-Based System
+### 3. Tag-Based System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tag-based system
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
@@ -933,7 +941,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)

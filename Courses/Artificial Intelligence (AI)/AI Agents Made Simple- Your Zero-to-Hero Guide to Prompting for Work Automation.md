@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Agents%20Made%20Simple-%20Your%20Zero-to-Hero%20Guide%20to%20Prompting%20for%20Work%20Automation.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting to Know AI Agents]]** (3 videos)
-- **[[#3. 2. Agent Prompting Fundamentals: Asking for What You Need]]** (3 videos)
-- **[[#4. 3. Intermediate Techniques: Breaking It Down]]** (6 videos)
-- **[[#5. 4. Advanced Techniques: Thinking and Acting]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting to Know AI Agents]]** (3 videos)
+- **[[#2. Agent Prompting Fundamentals: Asking for What You Need]]** (3 videos)
+- **[[#3. Intermediate Techniques: Breaking It Down]]** (6 videos)
+- **[[#4. Advanced Techniques: Thinking and Acting]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of smart prompting for AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. Getting to Know AI Agents
+### 1. Getting to Know AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet your new AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
@@ -390,7 +394,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 3. 2. Agent Prompting Fundamentals: Asking for What You Need
+### 2. Agent Prompting Fundamentals: Asking for What You Need
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompting best practices: Clear and simple instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
@@ -827,7 +833,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Intermediate Techniques: Breaking It Down
+### 3. Intermediate Techniques: Breaking It Down
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Step-by-step thinking: Guided reasoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
@@ -1451,7 +1459,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/splitting-big-tasks-into-smaller-ones?u=76281980)
 
 
-### 5. 4. Advanced Techniques: Thinking and Acting
+### 4. Advanced Techniques: Thinking and Acting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Smart moves: Combining thought and action
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
@@ -1721,7 +1731,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways and practical tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)

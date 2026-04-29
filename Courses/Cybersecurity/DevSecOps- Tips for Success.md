@@ -27,7 +27,7 @@ tags:
   - topic/devops
   - skill/devsecops
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Tips%20for%20Success.md)
@@ -45,12 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Why You Need DevSecOps]]** (2 videos)
-- **[[#3. 2. Tips to Succeed at DevSecOps]]** (10 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why You Need DevSecOps]]** (2 videos)
+- **[[#2. Tips to Succeed at DevSecOps]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get clear on DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - devops (1)
 
 
-### 2. 1. Why You Need DevSecOps
+### 1. Why You Need DevSecOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security work is just not fair
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
@@ -241,7 +245,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tips to Succeed at DevSecOps
+### 2. Tips to Succeed at DevSecOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be a maker for DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
@@ -1275,7 +1281,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be a DevSecOps ambassador
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/search-engine-optimization-seo
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SEO%20Foundations.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Overview of SEO]]** (3 videos)
-- **[[#3. 2. Keywords: The Foundation of SEO]]** (3 videos)
-- **[[#4. 3. Content Optimization for SEO: How Search Engines and People View Webpages]]** (3 videos)
-- **[[#5. 4. Content Optimization: Technical SEO]]** (7 videos)
-- **[[#6. 5. Links, Measurement, and AI for SEO]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of SEO]]** (3 videos)
+- **[[#2. Keywords: The Foundation of SEO]]** (3 videos)
+- **[[#3. Content Optimization for SEO: How Search Engines and People View Webpages]]** (3 videos)
+- **[[#4. Content Optimization: Technical SEO]]** (7 videos)
+- **[[#5. Links, Measurement, and AI for SEO]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveraging search to accomplish your business goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - search (1)
 
 
-### 2. 1. Overview of SEO
+### 1. Overview of SEO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is search engine optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
@@ -276,7 +280,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Keywords: The Foundation of SEO
+### 2. Keywords: The Foundation of SEO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning and researching your SEO keywords
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
@@ -519,7 +525,9 @@ created: 2026-04-28
 > **Speakers:** - keyword (1)
 
 
-### 4. 3. Content Optimization for SEO: How Search Engines and People View Webpages
+### 3. Content Optimization for SEO: How Search Engines and People View Webpages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outlining content optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
@@ -830,7 +838,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 5. 4. Content Optimization: Technical SEO
+### 4. Content Optimization: Technical SEO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interpreting the code behind webpages for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
@@ -1452,7 +1462,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Links, Measurement, and AI for SEO
+### 5. Links, Measurement, and AI for SEO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outlining the importance of links for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
@@ -1965,7 +1977,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using your SEO foundational knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)

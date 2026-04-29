@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019%20Essential%20Training.md)
@@ -42,17 +42,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. Management and Administration]]** (6 videos)
-- **[[#4. 3. Windows Server Environments]]** (6 videos)
-- **[[#5. 4. Storage Solutions]]** (6 videos)
-- **[[#6. 5. Identity and Access Roles]]** (4 videos)
-- **[[#7. 6. Virtualization]]** (4 videos)
-- **[[#8. 7. Going Forward]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Management and Administration]]** (6 videos)
+- **[[#3. Windows Server Environments]]** (6 videos)
+- **[[#4. Storage Solutions]]** (6 videos)
+- **[[#5. Identity and Access Roles]]** (4 videos)
+- **[[#6. Virtualization]]** (4 videos)
+- **[[#7. Going Forward]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to upgrade
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
@@ -845,7 +849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Management and Administration
+### 2. Management and Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
@@ -1487,7 +1493,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 4. 3. Windows Server Environments
+### 3. Windows Server Environments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upgrading Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
@@ -1960,7 +1968,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Storage Solutions
+### 4. Storage Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of volumes
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
@@ -2717,7 +2727,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Identity and Access Roles
+### 5. Identity and Access Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your own AD PKI
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
@@ -3024,7 +3036,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Virtualization
+### 6. Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hyper-V in Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
@@ -3407,7 +3421,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 8. 7. Going Forward
+### 7. Going Forward
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Long-Term Servicing Channel vs. Semi-Annual releases
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
@@ -3541,7 +3557,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)

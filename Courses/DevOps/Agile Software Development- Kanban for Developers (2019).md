@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/agile-software-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Kanban%20for%20Developers%20(2019).md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Lean and Kanban]]** (3 videos)
-- **[[#3. 2. Kanban in Practice]]** (4 videos)
-- **[[#4. 3. Processes and Pitfalls]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Lean and Kanban]]** (3 videos)
+- **[[#2. Kanban in Practice]]** (4 videos)
+- **[[#3. Processes and Pitfalls]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting kanban to work in your development team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Lean and Kanban
+### 1. Lean and Kanban
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The lean mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980)
@@ -302,7 +306,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Kanban in Practice
+### 2. Kanban in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demo overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980)
@@ -588,7 +594,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Processes and Pitfalls
+### 3. Processes and Pitfalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling process policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980)
@@ -823,7 +831,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980)

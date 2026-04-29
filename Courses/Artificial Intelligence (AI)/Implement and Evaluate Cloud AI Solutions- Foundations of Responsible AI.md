@@ -33,7 +33,7 @@ tags:
   - skill/responsible-ai
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Implement%20and%20Evaluate%20Cloud%20AI%20Solutions-%20Foundations%20of%20Responsible%20AI.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Implementing AI Solutions]]** (2 videos)
-- **[[#3. 2. Evaluating Cloud AI Platforms]]** (2 videos)
-- **[[#4. 3. Ensuring Responsible AI]]** (2 videos)
-- **[[#5. 4. Monitoring and Improving AI Systems]]** (2 videos)
-- **[[#6. 5. Case Studies and Real-World Applications]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Implementing AI Solutions]]** (2 videos)
+- **[[#2. Evaluating Cloud AI Platforms]]** (2 videos)
+- **[[#3. Ensuring Responsible AI]]** (2 videos)
+- **[[#4. Monitoring and Improving AI Systems]]** (2 videos)
+- **[[#5. Case Studies and Real-World Applications]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building trustworthy AI: From concept to real-world impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980)
@@ -266,7 +268,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 2. 1. Implementing AI Solutions
+### 1. Implementing AI Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic AI implementation steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/strategic-ai-implementation-steps?u=76281980)
@@ -481,7 +485,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 3. 2. Evaluating Cloud AI Platforms
+### 2. Evaluating Cloud AI Platforms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluating cloud AI platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/evaluating-cloud-ai-platforms?u=76281980)
@@ -644,7 +650,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 4. 3. Ensuring Responsible AI
+### 3. Ensuring Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical AI development and strategic considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/ethical-ai-development-strategic-considerations?u=76281980)
@@ -825,7 +833,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 5. 4. Monitoring and Improving AI Systems
+### 4. Monitoring and Improving AI Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous monitoring for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/continuous-monitoring-for-ai-systems?u=76281980)
@@ -984,7 +994,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 6. 5. Case Studies and Real-World Applications
+### 5. Case Studies and Real-World Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Successful AI implementation examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/successful-ai-implementation-examples?u=76281980)
@@ -1149,7 +1161,9 @@ created: 2026-04-28
 > **Speakers:** - not (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/recap-and-next-steps?u=76281980)

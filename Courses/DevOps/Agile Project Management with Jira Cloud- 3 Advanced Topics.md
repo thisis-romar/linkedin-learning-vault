@@ -30,7 +30,7 @@ tags:
   - skill/jira
   - skill/agile-project-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Project%20Management%20with%20Jira%20Cloud-%203%20Advanced%20Topics.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Filters]]** (3 videos)
-- **[[#3. 2. Epics]]** (3 videos)
-- **[[#4. 3. Dashboards]]** (2 videos)
-- **[[#5. 4. Putting It All Together]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Filters]]** (3 videos)
+- **[[#2. Epics]]** (3 videos)
+- **[[#3. Dashboards]]** (2 videos)
+- **[[#4. Putting It All Together]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Filters
+### 1. Filters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Epics
+### 2. Epics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Epics
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
@@ -828,7 +834,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Dashboards
+### 3. Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
@@ -980,7 +988,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Putting It All Together
+### 4. Putting It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)

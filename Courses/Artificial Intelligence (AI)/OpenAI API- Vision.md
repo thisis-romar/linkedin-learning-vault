@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Vision.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Vision API Essentials]]** (5 videos)
-- **[[#3. 2. App Developement with Vision API]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Vision API Essentials]]** (5 videos)
+- **[[#2. App Developement with Vision API]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computer vision with OpenAI's API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/computer-vision-with-openai-s-api?u=76281980)
@@ -152,7 +154,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Vision API Essentials
+### 1. Vision API Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/setting-up-the-api?u=76281980)
@@ -421,7 +425,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 3. 2. App Developement with Vision API
+### 2. App Developement with Vision API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What we'll build
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/what-we-ll-build?u=76281980)
@@ -751,7 +757,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980)

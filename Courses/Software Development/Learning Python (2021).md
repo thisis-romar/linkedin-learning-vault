@@ -33,7 +33,7 @@ tags:
   - topic/data-science
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Python%20(2021).md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (5 videos)
-- **[[#3. 2. Python Basics]]** (9 videos)
-- **[[#4. 3. Working with Files]]** (4 videos)
-- **[[#5. 4. Using Dates and Times]]** (5 videos)
-- **[[#6. 5. Internet Data Formats]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (5 videos)
+- **[[#2. Python Basics]]** (9 videos)
+- **[[#3. Working with Files]]** (4 videos)
+- **[[#4. Using Dates and Times]]** (5 videos)
+- **[[#5. Internet Data Formats]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
@@ -167,7 +169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Python on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
@@ -497,7 +501,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Python Basics
+### 2. Python Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
@@ -2111,7 +2117,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Files
+### 3. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading and writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
@@ -2681,7 +2689,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using Dates and Times
+### 4. Using Dates and Times
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
@@ -3439,7 +3449,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 6. 5. Internet Data Formats
+### 5. Internet Data Formats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fetching Internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
@@ -4104,7 +4116,9 @@ created: 2026-04-28
 > **Definitions:** in other words (1), is a  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)

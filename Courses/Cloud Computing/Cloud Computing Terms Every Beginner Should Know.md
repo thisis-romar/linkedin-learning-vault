@@ -30,7 +30,7 @@ tags:
   - skill/tech-career-skills
   - skill/cloud-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20Computing%20Terms%20Every%20Beginner%20Should%20Know.md)

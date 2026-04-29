@@ -31,7 +31,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Object-Oriented%20Programming.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Classes and Objects in Java]]** (7 videos)
-- **[[#3. 2. Encapsulation in Java]]** (6 videos)
-- **[[#4. 3. Inheritance in Java]]** (6 videos)
-- **[[#5. 4. Polymorphism in Java]]** (8 videos)
-- **[[#6. 5. Abstraction in Java]]** (6 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Classes and Objects in Java]]** (7 videos)
+- **[[#2. Encapsulation in Java]]** (6 videos)
+- **[[#3. Inheritance in Java]]** (6 videos)
+- **[[#4. Polymorphism in Java]]** (8 videos)
+- **[[#5. Abstraction in Java]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why learn about object-oriented programming in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Classes and Objects in Java
+### 1. Classes and Objects in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using classes as blueprints
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980)
@@ -674,7 +678,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Encapsulation in Java
+### 2. Encapsulation in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is encapsulation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980)
@@ -1073,7 +1079,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Inheritance in Java
+### 3. Inheritance in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-inheritance?u=76281980)
@@ -1451,7 +1459,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 5. 4. Polymorphism in Java
+### 4. Polymorphism in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is polymorphism?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980)
@@ -2088,7 +2098,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Abstraction in Java
+### 5. Abstraction in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is abstraction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980)
@@ -2565,7 +2577,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying code smells and anti-patterns in OOP code
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980)

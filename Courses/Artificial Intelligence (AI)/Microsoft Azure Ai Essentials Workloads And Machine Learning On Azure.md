@@ -30,7 +30,7 @@ tags:
   - skill/azure-ai-foundry
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Microsoft%20Azure%20Ai%20Essentials%20Workloads%20And%20Machine%20Learning%20On%20Azure.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding AI]]** (2 videos)
-- **[[#3. 2. Azure Machine Learning]]** (11 videos)
-- **[[#4. 3. Computer Vision]]** (9 videos)
-- **[[#5. 4. Natural Language Processing]]** (9 videos)
-- **[[#6. 5. Document Intelligence, Content Safety, and Knowledge Mining]]** (9 videos)
-- **[[#7. 6. Generative AI]]** (11 videos)
-- **[[#8. 7. Responsible AI]]** (8 videos)
-- **[[#9. 8. Transform Your Business with Microsoft AI]]** (4 videos)
-- **[[#10. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding AI]]** (2 videos)
+- **[[#2. Azure Machine Learning]]** (11 videos)
+- **[[#3. Computer Vision]]** (9 videos)
+- **[[#4. Natural Language Processing]]** (9 videos)
+- **[[#5. Document Intelligence, Content Safety, and Knowledge Mining]]** (9 videos)
+- **[[#6. Generative AI]]** (11 videos)
+- **[[#7. Responsible AI]]** (8 videos)
+- **[[#8. Transform Your Business with Microsoft AI]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The essentials of Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Understanding AI
+### 1. Understanding AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Definition, history, and evolution of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980)
@@ -233,7 +237,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Azure Machine Learning
+### 2. Azure Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980)
@@ -940,7 +946,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Computer Vision
+### 3. Computer Vision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of computer vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980)
@@ -1434,7 +1442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Natural Language Processing
+### 4. Natural Language Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980)
@@ -1898,7 +1908,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. 5. Document Intelligence, Content Safety, and Knowledge Mining
+### 5. Document Intelligence, Content Safety, and Knowledge Mining
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of document intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980)
@@ -2385,7 +2397,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Generative AI
+### 6. Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980)
@@ -3028,7 +3042,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Responsible AI
+### 7. Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980)
@@ -3509,7 +3525,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Transform Your Business with Microsoft AI
+### 8. Transform Your Business with Microsoft AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft AI approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980)
@@ -3776,7 +3794,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways from the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980)

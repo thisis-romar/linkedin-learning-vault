@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Securing%20Django%20Applications.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Permissions, Access Controls, and Activity Logs]]** (7 videos)
-- **[[#3. 2. Throttling a Flood of Requests]]** (5 videos)
-- **[[#4. 3. Protecting Data and Data Privacy]]** (5 videos)
-- **[[#5. 4. 2FA: Two-Factor Authentication]]** (4 videos)
-- **[[#6. 5. CSRF: Cross-Site Request Forgery Protection]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Permissions, Access Controls, and Activity Logs]]** (7 videos)
+- **[[#2. Throttling a Flood of Requests]]** (5 videos)
+- **[[#3. Protecting Data and Data Privacy]]** (5 videos)
+- **[[#4. 2FA: Two-Factor Authentication]]** (4 videos)
+- **[[#5. CSRF: Cross-Site Request Forgery Protection]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Permissions, Access Controls, and Activity Logs
+### 1. Permissions, Access Controls, and Activity Logs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up per-object permissions in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980)
@@ -538,7 +542,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Throttling a Flood of Requests
+### 2. Throttling a Flood of Requests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using ApacheBench to simulate a flood of requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980)
@@ -825,7 +831,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Protecting Data and Data Privacy
+### 3. Protecting Data and Data Privacy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Per-field encryption of data in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980)
@@ -1152,7 +1160,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. 4. 2FA: Two-Factor Authentication
+### 4. 2FA: Two-Factor Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Twilio to send an SMS code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980)
@@ -1329,7 +1339,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. CSRF: Cross-Site Request Forgery Protection
+### 5. CSRF: Cross-Site Request Forgery Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enabling CSRF tokens in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980)
@@ -1448,7 +1460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980)

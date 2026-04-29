@@ -31,7 +31,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP%20Techniques-%20Pagination.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Pagination Fundamentals]]** (3 videos)
-- **[[#3. 2. Database Record Pagination]]** (3 videos)
-- **[[#4. 3. Links to Paginated Pages]]** (4 videos)
-- **[[#5. 4. Object-Oriented Pagination]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Pagination Fundamentals]]** (3 videos)
+- **[[#2. Database Record Pagination]]** (3 videos)
+- **[[#3. Links to Paginated Pages]]** (4 videos)
+- **[[#4. Object-Oriented Pagination]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Showing posts in pages using PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
@@ -134,7 +136,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Pagination Fundamentals
+### 1. Pagination Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pagination overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
@@ -529,7 +533,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Database Record Pagination
+### 2. Database Record Pagination
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the project database
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
@@ -953,7 +959,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Links to Paginated Pages
+### 3. Links to Paginated Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding links to previous and next pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
@@ -1439,7 +1447,9 @@ created: 2026-04-28
 > **Prerequisites:** you need to have (1)
 
 
-### 5. 4. Object-Oriented Pagination
+### 4. Object-Oriented Pagination
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining a pagination class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
@@ -1974,7 +1984,9 @@ created: 2026-04-28
 > **File Paths:** customers.php (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)

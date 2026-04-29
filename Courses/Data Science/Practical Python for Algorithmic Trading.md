@@ -32,7 +32,7 @@ tags:
   - skill/algorithmic-trading
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Practical%20Python%20for%20Algorithmic%20Trading.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Working with Stock Market Data]]** (2 videos)
-- **[[#3. 2. Backtesting with Classification Models]]** (5 videos)
-- **[[#4. 3. Backtesting with Regression Models]]** (4 videos)
-- **[[#5. 4. Backtesting Optimization]]** (4 videos)
-- **[[#6. 5. The Overfitting Problem in Backtesting]]** (8 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with Stock Market Data]]** (2 videos)
+- **[[#2. Backtesting with Classification Models]]** (5 videos)
+- **[[#3. Backtesting with Regression Models]]** (4 videos)
+- **[[#4. Backtesting Optimization]]** (4 videos)
+- **[[#5. The Overfitting Problem in Backtesting]]** (8 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Algorithmic trading using machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Stock Market Data
+### 1. Working with Stock Market Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Download and export data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
@@ -381,7 +385,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 3. 2. Backtesting with Classification Models
+### 2. Backtesting with Classification Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compute machine learning classification model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
@@ -853,7 +859,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 4. 3. Backtesting with Regression Models
+### 3. Backtesting with Regression Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compute machine learning regression model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
@@ -1106,7 +1114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Backtesting Optimization
+### 4. Backtesting Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing strategy parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
@@ -1366,7 +1376,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. The Overfitting Problem in Backtesting
+### 5. The Overfitting Problem in Backtesting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why machine learning models overfit the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
@@ -1953,7 +1965,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)

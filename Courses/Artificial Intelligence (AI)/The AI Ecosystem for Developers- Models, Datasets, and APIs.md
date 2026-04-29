@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI%20Ecosystem%20for%20Developers-%20Models%2C%20Datasets%2C%20and%20APIs.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding the AI Ecosystem]]** (5 videos)
-- **[[#3. 2. AI Models and Architecture]]** (6 videos)
-- **[[#4. 3. AI Datasets]]** (7 videos)
-- **[[#5. 4. AI APIs: Access and Integration]]** (11 videos)
-- **[[#6. 5. AI  Resources and Community]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the AI Ecosystem]]** (5 videos)
+- **[[#2. AI Models and Architecture]]** (6 videos)
+- **[[#3. AI Datasets]]** (7 videos)
+- **[[#4. AI APIs: Access and Integration]]** (11 videos)
+- **[[#5. AI  Resources and Community]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with the AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Understanding the AI Ecosystem
+### 1. Understanding the AI Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is interesting about AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
@@ -603,7 +607,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. AI Models and Architecture
+### 2. AI Models and Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI models and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
@@ -1215,7 +1221,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AI Datasets
+### 3. AI Datasets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
@@ -1878,7 +1886,9 @@ created: 2026-04-28
 > **Tools:** colab (1)
 
 
-### 5. 4. AI APIs: Access and Integration
+### 4. AI APIs: Access and Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are AI application programming interfaces (APIs)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
@@ -2912,7 +2922,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. AI  Resources and Community
+### 5. AI  Resources and Community
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI development tools and frameworks: IDEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
@@ -3620,7 +3632,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)

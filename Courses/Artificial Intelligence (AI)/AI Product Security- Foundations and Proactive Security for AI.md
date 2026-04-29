@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Product%20Security-%20Foundations%20and%20Proactive%20Security%20for%20AI.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Fundamentals of AI Security]]** (4 videos)
-- **[[#3. 2. Building Resilient AI: Securing AI Models, Data, and Deployment]]** (9 videos)
-- **[[#4. 3. AI Security Governance, Risk Management, and Compliance]]** (3 videos)
-- **[[#5. 4. System Design Principles]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fundamentals of AI Security]]** (4 videos)
+- **[[#2. Building Resilient AI: Securing AI Models, Data, and Deployment]]** (9 videos)
+- **[[#3. AI Security Governance, Risk Management, and Compliance]]** (3 videos)
+- **[[#4. System Design Principles]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/securing-ai-products?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [reet] (1)
 
 
-### 2. 1. Fundamentals of AI Security
+### 1. Fundamentals of AI Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Essentials of AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/essentials-of-ai-security?u=76281980)
@@ -485,7 +489,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Building Resilient AI: Securing AI Models, Data, and Deployment
+### 2. Building Resilient AI: Securing AI Models, Data, and Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of adversarial AI attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/overview-of-adversarial-ai-attacks?u=76281980)
@@ -1200,7 +1206,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AI Security Governance, Risk Management, and Compliance
+### 3. AI Security Governance, Risk Management, and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Governance in AI product security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/governance-in-ai-product-security?u=76281980)
@@ -1479,7 +1487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. System Design Principles
+### 4. System Design Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundational principles of AI system design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/foundational-principles-of-ai-system-design?u=76281980)
@@ -1609,7 +1619,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-foundations-and-proactive-security-for-ai/next-steps?u=76281980)

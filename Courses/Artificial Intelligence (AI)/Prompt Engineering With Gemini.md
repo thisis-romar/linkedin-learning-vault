@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20With%20Gemini.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Gemini]]** (2 videos)
-- **[[#3. 2. Using Gemini Day-to-Day]]** (10 videos)
-- **[[#4. 3. Advance Your Prompts to Improve Results]]** (6 videos)
-- **[[#5. 4. Multimodal Gemini]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Gemini]]** (2 videos)
+- **[[#2. Using Gemini Day-to-Day]]** (10 videos)
+- **[[#3. Advance Your Prompts to Improve Results]]** (6 videos)
+- **[[#4. Multimodal Gemini]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning prompt engineering with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/learning-prompt-engineering-with-gemini?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - gemini (1)
 
 
-### 2. 1. Introduction to Gemini
+### 1. Introduction to Gemini
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enabling Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980)
@@ -221,7 +225,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Using Gemini Day-to-Day
+### 2. Using Gemini Day-to-Day
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brainstorming with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/brainstorming-with-gemini?u=76281980)
@@ -1140,7 +1146,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Advance Your Prompts to Improve Results
+### 3. Advance Your Prompts to Improve Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improving prompting with examples and quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/improving-prompting-with-examples-and-quotes?u=76281980)
@@ -1640,7 +1648,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Multimodal Gemini
+### 4. Multimodal Gemini
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image recognition and augmentation with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/image-recognition-and-augmentation-with-gemini?u=76281980)
@@ -2143,7 +2153,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your prompt engineering journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980)

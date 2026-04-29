@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/career-transitioning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Transition%20from%20Data%20Science%20to%20Data%20Engineering.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Fundamentals of Data Engineering]]** (4 videos)
-- **[[#3. 2. Understanding the Data Repository]]** (4 videos)
-- **[[#4. 3. Data Processing, Security, and Compliance]]** (3 videos)
-- **[[#5. 4. Cloud Computing for Data Engineers]]** (2 videos)
-- **[[#6. 5. Do Not Underestimate Data Quality and Data Governance]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Fundamentals of Data Engineering]]** (4 videos)
+- **[[#2. Understanding the Data Repository]]** (4 videos)
+- **[[#3. Data Processing, Security, and Compliance]]** (3 videos)
+- **[[#4. Cloud Computing for Data Engineers]]** (2 videos)
+- **[[#5. Do Not Underestimate Data Quality and Data Governance]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [pooja] (1)
 
 
-### 2. 1. Fundamentals of Data Engineering
+### 1. Fundamentals of Data Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980)
@@ -338,7 +342,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Understanding the Data Repository
+### 2. Understanding the Data Repository
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980)
@@ -533,7 +539,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Processing, Security, and Compliance
+### 3. Data Processing, Security, and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data pipelines and the ETL process
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980)
@@ -774,7 +782,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud Computing for Data Engineers
+### 4. Cloud Computing for Data Engineers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980)
@@ -889,7 +899,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Do Not Underestimate Data Quality and Data Governance
+### 5. Do Not Underestimate Data Quality and Data Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why is data quality important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980)
@@ -1008,7 +1020,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shift from data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980)

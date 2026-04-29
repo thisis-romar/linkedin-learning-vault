@@ -24,7 +24,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Integrating%20Generative%20AI%20into%20the%20Creative%20Process.md)

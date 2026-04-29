@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/mobile-application-development
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Mobile%20Application%20Development.md)

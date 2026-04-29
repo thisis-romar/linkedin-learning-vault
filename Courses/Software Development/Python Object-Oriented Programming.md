@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/object-oriented-programming-oop
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Object-Oriented%20Programming.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Object-Oriented Python]]** (6 videos)
-- **[[#3. 2. Inheritance and Composition]]** (6 videos)
-- **[[#4. 3. "Magic" Object Methods]]** (6 videos)
-- **[[#5. 4. Data Classes]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Object-Oriented Python]]** (6 videos)
+- **[[#2. Inheritance and Composition]]** (6 videos)
+- **[[#3. "Magic" Object Methods]]** (6 videos)
+- **[[#4. Data Classes]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
@@ -321,7 +323,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. Object-Oriented Python
+### 1. Object-Oriented Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object-oriented programming refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
@@ -949,7 +953,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Inheritance and Composition
+### 2. Inheritance and Composition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
@@ -1600,7 +1606,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. "Magic" Object Methods
+### 3. "Magic" Object Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are magic methods?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
@@ -2186,7 +2194,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Data Classes
+### 4. Data Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining a data class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
@@ -2620,7 +2630,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)

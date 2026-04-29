@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20and%20Application%20Security.md)
@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Benefits and Advantages]]** (3 videos)
-- **[[#3. 2. Increased Risks]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Benefits and Advantages]]** (3 videos)
+- **[[#2. Increased Risks]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implications of AI on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
@@ -346,7 +348,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Benefits and Advantages
+### 1. Benefits and Advantages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI improvements for corporate applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
@@ -555,7 +559,9 @@ created: 2026-04-28
 > **Speakers:** - fundamentally (1)
 
 
-### 3. 2. Increased Risks
+### 2. Increased Risks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evolution of application security risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
@@ -813,7 +819,9 @@ created: 2026-04-28
 > **Speakers:** - cobalt (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)

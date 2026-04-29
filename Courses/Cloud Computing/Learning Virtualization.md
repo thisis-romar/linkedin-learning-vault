@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/virtualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Virtualization.md)
@@ -51,19 +51,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to Virtualization]]** (3 videos)
-- **[[#3. 2. Virtualization Advantages]]** (5 videos)
-- **[[#4. 3. Virtualization Disadvantages]]** (3 videos)
-- **[[#5. 4. Common Uses of Virtualization]]** (6 videos)
-- **[[#6. 5. Hardware]]** (5 videos)
-- **[[#7. 6. Microsoft Hyper-V]]** (6 videos)
-- **[[#8. 7. VMware Workstation]]** (5 videos)
-- **[[#9. 8. Preparing Your Infrastructure for Virtualization]]** (2 videos)
-- **[[#10. 9. Troubleshooting]]** (3 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Virtualization]]** (3 videos)
+- **[[#2. Virtualization Advantages]]** (5 videos)
+- **[[#3. Virtualization Disadvantages]]** (3 videos)
+- **[[#4. Common Uses of Virtualization]]** (6 videos)
+- **[[#5. Hardware]]** (5 videos)
+- **[[#6. Microsoft Hyper-V]]** (6 videos)
+- **[[#7. VMware Workstation]]** (5 videos)
+- **[[#8. Preparing Your Infrastructure for Virtualization]]** (2 videos)
+- **[[#9. Troubleshooting]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Virtualization
+### 1. Introduction to Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980)
@@ -327,7 +331,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Virtualization Advantages
+### 2. Virtualization Advantages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using virtualization for more efficient utilization of hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980)
@@ -690,7 +696,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Virtualization Disadvantages
+### 3. Virtualization Disadvantages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Increased complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980)
@@ -910,7 +918,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Common Uses of Virtualization
+### 4. Common Uses of Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtualizing desktop computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980)
@@ -1467,7 +1477,9 @@ created: 2026-04-28
 > **Speakers:** - [illustrator] (1)
 
 
-### 6. 5. Hardware
+### 5. Hardware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding virtual CPU
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980)
@@ -1778,7 +1790,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Microsoft Hyper-V
+### 6. Microsoft Hyper-V
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Hyper-V
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980)
@@ -2283,7 +2297,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. VMware Workstation
+### 7. VMware Workstation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing VMware Workstation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980)
@@ -2631,7 +2647,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 9. 8. Preparing Your Infrastructure for Virtualization
+### 8. Preparing Your Infrastructure for Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding different file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980)
@@ -2801,7 +2819,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 10. 9. Troubleshooting
+### 9. Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshooting network communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980)
@@ -3015,7 +3035,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980)

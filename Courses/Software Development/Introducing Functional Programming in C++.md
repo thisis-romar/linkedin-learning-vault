@@ -30,7 +30,7 @@ tags:
   - skill/functional-programming
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introducing%20Functional%20Programming%20in%20C%2B%2B.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Overview]]** (2 videos)
-- **[[#3. 2. Functional Programming in Modern C++]]** (10 videos)
-- **[[#4. 3. Template Metaprogramming]]** (7 videos)
-- **[[#5. 4. Functional Reactive Programming]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview]]** (2 videos)
+- **[[#2. Functional Programming in Modern C++]]** (10 videos)
+- **[[#3. Template Metaprogramming]]** (7 videos)
+- **[[#4. Functional Reactive Programming]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unleash the power functional programming in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980)
@@ -226,7 +230,9 @@ created: 2026-04-28
 > **Env Vars:** catch_config_main (1)
 
 
-### 3. 2. Functional Programming in Modern C++
+### 2. Functional Programming in Modern C++
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enabling C++ 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980)
@@ -977,7 +983,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 4. 3. Template Metaprogramming
+### 3. Template Metaprogramming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### C++ templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980)
@@ -1461,7 +1469,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 5. 4. Functional Reactive Programming
+### 4. Functional Reactive Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to Reactive Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980)
@@ -1694,7 +1704,9 @@ created: 2026-04-28
 > **Non-Speech:** (intro music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980)

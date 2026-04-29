@@ -28,7 +28,7 @@ tags:
   - skill/linux-system-administration
   - skill/red-hat-linux
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20System%20Administrator%20(EX200)%20Cert%20Prep-%202%20File%20Access%2C%20Storage%2C%20and%20Security.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Users and Accounts]]** (9 videos)
-- **[[#3. 2. Files Access Control]]** (13 videos)
-- **[[#4. 3. Manage Security]]** (9 videos)
-- **[[#5. 4. Accessing Linux Remotely]]** (7 videos)
-- **[[#6. 5. Configure Local Storage]]** (8 videos)
-- **[[#7. 6. Containers]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Users and Accounts]]** (9 videos)
+- **[[#2. Files Access Control]]** (13 videos)
+- **[[#3. Manage Security]]** (9 videos)
+- **[[#4. Accessing Linux Remotely]]** (7 videos)
+- **[[#5. Configure Local Storage]]** (8 videos)
+- **[[#6. Containers]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare for the RHCSA EX200 Exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
@@ -179,7 +181,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 2. 1. Users and Accounts
+### 1. Users and Accounts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
@@ -1257,7 +1261,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Files Access Control
+### 2. Files Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File and directory modes
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
@@ -2756,7 +2762,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Manage Security
+### 3. Manage Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set enforcing and permissive modes for SELinux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
@@ -3702,7 +3710,9 @@ created: 2026-04-28
 > **URLs:** [localnet.com](https://localnet.com) (1)
 
 
-### 5. 4. Accessing Linux Remotely
+### 4. Accessing Linux Remotely
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure Secure Shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
@@ -4224,7 +4234,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Configure Local Storage
+### 5. Configure Local Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### List, create, and delete partitions on MBR and GPT disks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
@@ -5212,7 +5224,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Containers
+### 6. Containers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### About containers on Enterprise Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
@@ -6233,7 +6247,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)

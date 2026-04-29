@@ -28,7 +28,7 @@ tags:
   - skill/interview-preparation
   - skill/analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Preparing%20To%20Get%20A%20Job%20In%20Data%20Analytics.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is Data Analytics?]]** (5 videos)
-- **[[#3. 2. How to Upskill and Learn Data Analyst Skills]]** (6 videos)
-- **[[#4. 3. How to Network and Use LinkedIn for Data Analytics]]** (5 videos)
-- **[[#5. 4. How to Build a Portfolio for Data Analytics]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Data Analytics?]]** (5 videos)
+- **[[#2. How to Upskill and Learn Data Analyst Skills]]** (6 videos)
+- **[[#3. How to Network and Use LinkedIn for Data Analytics]]** (5 videos)
+- **[[#4. How to Build a Portfolio for Data Analytics]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data analytics: From initial interest to job interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. What Is Data Analytics?
+### 1. What Is Data Analytics?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980)
@@ -447,7 +451,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. How to Upskill and Learn Data Analyst Skills
+### 2. How to Upskill and Learn Data Analyst Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Skills needed in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980)
@@ -871,7 +877,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. How to Network and Use LinkedIn for Data Analytics
+### 3. How to Network and Use LinkedIn for Data Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LinkedIn profile: First impressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980)
@@ -1269,7 +1277,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 5. 4. How to Build a Portfolio for Data Analytics
+### 4. How to Build a Portfolio for Data Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a data analytics portfolio?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980)
@@ -1560,7 +1570,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start upskilling, networking, and building a portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980)

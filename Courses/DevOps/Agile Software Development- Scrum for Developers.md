@@ -37,7 +37,7 @@ tags:
   - skill/agile-software-development
   - skill/scrum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Agile%20Software%20Development-%20Scrum%20for%20Developers.md)

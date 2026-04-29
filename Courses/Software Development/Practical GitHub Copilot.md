@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Copilot.md)
@@ -55,12 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Working with GitHub Copilot]]** (6 videos)
-- **[[#3. 2. Using Copilot Chat]]** (7 videos)
-- **[[#4. Next Steps]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with GitHub Copilot]]** (6 videos)
+- **[[#2. Using Copilot Chat]]** (7 videos)
+- **[[#Next Steps]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Copilot on Projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with GitHub Copilot
+### 1. Working with GitHub Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
@@ -667,7 +671,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Copilot Chat
+### 2. Using Copilot Chat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The chat panel
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
@@ -1340,7 +1346,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 4. Next Steps
+### Next Steps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)

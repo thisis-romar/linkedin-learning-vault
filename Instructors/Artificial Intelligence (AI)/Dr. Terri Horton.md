@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/artificial-intelligence
   - topic/data-science
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Artificial%20Intelligence%20(AI)/Dr.%20Terri%20Horton.md)

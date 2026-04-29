@@ -35,7 +35,7 @@ tags:
   - skill/personal-branding
   - skill/content-creation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Storytelling%20and%20Content%20Creation%20to%20Transform%20Your%20Personal%20Brand.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Story We Tell Ourselves]]** (3 videos)
-- **[[#3. 2. Unlock the Secrets of Storytelling for Creators]]** (3 videos)
-- **[[#4. 3. Research for Building a Winning Strategy]]** (3 videos)
-- **[[#5. 4. Execution for Effective Writing and Building Visibility]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Story We Tell Ourselves]]** (3 videos)
+- **[[#2. Unlock the Secrets of Storytelling for Creators]]** (3 videos)
+- **[[#3. Research for Building a Winning Strategy]]** (3 videos)
+- **[[#4. Execution for Effective Writing and Building Visibility]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Master the art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/master-the-art-of-storytelling?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 2. 1. The Story We Tell Ourselves
+### 1. The Story We Tell Ourselves
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/the-power-of-mindset?u=76281980)
@@ -328,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Unlock the Secrets of Storytelling for Creators
+### 2. Unlock the Secrets of Storytelling for Creators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 6P framework for creating compelling stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/6p-framework-for-creating-compelling-stories?u=76281980)
@@ -561,7 +567,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 4. 3. Research for Building a Winning Strategy
+### 3. Research for Building a Winning Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/understanding-your-audience?u=76281980)
@@ -780,7 +788,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 5. 4. Execution for Effective Writing and Building Visibility
+### 4. Execution for Effective Writing and Building Visibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tips and tricks for compelling storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/tips-and-tricks-for-compelling-storytelling?u=76281980)
@@ -1025,7 +1035,9 @@ created: 2026-04-28
 > **Speakers:** - ever (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering brand storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/storytelling-and-content-creation-to-transform-your-personal-brand/mastering-brand-storytelling?u=76281980)

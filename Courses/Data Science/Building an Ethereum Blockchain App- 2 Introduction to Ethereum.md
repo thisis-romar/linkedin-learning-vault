@@ -36,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/application-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%202%20Introduction%20to%20Ethereum.md)
@@ -54,9 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. What Is Ethereum?]]** (10 videos)
+- **[[#1. What Is Ethereum?]]** (10 videos)
 
-### 1. 1. What Is Ethereum?
+### 1. What Is Ethereum?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Ethereum
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)

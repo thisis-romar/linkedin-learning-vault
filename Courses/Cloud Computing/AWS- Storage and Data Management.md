@@ -32,7 +32,7 @@ tags:
   - skill/data-management
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AWS-%20Storage%20and%20Data%20Management.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Overview]]** (3 videos)
-- **[[#3. 2. Object Storage]]** (11 videos)
-- **[[#4. 3. File Systems]]** (10 videos)
-- **[[#5. 4. Database Services]]** (9 videos)
-- **[[#6. 5. Getting Data to AWS]]** (20 videos)
-- **[[#7. 6. Moving Data in AWS]]** (7 videos)
-- **[[#8. 7. Backup]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Overview]]** (3 videos)
+- **[[#2. Object Storage]]** (11 videos)
+- **[[#3. File Systems]]** (10 videos)
+- **[[#4. Database Services]]** (9 videos)
+- **[[#5. Getting Data to AWS]]** (20 videos)
+- **[[#6. Moving Data in AWS]]** (7 videos)
+- **[[#7. Backup]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage and AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
@@ -164,7 +166,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
@@ -404,7 +408,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 2. Object Storage
+### 2. Object Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS S3 basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
@@ -1637,7 +1643,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. File Systems
+### 3. File Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elastic Block Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
@@ -2806,7 +2814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Database Services
+### 4. Database Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RDS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
@@ -3892,7 +3902,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Getting Data to AWS
+### 5. Getting Data to AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Move data to AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
@@ -6100,7 +6112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Moving Data in AWS
+### 6. Moving Data in AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS Glue overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
@@ -6836,7 +6850,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Backup
+### 7. Backup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand AWS Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
@@ -7271,7 +7287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)

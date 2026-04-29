@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/design-patterns
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python-%20Design%20Patterns.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Understanding Design Patterns]]** (6 videos)
-- **[[#3. 2. Creational Patterns]]** (12 videos)
-- **[[#4. 3. Structural Patterns]]** (12 videos)
-- **[[#5. 4. Behavioral Patterns]]** (12 videos)
-- **[[#6. 5. Design Best Practices]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding Design Patterns]]** (6 videos)
+- **[[#2. Creational Patterns]]** (12 videos)
+- **[[#3. Structural Patterns]]** (12 videos)
+- **[[#4. Behavioral Patterns]]** (12 videos)
+- **[[#5. Design Best Practices]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980)
@@ -182,7 +184,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Design Patterns
+### 1. Understanding Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980)
@@ -476,7 +480,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 3. 2. Creational Patterns
+### 2. Creational Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Factory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/factory?u=76281980)
@@ -1324,7 +1330,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Structural Patterns
+### 3. Structural Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decorator
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980)
@@ -2008,7 +2016,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Behavioral Patterns
+### 4. Behavioral Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Observer
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/observer?u=76281980)
@@ -2759,7 +2769,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Design Best Practices
+### 5. Design Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980)
@@ -2849,7 +2861,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980)

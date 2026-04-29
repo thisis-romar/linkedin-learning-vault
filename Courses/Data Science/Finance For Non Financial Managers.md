@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/finance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Finance%20For%20Non%20Financial%20Managers.md)
@@ -42,17 +42,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Finance and Accounting Basics]]** (3 videos)
-- **[[#3. 2. Most Common Financial Reports]]** (4 videos)
-- **[[#4. 3. Techniques for Using Financial Reports]]** (5 videos)
-- **[[#5. 4. Short-Term Financial Management]]** (3 videos)
-- **[[#6. 5. Costing a Product or Service]]** (2 videos)
-- **[[#7. 6. Creating a Budget]]** (2 videos)
-- **[[#8. 7. Income Tax Basics]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Finance and Accounting Basics]]** (3 videos)
+- **[[#2. Most Common Financial Reports]]** (4 videos)
+- **[[#3. Techniques for Using Financial Reports]]** (5 videos)
+- **[[#4. Short-Term Financial Management]]** (3 videos)
+- **[[#5. Costing a Product or Service]]** (2 videos)
+- **[[#6. Creating a Budget]]** (2 videos)
+- **[[#7. Income Tax Basics]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to make wiser business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Finance and Accounting Basics
+### 1. Finance and Accounting Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The purpose of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
@@ -438,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Most Common Financial Reports
+### 2. Most Common Financial Reports
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
@@ -901,7 +907,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Techniques for Using Financial Reports
+### 3. Techniques for Using Financial Reports
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is financial ratio analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
@@ -1357,7 +1365,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. 4. Short-Term Financial Management
+### 4. Short-Term Financial Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing cash through the operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
@@ -1644,7 +1654,9 @@ created: 2026-04-28
 > **Speakers:** - consider (1)
 
 
-### 6. 5. Costing a Product or Service
+### 5. Costing a Product or Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Considering costs: Fixed, variable, and contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
@@ -1849,7 +1861,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 7. 6. Creating a Budget
+### 6. Creating a Budget
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Drafting a budget
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
@@ -2004,7 +2018,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 8. 7. Income Tax Basics
+### 7. Income Tax Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding income taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
@@ -2299,7 +2315,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)

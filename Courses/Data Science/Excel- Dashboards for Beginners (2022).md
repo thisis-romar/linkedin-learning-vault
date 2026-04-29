@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Dashboards%20for%20Beginners%20(2022).md)
@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Excel Dashboard Components]]** (4 videos)
-- **[[#3. 2. Creating Your First Dashboard]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Excel Dashboard Components]]** (4 videos)
+- **[[#2. Creating Your First Dashboard]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform the way you present data to leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
@@ -284,7 +286,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Excel Dashboard Components
+### 1. Excel Dashboard Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Store data in Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
@@ -773,7 +777,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Your First Dashboard
+### 2. Creating Your First Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get familiar with the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
@@ -1299,7 +1305,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your Excel dashboards journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)

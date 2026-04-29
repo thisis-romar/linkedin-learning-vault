@@ -32,8 +32,10 @@ tags:
   - skill/user-experience-design-ued
   - skill/sketching
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Sketching%20For%20Ux%20Designers.md)
 
 ![Sketching For Ux Designers](https://media.licdn.com/dms/image/v2/C560DAQEyBXP0WKUh3w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1629490820278?e=2147483647&amp;v=beta&amp;t=JH3HtBwS2hTAN1_o910aS-tu6jfmgKZ4BJwqNg9HlZ8)
 

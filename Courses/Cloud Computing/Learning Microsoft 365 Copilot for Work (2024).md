@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/office-365
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Microsoft%20365%20Copilot%20for%20Work%20(2024).md)
@@ -48,10 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Using Copilot in Office Applications]]** (7 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Using Copilot in Office Applications]]** (7 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Using Copilot in Office Applications
+### 1. Using Copilot in Office Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Copilot Business Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)

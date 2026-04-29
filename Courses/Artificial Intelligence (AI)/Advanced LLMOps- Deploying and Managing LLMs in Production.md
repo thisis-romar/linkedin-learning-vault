@@ -37,7 +37,7 @@ tags:
   - skill/system-deployment
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20LLMOps-%20Deploying%20and%20Managing%20LLMs%20in%20Production.md)
@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Deployment Options for LLMs]]** (4 videos)
-- **[[#3. 2. Handling API Limitations]]** (5 videos)
-- **[[#4. 3. Deployment Architecture]]** (5 videos)
-- **[[#5. 4. Monitoring LLM Performance]]** (2 videos)
-- **[[#6. 5. Advanced Deployment Techniques]]** (4 videos)
-- **[[#7. 6. Security and Cost Considerations]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Deployment Options for LLMs]]** (4 videos)
+- **[[#2. Handling API Limitations]]** (5 videos)
+- **[[#3. Deployment Architecture]]** (5 videos)
+- **[[#4. Monitoring LLM Performance]]** (2 videos)
+- **[[#5. Advanced Deployment Techniques]]** (4 videos)
+- **[[#6. Security and Cost Considerations]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploying LLMs for production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 2. 1. Deployment Options for LLMs
+### 1. Deployment Options for LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980)
@@ -444,7 +448,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Handling API Limitations
+### 2. Handling API Limitations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding API limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980)
@@ -774,7 +780,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Deployment Architecture
+### 3. Deployment Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vector databases for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980)
@@ -1164,7 +1172,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 5. 4. Monitoring LLM Performance
+### 4. Monitoring LLM Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to LLM performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980)
@@ -1291,7 +1301,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Advanced Deployment Techniques
+### 5. Advanced Deployment Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt management for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980)
@@ -1544,7 +1556,9 @@ created: 2026-04-28
 > **Non-Speech:** (smooth uptempo music) (1)
 
 
-### 7. 6. Security and Cost Considerations
+### 6. Security and Cost Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security considerations for LLMs in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980)
@@ -1875,7 +1889,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980)

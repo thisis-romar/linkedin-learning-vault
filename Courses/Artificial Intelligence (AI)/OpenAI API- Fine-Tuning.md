@@ -32,7 +32,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Fine-Tuning.md)
@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Fine-Tuning Basics]]** (6 videos)
-- **[[#3. 2. Advanced Tools and Features]]** (7 videos)
-- **[[#4. 3. Further Info]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fine-Tuning Basics]]** (6 videos)
+- **[[#2. Advanced Tools and Features]]** (7 videos)
+- **[[#3. Further Info]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fine-tuning custom models with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
@@ -171,7 +173,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. Fine-Tuning Basics
+### 1. Fine-Tuning Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to create a fine-tuned model
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
@@ -884,7 +888,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Advanced Tools and Features
+### 2. Advanced Tools and Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fine-tuning through the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
@@ -1244,7 +1250,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Further Info
+### 3. Further Info
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional notes on fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)

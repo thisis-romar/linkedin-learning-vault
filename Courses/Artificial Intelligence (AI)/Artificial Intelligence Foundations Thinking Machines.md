@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations%20Thinking%20Machines.md)
@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is Artificial Intelligence?]]** (4 videos)
-- **[[#3. 2. The Rise of Machine Learning]]** (3 videos)
-- **[[#4. 3. Finding the Right Approach]]** (5 videos)
-- **[[#5. 4. Common AI Programs]]** (3 videos)
-- **[[#6. 5. Mixing with Other Technologies]]** (2 videos)
-- **[[#7. 6. What Has Changed?]]** (3 videos)
-- **[[#8. 7. Avoiding Pitfalls]]** (1 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Artificial Intelligence?]]** (4 videos)
+- **[[#2. The Rise of Machine Learning]]** (3 videos)
+- **[[#3. Finding the Right Approach]]** (5 videos)
+- **[[#4. Common AI Programs]]** (3 videos)
+- **[[#5. Mixing with Other Technologies]]** (2 videos)
+- **[[#6. What Has Changed?]]** (3 videos)
+- **[[#7. Avoiding Pitfalls]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1. What Is Artificial Intelligence?
+### 1. What Is Artificial Intelligence?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980)
@@ -562,7 +566,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. The Rise of Machine Learning
+### 2. The Rise of Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980)
@@ -900,7 +906,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Finding the Right Approach
+### 3. Finding the Right Approach
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Match patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980)
@@ -1436,7 +1444,9 @@ created: 2026-04-28
 > **Speakers:** - up (1)
 
 
-### 5. 4. Common AI Programs
+### 4. Common AI Programs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Robotics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980)
@@ -1757,7 +1767,9 @@ created: 2026-04-28
 > **Speakers:** - recently (1)
 
 
-### 6. 5. Mixing with Other Technologies
+### 5. Mixing with Other Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980)
@@ -1982,7 +1994,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 7. 6. What Has Changed?
+### 6. What Has Changed?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980)
@@ -2199,7 +2213,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 8. 7. Avoiding Pitfalls
+### 7. Avoiding Pitfalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980)
@@ -2312,7 +2328,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980)

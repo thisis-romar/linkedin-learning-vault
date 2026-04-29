@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/leadership-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leading%20Talent%20Development%20In%20The%20Era%20Of%20Ai.md)

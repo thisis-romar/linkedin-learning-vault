@@ -32,7 +32,7 @@ tags:
   - skill/apache-kafka
   - skill/performance-tuning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Tuning%20Kafka.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introducing Kafka Tuning]]** (7 videos)
-- **[[#3. 2. Tuning Kafka Producers]]** (8 videos)
-- **[[#4. 3. Tuning Kafka Consumers]]** (4 videos)
-- **[[#5. 4. Tuning Kafka Brokers]]** (3 videos)
-- **[[#6. 5. Performance Testing with Python]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Kafka Tuning]]** (7 videos)
+- **[[#2. Tuning Kafka Producers]]** (8 videos)
+- **[[#3. Tuning Kafka Consumers]]** (4 videos)
+- **[[#4. Tuning Kafka Brokers]]** (3 videos)
+- **[[#5. Performance Testing with Python]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tuning Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [janani] (1)
 
 
-### 2. 1. Introducing Kafka Tuning
+### 1. Introducing Kafka Tuning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980)
@@ -752,7 +756,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tuning Kafka Producers
+### 2. Tuning Kafka Producers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running a Kafka cluster with three brokers
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-kafka-cluster-with-three-brokers?u=76281980)
@@ -1812,7 +1818,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Tuning Kafka Consumers
+### 3. Tuning Kafka Consumers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running a basic consumer performance test
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980)
@@ -2193,7 +2201,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Tuning Kafka Brokers
+### 4. Tuning Kafka Brokers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### End-to-end latency with replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980)
@@ -2526,7 +2536,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Performance Testing with Python
+### 5. Performance Testing with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Producer performance testing using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980)
@@ -2711,7 +2723,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/javascript
   - skill/coding-practices
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript%20Patterns-%20Modern%20Solutions%20to%20Common%20Challenges.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Improving on Loops]]** (5 videos)
-- **[[#3. 2. Objects Can Confuse]]** (6 videos)
-- **[[#4. 3. Oh Functions, My Functions]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Improving on Loops]]** (5 videos)
+- **[[#2. Objects Can Confuse]]** (6 videos)
+- **[[#3. Oh Functions, My Functions]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Javascript: Finding the utility in less common patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
@@ -243,7 +245,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Improving on Loops
+### 1. Improving on Loops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pain point: Sequential "for" loops become tedious
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
@@ -894,7 +898,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Objects Can Confuse
+### 2. Objects Can Confuse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pain point: Copied objects are not actually copies
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
@@ -1575,7 +1581,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Oh Functions, My Functions
+### 3. Oh Functions, My Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pain point: Send extra parameters to an event handler
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
@@ -2252,7 +2260,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/digital-transformation
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Digital%20Leader%20Cert%20Prep%201%20Digital%20Transformation%20With%20Google%20Cloud.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Why Cloud Technology Is Transforming Business]]** (10 videos)
-- **[[#3. 2. Fundamental Cloud Concepts]]** (9 videos)
-- **[[#4. 3. Cloud Computing Models and Shared Responsibility]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Why Cloud Technology Is Transforming Business]]** (10 videos)
+- **[[#2. Fundamental Cloud Concepts]]** (9 videos)
+- **[[#3. Cloud Computing Models and Shared Responsibility]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Executive introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/executive-introduction?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Why Cloud Technology Is Transforming Business
+### 1. Why Cloud Technology Is Transforming Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-22233541?u=76281980)
@@ -723,7 +727,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 3. 2. Fundamental Cloud Concepts
+### 2. Fundamental Cloud Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction?u=76281980)
@@ -1246,7 +1252,9 @@ created: 2026-04-28
 > **Cross-References:** we covered (1)
 
 
-### 4. 3. Cloud Computing Models and Shared Responsibility
+### 3. Cloud Computing Models and Shared Responsibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to cloud computing models and shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-to-cloud-computing-models-and-shared-responsibility?u=76281980)
@@ -1692,7 +1700,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/course-summary?u=76281980)

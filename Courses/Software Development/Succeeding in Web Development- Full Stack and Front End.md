@@ -36,7 +36,7 @@ tags:
   - skill/front-end-development
   - skill/full-stack-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Succeeding%20in%20Web%20Development-%20Full%20Stack%20and%20Front%20End.md)
@@ -54,16 +54,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. A Developer's Life]]** (3 videos)
-- **[[#3. 2. Core Technologies]]** (4 videos)
-- **[[#4. 3. Core Concepts]]** (5 videos)
-- **[[#5. 4. Supporting Technologies]]** (5 videos)
-- **[[#6. 5. Education]]** (4 videos)
-- **[[#7. 6. Getting a Job]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. A Developer's Life]]** (3 videos)
+- **[[#2. Core Technologies]]** (4 videos)
+- **[[#3. Core Concepts]]** (5 videos)
+- **[[#4. Supporting Technologies]]** (5 videos)
+- **[[#5. Education]]** (4 videos)
+- **[[#6. Getting a Job]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming a web developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. A Developer's Life
+### 1. A Developer's Life
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of web developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
@@ -248,7 +252,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Core Technologies
+### 2. Core Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### HTML as the foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
@@ -475,7 +481,9 @@ created: 2026-04-28
 > **Speakers:** - remember (1)
 
 
-### 4. 3. Core Concepts
+### 3. Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the internet works
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
@@ -800,7 +808,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 5. 4. Supporting Technologies
+### 4. Supporting Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Server technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
@@ -1097,7 +1107,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 6. 5. Education
+### 5. Education
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What education do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
@@ -1303,7 +1315,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 7. 6. Getting a Job
+### 6. Getting a Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
@@ -1571,7 +1585,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)

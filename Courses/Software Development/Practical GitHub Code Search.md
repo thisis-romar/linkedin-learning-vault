@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practical%20GitHub%20Code%20Search.md)
@@ -44,12 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Regular Search Features]]** (5 videos)
-- **[[#3. 2. Code Search Beta]]** (3 videos)
-- **[[#4. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Regular Search Features]]** (5 videos)
+- **[[#2. Code Search Beta]]** (3 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Regular Search Features
+### 1. Regular Search Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GitHub code search
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
@@ -625,7 +629,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. 2. Code Search Beta
+### 2. Code Search Beta
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding code
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
@@ -1042,7 +1048,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

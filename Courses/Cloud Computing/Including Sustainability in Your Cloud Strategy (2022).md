@@ -34,7 +34,7 @@ tags:
   - skill/sustainable-systems
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Including%20Sustainability%20in%20Your%20Cloud%20Strategy%20(2022).md)

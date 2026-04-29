@@ -36,7 +36,7 @@ tags:
   - skill/openai-products
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/OpenAI%20API-%20Speech.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Text-to-Speech]]** (8 videos)
-- **[[#3. 2. Speech-to-Text]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Text-to-Speech]]** (8 videos)
+- **[[#2. Speech-to-Text]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Voice models and the AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Text-to-Speech
+### 1. Text-to-Speech
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Text-to-speech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
@@ -568,7 +572,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 3. 2. Speech-to-Text
+### 2. Speech-to-Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Speech-to-text overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
@@ -759,7 +765,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)

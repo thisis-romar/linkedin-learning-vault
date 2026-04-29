@@ -30,7 +30,7 @@ tags:
   - skill/graphql
   - skill/laravel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20GraphQL%20Applications%20in%20Laravel.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding GraphQL]]** (3 videos)
-- **[[#3. 2. Introduction to GraphQL Schemas and Types]]** (5 videos)
-- **[[#4. 3. Development Environment Setup]]** (5 videos)
-- **[[#5. 4. GraphQL Queries]]** (5 videos)
-- **[[#6. 5. GraphQL Mutations]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding GraphQL]]** (3 videos)
+- **[[#2. Introduction to GraphQL Schemas and Types]]** (5 videos)
+- **[[#3. Development Environment Setup]]** (5 videos)
+- **[[#4. GraphQL Queries]]** (5 videos)
+- **[[#5. GraphQL Mutations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build GraphQL apps in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [mandeeya] (1)
 
 
-### 2. 1. Understanding GraphQL
+### 1. Understanding GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
@@ -233,7 +237,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Introduction to GraphQL Schemas and Types
+### 2. Introduction to GraphQL Schemas and Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The type system
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
@@ -439,7 +445,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Development Environment Setup
+### 3. Development Environment Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisite and development environment checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
@@ -731,7 +739,9 @@ created: 2026-04-28
 > **Non-Speech:** (typing) (1)
 
 
-### 5. 4. GraphQL Queries
+### 4. GraphQL Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into GraphQL queries with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
@@ -993,7 +1003,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. GraphQL Mutations
+### 5. GraphQL Mutations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into GraphQL mutations with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
@@ -1205,7 +1217,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring more Lighthouse and GraphQL functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)

@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands%20On%20Introduction%20Sql.md)
@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Select Statement]]** (5 videos)
-- **[[#3. 2. New Tables and Data]]** (5 videos)
-- **[[#4. 3. Modifying Existing Tables]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Select Statement]]** (5 videos)
+- **[[#2. New Tables and Data]]** (5 videos)
+- **[[#3. Modifying Existing Tables]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Select Statement
+### 1. The Select Statement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fetch data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
@@ -977,7 +981,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. New Tables and Data
+### 2. New Tables and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create new tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
@@ -1476,7 +1482,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Modifying Existing Tables
+### 3. Modifying Existing Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modify rows and columns in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
@@ -1717,7 +1725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)

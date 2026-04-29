@@ -27,7 +27,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Docker%20Compose.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Docker Compose]]** (3 videos)
-- **[[#3. 2. Getting Started with Docker Compose]]** (2 videos)
-- **[[#4. 3. Docker Compose Core Features]]** (5 videos)
-- **[[#5. 4. Dynamic Configurations in Docker Compose]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Docker Compose]]** (3 videos)
+- **[[#2. Getting Started with Docker Compose]]** (2 videos)
+- **[[#3. Docker Compose Core Features]]** (5 videos)
+- **[[#4. Dynamic Configurations in Docker Compose]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implement Docker Compose
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Docker Compose
+### 1. Understanding Docker Compose
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compose in the Docker tool ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980)
@@ -234,7 +238,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Started with Docker Compose
+### 2. Getting Started with Docker Compose
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing a Docker Compose configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980)
@@ -374,7 +380,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Docker Compose Core Features
+### 3. Docker Compose Core Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980)
@@ -688,7 +696,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Dynamic Configurations in Docker Compose
+### 4. Dynamic Configurations in Docker Compose
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Named subsets of services
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980)
@@ -877,7 +887,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980)

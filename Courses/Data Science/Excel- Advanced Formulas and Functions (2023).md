@@ -34,7 +34,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Advanced%20Formulas%20and%20Functions%20(2023).md)
@@ -52,22 +52,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency]]** (3 videos)
-- **[[#3. 2. The World of IF Statements and Conditions]]** (3 videos)
-- **[[#4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups]]** (8 videos)
-- **[[#5. 4. Formula Tips and Strategies]]** (10 videos)
-- **[[#6. 5. Mid-Term Challenges]]** (3 videos)
-- **[[#7. 6. Date and Time Functions]]** (3 videos)
-- **[[#8. 7. Working with Text and Arrays]]** (8 videos)
-- **[[#9. 8. Statistical Functions]]** (4 videos)
-- **[[#10. 9. Math Functions]]** (3 videos)
-- **[[#11. 10. Wild Cards]]** (2 videos)
-- **[[#12. 11. New, Handy, and Fun Functions]]** (3 videos)
-- **[[#13. 12. Final Challenges]]** (4 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Tables and Dynamic Arrays for Data Integrity and Consistency]]** (3 videos)
+- **[[#2. The World of IF Statements and Conditions]]** (3 videos)
+- **[[#3. Looking Up, Down, and All Around: Comparing and Combining with Lookups]]** (8 videos)
+- **[[#4. Formula Tips and Strategies]]** (10 videos)
+- **[[#5. Mid-Term Challenges]]** (3 videos)
+- **[[#6. Date and Time Functions]]** (3 videos)
+- **[[#7. Working with Text and Arrays]]** (8 videos)
+- **[[#8. Statistical Functions]]** (4 videos)
+- **[[#9. Math Functions]]** (3 videos)
+- **[[#10. Wild Cards]]** (2 videos)
+- **[[#11. New, Handy, and Fun Functions]]** (3 videos)
+- **[[#12. Final Challenges]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning advanced formulas and functions using Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980)
@@ -186,7 +188,9 @@ created: 2026-04-28
 > **Speakers:** - say (1)
 
 
-### 2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency
+### 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980)
@@ -702,7 +706,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. 2. The World of IF Statements and Conditions
+### 2. The World of IF Statements and Conditions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IF function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980)
@@ -1266,7 +1272,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups
+### 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980)
@@ -2531,7 +2539,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Formula Tips and Strategies
+### 4. Formula Tips and Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Alt+Enter to make formulas more readable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/use-alt-plus-enter-to-make-formulas-more-readable?u=76281980)
@@ -3886,7 +3896,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 6. 5. Mid-Term Challenges
+### 5. Mid-Term Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge 1: Course completions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come-18460103?u=76281980)
@@ -4173,7 +4185,9 @@ created: 2026-04-28
 > **Speakers:** - amy (1)
 
 
-### 7. 6. Date and Time Functions
+### 6. Date and Time Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time, rounding, and converting to decimals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980)
@@ -4430,7 +4444,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Working with Text and Arrays
+### 7. Working with Text and Arrays
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LEFT, RIGHT, and MID
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980)
@@ -5940,7 +5956,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Statistical Functions
+### 8. Statistical Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LARGE and SMALL
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980)
@@ -6395,7 +6413,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 10. 9. Math Functions
+### 9. Math Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rounding
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980)
@@ -6819,7 +6839,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Wild Cards
+### 10. Wild Cards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wildcards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980)
@@ -7106,7 +7128,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 12. 11. New, Handy, and Fun Functions
+### 11. New, Handy, and Fun Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ROMAN and ARABIC
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980)
@@ -7575,7 +7599,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 13. 12. Final Challenges
+### 12. Final Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge 1: Towers
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come?u=76281980)
@@ -7986,7 +8012,9 @@ created: 2026-04-28
 > **Non-Speech:** (modern techy music) (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take your Excel skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980)

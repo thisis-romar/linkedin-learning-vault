@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Test%20Automation%20Foundations.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Test Types]]** (5 videos)
-- **[[#3. 2. How to Approach Automation]]** (5 videos)
-- **[[#4. 3. Testing Tools]]** (3 videos)
-- **[[#5. 4. Decide What to Automate]]** (5 videos)
-- **[[#6. 5. Adopt Test Automation]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Test Types]]** (5 videos)
+- **[[#2. How to Approach Automation]]** (5 videos)
+- **[[#3. Testing Tools]]** (3 videos)
+- **[[#4. Decide What to Automate]]** (5 videos)
+- **[[#5. Adopt Test Automation]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a foundation of test automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980)
@@ -153,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 2. 1. Test Types
+### 1. Test Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile Testing Quadrants
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980)
@@ -719,7 +723,9 @@ created: 2026-04-28
 > **Ports:** port 3000 (1)
 
 
-### 3. 2. How to Approach Automation
+### 2. How to Approach Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get the whole team involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980)
@@ -1008,7 +1014,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Testing Tools
+### 3. Testing Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980)
@@ -1249,7 +1257,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. 4. Decide What to Automate
+### 4. Decide What to Automate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scenarios to automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980)
@@ -1499,7 +1509,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 6. 5. Adopt Test Automation
+### 5. Adopt Test Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintain standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980)
@@ -1837,7 +1849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advance your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980)

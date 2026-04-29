@@ -35,7 +35,7 @@ tags:
   - skill/career-path-planning
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Get%20a%20Remote%20Data%20Science%20Job.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Identify Data Science Job Openings]]** (3 videos)
-- **[[#3. 2. Create a Data Science Portfolio]]** (4 videos)
-- **[[#4. 3. Build Your Online Presence]]** (3 videos)
-- **[[#5. 4. Leverage Your Network]]** (2 videos)
-- **[[#6. 5. Ace Your Interviews]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Identify Data Science Job Openings]]** (3 videos)
+- **[[#2. Create a Data Science Portfolio]]** (4 videos)
+- **[[#3. Build Your Online Presence]]** (3 videos)
+- **[[#4. Leverage Your Network]]** (2 videos)
+- **[[#5. Ace Your Interviews]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Master the remote job search
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Identify Data Science Job Openings
+### 1. Identify Data Science Job Openings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify data science job types
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980)
@@ -301,7 +305,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 3. 2. Create a Data Science Portfolio
+### 2. Create a Data Science Portfolio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of a portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980)
@@ -538,7 +544,9 @@ created: 2026-04-28
 > **Speakers:** - is (1)
 
 
-### 4. 3. Build Your Online Presence
+### 3. Build Your Online Presence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize your LinkedIn profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
@@ -699,7 +707,9 @@ created: 2026-04-28
 > **Speakers:** - employers (1)
 
 
-### 5. 4. Leverage Your Network
+### 4. Leverage Your Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify valuable connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980)
@@ -816,7 +826,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Ace Your Interviews
+### 5. Ace Your Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare for assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980)
@@ -970,7 +982,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your path forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980)

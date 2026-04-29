@@ -32,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Wavelet%20Analysis-%20Concepts%20with%20Wolfram%20Language.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Continuous Wavelet Transform]]** (1 videos)
-- **[[#3. 2. Discrete Wavelets]]** (1 videos)
-- **[[#4. 3. Wavelet Filter Bank]]** (1 videos)
-- **[[#5. 4. Discrete Wavelet Data]]** (1 videos)
-- **[[#6. 5. Wavelet Best Basis]]** (1 videos)
-- **[[#7. 6. Wavelet Thresholding]]** (1 videos)
-- **[[#8. References]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Continuous Wavelet Transform]]** (1 videos)
+- **[[#2. Discrete Wavelets]]** (1 videos)
+- **[[#3. Wavelet Filter Bank]]** (1 videos)
+- **[[#4. Discrete Wavelet Data]]** (1 videos)
+- **[[#5. Wavelet Best Basis]]** (1 videos)
+- **[[#6. Wavelet Thresholding]]** (1 videos)
+- **[[#References]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980)
@@ -231,7 +233,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 2. 1. Continuous Wavelet Transform
+### 1. Continuous Wavelet Transform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous wavelet transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/continuous-wavelet-transform?u=76281980)
@@ -399,7 +403,9 @@ created: 2026-04-28
 > **Best Practices:** general rule (1)
 
 
-### 3. 2. Discrete Wavelets
+### 2. Discrete Wavelets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discrete wavelets
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980)
@@ -488,7 +494,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Wavelet Filter Bank
+### 3. Wavelet Filter Bank
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wavelet filter bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-filter-bank?u=76281980)
@@ -549,7 +557,9 @@ created: 2026-04-28
 > **CLI Commands:** make (3)
 
 
-### 5. 4. Discrete Wavelet Data
+### 4. Discrete Wavelet Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discrete wavelet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelet-data?u=76281980)
@@ -655,7 +665,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 6. 5. Wavelet Best Basis
+### 5. Wavelet Best Basis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wavelet best basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-best-basis?u=76281980)
@@ -732,7 +744,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 7. 6. Wavelet Thresholding
+### 6. Wavelet Thresholding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wavelet thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -870,7 +884,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 8. References
+### References
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980)

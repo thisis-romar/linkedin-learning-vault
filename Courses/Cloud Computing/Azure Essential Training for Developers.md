@@ -31,7 +31,7 @@ tags:
   - skill/cloud-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Essential%20Training%20for%20Developers.md)
@@ -49,22 +49,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Cloud Fundamentals]]** (1 videos)
-- **[[#3. 2. Core Azure Concepts]]** (5 videos)
-- **[[#4. 3. Azure App Services]]** (2 videos)
-- **[[#5. 4. Azure Storage]]** (3 videos)
-- **[[#6. 5. Azure Functions]]** (5 videos)
-- **[[#7. 6. Virtual Machines and Batch]]** (3 videos)
-- **[[#8. 7. Kubernetes and Containers in Azure]]** (3 videos)
-- **[[#9. 8. Securing your applications]]** (3 videos)
-- **[[#10. 9. Monitoring your applications]]** (2 videos)
-- **[[#11. 10. Optimizing your applications]]** (3 videos)
-- **[[#12. 11. AI in Azure]]** (4 videos)
-- **[[#13. 12. Interesting Advancements for Developers]]** (3 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Cloud Fundamentals]]** (1 videos)
+- **[[#2. Core Azure Concepts]]** (5 videos)
+- **[[#3. Azure App Services]]** (2 videos)
+- **[[#4. Azure Storage]]** (3 videos)
+- **[[#5. Azure Functions]]** (5 videos)
+- **[[#6. Virtual Machines and Batch]]** (3 videos)
+- **[[#7. Kubernetes and Containers in Azure]]** (3 videos)
+- **[[#8. Securing your applications]]** (3 videos)
+- **[[#9. Monitoring your applications]]** (2 videos)
+- **[[#10. Optimizing your applications]]** (3 videos)
+- **[[#11. AI in Azure]]** (4 videos)
+- **[[#12. Interesting Advancements for Developers]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure for Developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - cloud (1)
 
 
-### 2. 1. Cloud Fundamentals
+### 1. Cloud Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud Models and Service Types
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
@@ -179,7 +183,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 3. 2. Core Azure Concepts
+### 2. Core Azure Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an Azure Subscription?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
@@ -559,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - azure (1)
 
 
-### 4. 3. Azure App Services
+### 3. Azure App Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an Azure App Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
@@ -716,7 +724,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Azure Storage
+### 4. Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Azure Blob Storage?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
@@ -1014,7 +1024,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. 5. Azure Functions
+### 5. Azure Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an Azure Function?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
@@ -1449,7 +1461,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 7. 6. Virtual Machines and Batch
+### 6. Virtual Machines and Batch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Provision a Virtual Machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
@@ -1756,7 +1770,9 @@ created: 2026-04-28
 > **Speakers:** - azure (1)
 
 
-### 8. 7. Kubernetes and Containers in Azure
+### 7. Kubernetes and Containers in Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Container and Kubernetes Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
@@ -2013,7 +2029,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 9. 8. Securing your applications
+### 8. Securing your applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication options in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
@@ -2239,7 +2257,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 10. 9. Monitoring your applications
+### 9. Monitoring your applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
@@ -2369,7 +2389,9 @@ created: 2026-04-28
 > **Speakers:** - application (1)
 
 
-### 11. 10. Optimizing your applications
+### 10. Optimizing your applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure Redis for caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
@@ -2578,7 +2600,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 12. 11. AI in Azure
+### 11. AI in Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure AI and Responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
@@ -2929,7 +2953,9 @@ created: 2026-04-28
 > **File Paths:** node.js (1)
 
 
-### 13. 12. Interesting Advancements for Developers
+### 12. Interesting Advancements for Developers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Load testing on Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
@@ -3279,7 +3305,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)

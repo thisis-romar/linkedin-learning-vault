@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/software-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/International%20Software%20Testing%20Qualifications%20Board%20(ISTQB)%204.0%2B%20Foundation%20Cert%20Prep.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Fundamentals of Testing]]** (5 videos)
-- **[[#3. 2. Testing Throughout the Software Development Lifecycle]]** (3 videos)
-- **[[#4. 3. Static Testing]]** (2 videos)
-- **[[#5. 4. Test Analysis and Design]]** (5 videos)
-- **[[#6. 5. Managing the Test Activities]]** (4 videos)
-- **[[#7. 6. Test Tools]]** (2 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Fundamentals of Testing]]** (5 videos)
+- **[[#2. Testing Throughout the Software Development Lifecycle]]** (3 videos)
+- **[[#3. Static Testing]]** (2 videos)
+- **[[#4. Test Analysis and Design]]** (5 videos)
+- **[[#5. Managing the Test Activities]]** (4 videos)
+- **[[#6. Test Tools]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for the ISTQB Certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980)
@@ -364,7 +366,9 @@ created: 2026-04-28
 > **Cross-References:** next video (1)
 
 
-### 2. 1. Fundamentals of Testing
+### 1. Fundamentals of Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980)
@@ -752,7 +756,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Testing Throughout the Software Development Lifecycle
+### 2. Testing Throughout the Software Development Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing in the context of the software development lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980)
@@ -981,7 +987,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 4. 3. Static Testing
+### 3. Static Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Static testing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980)
@@ -1115,7 +1123,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. 4. Test Analysis and Design
+### 4. Test Analysis and Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test techniques overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980)
@@ -1525,7 +1535,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 6. 5. Managing the Test Activities
+### 5. Managing the Test Activities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980)
@@ -1863,7 +1875,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 7. 6. Test Tools
+### 6. Test Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tool support for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980)
@@ -2002,7 +2016,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exam paper example
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980)

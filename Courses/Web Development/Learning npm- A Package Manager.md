@@ -36,7 +36,7 @@ tags:
   - skill/package-management
   - skill/npm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20npm-%20A%20Package%20Manager.md)

@@ -40,7 +40,7 @@ tags:
   - skill/cloud-infrastructure
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Determining%20Your%20Cloud%20Strategy-%20Planning%20for%20Roadmap%2C%20Infrastructure%2C%20and%20Deployment.md)

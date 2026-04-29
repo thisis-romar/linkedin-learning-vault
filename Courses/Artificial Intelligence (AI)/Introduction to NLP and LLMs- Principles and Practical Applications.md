@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20NLP%20and%20LLMs-%20Principles%20and%20Practical%20Applications.md)

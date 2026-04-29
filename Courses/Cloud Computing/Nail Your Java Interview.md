@@ -31,7 +31,7 @@ tags:
   - skill/interview-preparation
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20Java%20Interview.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Answering Java-Specific Questions]]** (6 videos)
-- **[[#3. 2. Leveraging New Java Features]]** (6 videos)
-- **[[#4. 3. Solving Technical Interview Questions: String Manipulation]]** (7 videos)
-- **[[#5. 4. Solving Technical Interview Questions: Arrays and Linked Lists]]** (4 videos)
-- **[[#6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures]]** (6 videos)
-- **[[#7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Answering Java-Specific Questions]]** (6 videos)
+- **[[#2. Leveraging New Java Features]]** (6 videos)
+- **[[#3. Solving Technical Interview Questions: String Manipulation]]** (7 videos)
+- **[[#4. Solving Technical Interview Questions: Arrays and Linked Lists]]** (4 videos)
+- **[[#5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures]]** (6 videos)
+- **[[#6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The secret to nailing your Java interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980)
@@ -237,7 +239,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Answering Java-Specific Questions
+### 1. Answering Java-Specific Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's the Java Virtual Machine?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980)
@@ -655,7 +659,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Leveraging New Java Features
+### 2. Leveraging New Java Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the impact of Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980)
@@ -1160,7 +1166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Solving Technical Interview Questions: String Manipulation
+### 3. Solving Technical Interview Questions: String Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/concatenate-strings-with-different-methods?u=76281980)
@@ -1765,7 +1773,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Solving Technical Interview Questions: Arrays and Linked Lists
+### 4. Solving Technical Interview Questions: Arrays and Linked Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980)
@@ -2198,7 +2208,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
+### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveraging stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980)
@@ -2795,7 +2807,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
+### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980)
@@ -3522,7 +3536,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Good luck in your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980)

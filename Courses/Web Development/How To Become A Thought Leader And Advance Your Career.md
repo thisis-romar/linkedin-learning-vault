@@ -24,7 +24,7 @@ tags:
   - skill/career-management
   - skill/thought-leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/How%20To%20Become%20A%20Thought%20Leader%20And%20Advance%20Your%20Career.md)

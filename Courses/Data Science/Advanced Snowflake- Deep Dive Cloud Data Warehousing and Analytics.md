@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Snowflake-%20Deep%20Dive%20Cloud%20Data%20Warehousing%20and%20Analytics.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Table Structures in Snowflake]]** (8 videos)
-- **[[#3. 2. Views in Snowflake]]** (6 videos)
-- **[[#4. 3. Optimizing Query Performance]]** (8 videos)
-- **[[#5. 4. Working with Semi-structured Data]]** (3 videos)
-- **[[#6. 5. Managing Users and Granting Privileges]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Table Structures in Snowflake]]** (8 videos)
+- **[[#2. Views in Snowflake]]** (6 videos)
+- **[[#3. Optimizing Query Performance]]** (8 videos)
+- **[[#4. Working with Semi-structured Data]]** (3 videos)
+- **[[#5. Managing Users and Granting Privileges]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
@@ -340,7 +342,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 2. 1. Table Structures in Snowflake
+### 1. Table Structures in Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Micropartitioning and clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
@@ -1133,7 +1137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Views in Snowflake
+### 2. Views in Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Non-materialized, materialized, and secure views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
@@ -1649,7 +1655,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Optimizing Query Performance
+### 3. Optimizing Query Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Caching, clustering, and search optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
@@ -2551,7 +2559,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. 4. Working with Semi-structured Data
+### 4. Working with Semi-structured Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading and querying parquet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
@@ -2860,7 +2870,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Managing Users and Granting Privileges
+### 5. Managing Users and Granting Privileges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
@@ -3195,7 +3207,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)

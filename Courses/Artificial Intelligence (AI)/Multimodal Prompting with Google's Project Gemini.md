@@ -38,7 +38,7 @@ tags:
   - skill/google-gemini
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Multimodal%20Prompting%20with%20Google's%20Project%20Gemini.md)
@@ -56,10 +56,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Advanced Data Analysis]]** (5 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Advanced Data Analysis]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Project Gemini is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - gemini (1)
 
 
-### 2. 1. Advanced Data Analysis
+### 1. Advanced Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is multimodal prompting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980)

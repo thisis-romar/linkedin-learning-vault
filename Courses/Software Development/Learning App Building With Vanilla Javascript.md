@@ -33,7 +33,7 @@ tags:
   - skill/javascript
   - skill/vanilla
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20App%20Building%20With%20Vanilla%20Javascript.md)
@@ -51,19 +51,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Overview of Vanilla JS]]** (2 videos)
-- **[[#3. 2. Project Overview]]** (1 videos)
-- **[[#4. 3. Environment Setup]]** (2 videos)
-- **[[#5. 4. Replace Ajax]]** (2 videos)
-- **[[#6. 5. Select and Modify DOM Elements]]** (3 videos)
-- **[[#7. 6. Replace Event Listeners]]** (3 videos)
-- **[[#8. 7. Implement Data Binding]]** (5 videos)
-- **[[#9. 8. Replace Simple Animations]]** (3 videos)
-- **[[#10. 9. Ensure Backward Compatibility]]** (2 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Overview of Vanilla JS]]** (2 videos)
+- **[[#2. Project Overview]]** (1 videos)
+- **[[#3. Environment Setup]]** (2 videos)
+- **[[#4. Replace Ajax]]** (2 videos)
+- **[[#5. Select and Modify DOM Elements]]** (3 videos)
+- **[[#6. Replace Event Listeners]]** (3 videos)
+- **[[#7. Implement Data Binding]]** (5 videos)
+- **[[#8. Replace Simple Animations]]** (3 videos)
+- **[[#9. Ensure Backward Compatibility]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
@@ -154,7 +156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview of Vanilla JS
+### 1. Overview of Vanilla JS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Libraries, frameworks, and vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
@@ -298,7 +302,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Project Overview
+### 2. Project Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
@@ -358,7 +364,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Environment Setup
+### 3. Environment Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
@@ -491,7 +499,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Replace Ajax
+### 4. Replace Ajax
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
@@ -636,7 +646,9 @@ created: 2026-04-28
 > **Env Vars:** json (1), npm (1)
 
 
-### 6. 5. Select and Modify DOM Elements
+### 5. Select and Modify DOM Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Element selection with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
@@ -882,7 +894,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Replace Event Listeners
+### 6. Replace Event Listeners
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JavaScript events
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
@@ -1129,7 +1143,9 @@ created: 2026-04-28
 > **Speakers:** - our (1)
 
 
-### 8. 7. Implement Data Binding
+### 7. Implement Data Binding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data binding
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
@@ -1616,7 +1632,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Replace Simple Animations
+### 8. Replace Simple Animations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Animation with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
@@ -1775,7 +1793,9 @@ created: 2026-04-28
 > **Definitions:** known as (1)
 
 
-### 10. 9. Ensure Backward Compatibility
+### 9. Ensure Backward Compatibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Backward compatibility for vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
@@ -1944,7 +1964,9 @@ created: 2026-04-28
 > **Tools:** visual studio (2)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)

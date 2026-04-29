@@ -30,7 +30,7 @@ tags:
   - skill/program-design
   - skill/data-governance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Designing%20Data%20Governance.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Find Your Data Framework]]** (3 videos)
-- **[[#3. 2. Select Data Stewards]]** (4 videos)
-- **[[#4. 3. Build Your Data Governance Council]]** (4 videos)
-- **[[#5. 4. Tackle Your First Data Governance Tasks]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Find Your Data Framework]]** (3 videos)
+- **[[#2. Select Data Stewards]]** (4 videos)
+- **[[#3. Build Your Data Governance Council]]** (4 videos)
+- **[[#4. Tackle Your First Data Governance Tasks]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a data-driven culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Find Your Data Framework
+### 1. Find Your Data Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Clarifying your company's mission statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
@@ -285,7 +289,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Select Data Stewards
+### 2. Select Data Stewards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are data stewards?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
@@ -541,7 +547,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 4. 3. Build Your Data Governance Council
+### 3. Build Your Data Governance Council
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a data governance council?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
@@ -764,7 +772,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. 4. Tackle Your First Data Governance Tasks
+### 4. Tackle Your First Data Governance Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
@@ -1009,7 +1019,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)

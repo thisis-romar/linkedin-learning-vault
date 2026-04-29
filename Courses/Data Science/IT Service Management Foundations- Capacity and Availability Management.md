@@ -30,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/capacity-planning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Capacity%20and%20Availability%20Management.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Discovery: Understanding Business Needs]]** (4 videos)
-- **[[#3. 2. Service Capacity Management]]** (4 videos)
-- **[[#4. 3. Resource Capacity Management]]** (6 videos)
-- **[[#5. 4. Availability Management]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Discovery: Understanding Business Needs]]** (4 videos)
+- **[[#2. Service Capacity Management]]** (4 videos)
+- **[[#3. Resource Capacity Management]]** (6 videos)
+- **[[#4. Availability Management]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
@@ -216,7 +218,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Discovery: Understanding Business Needs
+### 1. Discovery: Understanding Business Needs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking time to understand the business services
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
@@ -551,7 +555,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Service Capacity Management
+### 2. Service Capacity Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is service capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
@@ -889,7 +895,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Resource Capacity Management
+### 3. Resource Capacity Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is resource capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
@@ -1383,7 +1391,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Availability Management
+### 4. Availability Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Metrics and reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
@@ -1670,7 +1680,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)

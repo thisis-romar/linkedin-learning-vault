@@ -28,7 +28,7 @@ tags:
   - skill/marketing-analytics
   - skill/kpi-reporting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Analytics-%20Setting%20and%20Measuring%20KPIs.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Setting the Foundation for Your KPIs]]** (2 videos)
-- **[[#3. 2. Metrics and Relational Metrics]]** (6 videos)
-- **[[#4. 3. KPIs by Business Vertical]]** (5 videos)
-- **[[#5. 4. Measuring Your KPIs]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Setting the Foundation for Your KPIs]]** (2 videos)
+- **[[#2. Metrics and Relational Metrics]]** (6 videos)
+- **[[#3. KPIs by Business Vertical]]** (5 videos)
+- **[[#4. Measuring Your KPIs]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demystifying measurement in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Setting the Foundation for Your KPIs
+### 1. Setting the Foundation for Your KPIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are KPIs and Why Do They Matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-kpis-and-why-do-they-matter?u=76281980)
@@ -231,7 +235,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Metrics and Relational Metrics
+### 2. Metrics and Relational Metrics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are metrics and how can we use them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980)
@@ -605,7 +611,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. KPIs by Business Vertical
+### 3. KPIs by Business Vertical
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Critical Metrics for E-Commerce Success
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980)
@@ -967,7 +975,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Measuring Your KPIs
+### 4. Measuring Your KPIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying SMART KPIs: Carmen's Bakery Growth Plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/applying-smart-kpis-carmen-s-bakery-growth-plan?u=76281980)
@@ -1201,7 +1211,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sharing metrics and KPIs with your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980)

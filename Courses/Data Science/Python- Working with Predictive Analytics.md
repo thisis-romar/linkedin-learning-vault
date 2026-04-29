@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python-%20Working%20with%20Predictive%20Analytics.md)
@@ -53,12 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Data Preprocessing]]** (8 videos)
-- **[[#3. 2. Predictive Models]]** (11 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Data Preprocessing]]** (8 videos)
+- **[[#2. Predictive Models]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predict data in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/predict-data-in-python?u=76281980)
@@ -346,7 +348,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Preprocessing
+### 1. Data Preprocessing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Differentiate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/differentiate-data-types?u=76281980)
@@ -1661,7 +1665,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Predictive Models
+### 2. Predictive Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to predictive models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/introduction-to-predictive-models?u=76281980)
@@ -2934,7 +2940,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in Python and predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-25321500/next-steps-in-pyrthon-and-predictive-analytics?u=76281980)

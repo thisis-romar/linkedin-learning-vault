@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Introduction%20to%20Formatting.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Cell Formats]]** (4 videos)
-- **[[#3. 2. Custom Formats]]** (6 videos)
-- **[[#4. 3. Cell Styles and Themes]]** (3 videos)
-- **[[#5. 4. Conditional Formatting]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Cell Formats]]** (4 videos)
+- **[[#2. Custom Formats]]** (6 videos)
+- **[[#3. Cell Styles and Themes]]** (3 videos)
+- **[[#4. Conditional Formatting]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save time with effective Excel formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Env Vars:** mvp (1)
 
 
-### 2. 1. Cell Formats
+### 1. Cell Formats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Formatting with fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
@@ -483,7 +487,9 @@ created: 2026-04-28
 > **Warnings:** caution (1)
 
 
-### 3. 2. Custom Formats
+### 2. Custom Formats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Custom number formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
@@ -960,7 +966,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Cell Styles and Themes
+### 3. Cell Styles and Themes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Default styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
@@ -1229,7 +1237,9 @@ created: 2026-04-28
 > **Env Vars:** rgb (1)
 
 
-### 5. 4. Conditional Formatting
+### 4. Conditional Formatting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Built-in rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
@@ -1687,7 +1697,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)

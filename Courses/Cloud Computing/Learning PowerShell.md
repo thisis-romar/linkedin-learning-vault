@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/powershell
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20PowerShell.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. PowerShell Overview]]** (5 videos)
-- **[[#3. 2. Using PowerShell]]** (6 videos)
-- **[[#4. 3. Taking PowerShell On Premises and Online]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. PowerShell Overview]]** (5 videos)
+- **[[#2. Using PowerShell]]** (6 videos)
+- **[[#3. Taking PowerShell On Premises and Online]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 2. 1. PowerShell Overview
+### 1. PowerShell Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
@@ -837,7 +841,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 3. 2. Using PowerShell
+### 2. Using PowerShell
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
@@ -1489,7 +1495,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 4. 3. Taking PowerShell On Premises and Online
+### 3. Taking PowerShell On Premises and Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding and installing modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
@@ -2233,7 +2241,9 @@ created: 2026-04-28
 > **Code Identifiers:** macos (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)

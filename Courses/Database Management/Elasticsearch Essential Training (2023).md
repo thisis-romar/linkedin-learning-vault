@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20Essential%20Training%20(2023).md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Overview]]** (5 videos)
-- **[[#3. 2. Setup]]** (2 videos)
-- **[[#4. 3. Loading Data]]** (3 videos)
-- **[[#5. 4. Querying Data]]** (3 videos)
-- **[[#6. 5. Analyzing Your Data]]** (3 videos)
-- **[[#7. 6. Presenting Your Insights]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview]]** (5 videos)
+- **[[#2. Setup]]** (2 videos)
+- **[[#3. Loading Data]]** (3 videos)
+- **[[#4. Querying Data]]** (3 videos)
+- **[[#5. Analyzing Your Data]]** (3 videos)
+- **[[#6. Presenting Your Insights]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore Elasticsearch for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elasticsearch origins
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
@@ -348,7 +352,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setup
+### 2. Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running Elasticsearch in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
@@ -568,7 +574,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 4. 3. Loading Data
+### 3. Loading Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bulk loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
@@ -1133,7 +1141,9 @@ created: 2026-04-28
 > **API Endpoints:** get  (3)
 
 
-### 5. 4. Querying Data
+### 4. Querying Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
@@ -1710,7 +1720,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Analyzing Your Data
+### 5. Analyzing Your Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
@@ -2174,7 +2186,9 @@ created: 2026-04-28
 > **Cross-References:** coming up (1)
 
 
-### 7. 6. Presenting Your Insights
+### 6. Presenting Your Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kibana overview and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
@@ -2652,7 +2666,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with Elasticsearch
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)

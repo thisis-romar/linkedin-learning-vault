@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Files%20and%20Permissions.md)
@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. Linux Files]]** (11 videos)
-- **[[#3. Manage Linux Files]]** (9 videos)
-- **[[#4. Linux Permissions]]** (10 videos)
-- **[[#5. Access Control Lists]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#Linux Files]]** (11 videos)
+- **[[#Manage Linux Files]]** (9 videos)
+- **[[#Linux Permissions]]** (10 videos)
+- **[[#Access Control Lists]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage files and permissions in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
@@ -429,7 +431,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 2. Linux Files
+### Linux Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a file?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
@@ -1716,7 +1720,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Manage Linux Files
+### Manage Linux Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding filesystem paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
@@ -2672,7 +2678,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Linux Permissions
+### Linux Permissions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standard Linux permissions overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
@@ -3699,7 +3707,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Access Control Lists
+### Access Control Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ACL overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
@@ -4586,7 +4596,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)

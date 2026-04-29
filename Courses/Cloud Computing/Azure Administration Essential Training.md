@@ -39,7 +39,7 @@ tags:
   - skill/cloud-administration
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Administration%20Essential%20Training.md)
@@ -57,17 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Familiar with Microsoft Azure]]** (4 videos)
-- **[[#3. 2. Managing Microsoft Azure resources]]** (10 videos)
-- **[[#4. 3. Microsoft Azure Storage]]** (5 videos)
-- **[[#5. 4. Microsoft Azure  Web Apps]]** (2 videos)
-- **[[#6. 5. Microsoft Azure Virtual Machines]]** (5 videos)
-- **[[#7. 6. Microsoft Microsoft Entra ID]]** (8 videos)
-- **[[#8. 7. Microsoft Azure Networking]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Familiar with Microsoft Azure]]** (4 videos)
+- **[[#2. Managing Microsoft Azure resources]]** (10 videos)
+- **[[#3. Microsoft Azure Storage]]** (5 videos)
+- **[[#4. Microsoft Azure  Web Apps]]** (2 videos)
+- **[[#5. Microsoft Azure Virtual Machines]]** (5 videos)
+- **[[#6. Microsoft Microsoft Entra ID]]** (8 videos)
+- **[[#7. Microsoft Azure Networking]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Essentials of Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - [david] (1)
 
 
-### 2. 1. Getting Familiar with Microsoft Azure
+### 1. Getting Familiar with Microsoft Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
@@ -484,7 +488,9 @@ created: 2026-04-28
 > **Tools:** azure portal (1)
 
 
-### 3. 2. Managing Microsoft Azure resources
+### 2. Managing Microsoft Azure resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
@@ -1449,7 +1455,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 4. 3. Microsoft Azure Storage
+### 3. Microsoft Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Azure storage services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
@@ -1940,7 +1948,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Microsoft Azure  Web Apps
+### 4. Microsoft Azure  Web Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing Azure web apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
@@ -2134,7 +2144,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Microsoft Azure Virtual Machines
+### 5. Microsoft Azure Virtual Machines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating virtual machines in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
@@ -2743,7 +2755,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 7. 6. Microsoft Microsoft Entra ID
+### 6. Microsoft Microsoft Entra ID
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
@@ -3510,7 +3524,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Microsoft Azure Networking
+### 7. Microsoft Azure Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the Azure virtual networking resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
@@ -3740,7 +3756,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)

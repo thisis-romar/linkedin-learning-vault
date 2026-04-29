@@ -33,7 +33,7 @@ tags:
   - skill/large-language-models-llm
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Exploring%20Million-Token%20Models%20with%20Google%20Gemini%20Pro%201.5.md)
@@ -51,10 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. One Million Tokens with Google Gemini Pro 1.5]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. One Million Tokens with Google Gemini Pro 1.5]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of AI is huge
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - something (1)
 
 
-### 2. 1. One Million Tokens with Google Gemini Pro 1.5
+### 1. One Million Tokens with Google Gemini Pro 1.5
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Gemini Pro and the Gemini Family
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)

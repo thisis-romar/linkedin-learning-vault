@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/elasticsearch
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Elasticsearch%20in%20Depth.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started]]** (6 videos)
-- **[[#3. 2. Specialized Data Type and Query Support]]** (6 videos)
-- **[[#4. 3. Advanced Queries]]** (6 videos)
-- **[[#5. 4. Modifying Data]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started]]** (6 videos)
+- **[[#2. Specialized Data Type and Query Support]]** (6 videos)
+- **[[#3. Advanced Queries]]** (6 videos)
+- **[[#4. Modifying Data]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Much more than full-text searches
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Elasticsearch stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
@@ -780,7 +784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Specialized Data Type and Query Support
+### 2. Specialized Data Type and Query Support
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding objects with GeoShape
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
@@ -1392,7 +1398,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Queries
+### 3. Advanced Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering, matching, and scoring explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
@@ -1948,7 +1956,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Modifying Data
+### 4. Modifying Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Updating documents using scripting
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
@@ -2409,7 +2419,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)

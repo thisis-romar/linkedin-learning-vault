@@ -35,7 +35,7 @@ tags:
   - skill/interview-preparation
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Get%20Ready%20for%20Your%20Coding%20Interview.md)
@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Introduction to Jupyter Notebook and Python]]** (5 videos)
-- **[[#3. 2. Array/Python List]]** (6 videos)
-- **[[#4. 3. String in Python]]** (5 videos)
-- **[[#5. 4. Two-Dimensional Array]]** (5 videos)
-- **[[#6. 5. Time Complexity and Big O]]** (8 videos)
-- **[[#7. 6. Hash Table/Python Dictionary]]** (5 videos)
-- **[[#8. 7. FAQ about Coding Interviews]]** (3 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Introduction to Jupyter Notebook and Python]]** (5 videos)
+- **[[#2. Array/Python List]]** (6 videos)
+- **[[#3. String in Python]]** (5 videos)
+- **[[#4. Two-Dimensional Array]]** (5 videos)
+- **[[#5. Time Complexity and Big O]]** (8 videos)
+- **[[#6. Hash Table/Python Dictionary]]** (5 videos)
+- **[[#7. FAQ about Coding Interviews]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The coding interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
@@ -244,7 +246,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Introduction to Jupyter Notebook and Python
+### 1. Introduction to Jupyter Notebook and Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
@@ -463,7 +467,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Array/Python List
+### 2. Array/Python List
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review of list (array) in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
@@ -808,7 +814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. String in Python
+### 3. String in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review of string in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
@@ -1211,7 +1219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Two-Dimensional Array
+### 4. Two-Dimensional Array
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of two-dimensional arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
@@ -1571,7 +1581,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Time Complexity and Big O
+### 5. Time Complexity and Big O
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why time complexity and big O notation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
@@ -2182,7 +2194,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 7. 6. Hash Table/Python Dictionary
+### 6. Hash Table/Python Dictionary
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of dictionary/hash table
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
@@ -2572,7 +2586,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. 7. FAQ about Coding Interviews
+### 7. FAQ about Coding Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do I come up with an optimal solution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)

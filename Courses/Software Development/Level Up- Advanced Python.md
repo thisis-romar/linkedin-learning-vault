@@ -32,7 +32,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20Advanced%20Python.md)
@@ -50,10 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Code Challenges]]** (8 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Code Challenges]]** (8 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Slither into advanced core Python code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
@@ -244,7 +246,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Code Challenges
+### 1. Code Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Find a runner’s average race time
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)

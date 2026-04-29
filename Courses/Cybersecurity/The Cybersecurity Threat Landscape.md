@@ -43,7 +43,7 @@ tags:
   - skill/threat-vulnerability-management
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/The%20Cybersecurity%20Threat%20Landscape.md)

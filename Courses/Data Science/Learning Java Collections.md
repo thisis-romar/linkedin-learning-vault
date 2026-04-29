@@ -33,7 +33,7 @@ tags:
   - skill/java-frameworks
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Java%20Collections.md)
@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Java Collections Framework]]** (5 videos)
-- **[[#3. 2. The Foundations of Java Collections]]** (10 videos)
-- **[[#4. 3. Iterating Collections]]** (7 videos)
-- **[[#5. 4. Set]]** (3 videos)
-- **[[#6. 5. List]]** (4 videos)
-- **[[#7. 6. Queue and Deque]]** (4 videos)
-- **[[#8. 7. Map]]** (7 videos)
-- **[[#9. 8. Collections Utilities]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Java Collections Framework]]** (5 videos)
+- **[[#2. The Foundations of Java Collections]]** (10 videos)
+- **[[#3. Iterating Collections]]** (7 videos)
+- **[[#4. Set]]** (3 videos)
+- **[[#5. List]]** (4 videos)
+- **[[#6. Queue and Deque]]** (4 videos)
+- **[[#7. Map]]** (7 videos)
+- **[[#8. Collections Utilities]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Java collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Java Collections Framework
+### 1. Java Collections Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solving everyday problems with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
@@ -546,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Foundations of Java Collections
+### 2. The Foundations of Java Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
@@ -1577,7 +1583,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Iterating Collections
+### 3. Iterating Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Iterating collection elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
@@ -2296,7 +2304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Set
+### 4. Set
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
@@ -2524,7 +2534,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. List
+### 5. List
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### List interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
@@ -2982,7 +2994,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 7. 6. Queue and Deque
+### 6. Queue and Deque
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Queue interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
@@ -3376,7 +3390,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Map
+### 7. Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Map interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
@@ -3909,7 +3925,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Collections Utilities
+### 8. Collections Utilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ordering elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
@@ -4325,7 +4343,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)

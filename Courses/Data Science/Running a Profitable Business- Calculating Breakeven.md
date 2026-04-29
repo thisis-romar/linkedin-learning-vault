@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/break-even-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Calculating%20Breakeven.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Importance of Analysis]]** (2 videos)
-- **[[#3. 2. Types of Costs]]** (4 videos)
-- **[[#4. 3. Contribution Margin and the CVP Equation]]** (4 videos)
-- **[[#5. 4. The Breakeven Equation]]** (4 videos)
-- **[[#6. 5. Computing Target Net Income]]** (3 videos)
-- **[[#7. 6. Sensitivity Analysis]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Importance of Analysis]]** (2 videos)
+- **[[#2. Types of Costs]]** (4 videos)
+- **[[#3. Contribution Margin and the CVP Equation]]** (4 videos)
+- **[[#4. The Breakeven Equation]]** (4 videos)
+- **[[#5. Computing Target Net Income]]** (3 videos)
+- **[[#6. Sensitivity Analysis]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basics of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Importance of Analysis
+### 1. Importance of Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
@@ -311,7 +315,9 @@ created: 2026-04-28
 > **Speakers:** - just (1)
 
 
-### 3. 2. Types of Costs
+### 2. Types of Costs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When variable costs become fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
@@ -691,7 +697,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Contribution Margin and the CVP Equation
+### 3. Contribution Margin and the CVP Equation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying high contribution margins
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
@@ -1105,7 +1113,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. The Breakeven Equation
+### 4. The Breakeven Equation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to conduct breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
@@ -1528,7 +1538,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. 5. Computing Target Net Income
+### 5. Computing Target Net Income
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of total contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
@@ -1790,7 +1802,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. 6. Sensitivity Analysis
+### 6. Sensitivity Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyzing a business before making changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
@@ -2093,7 +2107,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Risks and rewards of fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)

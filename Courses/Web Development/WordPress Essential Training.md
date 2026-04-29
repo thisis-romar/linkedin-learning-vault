@@ -36,7 +36,7 @@ tags:
   - skill/wordpress
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Essential%20Training.md)
@@ -54,19 +54,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is WordPress?]]** (4 videos)
-- **[[#3. 2. Setting Up WordPress]]** (5 videos)
-- **[[#4. 3. WordPress Security]]** (3 videos)
-- **[[#5. 4. Pages]]** (3 videos)
-- **[[#6. 5. Posts]]** (4 videos)
-- **[[#7. 6. Plugins and Themes]]** (3 videos)
-- **[[#8. 7. Design Customization]]** (3 videos)
-- **[[#9. 8. Media Library]]** (2 videos)
-- **[[#10. 9. WordPress Maintenance]]** (4 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is WordPress?]]** (4 videos)
+- **[[#2. Setting Up WordPress]]** (5 videos)
+- **[[#3. WordPress Security]]** (3 videos)
+- **[[#4. Pages]]** (3 videos)
+- **[[#5. Posts]]** (4 videos)
+- **[[#6. Plugins and Themes]]** (3 videos)
+- **[[#7. Design Customization]]** (3 videos)
+- **[[#8. Media Library]]** (2 videos)
+- **[[#9. WordPress Maintenance]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - my (1)
 
 
-### 2. 1. What Is WordPress?
+### 1. What Is WordPress?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The open-source philosophy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
@@ -328,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setting Up WordPress
+### 2. Setting Up WordPress
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing hosting and a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
@@ -837,7 +843,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. WordPress Security
+### 3. WordPress Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How secure is WordPress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
@@ -1035,7 +1043,9 @@ created: 2026-04-28
 > **Speakers:** - [allie] (1)
 
 
-### 5. 4. Pages
+### 4. Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a new page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
@@ -1409,7 +1419,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Posts
+### 5. Posts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
@@ -1736,7 +1748,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Plugins and Themes
+### 6. Plugins and Themes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding and installing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
@@ -1993,7 +2007,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Design Customization
+### 7. Design Customization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
@@ -2330,7 +2346,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Media Library
+### 8. Media Library
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding new media files
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
@@ -2501,7 +2519,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. WordPress Maintenance
+### 9. WordPress Maintenance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Updating WordPress, plugins, and themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
@@ -2813,7 +2833,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue the WordPress journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)

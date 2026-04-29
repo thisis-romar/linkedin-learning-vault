@@ -31,7 +31,7 @@ tags:
   - skill/kotlin
   - skill/cross-platform-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Kotlin%20Multiplatform%20Development.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating Our First Multiplatform App]]** (7 videos)
-- **[[#3. 2. Combining Native with Multiplatform]]** (6 videos)
-- **[[#4. 3. KMP and Swift]]** (3 videos)
-- **[[#5. 4. Architecture]]** (2 videos)
-- **[[#6. 5. Sharing Network]]** (4 videos)
-- **[[#7. 6. Sharing Database]]** (4 videos)
-- **[[#8. 7. Quality of Life]]** (5 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating Our First Multiplatform App]]** (7 videos)
+- **[[#2. Combining Native with Multiplatform]]** (6 videos)
+- **[[#3. KMP and Swift]]** (3 videos)
+- **[[#4. Architecture]]** (2 videos)
+- **[[#5. Sharing Network]]** (4 videos)
+- **[[#6. Sharing Database]]** (4 videos)
+- **[[#7. Quality of Life]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kotlin multiplatform development
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating Our First Multiplatform App
+### 1. Creating Our First Multiplatform App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The problem Kotlin Multiplatform solves
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
@@ -718,7 +722,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Combining Native with Multiplatform
+### 2. Combining Native with Multiplatform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building our first multiplatform app
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
@@ -1219,7 +1225,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. KMP and Swift
+### 3. KMP and Swift
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Kotlin from Swift code
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
@@ -1483,7 +1491,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Architecture
+### 4. Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recommended architecture with MVVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
@@ -1671,7 +1681,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Sharing Network
+### 5. Sharing Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding Ktor to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
@@ -2118,7 +2130,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1), make (1)
 
 
-### 7. 6. Sharing Database
+### 6. Sharing Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding SQLDelight to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
@@ -2464,7 +2478,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Quality of Life
+### 7. Quality of Life
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kermit for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
@@ -3187,7 +3203,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)

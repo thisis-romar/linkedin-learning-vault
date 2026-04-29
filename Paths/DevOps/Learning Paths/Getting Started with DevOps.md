@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-devops
 course_count: 5
 linkedin_topics:
   - DevOps
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/devops
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20DevOps.md)

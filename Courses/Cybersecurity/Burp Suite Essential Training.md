@@ -30,7 +30,7 @@ tags:
   - skill/penetration-testing
   - skill/burp-suite
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Burp%20Suite%20Essential%20Training.md)

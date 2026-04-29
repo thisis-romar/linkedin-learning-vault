@@ -28,8 +28,10 @@ tags:
   - skill/adobe-xd
   - skill/user-interface-prototyping
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md)
 
 ![Adobe XD Essential Training: Prototype](https://media.licdn.com/dms/image/v2/C560DAQEXXWYA_QRuDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635877344665?e=2147483647&amp;v=beta&amp;t=5rcMogn5-W2jzc436Frp4YlETSFrWfO3lGwfDMIMFOQ)
 
@@ -1900,4 +1902,8 @@ created: 2026-04-28
 _Courses sharing skills:_
 
 - [[Principle for UX Design]] — User Interface Prototyping
-- [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interfa
+- [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interface Prototyping
+
+---
+
+[↑ Back to top](#)

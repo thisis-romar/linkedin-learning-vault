@@ -29,7 +29,7 @@ tags:
   - skill/object-oriented-programming-oop
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Object%20Oriented%20Programming%20With%20C%20Sharp.md)

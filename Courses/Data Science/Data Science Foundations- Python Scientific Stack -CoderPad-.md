@@ -34,7 +34,7 @@ tags:
   - skill/data-science-foundations
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Python%20Scientific%20Stack%20-CoderPad-.md)
@@ -52,19 +52,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Visual Studio Code]]** (3 videos)
-- **[[#3. 2. NumPy Basics]]** (9 videos)
-- **[[#4. 3. pandas]]** (8 videos)
-- **[[#5. 4. Folium and Geospatial Data]]** (5 videos)
-- **[[#6. 5. NYC Taxi Data]]** (8 videos)
-- **[[#7. 6. scikit-learn]]** (8 videos)
-- **[[#8. 7. Plotting]]** (9 videos)
-- **[[#9. 8. Other Packages]]** (6 videos)
-- **[[#10. 9. Development Process]]** (5 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Visual Studio Code]]** (3 videos)
+- **[[#2. NumPy Basics]]** (9 videos)
+- **[[#3. pandas]]** (8 videos)
+- **[[#4. Folium and Geospatial Data]]** (5 videos)
+- **[[#5. NYC Taxi Data]]** (8 videos)
+- **[[#6. scikit-learn]]** (8 videos)
+- **[[#7. Plotting]]** (9 videos)
+- **[[#8. Other Packages]]** (6 videos)
+- **[[#9. Development Process]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Python scientific stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
@@ -272,7 +274,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Visual Studio Code
+### 1. Visual Studio Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use code cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
@@ -444,7 +448,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. NumPy Basics
+### 2. NumPy Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
@@ -981,7 +987,9 @@ created: 2026-04-28
 > **Speakers:** - [computer (1)
 
 
-### 4. 3. pandas
+### 3. pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
@@ -1512,7 +1520,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Folium and Geospatial Data
+### 4. Folium and Geospatial Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an initial map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
@@ -1850,7 +1860,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. NYC Taxi Data
+### 5. NYC Taxi Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Examine data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
@@ -2463,7 +2475,9 @@ created: 2026-04-28
 > **Speakers:** - [teacher] (1)
 
 
-### 7. 6. scikit-learn
+### 6. scikit-learn
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### scikit-learn introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
@@ -3107,7 +3121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Plotting
+### 7. Plotting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
@@ -3641,7 +3657,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 9. 8. Other Packages
+### 8. Other Packages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Other packages overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
@@ -4174,7 +4192,9 @@ created: 2026-04-28
 > **SQL:** select (1)
 
 
-### 10. 9. Development Process
+### 9. Development Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Development process overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
@@ -4425,7 +4445,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)

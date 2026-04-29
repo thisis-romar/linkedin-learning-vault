@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/google-drive
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Drive%20Essential%20Training%20(2023).md)

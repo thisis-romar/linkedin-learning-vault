@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/financial-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Getting%20Started%20with%20Python%20for%20Finance.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Loading Data and Visualizations]]** (6 videos)
-- **[[#3. 2. Calculations]]** (6 videos)
-- **[[#4. 3. Rolling Windows]]** (4 videos)
-- **[[#5. 4. Technical Analysis]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Loading Data and Visualizations]]** (6 videos)
+- **[[#2. Calculations]]** (6 videos)
+- **[[#3. Rolling Windows]]** (4 videos)
+- **[[#4. Technical Analysis]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Loading Data and Visualizations
+### 1. Loading Data and Visualizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980)
@@ -744,7 +748,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Calculations
+### 2. Calculations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980)
@@ -1480,7 +1486,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Rolling Windows
+### 3. Rolling Windows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating moving averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980)
@@ -1881,7 +1889,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 5. 4. Technical Analysis
+### 4. Technical Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OBV
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980)
@@ -2606,7 +2616,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/html
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML%20%26%20CSS-%20Creating%20Forms.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Designing a Form Experience]]** (4 videos)
-- **[[#3. 2. Creating Forms with HTML]]** (9 videos)
-- **[[#4. 3. Making Forms Interactive]]** (2 videos)
-- **[[#5. 4. Styling Form Fields with CSS]]** (8 videos)
-- **[[#6. 5. Form Layout with CSS]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Designing a Form Experience]]** (4 videos)
+- **[[#2. Creating Forms with HTML]]** (9 videos)
+- **[[#3. Making Forms Interactive]]** (2 videos)
+- **[[#4. Styling Form Fields with CSS]]** (8 videos)
+- **[[#5. Form Layout with CSS]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Designing a Form Experience
+### 1. Designing a Form Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ask the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
@@ -576,7 +580,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Forms with HTML
+### 2. Creating Forms with HTML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic form structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
@@ -1778,7 +1784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Making Forms Interactive
+### 3. Making Forms Interactive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Form submission and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
@@ -2027,7 +2035,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 5. 4. Styling Form Fields with CSS
+### 4. Styling Form Fields with CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic form styles: Text color and size
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
@@ -2864,7 +2874,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Form Layout with CSS
+### 5. Form Layout with CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Small-screen layout for forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
@@ -3238,7 +3250,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)

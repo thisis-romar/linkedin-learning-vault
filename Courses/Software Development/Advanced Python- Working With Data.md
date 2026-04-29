@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/data-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Working%20With%20Data.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Built-In Data Functions]]** (7 videos)
-- **[[#3. 2. Collection Classes]]** (6 videos)
-- **[[#4. 3. Serializing Data in Python]]** (6 videos)
-- **[[#5. 4. Python Logging]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Built-In Data Functions]]** (7 videos)
+- **[[#2. Collection Classes]]** (6 videos)
+- **[[#3. Serializing Data in Python]]** (6 videos)
+- **[[#4. Python Logging]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python and Data: Made for each other
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
@@ -366,7 +368,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Built-In Data Functions
+### 1. Built-In Data Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
@@ -1346,7 +1350,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Collection Classes
+### 2. Collection Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of collection classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
@@ -1935,7 +1941,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Serializing Data in Python
+### 3. Serializing Data in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of serialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
@@ -2630,7 +2638,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Python Logging
+### 4. Python Logging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
@@ -3049,7 +3059,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)

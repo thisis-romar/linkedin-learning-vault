@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20PLC%20Ladder%20Logic-%201%20The%20Basics.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. PLC Programming]]** (2 videos)
-- **[[#3. 2. Ladder Logic Basics]]** (8 videos)
-- **[[#4. 3. Rung Operation]]** (10 videos)
-- **[[#5. 4. Timers and Counters]]** (7 videos)
-- **[[#6. 5. Detailed Case Study: Plywood Sheets Process]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. PLC Programming]]** (2 videos)
+- **[[#2. Ladder Logic Basics]]** (8 videos)
+- **[[#3. Rung Operation]]** (10 videos)
+- **[[#4. Timers and Counters]]** (7 videos)
+- **[[#5. Detailed Case Study: Plywood Sheets Process]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Program PLCs with ladder logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. PLC Programming
+### 1. PLC Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PLC programming languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980)
@@ -271,7 +275,9 @@ created: 2026-04-28
 > **URLs:** [thelearningpit.com](https://thelearningpit.com) (1)
 
 
-### 3. 2. Ladder Logic Basics
+### 2. Ladder Logic Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Programming concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980)
@@ -799,7 +805,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Rung Operation
+### 3. Rung Operation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multiple inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/multiple-inputs?u=76281980)
@@ -1640,7 +1648,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Timers and Counters
+### 4. Timers and Counters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Timer instruction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980)
@@ -2339,7 +2349,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Detailed Case Study: Plywood Sheets Process
+### 5. Detailed Case Study: Plywood Sheets Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980)
@@ -2762,7 +2774,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Java-%20Hands-on%20with%20Streams%2C%20Lambda%20Expressions%2C%20Collections%2C%20Generics%20and%20More.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Streams and Lambda Expressions]]** (4 videos)
-- **[[#3. 2. Collections and Generics]]** (4 videos)
-- **[[#4. 3. Annotations and Reflection]]** (4 videos)
-- **[[#5. 4. Concurrency and Multithreading]]** (3 videos)
-- **[[#6. 5. Working with the Singleton Design Pattern]]** (3 videos)
-- **[[#7. 6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Streams and Lambda Expressions]]** (4 videos)
+- **[[#2. Collections and Generics]]** (4 videos)
+- **[[#3. Annotations and Reflection]]** (4 videos)
+- **[[#4. Concurrency and Multithreading]]** (3 videos)
+- **[[#5. Working with the Singleton Design Pattern]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advance your Java Skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Streams and Lambda Expressions
+### 1. Streams and Lambda Expressions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
@@ -496,7 +500,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Collections and Generics
+### 2. Collections and Generics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Java collection framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
@@ -758,7 +764,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Annotations and Reflection
+### 3. Annotations and Reflection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
@@ -1008,7 +1016,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Concurrency and Multithreading
+### 4. Concurrency and Multithreading
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Concurrency and multithreading explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
@@ -1322,7 +1332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Working with the Singleton Design Pattern
+### 5. Working with the Singleton Design Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Singleton design pattern and its use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
@@ -1520,7 +1532,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Conclusion
+### 6. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep going with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)

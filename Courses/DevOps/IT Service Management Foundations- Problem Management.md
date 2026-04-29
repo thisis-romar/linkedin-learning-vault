@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/IT%20Service%20Management%20Foundations-%20Problem%20Management.md)
@@ -51,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is Problem Management?]]** (4 videos)
-- **[[#3. 2. Phase I: Problem Identification]]** (1 videos)
-- **[[#4. 3. Phase II: Problem Control]]** (3 videos)
-- **[[#5. 4. Phase III: Error Control]]** (2 videos)
-- **[[#6. 5. Techniques]]** (7 videos)
-- **[[#7. 6. Tools and Frameworks]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Problem Management?]]** (4 videos)
+- **[[#2. Phase I: Problem Identification]]** (1 videos)
+- **[[#3. Phase II: Problem Control]]** (3 videos)
+- **[[#4. Phase III: Error Control]]** (2 videos)
+- **[[#5. Techniques]]** (7 videos)
+- **[[#6. Tools and Frameworks]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The art of asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. What Is Problem Management?
+### 1. What Is Problem Management?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to problem management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
@@ -443,7 +447,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Phase I: Problem Identification
+### 2. Phase I: Problem Identification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tracking and trending
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
@@ -559,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Phase II: Problem Control
+### 3. Phase II: Problem Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting high-value targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
@@ -844,7 +852,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Phase III: Error Control
+### 4. Phase III: Error Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing known errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
@@ -1027,7 +1037,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Techniques
+### 5. Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Clarify and verify
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
@@ -1646,7 +1658,9 @@ created: 2026-04-28
 > **Speakers:** - [man] (1)
 
 
-### 7. 6. Tools and Frameworks
+### 6. Tools and Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Problem clarification tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
@@ -2110,7 +2124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)

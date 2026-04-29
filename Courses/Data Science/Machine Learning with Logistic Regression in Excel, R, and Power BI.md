@@ -38,7 +38,7 @@ tags:
   - skill/microsoft-excel
   - skill/logistic-regression
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20with%20Logistic%20Regression%20in%20Excel%2C%20R%2C%20and%20Power%20BI.md)
@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Distributions and Probabilities]]** (6 videos)
-- **[[#3. 2. Binomial Logistic Regression]]** (9 videos)
-- **[[#4. 3. Fine-Tuning the Model]]** (7 videos)
-- **[[#5. 4. Multinomial Regression]]** (5 videos)
-- **[[#6. 5. Working in Power BI with R]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Distributions and Probabilities]]** (6 videos)
+- **[[#2. Binomial Logistic Regression]]** (9 videos)
+- **[[#3. Fine-Tuning the Model]]** (7 videos)
+- **[[#4. Multinomial Regression]]** (5 videos)
+- **[[#5. Working in Power BI with R]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply logistic regressions to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980)
@@ -366,7 +368,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Distributions and Probabilities
+### 1. Distributions and Probabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing AI and logistic regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980)
@@ -743,7 +747,9 @@ created: 2026-04-28
 > **Speakers:** - [professor] (1)
 
 
-### 3. 2. Binomial Logistic Regression
+### 2. Binomial Logistic Regression
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculating linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980)
@@ -1518,7 +1524,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Fine-Tuning the Model
+### 3. Fine-Tuning the Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding more independent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980)
@@ -2176,7 +2184,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Multinomial Regression
+### 4. Multinomial Regression
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculating odds for multinomial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980)
@@ -2595,7 +2605,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Working in Power BI with R
+### 5. Working in Power BI with R
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running R scripts in the Power Query Editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980)
@@ -3115,7 +3127,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with logistic regressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980)

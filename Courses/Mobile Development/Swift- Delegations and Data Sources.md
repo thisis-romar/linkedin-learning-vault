@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/swift-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Swift-%20Delegations%20and%20Data%20Sources.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Basics of Classes and MVC]]** (4 videos)
-- **[[#3. 2. Delegation]]** (7 videos)
-- **[[#4. 3. Data Sources]]** (2 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Basics of Classes and MVC]]** (4 videos)
+- **[[#2. Delegation]]** (7 videos)
+- **[[#3. Data Sources]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Basics of Classes and MVC
+### 1. The Basics of Classes and MVC
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
@@ -605,7 +609,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Delegation
+### 2. Delegation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Destination view controllers in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
@@ -1344,7 +1350,9 @@ created: 2026-04-28
 > **Speakers:** - instead (1)
 
 
-### 4. 3. Data Sources
+### 3. Data Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
@@ -1694,7 +1702,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)

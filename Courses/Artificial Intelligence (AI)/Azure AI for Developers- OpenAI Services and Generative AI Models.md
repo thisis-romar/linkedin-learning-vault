@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20OpenAI%20Services%20and%20Generative%20AI%20Models.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Azure OpenAI Service]]** (7 videos)
-- **[[#3. 2. Chat Completion Models]]** (4 videos)
-- **[[#4. 3. Embedding Models]]** (3 videos)
-- **[[#5. 4. Image Generation Models]]** (3 videos)
-- **[[#6. 5. Audio Models]]** (4 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Azure OpenAI Service]]** (7 videos)
+- **[[#2. Chat Completion Models]]** (4 videos)
+- **[[#3. Embedding Models]]** (3 videos)
+- **[[#4. Image Generation Models]]** (3 videos)
+- **[[#5. Audio Models]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlocking your AI potential with Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor (1)
 
 
-### 2. 1. Introduction to Azure OpenAI Service
+### 1. Introduction to Azure OpenAI Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Azure OpenAI Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
@@ -482,7 +486,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Chat Completion Models
+### 2. Chat Completion Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do GPT models work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
@@ -898,7 +904,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Embedding Models
+### 3. Embedding Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are embeddings?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
@@ -1173,7 +1181,9 @@ created: 2026-04-28
 > **Tools:** jupyter (1)
 
 
-### 5. 4. Image Generation Models
+### 4. Image Generation Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are DALL·E models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
@@ -1337,7 +1347,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Audio Models
+### 5. Audio Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are audio models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
@@ -1596,7 +1608,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be careful
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)

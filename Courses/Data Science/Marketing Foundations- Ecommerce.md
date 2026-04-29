@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/e-commerce
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Marketing%20Foundations-%20Ecommerce.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Pillars of Ecommerce]]** (4 videos)
-- **[[#3. 2. Niche Marketing in Ecommerce]]** (4 videos)
-- **[[#4. 3. Free Traffic for Ecommerce]]** (5 videos)
-- **[[#5. 4. Paid Traffic for Ecommerce]]** (4 videos)
-- **[[#6. 5. Increasing Conversions for Ecommerce]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Pillars of Ecommerce]]** (4 videos)
+- **[[#2. Niche Marketing in Ecommerce]]** (4 videos)
+- **[[#3. Free Traffic for Ecommerce]]** (5 videos)
+- **[[#4. Paid Traffic for Ecommerce]]** (4 videos)
+- **[[#5. Increasing Conversions for Ecommerce]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlocking key principles and strategies of ecommerce marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - literally (1)
 
 
-### 2. 1. The Pillars of Ecommerce
+### 1. The Pillars of Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ecommerce customer research
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
@@ -399,7 +403,9 @@ created: 2026-04-28
 > **Speakers:** - maximizing (1)
 
 
-### 3. 2. Niche Marketing in Ecommerce
+### 2. Niche Marketing in Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The customer journey in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
@@ -668,7 +674,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Free Traffic for Ecommerce
+### 3. Free Traffic for Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating free traffic in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
@@ -1022,7 +1030,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Paid Traffic for Ecommerce
+### 4. Paid Traffic for Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Driving paid traffic for ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
@@ -1265,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Increasing Conversions for Ecommerce
+### 5. Increasing Conversions for Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Website conversions in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
@@ -1393,7 +1405,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your ecommerce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)

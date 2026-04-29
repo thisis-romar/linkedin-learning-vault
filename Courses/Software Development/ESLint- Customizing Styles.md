@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Customizing%20Styles.md)
@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Customizing ESLint Styles]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Customizing ESLint Styles]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up ESLint to match your style
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
@@ -310,7 +312,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Customizing ESLint Styles
+### 1. Customizing ESLint Styles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Turning on checking for a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
@@ -880,7 +884,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)

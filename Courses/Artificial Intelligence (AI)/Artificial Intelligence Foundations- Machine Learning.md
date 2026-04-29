@@ -42,7 +42,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Machine%20Learning.md)
@@ -60,16 +60,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Machine Learning]]** (3 videos)
-- **[[#3. 2. Implementing a Machine Learning Solution]]** (4 videos)
-- **[[#4. 3. Preparing Data for Machine Learning]]** (4 videos)
-- **[[#5. 4. Training a Machine Learning Model]]** (6 videos)
-- **[[#6. 5. Evaluating Model Performance]]** (5 videos)
-- **[[#7. 6. Operationalizing a Machine Learning Pipeline]]** (2 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Machine Learning]]** (3 videos)
+- **[[#2. Implementing a Machine Learning Solution]]** (4 videos)
+- **[[#3. Preparing Data for Machine Learning]]** (4 videos)
+- **[[#4. Training a Machine Learning Model]]** (6 videos)
+- **[[#5. Evaluating Model Performance]]** (5 videos)
+- **[[#6. Operationalizing a Machine Learning Pipeline]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI foundations: Machine learning course
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Understanding Machine Learning
+### 1. Understanding Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980)
@@ -344,7 +348,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Implementing a Machine Learning Solution
+### 2. Implementing a Machine Learning Solution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Breaking down the machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980)
@@ -641,7 +647,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Preparing Data for Machine Learning
+### 3. Preparing Data for Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Obtaining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980)
@@ -1042,7 +1050,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Training a Machine Learning Model
+### 4. Training a Machine Learning Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding learning algorithms and model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980)
@@ -1676,7 +1686,9 @@ created: 2026-04-28
 > **Tools:** github (1), aws console (1)
 
 
-### 6. 5. Evaluating Model Performance
+### 5. Evaluating Model Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring common classification metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-classification-metrics?u=76281980)
@@ -2104,7 +2116,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Operationalizing a Machine Learning Pipeline
+### 6. Operationalizing a Machine Learning Pipeline
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structuring a machine learning pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980)
@@ -2277,7 +2291,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your machine learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980)

@@ -26,7 +26,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-literacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Linkedin%20Ai%20Academy%20Ai%20100%201%20Demystifying%20Ai.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to AI]]** (4 videos)
-- **[[#3. 2. Supervised Learning]]** (1 videos)
-- **[[#4. 3. Regression]]** (5 videos)
-- **[[#5. 4. Classification]]** (3 videos)
-- **[[#6. 5. Nonlinear Models]]** (2 videos)
-- **[[#7. 6. Do It Right]]** (1 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to AI]]** (4 videos)
+- **[[#2. Supervised Learning]]** (1 videos)
+- **[[#3. Regression]]** (5 videos)
+- **[[#4. Classification]]** (3 videos)
+- **[[#5. Nonlinear Models]]** (2 videos)
+- **[[#6. Do It Right]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The LinkedIn AI Academy: The imperative of understanding AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle music) (1)
 
 
-### 2. 1. Introduction to AI
+### 1. Introduction to AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Supervised Learning
+### 2. Supervised Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supervised learning vs. unsupervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
@@ -477,7 +483,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Regression
+### 3. Regression
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
@@ -844,7 +852,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Classification
+### 4. Classification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
@@ -1131,7 +1141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Nonlinear Models
+### 5. Nonlinear Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why are linear models not enough?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
@@ -1266,7 +1278,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Do It Right
+### 6. Do It Right
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know your objective, know your data, and listen to the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
@@ -1328,7 +1342,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)

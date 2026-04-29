@@ -34,8 +34,10 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Power%20BI%20Desktop.md)
 
 ![Learning Power BI Desktop](https://media.licdn.com/dms/image/v2/D4D0DAQFzT1pUhkbBwg/learning-public-crop_675_1200/B4DZWv8D88GcAk-/0/1742413512788?e=2147483647&amp;v=beta&amp;t=NQu2jqppSbYvZkd7cfUXzHzSnHGhxhR71LU6FK7CyQI)
 

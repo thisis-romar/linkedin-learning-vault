@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Using%20ChatGPT%20for%20Marketers%20with%20Ross%20Simmonds.md)
@@ -50,9 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Marketing with ChatGPT]]** (10 videos)
+- **[[#Marketing with ChatGPT]]** (10 videos)
 
-### 1. Marketing with ChatGPT
+### Marketing with ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ChatGPT and AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)

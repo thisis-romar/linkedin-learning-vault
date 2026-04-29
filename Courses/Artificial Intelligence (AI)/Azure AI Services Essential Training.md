@@ -29,7 +29,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Services%20Essential%20Training.md)
@@ -47,18 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Vision]]** (6 videos)
-- **[[#3. 2. Speech]]** (7 videos)
-- **[[#4. 3. Language]]** (7 videos)
-- **[[#5. 4. Search]]** (5 videos)
-- **[[#6. 5. Content Safety]]** (2 videos)
-- **[[#7. 6. Translator]]** (2 videos)
-- **[[#8. 7. Document Intelligence]]** (2 videos)
-- **[[#9. 8. Azure AI Studio]]** (5 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Vision]]** (6 videos)
+- **[[#2. Speech]]** (7 videos)
+- **[[#3. Language]]** (7 videos)
+- **[[#4. Search]]** (5 videos)
+- **[[#5. Content Safety]]** (2 videos)
+- **[[#6. Translator]]** (2 videos)
+- **[[#7. Document Intelligence]]** (2 videos)
+- **[[#8. Azure AI Studio]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become an Azure cognitive services MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Vision
+### 1. Vision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI vision services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980)
@@ -645,7 +649,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 3. 2. Speech
+### 2. Speech
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI speech services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980)
@@ -1259,7 +1265,9 @@ created: 2026-04-28
 > **Code Identifiers:** speechconfig (1)
 
 
-### 4. 3. Language
+### 3. Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI language services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980)
@@ -1665,7 +1673,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 5. 4. Search
+### 4. Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980)
@@ -2148,7 +2158,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 6. 5. Content Safety
+### 5. Content Safety
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI content safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980)
@@ -2349,7 +2361,9 @@ created: 2026-04-28
 > **URLs:** [azure.com](https://azure.com) (1)
 
 
-### 7. 6. Translator
+### 6. Translator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI translator services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980)
@@ -2511,7 +2525,9 @@ created: 2026-04-28
 > **URLs:** [azure.com](https://azure.com) (1)
 
 
-### 8. 7. Document Intelligence
+### 7. Document Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI Document Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980)
@@ -2646,7 +2662,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Azure AI Studio
+### 8. Azure AI Studio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980)
@@ -3451,7 +3469,9 @@ created: 2026-04-28
 > **Tools:** azure portal (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about Azure AI Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980)

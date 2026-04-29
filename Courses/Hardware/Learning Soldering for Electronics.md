@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/soldering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Soldering%20for%20Electronics.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setting Up Your Workbench for Soldering]]** (5 videos)
-- **[[#3. 2. Making Connections with Solder]]** (5 videos)
-- **[[#4. 3. Soldering through Hole Components]]** (10 videos)
-- **[[#5. 4. Surface Mount Soldering]]** (4 videos)
-- **[[#6. 5. How to Fix Mistakes]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up Your Workbench for Soldering]]** (5 videos)
+- **[[#2. Making Connections with Solder]]** (5 videos)
+- **[[#3. Soldering through Hole Components]]** (10 videos)
+- **[[#4. Surface Mount Soldering]]** (4 videos)
+- **[[#5. How to Fix Mistakes]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solder for electronic products and manufacturing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Setting Up Your Workbench for Soldering
+### 1. Setting Up Your Workbench for Soldering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up a safe work environment when soldering
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/set-up-a-safe-work-environment-when-soldering?u=76281980)
@@ -703,7 +707,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Making Connections with Solder
+### 2. Making Connections with Solder
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of solder used in soldering electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/types-of-solder-used-in-soldering-electronics?u=76281980)
@@ -1381,7 +1387,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Soldering through Hole Components
+### 3. Soldering through Hole Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solder an LED into a PCB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980)
@@ -2346,7 +2354,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 5. 4. Surface Mount Soldering
+### 4. Surface Mount Soldering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### First steps when soldering a surface mount component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980)
@@ -2911,7 +2921,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 6. 5. How to Fix Mistakes
+### 5. How to Fix Mistakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Too much solder on a through hole component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980)
@@ -3479,7 +3491,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Things you can do after you learn to solder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980)

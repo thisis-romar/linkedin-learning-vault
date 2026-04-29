@@ -31,7 +31,7 @@ tags:
   - skill/application-programming-interfaces-api
   - skill/data-integration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Integration%20And%20Api%20Development%20For%20Ai%20Applications.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Approaches to Data Integration]]** (7 videos)
-- **[[#3. 2. Integrate Data into a Unified Analytics Platform]]** (3 videos)
-- **[[#4. 3. API Development for AI Applications]]** (6 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Approaches to Data Integration]]** (7 videos)
+- **[[#2. Integrate Data into a Unified Analytics Platform]]** (3 videos)
+- **[[#3. API Development for AI Applications]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for data integration and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980)
@@ -409,7 +411,9 @@ created: 2026-04-28
 > **Analogies:** for example (1), picture (1)
 
 
-### 2. 1. Approaches to Data Integration
+### 1. Approaches to Data Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Phases of data integration: Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980)
@@ -1041,7 +1045,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Integrate Data into a Unified Analytics Platform
+### 2. Integrate Data into a Unified Analytics Platform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uploading data to Azure Blob storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980)
@@ -1396,7 +1402,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 4. 3. API Development for AI Applications
+### 3. API Development for AI Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### APIs to work with data and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980)
@@ -2104,7 +2112,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980)

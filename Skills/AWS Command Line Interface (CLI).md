@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/aws-command-line-interface-cli
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/AWS%20Command%20Line%20Interface%20(CLI).md)

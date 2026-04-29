@@ -31,7 +31,7 @@ tags:
   - skill/interpersonal-communication
   - skill/diversity-and-inclusion
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Skills%20for%20Inclusive%20Conversations.md)
@@ -49,12 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Inclusive Conversations Skills]]** (7 videos)
-- **[[#3. 2. Inclusive Conversations in Practice]]** (3 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Inclusive Conversations Skills]]** (7 videos)
+- **[[#2. Inclusive Conversations in Practice]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
@@ -220,7 +222,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. Inclusive Conversations Skills
+### 1. Inclusive Conversations Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Six steps to inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
@@ -840,7 +844,9 @@ created: 2026-04-28
 > **Code Keywords:** let (2)
 
 
-### 3. 2. Inclusive Conversations in Practice
+### 2. Inclusive Conversations in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Talking about race
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
@@ -1129,7 +1135,9 @@ created: 2026-04-28
 > **Code Keywords:** this. (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusivity pledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)

@@ -41,7 +41,7 @@ tags:
   - skill/data-mining
   - skill/predictive-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Predictive%20Analytics%20Essential%20Training-%20Data%20Mining.md)

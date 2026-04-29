@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/devops
@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20Continuous%20Integration%20-%20Continuous%20Delivery%20(CI-CD).md)

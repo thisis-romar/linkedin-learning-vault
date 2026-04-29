@@ -31,7 +31,7 @@ tags:
   - skill/intrusion-detection
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Intrusion%20Detection%20and%20Prevention.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. IDS and IPS Overview]]** (5 videos)
-- **[[#3. 2. Detection and Signature Engines]]** (6 videos)
-- **[[#4. 3. Decisions and Actions]]** (4 videos)
-- **[[#5. 4. Deploying an IOS-Based IPS]]** (3 videos)
-- **[[#6. 5. Practical Applications]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. IDS and IPS Overview]]** (5 videos)
+- **[[#2. Detection and Signature Engines]]** (6 videos)
+- **[[#3. Decisions and Actions]]** (4 videos)
+- **[[#4. Deploying an IOS-Based IPS]]** (3 videos)
+- **[[#5. Practical Applications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stopping Potential Threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. IDS and IPS Overview
+### 1. IDS and IPS Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing the threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980)
@@ -430,7 +434,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Detection and Signature Engines
+### 2. Detection and Signature Engines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monitoring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980)
@@ -836,7 +842,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Decisions and Actions
+### 3. Decisions and Actions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IDS signature files
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980)
@@ -1101,7 +1109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Deploying an IOS-Based IPS
+### 4. Deploying an IOS-Based IPS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze the flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980)
@@ -1343,7 +1353,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Practical Applications
+### 5. Practical Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monitoring and analyzing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980)
@@ -1573,7 +1585,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980)

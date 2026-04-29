@@ -34,7 +34,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Basics%20of%20Data%20Visualization%20Analysis.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Basics of Analysis]]** (3 videos)
-- **[[#3. 2. Distributional Analysis with Continuous Data]]** (4 videos)
-- **[[#4. 3. Distributional Analysis with Discrete Data]]** (3 videos)
-- **[[#5. 4. Visualizing Multiple Distributions]]** (4 videos)
-- **[[#6. 5. Visualizing Relationships]]** (4 videos)
-- **[[#7. 6. Visualizing Multi-Dimensional Relationships]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Basics of Analysis]]** (3 videos)
+- **[[#2. Distributional Analysis with Continuous Data]]** (4 videos)
+- **[[#3. Distributional Analysis with Discrete Data]]** (3 videos)
+- **[[#4. Visualizing Multiple Distributions]]** (4 videos)
+- **[[#5. Visualizing Relationships]]** (4 videos)
+- **[[#6. Visualizing Multi-Dimensional Relationships]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The value of visual analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - whether (1)
 
 
-### 2. 1. Basics of Analysis
+### 1. Basics of Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
@@ -408,7 +412,9 @@ created: 2026-04-28
 > **Speakers:** - statistical (1)
 
 
-### 3. 2. Distributional Analysis with Continuous Data
+### 2. Distributional Analysis with Continuous Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
@@ -716,7 +722,9 @@ created: 2026-04-28
 > **Speakers:** - today (1)
 
 
-### 4. 3. Distributional Analysis with Discrete Data
+### 3. Distributional Analysis with Discrete Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bar graphs and dot plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
@@ -984,7 +992,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Visualizing Multiple Distributions
+### 4. Visualizing Multiple Distributions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multiple histogram and density plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
@@ -1303,7 +1313,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 6. 5. Visualizing Relationships
+### 5. Visualizing Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
@@ -1688,7 +1700,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 7. 6. Visualizing Multi-Dimensional Relationships
+### 6. Visualizing Multi-Dimensional Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Matrix scatter and trellis plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
@@ -1962,7 +1976,9 @@ created: 2026-04-28
 > **Speakers:** - multidimensional (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time to visualize
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)

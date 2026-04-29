@@ -31,7 +31,7 @@ tags:
   - skill/terraform
   - skill/infrastructure-as-code-iac
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Terraform-%20Managing%20Network%20Infrastructure.md)

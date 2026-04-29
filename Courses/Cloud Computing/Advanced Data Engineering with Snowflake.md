@@ -33,7 +33,7 @@ tags:
   - skill/data-pipelines
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Data%20Engineering%20with%20Snowflake.md)
@@ -51,11 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. DevOps with Snowflake]]** (10 videos)
-- **[[#3. 2. Observability with Snowflake]]** (11 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. DevOps with Snowflake]]** (10 videos)
+- **[[#2. Observability with Snowflake]]** (11 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling data pipelines to meet modern demands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
@@ -189,7 +191,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 2. 1. DevOps with Snowflake
+### 1. DevOps with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps in the world of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
@@ -1719,7 +1723,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 3. 2. Observability with Snowflake
+### 2. Observability with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Observability for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)

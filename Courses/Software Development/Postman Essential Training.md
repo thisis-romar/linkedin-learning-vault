@@ -33,7 +33,7 @@ tags:
   - skill/api-testing
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Postman%20Essential%20Training.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Postman]]** (12 videos)
-- **[[#3. 2. Easy Postman Assertions]]** (6 videos)
-- **[[#4. 3. Advanced Postman Assertions]]** (5 videos)
-- **[[#5. 4. Running Your Test Collections]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Postman]]** (12 videos)
+- **[[#2. Easy Postman Assertions]]** (6 videos)
+- **[[#3. Advanced Postman Assertions]]** (5 videos)
+- **[[#4. Running Your Test Collections]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why automate your API tests?
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
@@ -163,7 +165,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 2. 1. Getting Started with Postman
+### 1. Getting Started with Postman
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating collections and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
@@ -1267,7 +1271,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Easy Postman Assertions
+### 2. Easy Postman Assertions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Status type assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
@@ -1798,7 +1804,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Postman Assertions
+### 3. Advanced Postman Assertions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JSON assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
@@ -2266,7 +2274,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Running Your Test Collections
+### 4. Running Your Test Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Collection Runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
@@ -2563,7 +2573,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)

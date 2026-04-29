@@ -30,7 +30,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20In%20Excel%20Getting%20Started%20With%20Data%20Analysis.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Basics]]** (7 videos)
-- **[[#3. 2. Working with Data]]** (6 videos)
-- **[[#4. 3. Practical Python-in-Excel Examples]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Basics]]** (7 videos)
+- **[[#2. Working with Data]]** (6 videos)
+- **[[#3. Practical Python-in-Excel Examples]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Two great technologies together at last
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [joe] (1)
 
 
-### 2. 1. The Basics
+### 1. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A simple example
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
@@ -919,7 +923,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright curious music) (1)
 
 
-### 3. 2. Working with Data
+### 2. Working with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
@@ -1643,7 +1649,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Practical Python-in-Excel Examples
+### 3. Practical Python-in-Excel Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fixing dates with dateutil
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
@@ -2310,7 +2318,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)

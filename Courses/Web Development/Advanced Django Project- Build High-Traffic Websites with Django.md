@@ -27,7 +27,7 @@ tags:
   - topic/web-development
   - skill/django
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Django%20Project-%20Build%20High-Traffic%20Websites%20with%20Django.md)
@@ -45,17 +45,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Django]]** (3 videos)
-- **[[#3. 2. Models and Fields]]** (5 videos)
-- **[[#4. 3. Views]]** (3 videos)
-- **[[#5. 4. Interacting with the Database]]** (3 videos)
-- **[[#6. 5. Templates]]** (4 videos)
-- **[[#7. 6. Improving Performance]]** (4 videos)
-- **[[#8. 7. Staying Connected]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Django]]** (3 videos)
+- **[[#2. Models and Fields]]** (5 videos)
+- **[[#3. Views]]** (3 videos)
+- **[[#4. Interacting with the Database]]** (3 videos)
+- **[[#5. Templates]]** (4 videos)
+- **[[#6. Improving Performance]]** (4 videos)
+- **[[#7. Staying Connected]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tackling projects with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980)
@@ -235,7 +237,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Getting Started with Django
+### 1. Getting Started with Django
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The world of Python and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-world-of-python-and-django?u=76281980)
@@ -530,7 +534,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 3. 2. Models and Fields
+### 2. Models and Fields
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/validations?u=76281980)
@@ -1141,7 +1147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Views
+### 3. Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Raising exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/raising-exceptions?u=76281980)
@@ -1526,7 +1534,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 5. 4. Interacting with the Database
+### 4. Interacting with the Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deleting models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/deleting-models?u=76281980)
@@ -1878,7 +1888,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Templates
+### 5. Templates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Django template language
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/the-django-template-language?u=76281980)
@@ -2363,7 +2375,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Improving Performance
+### 6. Improving Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/securing-authentication?u=76281980)
@@ -2800,7 +2814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Staying Connected
+### 7. Staying Connected
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding and using third-party packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/finding-and-using-third-party-packages?u=76281980)
@@ -2969,7 +2985,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/next-steps-with-django?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/dashboards
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20Bi%20Dashboards%20For%20Beginners.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding Power BI]]** (4 videos)
-- **[[#3. 2. Getting Data into Power BI]]** (5 videos)
-- **[[#4. 3. Crafting Your Dashboard]]** (8 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Power BI]]** (4 videos)
+- **[[#2. Getting Data into Power BI]]** (5 videos)
+- **[[#3. Crafting Your Dashboard]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock the value of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Speakers:** - [joshua] (1)
 
 
-### 2. 1. Understanding Power BI
+### 1. Understanding Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigate the Power BI Desktop interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
@@ -237,7 +241,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/embrace-the-modern-workplace-with-next-generation-ai?u=76281980)
 
 
-### 3. 2. Getting Data into Power BI
+### 2. Getting Data into Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become familiar with the Power BI data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
@@ -484,7 +490,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Crafting Your Dashboard
+### 3. Crafting Your Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare the optimal layout for stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
@@ -936,7 +944,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to get the most from Power BI dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)

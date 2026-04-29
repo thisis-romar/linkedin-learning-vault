@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/data-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Analytics%20for%20Students%20(2022).md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Power of Data]]** (3 videos)
-- **[[#3. 2. Framework to Solve Problems with Data]]** (6 videos)
-- **[[#4. 3. Analytics Foundations]]** (6 videos)
-- **[[#5. 4. Types of Data Sources]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Power of Data]]** (3 videos)
+- **[[#2. Framework to Solve Problems with Data]]** (6 videos)
+- **[[#3. Analytics Foundations]]** (6 videos)
+- **[[#4. Types of Data Sources]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data moves a business forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-moves-a-business-forward?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 2. 1. The Power of Data
+### 1. The Power of Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/what-is-the-value-of-data?u=76281980)
@@ -229,7 +233,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Framework to Solve Problems with Data
+### 2. Framework to Solve Problems with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/introduction-to-the-framework?u=76281980)
@@ -613,7 +619,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Analytics Foundations
+### 3. Analytics Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three stages of analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/three-stages-of-analysis?u=76281980)
@@ -980,7 +988,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Types of Data Sources
+### 4. Types of Data Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/data-source-map?u=76281980)
@@ -1460,7 +1470,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your path forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-students-2022/your-path-forward?u=76281980)

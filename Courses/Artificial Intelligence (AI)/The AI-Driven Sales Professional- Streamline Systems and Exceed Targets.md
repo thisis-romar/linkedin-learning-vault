@@ -30,7 +30,7 @@ tags:
   - skill/sales
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/The%20AI-Driven%20Sales%20Professional-%20Streamline%20Systems%20and%20Exceed%20Targets.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. AI Tips for Sales]]** (10 videos)
-- **[[#3. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Tips for Sales]]** (10 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AI is transforming sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 2. 1. AI Tips for Sales
+### 1. AI Tips for Sales
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What AI can (and cannot) replace in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
@@ -985,7 +989,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

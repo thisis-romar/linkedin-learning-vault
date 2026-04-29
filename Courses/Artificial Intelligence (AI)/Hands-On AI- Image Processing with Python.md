@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/computer-vision
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20Image%20Processing%20with%20Python.md)
@@ -53,17 +53,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Our Development Environment]]** (2 videos)
-- **[[#3. 2. The Basics of Image Processing]]** (7 videos)
-- **[[#4. 3. From Color to Black and White]]** (6 videos)
-- **[[#5. 4. Filters]]** (7 videos)
-- **[[#6. 5. Image Scaling]]** (6 videos)
-- **[[#7. 6. Fun with Cuts]]** (5 videos)
-- **[[#8. 7. Morphological Modifications]]** (5 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Our Development Environment]]** (2 videos)
+- **[[#2. The Basics of Image Processing]]** (7 videos)
+- **[[#3. From Color to Black and White]]** (6 videos)
+- **[[#4. Filters]]** (7 videos)
+- **[[#5. Image Scaling]]** (6 videos)
+- **[[#6. Fun with Cuts]]** (5 videos)
+- **[[#7. Morphological Modifications]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computer vision under the hood
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
@@ -234,7 +236,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1), is an  (1)
 
 
-### 2. 1. Setting Up Our Development Environment
+### 1. Setting Up Our Development Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
@@ -397,7 +401,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 3. 2. The Basics of Image Processing
+### 2. The Basics of Image Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image representation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
@@ -992,7 +998,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. From Color to Black and White
+### 3. From Color to Black and White
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Average grayscale
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
@@ -1388,7 +1396,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Filters
+### 4. Filters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Convolution filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
@@ -1930,7 +1940,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5. Image Scaling
+### 5. Image Scaling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image downscaling methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
@@ -2284,7 +2296,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Fun with Cuts
+### 6. Fun with Cuts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image cuts
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
@@ -2712,7 +2726,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Morphological Modifications
+### 7. Morphological Modifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why modify objects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
@@ -3104,7 +3120,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)

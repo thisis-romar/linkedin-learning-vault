@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-teams
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Teams-%20AI-Powered%20Collaboration.md)
@@ -51,10 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Using the Different Copilot Tools in Teams]]** (6 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Using the Different Copilot Tools in Teams]]** (6 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the Copilot AI assistant in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Using the Different Copilot Tools in Teams
+### 1. Using the Different Copilot Tools in Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get summaries and answers about chat conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)

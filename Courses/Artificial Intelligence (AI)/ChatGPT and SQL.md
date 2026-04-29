@@ -33,7 +33,7 @@ tags:
   - skill/chatgpt
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT%20and%20SQL.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Why AI for Data Analytics?]]** (2 videos)
-- **[[#3. 2. Intro to AI, LLMs, and ChatGPT]]** (6 videos)
-- **[[#4. 3. Prompt Engineering]]** (5 videos)
-- **[[#5. 4. ChatGPT for SQL]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Why AI for Data Analytics?]]** (2 videos)
+- **[[#2. Intro to AI, LLMs, and ChatGPT]]** (6 videos)
+- **[[#3. Prompt Engineering]]** (5 videos)
+- **[[#4. ChatGPT for SQL]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Why AI for Data Analytics?
+### 1. Why AI for Data Analytics?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -280,7 +284,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Intro to AI, LLMs, and ChatGPT
+### 2. Intro to AI, LLMs, and ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
@@ -659,7 +665,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/accessing-chatgpt-google-bard?u=76281980)
 
 
-### 4. 3. Prompt Engineering
+### 3. Prompt Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
@@ -822,7 +830,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. ChatGPT for SQL
+### 4. ChatGPT for SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to ChatGPT for SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
@@ -1818,7 +1828,9 @@ created: 2026-04-28
 > **Prerequisites:** you need to have (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)

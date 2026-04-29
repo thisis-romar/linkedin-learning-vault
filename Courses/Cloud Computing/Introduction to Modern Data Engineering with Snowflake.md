@@ -33,7 +33,7 @@ tags:
   - skill/data-engineering
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20to%20Modern%20Data%20Engineering%20with%20Snowflake.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Modern Data Engineering with Snowflake]]** (4 videos)
-- **[[#3. 2. Batch Data Ingestion with Snowflake]]** (9 videos)
-- **[[#4. 3. Data Transformations with Snowflake]]** (9 videos)
-- **[[#5. 4. Delivering data products with Snowflake]]** (5 videos)
-- **[[#6. 5. Orchestrating Continuous Data Pipelines with Snowflake]]** (5 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Modern Data Engineering with Snowflake]]** (4 videos)
+- **[[#2. Batch Data Ingestion with Snowflake]]** (9 videos)
+- **[[#3. Data Transformations with Snowflake]]** (9 videos)
+- **[[#4. Delivering data products with Snowflake]]** (5 videos)
+- **[[#5. Orchestrating Continuous Data Pipelines with Snowflake]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The explosion of data and the demand for insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Modern Data Engineering with Snowflake
+### 1. Modern Data Engineering with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern data engineering with snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
@@ -658,7 +662,9 @@ created: 2026-04-28
 > **Analogies:** just like (1), for example (1)
 
 
-### 3. 2. Batch Data Ingestion with Snowflake
+### 2. Batch Data Ingestion with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data ingestion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
@@ -1710,7 +1716,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Data Transformations with Snowflake
+### 3. Data Transformations with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are data transformations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
@@ -2828,7 +2836,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 5. 4. Delivering data products with Snowflake
+### 4. Delivering data products with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Delivery of data products
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
@@ -3253,7 +3263,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Orchestrating Continuous Data Pipelines with Snowflake
+### 5. Orchestrating Continuous Data Pipelines with Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is orchestration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)

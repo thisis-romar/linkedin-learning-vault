@@ -11,7 +11,7 @@ tags:
   - instructor
   - topic/data-science
   - topic/software-development
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Data%20Science/Charlie%20Joey%20Hadley.md)

@@ -28,7 +28,7 @@ tags:
   - skill/wordpress-development
   - skill/e-commerce
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20WordPress%20Membership%20Site%20with%20Ecommerce.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (5 videos)
-- **[[#3. 2. Setting Up Your Store]]** (2 videos)
-- **[[#4. 3. Setting Up Your Memberships]]** (6 videos)
-- **[[#5. 4. Restricting Content and Products]]** (4 videos)
-- **[[#6. 5. Managing Members]]** (3 videos)
-- **[[#7. 6. Before You Launch]]** (3 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (5 videos)
+- **[[#2. Setting Up Your Store]]** (2 videos)
+- **[[#3. Setting Up Your Memberships]]** (6 videos)
+- **[[#4. Restricting Content and Products]]** (4 videos)
+- **[[#5. Managing Members]]** (3 videos)
+- **[[#6. Before You Launch]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a paid membership website
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a paid membership site?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
@@ -453,7 +457,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setting Up Your Store
+### 2. Setting Up Your Store
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
@@ -615,7 +621,9 @@ created: 2026-04-28
 > **Env Vars:** zip (1)
 
 
-### 4. 3. Setting Up Your Memberships
+### 3. Setting Up Your Memberships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get and install WooCommerce Memberships
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
@@ -1101,7 +1109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Restricting Content and Products
+### 4. Restricting Content and Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding restriction rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
@@ -1479,7 +1489,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Managing Members
+### 5. Managing Members
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up member account area
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
@@ -1644,7 +1656,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 7. 6. Before You Launch
+### 6. Before You Launch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test registration and payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
@@ -1747,7 +1761,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional integrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)

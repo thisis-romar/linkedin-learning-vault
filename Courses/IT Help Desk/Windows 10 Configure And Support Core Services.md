@@ -26,7 +26,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-10
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010%20Configure%20And%20Support%20Core%20Services.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Configure Networking]]** (10 videos)
-- **[[#3. 2. Configure Storage]]** (7 videos)
-- **[[#4. 3. Configure Data Access and Usage]]** (4 videos)
-- **[[#5. 4. Implement Apps]]** (5 videos)
-- **[[#6. 5. Configure Remote Management]]** (9 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Configure Networking]]** (10 videos)
+- **[[#2. Configure Storage]]** (7 videos)
+- **[[#3. Configure Data Access and Usage]]** (4 videos)
+- **[[#4. Implement Apps]]** (5 videos)
+- **[[#5. Configure Remote Management]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of Windows 10 configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - hello (1)
 
 
-### 2. 1. Configure Networking
+### 1. Configure Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IP addressing, subnets, and DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980)
@@ -1186,7 +1190,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. Configure Storage
+### 2. Configure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage partitions with Disk Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980)
@@ -2127,7 +2133,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1), configure (1)
 
 
-### 4. 3. Configure Data Access and Usage
+### 3. Configure Data Access and Usage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and configure folder shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980)
@@ -2801,7 +2809,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Implement Apps
+### 4. Implement Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure desktop apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980)
@@ -3485,7 +3495,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 6. 5. Configure Remote Management
+### 5. Configure Remote Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use remote management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980)
@@ -4242,7 +4254,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980)

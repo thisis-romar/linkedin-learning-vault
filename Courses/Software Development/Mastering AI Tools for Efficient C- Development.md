@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Mastering%20AI%20Tools%20for%20Efficient%20C-%20Development.md)

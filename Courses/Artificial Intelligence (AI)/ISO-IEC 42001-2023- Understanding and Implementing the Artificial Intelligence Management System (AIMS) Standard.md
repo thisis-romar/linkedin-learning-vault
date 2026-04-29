@@ -35,7 +35,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/it-risk-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ISO-IEC%2042001-2023-%20Understanding%20and%20Implementing%20the%20Artificial%20Intelligence%20Management%20System%20(AIMS)%20Standard.md)

@@ -28,7 +28,7 @@ tags:
   - skill/job-searching
   - skill/networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Smart%20Way%20to%20Grow%20Your%20Network%20with%20LinkedIn's%20Andrew%20McCaskill.md)
@@ -46,9 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill]]** (1 videos)
+- **[[#The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill]]** (1 videos)
 
-### 1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
+### The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practical tips to build connections, write better messages, and grow your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Lessons%20from%20Data%20Scientists.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Start with the Right Mindset]]** (3 videos)
-- **[[#3. 2. Work Like a Real Data Scientist]]** (3 videos)
-- **[[#4. 3. Communicate with Credibility]]** (3 videos)
-- **[[#5. 4. Learn from Mistakes and Stay Resilient]]** (3 videos)
-- **[[#6. 5. Own Your Career, Not Just Your Work]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Start with the Right Mindset]]** (3 videos)
+- **[[#2. Work Like a Real Data Scientist]]** (3 videos)
+- **[[#3. Communicate with Credibility]]** (3 videos)
+- **[[#4. Learn from Mistakes and Stay Resilient]]** (3 videos)
+- **[[#5. Own Your Career, Not Just Your Work]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Focus on what actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 2. 1. Start with the Right Mindset
+### 1. Start with the Right Mindset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Redefine what "data scientist" means
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
@@ -252,7 +256,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 3. 2. Work Like a Real Data Scientist
+### 2. Work Like a Real Data Scientist
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Slow down before you write your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
@@ -442,7 +448,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 4. 3. Communicate with Credibility
+### 3. Communicate with Credibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Say what it means—not just what it is
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
@@ -590,7 +598,9 @@ created: 2026-04-28
 > **Versions:** 0.75 (1)
 
 
-### 5. 4. Learn from Mistakes and Stay Resilient
+### 4. Learn from Mistakes and Stay Resilient
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Treat mistakes like story material
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
@@ -764,7 +774,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 6. 5. Own Your Career, Not Just Your Work
+### 5. Own Your Career, Not Just Your Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose jobs that enable you to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
@@ -876,7 +888,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop in your data science career
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jenkins%20Essential%20Training.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Jenkins and DevOps]]** (3 videos)
-- **[[#3. 2. The Jenkins Pipeline]]** (8 videos)
-- **[[#4. 3. Integrate Jenkins with Version Control Systems]]** (6 videos)
-- **[[#5. 4. Agents and Distributed Builds]]** (5 videos)
-- **[[#6. 5. Artifacts and Testing]]** (5 videos)
-- **[[#7. 6. Securing Jenkins]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Jenkins and DevOps]]** (3 videos)
+- **[[#2. The Jenkins Pipeline]]** (8 videos)
+- **[[#3. Integrate Jenkins with Version Control Systems]]** (6 videos)
+- **[[#4. Agents and Distributed Builds]]** (5 videos)
+- **[[#5. Artifacts and Testing]]** (5 videos)
+- **[[#6. Securing Jenkins]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From code to production with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Jenkins and DevOps
+### 1. Jenkins and DevOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Jenkins and the DevOps lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
@@ -500,7 +504,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2), coming up (1)
 
 
-### 3. 2. The Jenkins Pipeline
+### 2. The Jenkins Pipeline
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a pipeline project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
@@ -1378,7 +1384,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (3)
 
 
-### 4. 3. Integrate Jenkins with Version Control Systems
+### 3. Integrate Jenkins with Version Control Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pipeline as code with Jenkinsfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
@@ -2006,7 +2014,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (4)
 
 
-### 5. 4. Agents and Distributed Builds
+### 4. Agents and Distributed Builds
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Distribute builds with agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
@@ -2472,7 +2482,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Artifacts and Testing
+### 5. Artifacts and Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Artifacts and fingerprinting
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
@@ -3027,7 +3039,9 @@ created: 2026-04-28
 > **File Paths:** test-com.learningjenkins.apptest.xml (1)
 
 
-### 7. 6. Securing Jenkins
+### 6. Securing Jenkins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure Jenkins with user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
@@ -3510,7 +3524,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)

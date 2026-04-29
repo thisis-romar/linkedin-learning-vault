@@ -30,7 +30,7 @@ tags:
   - skill/pivot-tables
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20PivotTables%20in%20Depth.md)
@@ -48,19 +48,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating and Pivoting PivotTables]]** (9 videos)
-- **[[#3. 2. Summarizing PivotTable Data]]** (6 videos)
-- **[[#4. 3. Sorting and Filtering PivotTable Data]]** (10 videos)
-- **[[#5. 4. Formatting PivotTables]]** (4 videos)
-- **[[#6. 5. Applying Conditional Formats to PivotTables]]** (8 videos)
-- **[[#7. 6. Creating and Formatting PivotCharts]]** (7 videos)
-- **[[#8. 7. Printing PivotTables]]** (4 videos)
-- **[[#9. 8. Manipulating PivotTables]]** (4 videos)
-- **[[#10. 9. Enabling and Adding Tables to the Data Model]]** (5 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating and Pivoting PivotTables]]** (9 videos)
+- **[[#2. Summarizing PivotTable Data]]** (6 videos)
+- **[[#3. Sorting and Filtering PivotTable Data]]** (10 videos)
+- **[[#4. Formatting PivotTables]]** (4 videos)
+- **[[#5. Applying Conditional Formats to PivotTables]]** (8 videos)
+- **[[#6. Creating and Formatting PivotCharts]]** (7 videos)
+- **[[#7. Printing PivotTables]]** (4 videos)
+- **[[#8. Manipulating PivotTables]]** (4 videos)
+- **[[#9. Enabling and Adding Tables to the Data Model]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the power of Excel PivotTables to your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating and Pivoting PivotTables
+### 1. Creating and Pivoting PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduce PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980)
@@ -897,7 +901,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Summarizing PivotTable Data
+### 2. Summarizing PivotTable Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage subtotals and grand totals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980)
@@ -1352,7 +1358,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Sorting and Filtering PivotTable Data
+### 3. Sorting and Filtering PivotTable Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sort PivotTable data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/sort-pivottable-data?u=76281980)
@@ -2184,7 +2192,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Formatting PivotTables
+### 4. Formatting PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply a PivotTable style
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980)
@@ -2531,7 +2541,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Applying Conditional Formats to PivotTables
+### 5. Applying Conditional Formats to PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Highlight cells by applying a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980)
@@ -3218,7 +3230,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Creating and Formatting PivotCharts
+### 6. Creating and Formatting PivotCharts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980)
@@ -3728,7 +3742,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Printing PivotTables
+### 7. Printing PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Print a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980)
@@ -3985,7 +4001,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Manipulating PivotTables
+### 8. Manipulating PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Record and review an Excel macro
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980)
@@ -4342,7 +4360,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Enabling and Adding Tables to the Data Model
+### 9. Enabling and Adding Tables to the Data Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create relationships between tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980)
@@ -4663,7 +4683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980)

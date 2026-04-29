@@ -28,8 +28,10 @@ tags:
   - skill/user-interface-prototyping
   - skill/figma-software
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md)
 
 ![Lo-Fi to Hi-Fi: Prototyping in Figma](https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc)
 
@@ -2307,4 +2309,8 @@ _Courses sharing skills:_
 - [[Adobe XD Essential Training- Prototype]] — User Interface Prototyping
 - [[Figma for UX Research- Presentations that Stand Out]] — Figma (Software)
 - [[Designing Accessible Components In Figma]] — Figma (Software)
-- [[Accessibility and Inclusion with Figma]] — Fi
+- [[Accessibility and Inclusion with Figma]] — Figma (Software)
+
+---
+
+[↑ Back to top](#)

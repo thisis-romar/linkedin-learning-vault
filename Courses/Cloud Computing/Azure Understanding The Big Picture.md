@@ -34,7 +34,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Understanding%20The%20Big%20Picture.md)
@@ -52,20 +52,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Big Picture]]** (7 videos)
-- **[[#3. 2. Azure Basics]]** (4 videos)
-- **[[#4. 3. Azure App Service]]** (4 videos)
-- **[[#5. 4. APIs and API Management]]** (2 videos)
-- **[[#6. 5. Code and Workflows]]** (2 videos)
-- **[[#7. 6. Azure Storage]]** (4 videos)
-- **[[#8. 7. Azure Databases]]** (3 videos)
-- **[[#9. 8. Infrastructure]]** (3 videos)
-- **[[#10. 9. DevOps]]** (5 videos)
-- **[[#11. 10. Other Services]]** (10 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Big Picture]]** (7 videos)
+- **[[#2. Azure Basics]]** (4 videos)
+- **[[#3. Azure App Service]]** (4 videos)
+- **[[#4. APIs and API Management]]** (2 videos)
+- **[[#5. Code and Workflows]]** (2 videos)
+- **[[#6. Azure Storage]]** (4 videos)
+- **[[#7. Azure Databases]]** (3 videos)
+- **[[#8. Infrastructure]]** (3 videos)
+- **[[#9. DevOps]]** (5 videos)
+- **[[#10. Other Services]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure from a 10,000-foot view
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. The Big Picture
+### 1. The Big Picture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980)
@@ -899,7 +903,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/surveying-the-cloud-market-leaders?u=76281980)
 
 
-### 3. 2. Azure Basics
+### 2. Azure Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Subscription choices for Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980)
@@ -1411,7 +1417,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 4. 3. Azure App Service
+### 3. Azure App Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick tour of Azure app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980)
@@ -1860,7 +1868,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 5. 4. APIs and API Management
+### 4. APIs and API Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Host Web APIs on app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980)
@@ -2045,7 +2055,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 6. 5. Code and Workflows
+### 5. Code and Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Run serverless code with Azure Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980)
@@ -2410,7 +2422,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 7. 6. Azure Storage
+### 6. Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick tour of Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980)
@@ -2802,7 +2816,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 8. 7. Azure Databases
+### 7. Azure Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick tour of Azure databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980)
@@ -3226,7 +3242,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Infrastructure
+### 8. Infrastructure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect access to services with Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980)
@@ -3475,7 +3493,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. DevOps
+### 9. DevOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enhance development and deployment with Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980)
@@ -3900,7 +3920,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/microsoft-dev-box-a-cloud-based-development-workstation?u=76281980)
 
 
-### 11. 10. Other Services
+### 10. Other Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Azure AI family
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980)
@@ -5067,7 +5089,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980)

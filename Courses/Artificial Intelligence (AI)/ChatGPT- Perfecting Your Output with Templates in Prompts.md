@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/ChatGPT-%20Perfecting%20Your%20Output%20with%20Templates%20in%20Prompts.md)
@@ -48,9 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. ChatGPT: Perfecting Your Output with Templates in Prompts]]** (5 videos)
+- **[[#1. ChatGPT: Perfecting Your Output with Templates in Prompts]]** (5 videos)
 
-### 1. 1. ChatGPT: Perfecting Your Output with Templates in Prompts
+### 1. ChatGPT: Perfecting Your Output with Templates in Prompts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)

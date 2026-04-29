@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Decision%20Trees%20with%20SPSS.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Decision Trees in IBM SPSS Modeler]]** (5 videos)
-- **[[#3. 2. Understanding CHAID]]** (9 videos)
-- **[[#4. 3. Understanding C&RT]]** (6 videos)
-- **[[#5. 4. Improving Your Model]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Decision Trees in IBM SPSS Modeler]]** (5 videos)
+- **[[#2. Understanding CHAID]]** (9 videos)
+- **[[#3. Understanding C&RT]]** (6 videos)
+- **[[#4. Improving Your Model]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decision trees in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
@@ -168,7 +170,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Decision Trees in IBM SPSS Modeler
+### 1. Decision Trees in IBM SPSS Modeler
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decision tree options in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
@@ -510,7 +514,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding CHAID
+### 2. Understanding CHAID
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an algorithm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
@@ -1220,7 +1226,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Understanding C&RT
+### 3. Understanding C&RT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the Gini coefficient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
@@ -1632,7 +1640,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Improving Your Model
+### 4. Improving Your Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stopping rules in CHAID and C&RT
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
@@ -1922,7 +1932,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/the-autoclassifier-tuning-trick?u=76281980)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)

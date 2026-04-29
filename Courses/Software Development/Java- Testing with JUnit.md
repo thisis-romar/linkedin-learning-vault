@@ -37,7 +37,7 @@ tags:
   - skill/junit
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Java-%20Testing%20with%20JUnit.md)
@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Getting Started with JUnit]]** (7 videos)
-- **[[#3. 2. Writing Basic Tests with JUnit]]** (8 videos)
-- **[[#4. 3. More Advanced Usage of JUnit]]** (10 videos)
-- **[[#5. 4. Quick Peek at Next Steps]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Getting Started with JUnit]]** (7 videos)
+- **[[#2. Writing Basic Tests with JUnit]]** (8 videos)
+- **[[#3. More Advanced Usage of JUnit]]** (10 videos)
+- **[[#4. Quick Peek at Next Steps]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create proper unit tests in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980)
@@ -335,7 +337,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with JUnit
+### 1. Getting Started with JUnit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Quick example of a basic unit test
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980)
@@ -1118,7 +1122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Writing Basic Tests with JUnit
+### 2. Writing Basic Tests with JUnit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980)
@@ -2165,7 +2171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. More Advanced Usage of JUnit
+### 3. More Advanced Usage of JUnit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dependency injection in your tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980)
@@ -3243,7 +3251,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Quick Peek at Next Steps
+### 4. Quick Peek at Next Steps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to make code ready for unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980)
@@ -3700,7 +3710,9 @@ created: 2026-04-28
 > **Tools:** intellij (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with JUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980)

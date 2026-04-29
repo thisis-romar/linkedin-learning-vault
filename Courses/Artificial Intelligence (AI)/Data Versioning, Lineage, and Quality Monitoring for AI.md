@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Versioning%2C%20Lineage%2C%20and%20Quality%20Monitoring%20for%20AI.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Importance of Data Versioning]]** (7 videos)
-- **[[#3. 2. Implementing Data Versioning using DVC (Data Version Control)]]** (4 videos)
-- **[[#4. 3. Tracking Data Lineage]]** (7 videos)
-- **[[#5. 4. Monitoring Model and Data Quality]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Importance of Data Versioning]]** (7 videos)
+- **[[#2. Implementing Data Versioning using DVC (Data Version Control)]]** (4 videos)
+- **[[#3. Tracking Data Lineage]]** (7 videos)
+- **[[#4. Monitoring Model and Data Quality]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Importance of Data Versioning
+### 1. Importance of Data Versioning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980)
@@ -729,7 +733,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Implementing Data Versioning using DVC (Data Version Control)
+### 2. Implementing Data Versioning using DVC (Data Version Control)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing DVC
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980)
@@ -1162,7 +1168,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1), you'll need (1)
 
 
-### 4. 3. Tracking Data Lineage
+### 3. Tracking Data Lineage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing data lineage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980)
@@ -1611,7 +1619,9 @@ created: 2026-04-28
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
 
-### 5. 4. Monitoring Model and Data Quality
+### 4. Monitoring Model and Data Quality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Issues with data: Processing and schema management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980)
@@ -2143,7 +2153,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980)

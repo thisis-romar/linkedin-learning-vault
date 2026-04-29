@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/aws-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AWS%20Security%20Best%20Practices%20for%20Developers.md)
@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Identity and Access Management]]** (6 videos)
-- **[[#3. 2. Amazon Simple Storage Service (S3)]]** (7 videos)
-- **[[#4. 3. Key Management Service Encryption]]** (5 videos)
-- **[[#5. 4. User Identities with Cognito and Web]]** (6 videos)
-- **[[#6. 5. Certificate Manager]]** (3 videos)
-- **[[#7. 6. Parameter Store and Secrets Manager]]** (3 videos)
-- **[[#8. 7. Security Alerts in AWS]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Identity and Access Management]]** (6 videos)
+- **[[#2. Amazon Simple Storage Service (S3)]]** (7 videos)
+- **[[#3. Key Management Service Encryption]]** (5 videos)
+- **[[#4. User Identities with Cognito and Web]]** (6 videos)
+- **[[#5. Certificate Manager]]** (3 videos)
+- **[[#6. Parameter Store and Secrets Manager]]** (3 videos)
+- **[[#7. Security Alerts in AWS]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your application
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Identity and Access Management
+### 1. Identity and Access Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Important concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980)
@@ -498,7 +502,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Amazon Simple Storage Service (S3)
+### 2. Amazon Simple Storage Service (S3)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### S3 as a static website
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980)
@@ -892,7 +898,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 4. 3. Key Management Service Encryption
+### 3. Key Management Service Encryption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key Management Service (KMS) introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/key-management-service-kms-introduction?u=76281980)
@@ -1133,7 +1141,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. User Identities with Cognito and Web
+### 4. User Identities with Cognito and Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cognito concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980)
@@ -1604,7 +1614,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Certificate Manager
+### 5. Certificate Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and managing certificates
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980)
@@ -1841,7 +1853,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 7. 6. Parameter Store and Secrets Manager
+### 6. Parameter Store and Secrets Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Parameter Store for sensitive data
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/parameter-store-for-sensitive-data?u=76281980)
@@ -2026,7 +2040,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Security Alerts in AWS
+### 7. Security Alerts in AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Root login alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/root-login-alerts?u=76281980)
@@ -2248,7 +2264,9 @@ created: 2026-04-28
 > **Warnings:** be careful (2)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get familiar with AWS tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980)

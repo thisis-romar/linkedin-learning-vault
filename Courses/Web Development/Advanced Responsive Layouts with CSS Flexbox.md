@@ -30,7 +30,7 @@ tags:
   - skill/responsive-web-design
   - skill/css-flexbox
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Responsive%20Layouts%20with%20CSS%20Flexbox.md)

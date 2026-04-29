@@ -30,7 +30,7 @@ tags:
   - skill/business-intelligence-bi
   - skill/forecasting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Seasonal%20Baseline%20Smoothing.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Approaches to Seasonal Smoothing]]** (5 videos)
-- **[[#3. 2. Optimizing Seasonal Forecasts]]** (3 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Approaches to Seasonal Smoothing]]** (5 videos)
+- **[[#2. Optimizing Seasonal Forecasts]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why seasonal baseline smoothing will help your regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Approaches to Seasonal Smoothing
+### 1. Approaches to Seasonal Smoothing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Seasonality in a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
@@ -628,7 +632,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Optimizing Seasonal Forecasts
+### 2. Optimizing Seasonal Forecasts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Minimizing RMSE
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
@@ -981,7 +987,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)

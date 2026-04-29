@@ -31,7 +31,7 @@ tags:
   - skill/responsive-web-design
   - skill/cascading-style-sheets-css
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cutting-Edge%20CSS.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Core Principles]]** (3 videos)
-- **[[#3. 2. Selectors]]** (3 videos)
-- **[[#4. 3. Layout]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Core Principles]]** (3 videos)
+- **[[#2. Selectors]]** (3 videos)
+- **[[#3. Layout]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cutting-edge CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 2. 1. Core Principles
+### 1. Core Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are logical properties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
@@ -291,7 +295,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Selectors
+### 2. Selectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Counting with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
@@ -517,7 +523,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 4. 3. Layout
+### 3. Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the clamp() function works
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
@@ -697,7 +705,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)

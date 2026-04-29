@@ -32,7 +32,7 @@ tags:
   - skill/digital-accessibility
   - skill/wordpress
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress-%20Accessibility.md)
@@ -50,18 +50,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is Web Accessibility]]** (3 videos)
-- **[[#3. 2. Accessibility and WordPress]]** (6 videos)
-- **[[#4. 3. Accessibility in Your Theme]]** (7 videos)
-- **[[#5. 4. Using Accessible WordPress Plugins]]** (4 videos)
-- **[[#6. 5. Accessibility Plugins for WordPress]]** (3 videos)
-- **[[#7. 6. Authoring Accessible Content]]** (5 videos)
-- **[[#8. 7. Testing for Accessibility]]** (5 videos)
-- **[[#9. 8. Remediation Workshop]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Web Accessibility]]** (3 videos)
+- **[[#2. Accessibility and WordPress]]** (6 videos)
+- **[[#3. Accessibility in Your Theme]]** (7 videos)
+- **[[#4. Using Accessible WordPress Plugins]]** (4 videos)
+- **[[#5. Accessibility Plugins for WordPress]]** (3 videos)
+- **[[#6. Authoring Accessible Content]]** (5 videos)
+- **[[#7. Testing for Accessibility]]** (5 videos)
+- **[[#8. Remediation Workshop]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making accessible websites using WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is Web Accessibility
+### 1. What Is Web Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web accessibility concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
@@ -341,7 +345,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Accessibility and WordPress
+### 2. Accessibility and WordPress
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding accessibility in WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
@@ -782,7 +788,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 4. 3. Accessibility in Your Theme
+### 3. Accessibility in Your Theme
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Examining accessible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
@@ -1746,7 +1754,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using Accessible WordPress Plugins
+### 4. Using Accessible WordPress Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to assess plugin accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
@@ -2338,7 +2348,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 6. 5. Accessibility Plugins for WordPress
+### 5. Accessibility Plugins for WordPress
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing tools for WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
@@ -2624,7 +2636,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Authoring Accessible Content
+### 6. Authoring Accessible Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing accessible content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
@@ -3078,7 +3092,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 8. 7. Testing for Accessibility
+### 7. Testing for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automated and manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
@@ -3506,7 +3522,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Remediation Workshop
+### 8. Remediation Workshop
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding the issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
@@ -3766,7 +3784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)

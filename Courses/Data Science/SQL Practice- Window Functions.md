@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Window%20Functions.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Code Challenges]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Code Challenges]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try your SQL programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980)
@@ -159,7 +161,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Code Challenges
+### 1. Code Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Calculate a running total
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-1-calculate-a-running-total?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980)

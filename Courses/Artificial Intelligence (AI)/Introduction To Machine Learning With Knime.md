@@ -32,7 +32,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Machine%20Learning%20With%20Knime.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?]]** (3 videos)
-- **[[#3. 2. Getting Comfortable with KNIME]]** (5 videos)
-- **[[#4. 3. Accessing Data]]** (3 videos)
-- **[[#5. 4. Data Understanding]]** (3 videos)
-- **[[#6. 5. Data Integration and Merging]]** (7 videos)
-- **[[#7. 6. Modeling]]** (5 videos)
-- **[[#8. 7. A World of Possibilities]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. How Does KNIME Complement Your Existing Analytics Toolkit?]]** (3 videos)
+- **[[#2. Getting Comfortable with KNIME]]** (5 videos)
+- **[[#3. Accessing Data]]** (3 videos)
+- **[[#4. Data Understanding]]** (3 videos)
+- **[[#5. Data Integration and Merging]]** (7 videos)
+- **[[#6. Modeling]]** (5 videos)
+- **[[#7. A World of Possibilities]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Open-source machine learning with KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
@@ -168,7 +170,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?
+### 1. How Does KNIME Complement Your Existing Analytics Toolkit?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use an Analytics Workbench?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
@@ -401,7 +405,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Comfortable with KNIME
+### 2. Getting Comfortable with KNIME
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The KNIME interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
@@ -660,7 +666,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Accessing Data
+### 3. Accessing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
@@ -948,7 +956,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Understanding
+### 4. Data Understanding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describe data and verify data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
@@ -1209,7 +1219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Integration and Merging
+### 5. Data Integration and Merging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Merging with the Joiner node
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
@@ -1672,7 +1684,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Modeling
+### 6. Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### KNIME modeling options
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
@@ -2350,7 +2364,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 8. 7. A World of Possibilities
+### 7. A World of Possibilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PMML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
@@ -2721,7 +2737,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)

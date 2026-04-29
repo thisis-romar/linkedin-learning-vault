@@ -30,7 +30,7 @@ tags:
   - skill/software-design-patterns
   - skill/node-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node.js-%20Design%20Patterns.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Overview]]** (3 videos)
-- **[[#3. 2. Creational Patterns]]** (8 videos)
-- **[[#4. 3. Structural Patterns]]** (8 videos)
-- **[[#5. 4. Behavioral Patterns]]** (11 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Overview]]** (3 videos)
+- **[[#2. Creational Patterns]]** (8 videos)
+- **[[#3. Structural Patterns]]** (8 videos)
+- **[[#4. Behavioral Patterns]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980)
@@ -331,7 +335,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creational Patterns
+### 2. Creational Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The singleton problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-singleton-problem?u=76281980)
@@ -1114,7 +1120,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 4. 3. Structural Patterns
+### 3. Structural Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980)
@@ -1941,7 +1949,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 5. 4. Behavioral Patterns
+### 4. Behavioral Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chain of responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980)
@@ -3408,7 +3418,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980)

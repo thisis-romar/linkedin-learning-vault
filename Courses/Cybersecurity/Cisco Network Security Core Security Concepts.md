@@ -27,7 +27,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security%20Core%20Security%20Concepts.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Security Principles]]** (9 videos)
-- **[[#3. 2. Common Security Threats]]** (7 videos)
-- **[[#4. 3. Cryptography]]** (6 videos)
-- **[[#5. 4. Describe Network Topologies]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Security Principles]]** (9 videos)
+- **[[#2. Common Security Threats]]** (7 videos)
+- **[[#3. Cryptography]]** (6 videos)
+- **[[#4. Describe Network Topologies]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defending the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Security Principles
+### 1. Security Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure network overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980)
@@ -756,7 +760,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Common Security Threats
+### 2. Common Security Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980)
@@ -1220,7 +1226,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Cryptography
+### 3. Cryptography
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptographic concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980)
@@ -1748,7 +1756,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Describe Network Topologies
+### 4. Describe Network Topologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Campus area network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980)
@@ -2137,7 +2147,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980)

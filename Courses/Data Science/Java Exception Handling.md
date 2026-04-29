@@ -33,7 +33,7 @@ tags:
   - skill/exception-management
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Exception%20Handling.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Errors in Java]]** (2 videos)
-- **[[#3. 2. Exceptions in Java]]** (5 videos)
-- **[[#4. 3. Runtime Exceptions in Java]]** (8 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Errors in Java]]** (2 videos)
+- **[[#2. Exceptions in Java]]** (5 videos)
+- **[[#3. Runtime Exceptions in Java]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why bother with exception handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Errors in Java
+### 1. Errors in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are errors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
@@ -311,7 +315,9 @@ created: 2026-04-28
 > **Ports:** :8080 (1)
 
 
-### 3. 2. Exceptions in Java
+### 2. Exceptions in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
@@ -733,7 +739,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Runtime Exceptions in Java
+### 3. Runtime Exceptions in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are runtime exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
@@ -1385,7 +1393,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)

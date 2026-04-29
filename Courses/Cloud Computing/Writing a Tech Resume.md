@@ -41,7 +41,7 @@ tags:
   - skill/tech-career-skills
   - skill/resume-writing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Writing%20a%20Tech%20Resume.md)
@@ -59,17 +59,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Logistics of a Technical Resume]]** (3 videos)
-- **[[#3. 2. Resume Content]]** (5 videos)
-- **[[#4. 3. Content Tips and Tricks]]** (2 videos)
-- **[[#5. 4. Tools for Creating a Resume]]** (3 videos)
-- **[[#6. 5. Design Dos and Don'ts]]** (4 videos)
-- **[[#7. 6. Should You Include...]]** (5 videos)
-- **[[#8. 7. Having a Professional Online Presence]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Logistics of a Technical Resume]]** (3 videos)
+- **[[#2. Resume Content]]** (5 videos)
+- **[[#3. Content Tips and Tricks]]** (2 videos)
+- **[[#4. Tools for Creating a Resume]]** (3 videos)
+- **[[#5. Design Dos and Don'ts]]** (4 videos)
+- **[[#6. Should You Include...]]** (5 videos)
+- **[[#7. Having a Professional Online Presence]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do you need a resume?
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 2. 1. Logistics of a Technical Resume
+### 1. Logistics of a Technical Resume
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How hiring managers read your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980)
@@ -286,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Resume Content
+### 2. Resume Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Contact information
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980)
@@ -594,7 +600,9 @@ created: 2026-04-28
 > **Speakers:** - awards (1)
 
 
-### 4. 3. Content Tips and Tricks
+### 3. Content Tips and Tricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of word choice
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980)
@@ -722,7 +730,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 5. 4. Tools for Creating a Resume
+### 4. Tools for Creating a Resume
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Word processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980)
@@ -887,7 +897,9 @@ created: 2026-04-28
 > **Speakers:** - visual (1)
 
 
-### 6. 5. Design Dos and Don'ts
+### 5. Design Dos and Don'ts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Typography
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980)
@@ -1107,7 +1119,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 7. 6. Should You Include...
+### 6. Should You Include...
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary or objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980)
@@ -1261,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - generally (1)
 
 
-### 8. 7. Having a Professional Online Presence
+### 7. Having a Professional Online Presence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980)
@@ -1374,7 +1390,9 @@ created: 2026-04-28
 > **Speakers:** - creating (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980)

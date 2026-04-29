@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/XAI%20and%20Interpretability%20in%20Cybersecurity.md)

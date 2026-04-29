@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP-%20Object-Oriented%20Programming.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Overview and Project Set Up]]** (2 videos)
-- **[[#3. 2. Object Basics]]** (7 videos)
-- **[[#4. 3. Class Inheritance]]** (5 videos)
-- **[[#5. 4. Object Access Control]]** (5 videos)
-- **[[#6. 5. Static Properties and Methods]]** (7 videos)
-- **[[#7. 6. Magic Methods]]** (7 videos)
-- **[[#8. 7. A PHP OOP Project]]** (7 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview and Project Set Up]]** (2 videos)
+- **[[#2. Object Basics]]** (7 videos)
+- **[[#3. Class Inheritance]]** (5 videos)
+- **[[#4. Object Access Control]]** (5 videos)
+- **[[#5. Static Properties and Methods]]** (7 videos)
+- **[[#6. Magic Methods]]** (7 videos)
+- **[[#7. A PHP OOP Project]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PHP: OOP techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview and Project Set Up
+### 1. Overview and Project Set Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is OOP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
@@ -367,7 +371,9 @@ created: 2026-04-28
 > **Tools:** firefox (1)
 
 
-### 3. 2. Object Basics
+### 2. Object Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
@@ -1488,7 +1494,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Class Inheritance
+### 3. Class Inheritance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
@@ -2135,7 +2143,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Object Access Control
+### 4. Object Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visibility modifiers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
@@ -2998,7 +3008,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1)
 
 
-### 6. 5. Static Properties and Methods
+### 5. Static Properties and Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The static modifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
@@ -4147,7 +4159,9 @@ created: 2026-04-28
 > **Versions:** php 7 (1)
 
 
-### 7. 6. Magic Methods
+### 6. Magic Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Constructor method
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
@@ -5265,7 +5279,9 @@ created: 2026-04-28
 > **Versions:** php 4 (1)
 
 
-### 8. 7. A PHP OOP Project
+### 7. A PHP OOP Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
@@ -6371,7 +6387,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Happy Coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)

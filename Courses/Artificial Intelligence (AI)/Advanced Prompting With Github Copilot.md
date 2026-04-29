@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Prompting%20With%20Github%20Copilot.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Foundations for Advanced Prompting]]** (4 videos)
-- **[[#3. 2. Mastering Conversational AI]]** (5 videos)
-- **[[#4. 3. Advanced Context Scaffolding]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Foundations for Advanced Prompting]]** (4 videos)
+- **[[#2. Mastering Conversational AI]]** (5 videos)
+- **[[#3. Advanced Context Scaffolding]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. 1. Foundations for Advanced Prompting
+### 1. Foundations for Advanced Prompting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From basic to conversational AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
@@ -562,7 +566,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Mastering Conversational AI
+### 2. Mastering Conversational AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crafting multiturn prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
@@ -1129,7 +1135,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Context Scaffolding
+### 3. Advanced Context Scaffolding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing context from multiple files
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
@@ -1680,7 +1688,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/client-rapport
   - skill/customer-service
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Building%20Rapport%20with%20Customers%20(2022).md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Simple Ways to Build Rapport with Customers]]** (2 videos)
-- **[[#3. 2. Techniques for Maintaining Rapport]]** (3 videos)
-- **[[#4. 3. Building Rapport in Specific Situations]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Simple Ways to Build Rapport with Customers]]** (2 videos)
+- **[[#2. Techniques for Maintaining Rapport]]** (3 videos)
+- **[[#3. Building Rapport in Specific Situations]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Does rapport really matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Simple Ways to Build Rapport with Customers
+### 1. Simple Ways to Build Rapport with Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build rapport in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
@@ -237,7 +241,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. 2. Techniques for Maintaining Rapport
+### 2. Techniques for Maintaining Rapport
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Yield to customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
@@ -436,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Building Rapport in Specific Situations
+### 3. Building Rapport in Specific Situations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### End customer interactions with a fond farewell
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
@@ -761,7 +769,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)

@@ -35,7 +35,7 @@ tags:
   - skill/linux-system-administration
   - skill/ubuntu
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ubuntu%20Linux-%20Storage%20Management.md)
@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Working with Partitions and Filesystems]]** (8 videos)
-- **[[#3. 2. Logical Volume Management]]** (4 videos)
-- **[[#4. 3. Filesystem Security and Backups]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Working with Partitions and Filesystems]]** (8 videos)
+- **[[#2. Logical Volume Management]]** (4 videos)
+- **[[#3. Filesystem Security and Backups]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
@@ -298,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Partitions and Filesystems
+### 1. Working with Partitions and Filesystems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore and identify block devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
@@ -1530,7 +1534,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Logical Volume Management
+### 2. Logical Volume Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding LVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
@@ -1883,7 +1889,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Filesystem Security and Backups
+### 3. Filesystem Security and Backups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access control lists (ACLs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
@@ -2266,7 +2274,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)

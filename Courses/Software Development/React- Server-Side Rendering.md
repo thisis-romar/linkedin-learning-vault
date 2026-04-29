@@ -29,7 +29,7 @@ tags:
   - skill/next-js
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Server-Side%20Rendering.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setting Up]]** (5 videos)
-- **[[#3. 2. Use Next.js to Build SSR]]** (8 videos)
-- **[[#4. 3. Server-Side Rendering with Node]]** (5 videos)
-- **[[#5. 4. Code Splitting]]** (4 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up]]** (5 videos)
+- **[[#2. Use Next.js to Build SSR]]** (8 videos)
+- **[[#3. Server-Side Rendering with Node]]** (5 videos)
+- **[[#4. Code Splitting]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn server-side rendering with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SSR: What, how, and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980)
@@ -339,7 +343,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 3. 2. Use Next.js to Build SSR
+### 2. Use Next.js to Build SSR
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Next.js with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980)
@@ -1194,7 +1200,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 4. 3. Server-Side Rendering with Node
+### 3. Server-Side Rendering with Node
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create initial Express or Next.js server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980)
@@ -1571,7 +1579,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Code Splitting
+### 4. Code Splitting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code splitting in Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980)
@@ -1688,7 +1698,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React Router with SSR
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980)

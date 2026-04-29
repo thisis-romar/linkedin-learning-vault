@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Vertex AI Studio]]** (7 videos)
-- **[[#3. 2. Vertex AI Notebooks]]** (7 videos)
-- **[[#4. 3. Model Development]]** (5 videos)
-- **[[#5. 4. Model Deployment]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Vertex AI Studio]]** (7 videos)
+- **[[#2. Vertex AI Notebooks]]** (7 videos)
+- **[[#3. Model Development]]** (5 videos)
+- **[[#4. Model Deployment]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GCP and Machine Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. Vertex AI Studio
+### 1. Vertex AI Studio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Vertex AI Model Garden
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
@@ -732,7 +736,9 @@ created: 2026-04-28
 > **API Endpoints:** get  (1)
 
 
-### 3. 2. Vertex AI Notebooks
+### 2. Vertex AI Notebooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand available services
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
@@ -1334,7 +1340,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Model Development
+### 3. Model Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Vector Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
@@ -1704,7 +1712,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Model Deployment
+### 4. Model Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the model registry
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
@@ -2271,7 +2281,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)

@@ -36,7 +36,7 @@ tags:
   - skill/github-copilot
   - skill/capstone
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Capstone-%20Building%20Production%20Features%20with%20Copilot.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Project Planning and Setup]]** (3 videos)
-- **[[#3. 2. Full-Stack Implementation]]** (6 videos)
-- **[[#4. 3. Testing and Validation]]** (5 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Project Planning and Setup]]** (3 videos)
+- **[[#2. Full-Stack Implementation]]** (6 videos)
+- **[[#3. Testing and Validation]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capstone project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Project Planning and Setup
+### 1. Project Planning and Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Task 0: The planning phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Full-Stack Implementation
+### 2. Full-Stack Implementation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Task 1: The API layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
@@ -1005,7 +1011,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Testing and Validation
+### 3. Testing and Validation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Task 4: The test suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)

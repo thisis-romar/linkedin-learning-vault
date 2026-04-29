@@ -7,7 +7,7 @@ course_count: 5
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 13
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/data-science
@@ -39,7 +39,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Python%20for%20Data%20Professionals%20in%20Finance.md)

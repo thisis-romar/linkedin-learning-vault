@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/azure-ai-foundry
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20for%20Developers-%20Retrieval-Augmented%20Generation%20(RAG)%20with%20Azure%20AI.md)
@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. RAG Core Concepts]]** (5 videos)
-- **[[#3. 2. Azure AI Search]]** (11 videos)
-- **[[#4. 3. Azure Cosmos DB]]** (5 videos)
-- **[[#5. 4. Evaluating RAG]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. RAG Core Concepts]]** (5 videos)
+- **[[#2. Azure AI Search]]** (11 videos)
+- **[[#3. Azure Cosmos DB]]** (5 videos)
+- **[[#4. Evaluating RAG]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to RAG with Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/intro-video-to-be-renamed?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. RAG Core Concepts
+### 1. RAG Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamental concepts of RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/fundamental-concepts-of-rag?u=76281980)
@@ -496,7 +500,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Azure AI Search
+### 2. Azure AI Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RAG using Azure AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-ai-search?u=76281980)
@@ -1269,7 +1275,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Azure Cosmos DB
+### 3. Azure Cosmos DB
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RAG using Azure Cosmos DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/rag-using-azure-cosmos-db?u=76281980)
@@ -1599,7 +1607,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Evaluating RAG
+### 4. Evaluating RAG
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluation metrics in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/evaluation-metrics-in-generative-ai?u=76281980)
@@ -1875,7 +1885,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-developers-retrieval-augmented-generation-rag-with-azure-ai/summary-and-next-steps?u=76281980)

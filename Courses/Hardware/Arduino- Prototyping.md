@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Arduino-%20Prototyping.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Understand Prototyping]]** (3 videos)
-- **[[#3. 2. Plan the Prototype]]** (6 videos)
-- **[[#4. 3. Your Prototype "Hello World"]]** (4 videos)
-- **[[#5. 4. Animate the Display]]** (4 videos)
-- **[[#6. 5. Add Interaction]]** (5 videos)
-- **[[#7. 6. Improve Responsiveness]]** (3 videos)
-- **[[#8. 7. Advanced Interaction]]** (5 videos)
-- **[[#9. 8. Iterating your Prototype]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understand Prototyping]]** (3 videos)
+- **[[#2. Plan the Prototype]]** (6 videos)
+- **[[#3. Your Prototype "Hello World"]]** (4 videos)
+- **[[#4. Animate the Display]]** (4 videos)
+- **[[#5. Add Interaction]]** (5 videos)
+- **[[#6. Improve Responsiveness]]** (3 videos)
+- **[[#7. Advanced Interaction]]** (5 videos)
+- **[[#8. Iterating your Prototype]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prototype with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understand Prototyping
+### 1. Understand Prototyping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose and pitfalls of prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
@@ -345,7 +349,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Plan the Prototype
+### 2. Plan the Prototype
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prototype planning considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
@@ -679,7 +685,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Your Prototype "Hello World"
+### 3. Your Prototype "Hello World"
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect the display
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
@@ -985,7 +993,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Animate the Display
+### 4. Animate the Display
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand display dynamics
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
@@ -1385,7 +1395,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Add Interaction
+### 5. Add Interaction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand interaction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
@@ -1686,7 +1698,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Improve Responsiveness
+### 6. Improve Responsiveness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blocking versus non-blocking code
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
@@ -1939,7 +1953,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Advanced Interaction
+### 7. Advanced Interaction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Button debouncing
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
@@ -2432,7 +2448,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Iterating your Prototype
+### 8. Iterating your Prototype
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use symbolic parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
@@ -2742,7 +2760,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)

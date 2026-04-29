@@ -32,7 +32,7 @@ tags:
   - skill/cisco-networking
   - skill/routing-protocols
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20Switching%20and%20Routing.md)
@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Ethernet Switching]]** (16 videos)
-- **[[#3. 2. IP Routing]]** (9 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Ethernet Switching]]** (16 videos)
+- **[[#2. IP Routing]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
@@ -191,7 +193,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Ethernet Switching
+### 1. Ethernet Switching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
@@ -1676,7 +1680,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. IP Routing
+### 2. IP Routing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Packet flow in a routed network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
@@ -2580,7 +2586,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%203%20Taxonomy%2C%20Media%2C%20and%20Modules.md)
@@ -47,12 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Taxonomy Explained]]** (5 videos)
-- **[[#3. 2. Media Explained]]** (3 videos)
-- **[[#4. 3. Modules Explained]]** (8 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Taxonomy Explained]]** (5 videos)
+- **[[#2. Media Explained]]** (3 videos)
+- **[[#3. Modules Explained]]** (8 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Taxonomy Explained
+### 1. Taxonomy Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taxonomy explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980)
@@ -783,7 +787,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Media Explained
+### 2. Media Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Drupal media manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980)
@@ -1155,7 +1161,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Modules Explained
+### 3. Modules Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modules explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980)

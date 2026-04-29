@@ -30,7 +30,7 @@ tags:
   - skill/microsoft-excel
   - skill/excel-dashboards
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Creating%20a%20Basic%20Dashboard.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setting Up the Supporting Workbook]]** (8 videos)
-- **[[#3. 2. Creating a Dashboard Worksheet]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up the Supporting Workbook]]** (8 videos)
+- **[[#2. Creating a Dashboard Worksheet]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve decision-making by creating dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up the Supporting Workbook
+### 1. Setting Up the Supporting Workbook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage data using Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980)
@@ -1035,7 +1039,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Creating a Dashboard Worksheet
+### 2. Creating a Dashboard Worksheet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and manage cell links
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980)
@@ -1561,7 +1567,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980)

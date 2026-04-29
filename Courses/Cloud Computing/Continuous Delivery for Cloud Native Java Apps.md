@@ -34,7 +34,7 @@ tags:
   - skill/continuous-delivery-cd
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Continuous%20Delivery%20for%20Cloud%20Native%20Java%20Apps.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Foundations of Continuous Delivery]]** (5 videos)
-- **[[#3. 2. Developing Modern Java Apps]]** (5 videos)
-- **[[#4. 3. Building Applications with Gradle]]** (8 videos)
-- **[[#5. 4. Packaging Applications with Maven]]** (6 videos)
-- **[[#6. 5. Continuous Integration with Jenkins]]** (11 videos)
-- **[[#7. 6. Continuous Delivery with Argo CD]]** (10 videos)
-- **[[#8. Course Wrap-Up]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Foundations of Continuous Delivery]]** (5 videos)
+- **[[#2. Developing Modern Java Apps]]** (5 videos)
+- **[[#3. Building Applications with Gradle]]** (8 videos)
+- **[[#4. Packaging Applications with Maven]]** (6 videos)
+- **[[#5. Continuous Integration with Jenkins]]** (11 videos)
+- **[[#6. Continuous Delivery with Argo CD]]** (10 videos)
+- **[[#Course Wrap-Up]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Delivering modern Java applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980)
@@ -245,7 +247,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Foundations of Continuous Delivery
+### 1. Foundations of Continuous Delivery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980)
@@ -577,7 +581,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Developing Modern Java Apps
+### 2. Developing Modern Java Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developer workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980)
@@ -1085,7 +1091,9 @@ created: 2026-04-28
 > **Code Identifiers:** public_key (1), setup_ssh (1), setup_repos (1)
 
 
-### 4. 3. Building Applications with Gradle
+### 3. Building Applications with Gradle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980)
@@ -1889,7 +1897,9 @@ created: 2026-04-28
 > **Env Vars:** jpa (1)
 
 
-### 5. 4. Packaging Applications with Maven
+### 4. Packaging Applications with Maven
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Maven
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980)
@@ -2547,7 +2557,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 6. 5. Continuous Integration with Jenkins
+### 5. Continuous Integration with Jenkins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980)
@@ -3550,7 +3562,9 @@ created: 2026-04-28
 > **Code Identifiers:** withregistry (1)
 
 
-### 7. 6. Continuous Delivery with Argo CD
+### 6. Continuous Delivery with Argo CD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous delivery overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980)
@@ -4571,7 +4585,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Course Wrap-Up
+### Course Wrap-Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980)

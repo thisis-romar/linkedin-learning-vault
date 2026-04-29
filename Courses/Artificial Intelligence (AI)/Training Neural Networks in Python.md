@@ -36,7 +36,7 @@ tags:
   - skill/python-programming-language
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Training%20Neural%20Networks%20in%20Python.md)
@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Choosing a Neural Network]]** (6 videos)
-- **[[#3. 2. The Building Blocks of Neural Networks]]** (9 videos)
-- **[[#4. 3. Building Your Network]]** (4 videos)
-- **[[#5. 4. Training Your Network]]** (8 videos)
-- **[[#6. 5. Let's Make a Segment Display Classifier]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Choosing a Neural Network]]** (6 videos)
+- **[[#2. The Building Blocks of Neural Networks]]** (9 videos)
+- **[[#3. Building Your Network]]** (4 videos)
+- **[[#4. Training Your Network]]** (8 videos)
+- **[[#5. Let's Make a Segment Display Classifier]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a neural network in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
@@ -270,7 +272,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Choosing a Neural Network
+### 1. Choosing a Neural Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
@@ -610,7 +614,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Building Blocks of Neural Networks
+### 2. The Building Blocks of Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Neurons and the brain
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
@@ -1263,7 +1269,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Building Your Network
+### 3. Building Your Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linear separability
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
@@ -1546,7 +1554,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 5. 4. Training Your Network
+### 4. Training Your Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for training
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
@@ -2367,7 +2377,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 6. 5. Let's Make a Segment Display Classifier
+### 5. Let's Make a Segment Display Classifier
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Segment display recognition
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
@@ -3038,7 +3050,9 @@ created: 2026-04-28
 > **Speakers:** - lastly (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)

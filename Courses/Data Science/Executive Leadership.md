@@ -24,7 +24,7 @@ tags:
   - topic/data-science
   - skill/executive-leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Executive%20Leadership.md)
@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Set Direction]]** (4 videos)
-- **[[#3. 2. Motivate Commitment]]** (4 videos)
-- **[[#4. 3. Drive for Results]]** (4 videos)
-- **[[#5. 4. Develop Yourself]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Set Direction]]** (4 videos)
+- **[[#2. Motivate Commitment]]** (4 videos)
+- **[[#3. Drive for Results]]** (4 videos)
+- **[[#4. Develop Yourself]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take action to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
@@ -189,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Set Direction
+### 1. Set Direction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establish purpose and vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
@@ -608,7 +612,9 @@ created: 2026-04-28
 > **Speakers:** - leading (1)
 
 
-### 3. 2. Motivate Commitment
+### 2. Motivate Commitment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Energize and empower
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
@@ -1024,7 +1030,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Drive for Results
+### 3. Drive for Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prioritize with accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
@@ -1480,7 +1488,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Develop Yourself
+### 4. Develop Yourself
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the Executive Learning Cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
@@ -1800,7 +1810,9 @@ created: 2026-04-28
 > **Speakers:** - back (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create possibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)

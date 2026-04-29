@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/kubernetes
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Kubernetes-%20Your%20First%20Project%20(2021).md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Project/The Mission]]** (2 videos)
-- **[[#3. 2. A Brief Overview of Kubernetes]]** (2 videos)
-- **[[#4. 3. Testing Locally with Docker]]** (7 videos)
-- **[[#5. 4. Running Kubernetes Locally with kind]]** (10 videos)
-- **[[#6. 5. Our First Kubernetes Manifests]]** (7 videos)
-- **[[#7. 6. Our First Helm Chart]]** (7 videos)
-- **[[#8. 7. We'll Do It Live]]** (7 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Project/The Mission]]** (2 videos)
+- **[[#2. A Brief Overview of Kubernetes]]** (2 videos)
+- **[[#3. Testing Locally with Docker]]** (7 videos)
+- **[[#4. Running Kubernetes Locally with kind]]** (10 videos)
+- **[[#5. Our First Kubernetes Manifests]]** (7 videos)
+- **[[#6. Our First Helm Chart]]** (7 videos)
+- **[[#7. We'll Do It Live]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your first project on Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
@@ -378,7 +380,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2)
 
 
-### 2. 1. The Project/The Mission
+### 1. The Project/The Mission
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Our application: Pre-Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
@@ -537,7 +541,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. A Brief Overview of Kubernetes
+### 2. A Brief Overview of Kubernetes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How Docker containers work
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
@@ -743,7 +749,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Testing Locally with Docker
+### 3. Testing Locally with Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
@@ -1343,7 +1351,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. 4. Running Kubernetes Locally with kind
+### 4. Running Kubernetes Locally with kind
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is kind?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
@@ -2195,7 +2205,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Our First Kubernetes Manifests
+### 5. Our First Kubernetes Manifests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Kubernetes manifests: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
@@ -2973,7 +2985,9 @@ created: 2026-04-28
 > **File Paths:** kind_config.yaml (1), ingress.yaml (1)
 
 
-### 7. 6. Our First Helm Chart
+### 6. Our First Helm Chart
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Helm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
@@ -3625,7 +3639,9 @@ created: 2026-04-28
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 
 
-### 8. 7. We'll Do It Live
+### 7. We'll Do It Live
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From local testing to EKS: What's changing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
@@ -4243,7 +4259,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)

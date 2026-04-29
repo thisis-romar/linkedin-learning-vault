@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Recursion.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. How to Think about Recursion]]** (7 videos)
-- **[[#3. 2. How to Improve Recursive Algorithms]]** (5 videos)
-- **[[#4. 3. Solving Recursive Technical Interview Questions]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. How to Think about Recursion]]** (7 videos)
+- **[[#2. How to Improve Recursive Algorithms]]** (5 videos)
+- **[[#3. Solving Recursive Technical Interview Questions]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to recursion algorithms in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. How to Think about Recursion
+### 1. How to Think about Recursion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loops and iteration in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980)
@@ -643,7 +647,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. How to Improve Recursive Algorithms
+### 2. How to Improve Recursive Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is tail recursion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980)
@@ -1118,7 +1124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Solving Recursive Technical Interview Questions
+### 3. Solving Recursive Technical Interview Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to approach recursive problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980)
@@ -1563,7 +1571,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dig deeper into JavaScript recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/data-analysis
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Excel-%20Data%20Analysis.md)
@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Foundational Concepts of Data Analysis]]** (8 videos)
-- **[[#3. 2. Visualizing Data]]** (8 videos)
-- **[[#4. 3. Testing a Hypothesis]]** (5 videos)
-- **[[#5. 4. Utilizing Data Distributions]]** (7 videos)
-- **[[#6. 5. Measuring Covariance and Correlation]]** (8 videos)
-- **[[#7. 6. Calculating Probabilities, Combinations, and Permutations]]** (9 videos)
-- **[[#8. 7. Performing Bayesian Analysis]]** (6 videos)
-- **[[#9. 8. Performing Regression Analysis]]** (7 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Foundational Concepts of Data Analysis]]** (8 videos)
+- **[[#2. Visualizing Data]]** (8 videos)
+- **[[#3. Testing a Hypothesis]]** (5 videos)
+- **[[#4. Utilizing Data Distributions]]** (7 videos)
+- **[[#5. Measuring Covariance and Correlation]]** (8 videos)
+- **[[#6. Calculating Probabilities, Combinations, and Permutations]]** (9 videos)
+- **[[#7. Performing Bayesian Analysis]]** (6 videos)
+- **[[#8. Performing Regression Analysis]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze your data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Foundational Concepts of Data Analysis
+### 1. Foundational Concepts of Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate mean and median values
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980)
@@ -781,7 +785,9 @@ created: 2026-04-28
 > **Non-Speech:** (happy music) (1)
 
 
-### 3. 2. Visualizing Data
+### 2. Visualizing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Group data using histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980)
@@ -1444,7 +1450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Testing a Hypothesis
+### 3. Testing a Hypothesis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Formulate a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980)
@@ -1656,7 +1664,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat entertaining music) (1)
 
 
-### 5. 4. Utilizing Data Distributions
+### 4. Utilizing Data Distributions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the normal distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980)
@@ -2463,7 +2473,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Measuring Covariance and Correlation
+### 5. Measuring Covariance and Correlation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualize what covariance means
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-covariance-means-24048670?u=76281980)
@@ -3163,7 +3175,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 7. 6. Calculating Probabilities, Combinations, and Permutations
+### 6. Calculating Probabilities, Combinations, and Permutations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate simple probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980)
@@ -3665,7 +3679,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Performing Bayesian Analysis
+### 7. Performing Bayesian Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduce Bayesian analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980)
@@ -4124,7 +4140,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Performing Regression Analysis
+### 8. Performing Regression Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduce linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-linear-regression?u=76281980)
@@ -4599,7 +4617,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980)

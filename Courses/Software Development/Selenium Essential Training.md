@@ -28,7 +28,7 @@ tags:
   - skill/selenium
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Selenium%20Essential%20Training.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Review Fundamentals]]** (5 videos)
-- **[[#3. 2. Succeeding with WebDriver]]** (8 videos)
-- **[[#4. 3. Using Advanced Locators]]** (4 videos)
-- **[[#5. 4. Interacting with Components]]** (5 videos)
-- **[[#6. 5. Synchronization Issues]]** (3 videos)
-- **[[#7. 6. Putting It All Together]]** (4 videos)
-- **[[#8. 7. Project Integration]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Review Fundamentals]]** (5 videos)
+- **[[#2. Succeeding with WebDriver]]** (8 videos)
+- **[[#3. Using Advanced Locators]]** (4 videos)
+- **[[#4. Interacting with Components]]** (5 videos)
+- **[[#5. Synchronization Issues]]** (3 videos)
+- **[[#6. Putting It All Together]]** (4 videos)
+- **[[#7. Project Integration]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Review Fundamentals
+### 1. Review Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Selenium project
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
@@ -469,7 +473,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Succeeding with WebDriver
+### 2. Succeeding with WebDriver
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Look at the test application
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
@@ -1041,7 +1047,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Advanced Locators
+### 3. Using Advanced Locators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determine which locator to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
@@ -1270,7 +1278,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Interacting with Components
+### 4. Interacting with Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common components
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
@@ -1586,7 +1596,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Synchronization Issues
+### 5. Synchronization Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why synchronization is an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
@@ -1776,7 +1788,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Putting It All Together
+### 6. Putting It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automate a workflow using WebDriver
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
@@ -2127,7 +2141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Project Integration
+### 7. Project Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect to GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
@@ -2392,7 +2408,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)

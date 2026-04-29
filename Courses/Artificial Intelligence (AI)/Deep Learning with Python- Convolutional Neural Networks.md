@@ -35,7 +35,7 @@ tags:
   - skill/convolutional-neural-networks-cnn
   - skill/deep-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Convolutional%20Neural%20Networks.md)
@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Computer Vision]]** (5 videos)
-- **[[#3. 2. CNNs]]** (5 videos)
-- **[[#4. 3. Image Classification with CNNs]]** (3 videos)
-- **[[#5. 4. CNN Architectures]]** (5 videos)
-- **[[#6. 5. Common Computer Vision Tasks]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Computer Vision]]** (5 videos)
+- **[[#2. CNNs]]** (5 videos)
+- **[[#3. Image Classification with CNNs]]** (3 videos)
+- **[[#4. CNN Architectures]]** (5 videos)
+- **[[#5. Common Computer Vision Tasks]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using convolutional neural networks (CNNs) with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/using-convolutional-neural-networks-with-python?u=76281980)
@@ -167,7 +169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Computer Vision
+### 1. Computer Vision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is computer vision?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-computer-vision?u=76281980)
@@ -512,7 +516,9 @@ created: 2026-04-28
 > **Speakers:** - [person] (1)
 
 
-### 3. 2. CNNs
+### 2. CNNs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CNNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/convolutional-neural-networks?u=76281980)
@@ -808,7 +814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Image Classification with CNNs
+### 3. Image Classification with CNNs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing to build a CNN in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/preparing-to-build-a-convolutional-neural-network-in-python?u=76281980)
@@ -1049,7 +1057,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. CNN Architectures
+### 4. CNN Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### VGGNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/vggnet?u=76281980)
@@ -1419,7 +1429,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Common Computer Vision Tasks
+### 5. Common Computer Vision Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is image classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/what-is-image-classification?u=76281980)
@@ -1796,7 +1808,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-convolutional-neural-networks/continuing-on-with-deep-learning?u=76281980)

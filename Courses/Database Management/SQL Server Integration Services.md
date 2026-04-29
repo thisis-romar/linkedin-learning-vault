@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/sql-server-integration-services-ssis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%20Integration%20Services.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Get Started with Integration Services]]** (4 videos)
-- **[[#3. 2. SSIS Designer]]** (6 videos)
-- **[[#4. 3. Control Flow Tasks]]** (8 videos)
-- **[[#5. 4. Data Sources and Connections]]** (5 videos)
-- **[[#6. 5. The Data Flow Task and Transformations]]** (8 videos)
-- **[[#7. 6. Controlling Package Execution]]** (6 videos)
-- **[[#8. 7. Deploy and Run SSIS Projects]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Get Started with Integration Services]]** (4 videos)
+- **[[#2. SSIS Designer]]** (6 videos)
+- **[[#3. Control Flow Tasks]]** (8 videos)
+- **[[#4. Data Sources and Connections]]** (5 videos)
+- **[[#5. The Data Flow Task and Transformations]]** (8 videos)
+- **[[#6. Controlling Package Execution]]** (6 videos)
+- **[[#7. Deploy and Run SSIS Projects]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate your data with SQL Server Integration Services (SSIS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980)
@@ -196,7 +198,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 2. 1. Get Started with Integration Services
+### 1. Get Started with Integration Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SSIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980)
@@ -543,7 +547,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. SSIS Designer
+### 2. SSIS Designer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install SQL Server Data Tools (SSDT)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980)
@@ -1204,7 +1210,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Control Flow Tasks
+### 3. Control Flow Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding tasks in control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980)
@@ -1994,7 +2002,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Data Sources and Connections
+### 4. Data Sources and Connections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project level connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980)
@@ -2445,7 +2455,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. The Data Flow Task and Transformations
+### 5. The Data Flow Task and Transformations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data flow components
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980)
@@ -3220,7 +3232,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 7. 6. Controlling Package Execution
+### 6. Controlling Package Execution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with variables and scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980)
@@ -3829,7 +3843,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 8. 7. Deploy and Run SSIS Projects
+### 7. Deploy and Run SSIS Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploy projects to SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980)
@@ -4143,7 +4159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/critical-thinking
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Inside%20The%20Mind%20Of%20An%20Aspiring%20Data%20Scientist.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Discovering Data Science]]** (1 videos)
-- **[[#3. 2. Understanding the Data Science Profession]]** (4 videos)
-- **[[#4. 3. Data Science and You]]** (2 videos)
-- **[[#5. 4. How to Learn Data Science]]** (4 videos)
-- **[[#6. 5. Creating Your First Data Science Resume]]** (2 videos)
-- **[[#7. 6. Personal Branding for Data Scientists]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Discovering Data Science]]** (1 videos)
+- **[[#2. Understanding the Data Science Profession]]** (4 videos)
+- **[[#3. Data Science and You]]** (2 videos)
+- **[[#4. How to Learn Data Science]]** (4 videos)
+- **[[#5. Creating Your First Data Science Resume]]** (2 videos)
+- **[[#6. Personal Branding for Data Scientists]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-is-data-science?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Discovering Data Science
+### 1. Discovering Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### First-hand account of finding data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/first-hand-account-of-finding-data-science?u=76281980)
@@ -201,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding the Data Science Profession
+### 2. Understanding the Data Science Profession
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The confusion around data science professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/the-confusion-around-data-science-professions?u=76281980)
@@ -310,7 +316,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Science and You
+### 3. Data Science and You
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Doing your data science research
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/doing-your-data-science-research?u=76281980)
@@ -384,7 +392,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. How to Learn Data Science
+### 4. How to Learn Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning to ask questions about data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/learning-to-ask-questions-about-data-science?u=76281980)
@@ -492,7 +502,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Creating Your First Data Science Resume
+### 5. Creating Your First Data Science Resume
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a data science resume with no work experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/creating-a-data-science-resume-with-no-work-experience?u=76281980)
@@ -551,7 +563,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Personal Branding for Data Scientists
+### 6. Personal Branding for Data Scientists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are you known for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-are-you-known-for?u=76281980)
@@ -638,7 +652,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources on a career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/additional-resources-on-a-career-in-data-science?u=76281980)

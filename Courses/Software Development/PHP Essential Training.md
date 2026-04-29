@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20Essential%20Training.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. PHP Overview]]** (3 videos)
-- **[[#3. 2. First Steps]]** (4 videos)
-- **[[#4. 3. Explore Data Types]]** (12 videos)
-- **[[#5. 4. Control Structures: Logical Expressions]]** (4 videos)
-- **[[#6. 5. Control Structures: Loops]]** (6 videos)
-- **[[#7. 6. User-Defined Functions]]** (6 videos)
-- **[[#8. 7. Debug]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. PHP Overview]]** (3 videos)
+- **[[#2. First Steps]]** (4 videos)
+- **[[#3. Explore Data Types]]** (12 videos)
+- **[[#4. Control Structures: Logical Expressions]]** (4 videos)
+- **[[#5. Control Structures: Loops]]** (6 videos)
+- **[[#6. User-Defined Functions]]** (6 videos)
+- **[[#7. Debug]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning the fundamentals of PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980)
@@ -160,7 +162,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. PHP Overview
+### 1. PHP Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980)
@@ -622,7 +626,9 @@ created: 2026-04-28
 > **Tools:** sublime (1)
 
 
-### 3. 2. First Steps
+### 2. First Steps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embed PHP code on a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980)
@@ -1217,7 +1223,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Explore Data Types
+### 3. Explore Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980)
@@ -3697,7 +3705,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Control Structures: Logical Expressions
+### 4. Control Structures: Logical Expressions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980)
@@ -4575,7 +4585,9 @@ created: 2026-04-28
 > **Definitions:** means that (1), is a  (1)
 
 
-### 6. 5. Control Structures: Loops
+### 5. Control Structures: Loops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### While loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980)
@@ -5924,7 +5936,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 7. 6. User-Defined Functions
+### 6. User-Defined Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980)
@@ -7021,7 +7035,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Debug
+### 7. Debug
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980)
@@ -7664,7 +7680,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying PHP into an HTML website
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980)

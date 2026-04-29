@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/trello
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Trello%20Essential%20Training.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Basic Features of Trello Boards and Cards]]** (10 videos)
-- **[[#3. 2. More Advanced Features]]** (8 videos)
-- **[[#4. 3. Essential Trello Power-Ups]]** (6 videos)
-- **[[#5. 4. Automations and Custom Fields]]** (6 videos)
-- **[[#6. 5. Getting Things Done Using Trello and Kanban]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Basic Features of Trello Boards and Cards]]** (10 videos)
+- **[[#2. More Advanced Features]]** (8 videos)
+- **[[#3. Essential Trello Power-Ups]]** (6 videos)
+- **[[#4. Automations and Custom Fields]]** (6 videos)
+- **[[#5. Getting Things Done Using Trello and Kanban]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Trello?
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Basic Features of Trello Boards and Cards
+### 1. The Basic Features of Trello Boards and Cards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating the home page and creating your first board
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
@@ -1002,7 +1006,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 3. 2. More Advanced Features
+### 2. More Advanced Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing workspaces, members, and creating collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
@@ -1825,7 +1831,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Essential Trello Power-Ups
+### 3. Essential Trello Power-Ups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Trello Power-Ups
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
@@ -2357,7 +2365,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. Automations and Custom Fields
+### 4. Automations and Custom Fields
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Trello automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
@@ -2938,7 +2948,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Getting Things Done Using Trello and Kanban
+### 5. Getting Things Done Using Trello and Kanban
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trello and the Kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
@@ -3482,7 +3494,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)

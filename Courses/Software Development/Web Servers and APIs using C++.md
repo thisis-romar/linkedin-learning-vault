@@ -32,7 +32,7 @@ tags:
   - skill/c
   - skill/application-programming-interfaces-api
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Web%20Servers%20and%20APIs%20using%20C%2B%2B.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Installing Our Tools]]** (8 videos)
-- **[[#3. 2. Deploying to AWS ElasticBeanstalk]]** (2 videos)
-- **[[#4. 3. Building Websites]]** (5 videos)
-- **[[#5. 4. Data Access]]** (7 videos)
-- **[[#6. 5. RESTful APIs]]** (6 videos)
-- **[[#7. 6. WebSockets and Crow]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Installing Our Tools]]** (8 videos)
+- **[[#2. Deploying to AWS ElasticBeanstalk]]** (2 videos)
+- **[[#3. Building Websites]]** (5 videos)
+- **[[#4. Data Access]]** (7 videos)
+- **[[#5. RESTful APIs]]** (6 videos)
+- **[[#6. WebSockets and Crow]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use C++ to make a website?
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [troy] (1)
 
 
-### 2. 1. Installing Our Tools
+### 1. Installing Our Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
@@ -753,7 +757,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Deploying to AWS ElasticBeanstalk
+### 2. Deploying to AWS ElasticBeanstalk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
@@ -1004,7 +1010,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 4. 3. Building Websites
+### 3. Building Websites
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating HTML pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
@@ -1494,7 +1502,9 @@ created: 2026-04-28
 > **Non-Speech:** (chiming music) (1)
 
 
-### 5. 4. Data Access
+### 4. Data Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Atlas
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
@@ -2511,7 +2521,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. RESTful APIs
+### 5. RESTful APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
@@ -3212,7 +3224,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 7. 6. WebSockets and Crow
+### 6. WebSockets and Crow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing the JavaScript client code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
@@ -3498,7 +3512,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)

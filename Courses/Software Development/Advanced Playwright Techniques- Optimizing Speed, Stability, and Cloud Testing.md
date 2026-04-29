@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/test-automation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Playwright%20Techniques-%20Optimizing%20Speed%2C%20Stability%2C%20and%20Cloud%20Testing.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Optimising Test Speed in Playwright]]** (7 videos)
-- **[[#3. 2. Reducing Test Flakiness in Playwright]]** (7 videos)
-- **[[#4. 3. Screenshot and Snapshot Testing Best Practices]]** (5 videos)
-- **[[#5. 4. Running Tests on Microsoft Playwright Testing Service]]** (6 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Optimising Test Speed in Playwright]]** (7 videos)
+- **[[#2. Reducing Test Flakiness in Playwright]]** (7 videos)
+- **[[#3. Screenshot and Snapshot Testing Best Practices]]** (5 videos)
+- **[[#4. Running Tests on Microsoft Playwright Testing Service]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced Playwright techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [qambar] (1)
 
 
-### 2. 1. Optimising Test Speed in Playwright
+### 1. Optimising Test Speed in Playwright
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Green testing: Speed, efficiency and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
@@ -712,7 +716,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Reducing Test Flakiness in Playwright
+### 2. Reducing Test Flakiness in Playwright
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering flaky tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
@@ -1155,7 +1161,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Screenshot and Snapshot Testing Best Practices
+### 3. Screenshot and Snapshot Testing Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visual testing with screenshots and snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
@@ -1476,7 +1484,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Running Tests on Microsoft Playwright Testing Service
+### 4. Running Tests on Microsoft Playwright Testing Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft Playwright Testing (MPT) service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
@@ -1738,7 +1748,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)

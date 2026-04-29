@@ -30,8 +30,10 @@ tags:
   - skill/professional-communication
   - skill/email-etiquette
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)
 
 ![Business Etiquette: Phone, Email, and Text](https://media.licdn.com/dms/image/v2/D4D0DAQEeIR2p0mtCvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701901089763?e=2147483647&amp;v=beta&amp;t=V7SCY3k2U3cCIAu5XFpwNdaW0UpfK1gYsnupUHLgVR0)
 

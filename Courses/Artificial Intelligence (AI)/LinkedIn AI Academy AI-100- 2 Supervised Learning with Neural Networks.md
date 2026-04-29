@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%202%20Supervised%20Learning%20with%20Neural%20Networks.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Deep Neural Networks]]** (3 videos)
-- **[[#3. 2. Convolutional Networks]]** (3 videos)
-- **[[#4. 3. Sequence Classifiers]]** (6 videos)
-- **[[#5. 4. Graph Neural Networks]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Deep Neural Networks]]** (3 videos)
+- **[[#2. Convolutional Networks]]** (3 videos)
+- **[[#3. Sequence Classifiers]]** (6 videos)
+- **[[#4. Graph Neural Networks]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The LinkedIn AI Academy: Neural networks are the heart of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - [ananth] (1)
 
 
-### 2. 1. Deep Neural Networks
+### 1. Deep Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Neuron: Basic element of neural net
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
@@ -310,7 +314,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Convolutional Networks
+### 2. Convolutional Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a convolutional filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
@@ -537,7 +543,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Sequence Classifiers
+### 3. Sequence Classifiers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modeling sequences with language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
@@ -1064,7 +1072,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Graph Neural Networks
+### 4. Graph Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Motivation and introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
@@ -1335,7 +1345,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing the AI-100 learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)

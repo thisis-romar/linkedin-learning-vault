@@ -33,7 +33,7 @@ tags:
   - skill/databases
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20SnowflakeDB.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. SnowflakeDB Overview]]** (6 videos)
-- **[[#3. 2. SnowflakeDB Data Storage and Files]]** (6 videos)
-- **[[#4. 3. SnowflakeDB Query Processing]]** (5 videos)
-- **[[#5. 4. SnowflakeDB Data Services]]** (5 videos)
-- **[[#6. 5. SnowflakeDB Partners and Architectures]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. SnowflakeDB Overview]]** (6 videos)
+- **[[#2. SnowflakeDB Data Storage and Files]]** (6 videos)
+- **[[#3. SnowflakeDB Query Processing]]** (5 videos)
+- **[[#4. SnowflakeDB Data Services]]** (5 videos)
+- **[[#5. SnowflakeDB Partners and Architectures]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Driving maximum results with a flexible data cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SnowflakeDB Overview
+### 1. SnowflakeDB Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet SnowflakeDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980)
@@ -690,7 +694,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowpark-python-worksheet?u=76281980)
 
 
-### 3. 2. SnowflakeDB Data Storage and Files
+### 2. SnowflakeDB Data Storage and Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### See SnowflakeDB queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980)
@@ -1205,7 +1211,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. SnowflakeDB Query Processing
+### 3. SnowflakeDB Query Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use SnowflakeDB for SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980)
@@ -1818,7 +1826,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. SnowflakeDB Data Services
+### 4. SnowflakeDB Data Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand SnowflakeDB account usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-account-usage?u=76281980)
@@ -2126,7 +2136,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. SnowflakeDB Partners and Architectures
+### 5. SnowflakeDB Partners and Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn the Snowflake data life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980)
@@ -2393,7 +2405,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980)

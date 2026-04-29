@@ -31,7 +31,7 @@ tags:
   - skill/project-tracking
   - skill/jira
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Advanced%20Administration.md)
@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Configuration Options]]** (6 videos)
-- **[[#3. 2. Using Schemes]]** (5 videos)
-- **[[#4. 3. Creating Custom Schemes]]** (6 videos)
-- **[[#5. 4. Managing Project Settings]]** (5 videos)
-- **[[#6. 5. Working with Groups and Roles]]** (5 videos)
-- **[[#7. 6. Restricting and Sharing Information]]** (5 videos)
-- **[[#8. 7. Extending Jira]]** (5 videos)
-- **[[#9. 8. Advanced Features]]** (6 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Configuration Options]]** (6 videos)
+- **[[#2. Using Schemes]]** (5 videos)
+- **[[#3. Creating Custom Schemes]]** (6 videos)
+- **[[#4. Managing Project Settings]]** (5 videos)
+- **[[#5. Working with Groups and Roles]]** (5 videos)
+- **[[#6. Restricting and Sharing Information]]** (5 videos)
+- **[[#7. Extending Jira]]** (5 videos)
+- **[[#8. Advanced Features]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - ideally (1)
 
 
-### 2. 1. Configuration Options
+### 1. Configuration Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Global configuration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
@@ -642,7 +646,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Using Schemes
+### 2. Using Schemes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of schemes
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
@@ -1013,7 +1019,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Creating Custom Schemes
+### 3. Creating Custom Schemes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use and create custom issue types
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
@@ -1781,7 +1789,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Managing Project Settings
+### 4. Managing Project Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use and create versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
@@ -2163,7 +2173,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5. Working with Groups and Roles
+### 5. Working with Groups and Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveraging project roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
@@ -2448,7 +2460,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Restricting and Sharing Information
+### 6. Restricting and Sharing Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use and create permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
@@ -2844,7 +2858,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Extending Jira
+### 7. Extending Jira
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use and vet apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
@@ -3353,7 +3369,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 9. 8. Advanced Features
+### 8. Advanced Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Import data
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
@@ -4224,7 +4242,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)

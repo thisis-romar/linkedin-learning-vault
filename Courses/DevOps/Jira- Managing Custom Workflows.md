@@ -31,7 +31,7 @@ tags:
   - skill/workflow-management
   - skill/jira
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Jira-%20Managing%20Custom%20Workflows.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Custom Workflows]]** (6 videos)
-- **[[#3. 2. Planning Custom Workflows]]** (7 videos)
-- **[[#4. 3. Building Custom Workflows]]** (5 videos)
-- **[[#5. 4. Extending Workflow Capabilities]]** (7 videos)
-- **[[#6. 5. Best Practices]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Custom Workflows]]** (6 videos)
+- **[[#2. Planning Custom Workflows]]** (7 videos)
+- **[[#3. Building Custom Workflows]]** (5 videos)
+- **[[#4. Extending Workflow Capabilities]]** (7 videos)
+- **[[#5. Best Practices]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Custom workflows in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
@@ -175,7 +177,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. Using Custom Workflows
+### 1. Using Custom Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Important terms and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
@@ -737,7 +741,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 2. Planning Custom Workflows
+### 2. Planning Custom Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using a phased approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
@@ -1188,7 +1194,9 @@ created: 2026-04-28
 > **[0:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980&t=43)** With global transitions, there's no need for alternate transitions unless you're trying to perform an action like updating data in the background.
 
 
-### 4. 3. Building Custom Workflows
+### 3. Building Custom Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translating requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
@@ -1480,7 +1488,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 5. 4. Extending Workflow Capabilities
+### 4. Extending Workflow Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using triggers, conditions, validators, and post functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
@@ -2101,7 +2111,9 @@ created: 2026-04-28
 > **Tools:** jira (1)
 
 
-### 6. 5. Best Practices
+### 5. Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Workflow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
@@ -2466,7 +2478,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)

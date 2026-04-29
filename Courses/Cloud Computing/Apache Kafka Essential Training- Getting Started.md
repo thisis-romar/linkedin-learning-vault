@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Apache%20Kafka%20Essential%20Training-%20Getting%20Started.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Kafka]]** (6 videos)
-- **[[#3. 2. Basic Concepts]]** (5 videos)
-- **[[#4. 3. Using Kafka Command Line]]** (7 videos)
-- **[[#5. 4. Kafka Partitions and Groups]]** (6 videos)
-- **[[#6. 5. Kafka Java Programming]]** (5 videos)
-- **[[#7. 6. Use Case Project]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Kafka]]** (6 videos)
+- **[[#2. Basic Concepts]]** (5 videos)
+- **[[#3. Using Kafka Command Line]]** (7 videos)
+- **[[#4. Kafka Partitions and Groups]]** (6 videos)
+- **[[#5. Kafka Java Programming]]** (5 videos)
+- **[[#6. Use Case Project]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Apache Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Kafka
+### 1. Introduction to Kafka
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Message queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
@@ -502,7 +506,9 @@ created: 2026-04-28
 > **Versions:** version 3 (2)
 
 
-### 3. 2. Basic Concepts
+### 2. Basic Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
@@ -863,7 +869,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Kafka Command Line
+### 3. Using Kafka Command Line
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kafka client scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
@@ -1262,7 +1270,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. Kafka Partitions and Groups
+### 4. Kafka Partitions and Groups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
@@ -1706,7 +1716,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Kafka Java Programming
+### 5. Kafka Java Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kafka client libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
@@ -1951,7 +1963,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Use Case Project
+### 6. Use Case Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kafka basics use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
@@ -2093,7 +2107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending your Kafka knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)

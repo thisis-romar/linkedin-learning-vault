@@ -13,7 +13,7 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/network-and-system-administration
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Instructors/Cybersecurity/Anthony%20Sequeira.md)

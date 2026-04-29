@@ -26,7 +26,7 @@ tags:
   - skill/microsoft-teams
   - skill/system-deployment
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Microsoft%20365%20Teams%20Administrator%20Associate%20Cert%20Prep%20Ms%20700%20Plan%20Configure%20And%20Deploy.md)
@@ -44,18 +44,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Upgrade from Skype for Business to Microsoft Teams]]** (2 videos)
-- **[[#3. 2. Plan and Configure Network Settings for Microsoft Teams]]** (6 videos)
-- **[[#4. 3. Identify Licensing Requirements for Microsoft Teams]]** (5 videos)
-- **[[#5. 4. Governance and Life-Cycle Management for Microsoft Teams]]** (8 videos)
-- **[[#6. 5. Configure and Manage Guest Access]]** (4 videos)
-- **[[#7. 6. Manage Security and Compliance]]** (7 videos)
-- **[[#8. 7. Deploy and Manage Microsoft Teams Endpoints]]** (3 videos)
-- **[[#9. 8. Monitor and Analyze Service Usage]]** (5 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Upgrade from Skype for Business to Microsoft Teams]]** (2 videos)
+- **[[#2. Plan and Configure Network Settings for Microsoft Teams]]** (6 videos)
+- **[[#3. Identify Licensing Requirements for Microsoft Teams]]** (5 videos)
+- **[[#4. Governance and Life-Cycle Management for Microsoft Teams]]** (8 videos)
+- **[[#5. Configure and Manage Guest Access]]** (4 videos)
+- **[[#6. Manage Security and Compliance]]** (7 videos)
+- **[[#7. Deploy and Manage Microsoft Teams Endpoints]]** (3 videos)
+- **[[#8. Monitor and Analyze Service Usage]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Need to install and secure your Microsoft Teams sessions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [robert] (1)
 
 
-### 2. 1. Upgrade from Skype for Business to Microsoft Teams
+### 1. Upgrade from Skype for Business to Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Teams admin center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980)
@@ -204,7 +208,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Plan and Configure Network Settings for Microsoft Teams
+### 2. Plan and Configure Network Settings for Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan for successful network deployment: Network Planner
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980)
@@ -744,7 +750,9 @@ created: 2026-04-28
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
 
-### 4. 3. Identify Licensing Requirements for Microsoft Teams
+### 3. Identify Licensing Requirements for Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Required licensing for compliance features
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980)
@@ -1038,7 +1046,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Governance and Life-Cycle Management for Microsoft Teams
+### 4. Governance and Life-Cycle Management for Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan policy assignment for users and groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980)
@@ -1776,7 +1786,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Configure and Manage Guest Access
+### 5. Configure and Manage Guest Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure guest users, prevent users from adding guests
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980)
@@ -1989,7 +2001,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Manage Security and Compliance
+### 6. Manage Security and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assign Microsoft Teams admin roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980)
@@ -2467,7 +2481,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Deploy and Manage Microsoft Teams Endpoints
+### 7. Deploy and Manage Microsoft Teams Endpoints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploy Teams clients to Windows and mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980)
@@ -2697,7 +2713,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Monitor and Analyze Service Usage
+### 8. Monitor and Analyze Service Usage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interpret Microsoft Teams usage reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980)
@@ -3102,7 +3120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980)

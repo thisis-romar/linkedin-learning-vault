@@ -31,7 +31,7 @@ tags:
   - skill/resiliency
   - skill/wellness
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20Resilience.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Making Meaning for More Resilience]]** (3 videos)
-- **[[#3. 2. Build Emotional Agility for Resilience]]** (8 videos)
-- **[[#4. 3. Build Your Support System for More Resilience]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Making Meaning for More Resilience]]** (3 videos)
+- **[[#2. Build Emotional Agility for Resilience]]** (8 videos)
+- **[[#3. Build Your Support System for More Resilience]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thrive by building resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 2. 1. Making Meaning for More Resilience
+### 1. Making Meaning for More Resilience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does it mean to be resilient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
@@ -315,7 +319,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 3. 2. Build Emotional Agility for Resilience
+### 2. Build Emotional Agility for Resilience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Increase mental agility and flexibility to build resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
@@ -925,7 +931,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 4. 3. Build Your Support System for More Resilience
+### 3. Build Your Support System for More Resilience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing and building internal resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
@@ -1160,7 +1168,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Break an emotional sweat
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)

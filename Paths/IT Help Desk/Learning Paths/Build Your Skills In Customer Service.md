@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-skills-in-customer-servi
 course_count: 8
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 14
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/it-help-desk
@@ -49,7 +49,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/IT%20Help%20Desk/Learning%20Paths/Build%20Your%20Skills%20In%20Customer%20Service.md)

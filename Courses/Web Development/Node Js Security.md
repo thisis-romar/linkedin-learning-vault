@@ -37,7 +37,7 @@ tags:
   - skill/node-js
   - skill/back-end-web-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Node%20Js%20Security.md)
@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Security Overview]]** (5 videos)
-- **[[#3. 2. Best Practices: Packages]]** (3 videos)
-- **[[#4. 3. Best Practices: Data]]** (4 videos)
-- **[[#5. 4. Best Practices: Server Level]]** (4 videos)
-- **[[#6. 5. Tools for Testing]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security Overview]]** (5 videos)
+- **[[#2. Best Practices: Packages]]** (3 videos)
+- **[[#3. Best Practices: Data]]** (4 videos)
+- **[[#4. Best Practices: Server Level]]** (4 videos)
+- **[[#5. Tools for Testing]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your Node.js projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Security Overview
+### 1. Security Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OWASP and other sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
@@ -486,7 +490,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Best Practices: Packages
+### 2. Best Practices: Packages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hands-on base template overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
@@ -795,7 +801,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 4. 3. Best Practices: Data
+### 3. Best Practices: Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data handling with type and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
@@ -1054,7 +1062,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Best Practices: Server Level
+### 4. Best Practices: Server Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use secure HTTPS protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
@@ -1290,7 +1300,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Tools for Testing
+### 5. Tools for Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OWASP dependency check
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
@@ -1430,7 +1442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)

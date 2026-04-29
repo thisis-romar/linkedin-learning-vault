@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/slack
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Slack%20Essential%20Training.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Get Started with Slack]]** (5 videos)
-- **[[#3. 2. Work with Messages]]** (9 videos)
-- **[[#4. 3. Work with Channels]]** (3 videos)
-- **[[#5. 4. Add Apps to Slack]]** (3 videos)
-- **[[#6. 5. Search and Preferences]]** (3 videos)
-- **[[#7. 6. Create a New Workspace]]** (1 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with Slack]]** (5 videos)
+- **[[#2. Work with Messages]]** (9 videos)
+- **[[#3. Work with Channels]]** (3 videos)
+- **[[#4. Add Apps to Slack]]** (3 videos)
+- **[[#5. Search and Preferences]]** (3 videos)
+- **[[#6. Create a New Workspace]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicate and collaborate with Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Get Started with Slack
+### 1. Get Started with Slack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Log in to Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
@@ -610,7 +614,9 @@ created: 2026-04-28
 > **Speakers:** - [gini] (1)
 
 
-### 3. 2. Work with Messages
+### 2. Work with Messages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a message in a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
@@ -1392,7 +1398,9 @@ created: 2026-04-28
 > **Speakers:** - [gini] (1)
 
 
-### 4. 3. Work with Channels
+### 3. Work with Channels
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand roles and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
@@ -1650,7 +1658,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Add Apps to Slack
+### 4. Add Apps to Slack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install a storage app
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
@@ -1871,7 +1881,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 6. 5. Search and Preferences
+### 5. Search and Preferences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Search in Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
@@ -2259,7 +2271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Create a New Workspace
+### 6. Create a New Workspace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new Slack workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
@@ -2350,7 +2364,9 @@ created: 2026-04-28
 > **Speakers:** - [gini] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)

@@ -37,7 +37,7 @@ tags:
   - skill/react-js
   - skill/node-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Full-Stack%20JavaScript%20Development-%20MongoDB%2C%20Node%2C%20and%20React.md)
@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. React Fundamentals]]** (5 videos)
-- **[[#4. 3. Working with Data]]** (8 videos)
-- **[[#5. 4. Routing and History]]** (7 videos)
-- **[[#6. 5. Persisting Data]]** (7 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. React Fundamentals]]** (5 videos)
+- **[[#3. Working with Data]]** (8 videos)
+- **[[#4. Routing and History]]** (7 videos)
+- **[[#5. Persisting Data]]** (7 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning full-stack JavaScript development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
@@ -185,7 +187,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project repo and NPM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
@@ -1398,7 +1402,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 3. 2. React Fundamentals
+### 2. React Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
@@ -2052,7 +2058,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Data
+### 3. Working with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a mock API endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
@@ -3413,7 +3421,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Routing and History
+### 4. Routing and History
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Invoking component actions in children
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
@@ -4453,7 +4463,9 @@ created: 2026-04-28
 > **Code Identifiers:** preventdefault (1)
 
 
-### 6. 5. Persisting Data
+### 5. Persisting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling data in an array
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)

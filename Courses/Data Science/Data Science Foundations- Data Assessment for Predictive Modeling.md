@@ -42,7 +42,7 @@ tags:
   - skill/data-science-foundations
   - skill/predictive-modeling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Science%20Foundations-%20Data%20Assessment%20for%20Predictive%20Modeling.md)
@@ -60,22 +60,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is Data Assessment?]]** (5 videos)
-- **[[#3. 2. Collect Initial Data]]** (5 videos)
-- **[[#4. 3. First Look at the Data]]** (9 videos)
-- **[[#5. 4. Data Loading and Unit of Analysis]]** (5 videos)
-- **[[#6. 5. Describe Data]]** (4 videos)
-- **[[#7. 6. Data Description Case Studies]]** (3 videos)
-- **[[#8. 7. Explore Data Basics]]** (8 videos)
-- **[[#9. 8. Explore Data Tips and Tricks]]** (9 videos)
-- **[[#10. 9. Verify Data Quality]]** (3 videos)
-- **[[#11. 10. Missing Data Case Study]]** (4 videos)
-- **[[#12. 11. Explore and Verify Case Studies]]** (3 videos)
-- **[[#13. 12. Making the Transition to Data Preparation]]** (3 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Data Assessment?]]** (5 videos)
+- **[[#2. Collect Initial Data]]** (5 videos)
+- **[[#3. First Look at the Data]]** (9 videos)
+- **[[#4. Data Loading and Unit of Analysis]]** (5 videos)
+- **[[#5. Describe Data]]** (4 videos)
+- **[[#6. Data Description Case Studies]]** (3 videos)
+- **[[#7. Explore Data Basics]]** (8 videos)
+- **[[#8. Explore Data Tips and Tricks]]** (9 videos)
+- **[[#9. Verify Data Quality]]** (3 videos)
+- **[[#10. Missing Data Case Study]]** (4 videos)
+- **[[#11. Explore and Verify Case Studies]]** (3 videos)
+- **[[#12. Making the Transition to Data Preparation]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why data assessment is critical
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is Data Assessment?
+### 1. What Is Data Assessment?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Clarifying how data understanding differs from data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
@@ -546,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Collect Initial Data
+### 2. Collect Initial Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Considerations in gathering the relevant data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
@@ -853,7 +859,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. First Look at the Data
+### 3. First Look at the Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing basic concepts in the level of measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
@@ -1567,7 +1575,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Data Loading and Unit of Analysis
+### 4. Data Loading and Unit of Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
@@ -2160,7 +2170,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Describe Data
+### 5. Describe Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to uncover the gross properties of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
@@ -2548,7 +2560,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Data Description Case Studies
+### 6. Data Description Case Studies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describe data demo using the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
@@ -2909,7 +2923,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Explore Data Basics
+### 7. Explore Data Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The explore data task
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
@@ -3834,7 +3850,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Explore Data Tips and Tricks
+### 8. Explore Data Tips and Tricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to utilize an SME's time effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
@@ -4541,7 +4559,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 10. 9. Verify Data Quality
+### 9. Verify Data Quality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring your missing data options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
@@ -4764,7 +4784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Missing Data Case Study
+### 10. Missing Data Case Study
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the KDD Cup 1998 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
@@ -5333,7 +5355,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Explore and Verify Case Studies
+### 11. Explore and Verify Case Studies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring and verifying data quality with the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
@@ -5544,7 +5568,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 13. 12. Making the Transition to Data Preparation
+### 12. Making the Transition to Data Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why formal reports are important
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
@@ -5752,7 +5778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)

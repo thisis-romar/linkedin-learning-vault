@@ -31,7 +31,7 @@ tags:
   - skill/azure-ai-studio
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20Studio%20First%20Look.md)
@@ -49,10 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1.  Work with Azure Open AI Studio]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1.  Work with Azure Open AI Studio]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Azure OpenAI Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
@@ -73,7 +75,9 @@ created: 2026-04-28
 > **Speakers:** - microsoft (1)
 
 
-### 2. 1.  Work with Azure Open AI Studio
+### 1.  Work with Azure Open AI Studio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure AI Studio and the Azure Portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)

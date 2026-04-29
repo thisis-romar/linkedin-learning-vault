@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Laravel%20Essential%20Training.md)
@@ -43,17 +43,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Laravel Basics: Routes, Views, and Controllers]]** (7 videos)
-- **[[#3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent]]** (6 videos)
-- **[[#4. 3. Starting Your Project]]** (7 videos)
-- **[[#5. 4. Creating, Indexing, and Showing]]** (9 videos)
-- **[[#6. 5. Editing, Updating, and Deleting]]** (6 videos)
-- **[[#7. 6. Relationships]]** (5 videos)
-- **[[#8. 7. Soft Deleting]]** (5 videos)
-- **[[#9. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Laravel Basics: Routes, Views, and Controllers]]** (7 videos)
+- **[[#2. Laravel Basics: Configuration, Database, Migrations, and Eloquent]]** (6 videos)
+- **[[#3. Starting Your Project]]** (7 videos)
+- **[[#4. Creating, Indexing, and Showing]]** (9 videos)
+- **[[#5. Editing, Updating, and Deleting]]** (6 videos)
+- **[[#6. Relationships]]** (5 videos)
+- **[[#7. Soft Deleting]]** (5 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
@@ -260,7 +262,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 2. 1. Laravel Basics: Routes, Views, and Controllers
+### 1. Laravel Basics: Routes, Views, and Controllers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Serve the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
@@ -851,7 +855,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
+### 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Laravel configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
@@ -1367,7 +1373,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Starting Your Project
+### 3. Starting Your Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
@@ -2072,7 +2080,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 5. 4. Creating, Indexing, and Showing
+### 4. Creating, Indexing, and Showing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add an index method to fetch all notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
@@ -3412,7 +3422,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 6. 5. Editing, Updating, and Deleting
+### 5. Editing, Updating, and Deleting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add an edit method and view to allow editing of the note
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
@@ -4057,7 +4069,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 7. 6. Relationships
+### 6. Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are Eloquent relationships?
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
@@ -4343,7 +4357,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1), just like (1)
 
 
-### 8. 7. Soft Deleting
+### 7. Soft Deleting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable soft delete
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
@@ -5007,7 +5023,9 @@ created: 2026-04-28
 > **Env Vars:** gui (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optional: Set up a local development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)

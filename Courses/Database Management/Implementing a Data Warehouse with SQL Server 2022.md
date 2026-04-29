@@ -31,7 +31,7 @@ tags:
   - skill/data-warehousing
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Implementing%20a%20Data%20Warehouse%20with%20SQL%20Server%202022.md)
@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data Warehouse Foundations]]** (5 videos)
-- **[[#3. 2. Create a Data Warehouse]]** (4 videos)
-- **[[#4. 3. Columnstore Indexes]]** (3 videos)
-- **[[#5. 4. Extract, Transform, and Load]]** (3 videos)
-- **[[#6. 5. Implement an Azure Synapse Analytics Dedicated SQL Pool]]** (6 videos)
-- **[[#7. 6. Enforce Data Quality]]** (3 videos)
-- **[[#8. 7. Master Data Services]]** (6 videos)
-- **[[#9. 8. Consume Data from the Warehouse]]** (1 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data Warehouse Foundations]]** (5 videos)
+- **[[#2. Create a Data Warehouse]]** (4 videos)
+- **[[#3. Columnstore Indexes]]** (3 videos)
+- **[[#4. Extract, Transform, and Load]]** (3 videos)
+- **[[#5. Implement an Azure Synapse Analytics Dedicated SQL Pool]]** (6 videos)
+- **[[#6. Enforce Data Quality]]** (3 videos)
+- **[[#7. Master Data Services]]** (6 videos)
+- **[[#8. Consume Data from the Warehouse]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storing information in a data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980)
@@ -199,7 +201,9 @@ created: 2026-04-28
 > **Versions:** version 19 (1)
 
 
-### 2. 1. Data Warehouse Foundations
+### 1. Data Warehouse Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data warehouse core concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980)
@@ -687,7 +691,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create a Data Warehouse
+### 2. Create a Data Warehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a data warehouse in SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980)
@@ -1209,7 +1215,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Columnstore Indexes
+### 3. Columnstore Indexes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advantages of columnstore indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980)
@@ -1455,7 +1463,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Extract, Transform, and Load
+### 4. Extract, Transform, and Load
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are ETL and SSIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980)
@@ -1640,7 +1650,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Implement an Azure Synapse Analytics Dedicated SQL Pool
+### 5. Implement an Azure Synapse Analytics Dedicated SQL Pool
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hosting a DW in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980)
@@ -2263,7 +2275,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Enforce Data Quality
+### 6. Enforce Data Quality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL Server Data Quality Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980)
@@ -2786,7 +2800,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 8. 7. Master Data Services
+### 7. Master Data Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Master Data Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980)
@@ -3448,7 +3464,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Consume Data from the Warehouse
+### 8. Consume Data from the Warehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business intelligence applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980)
@@ -3524,7 +3542,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/database-design
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Design%20Fundamentals.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Database Design Basics]]** (4 videos)
-- **[[#3. 2. Data Relationships and Collations]]** (3 videos)
-- **[[#4. 3. Data Normalization]]** (4 videos)
-- **[[#5. 4. Understanding the Physical Relational Design]]** (8 videos)
-- **[[#6. 5. How Developments in AI Affect Database Design]]** (3 videos)
-- **[[#7. 6. Final Project]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Database Design Basics]]** (4 videos)
+- **[[#2. Data Relationships and Collations]]** (3 videos)
+- **[[#3. Data Normalization]]** (4 videos)
+- **[[#4. Understanding the Physical Relational Design]]** (8 videos)
+- **[[#5. How Developments in AI Affect Database Design]]** (3 videos)
+- **[[#6. Final Project]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI-ready data: Learning database design for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Database Design Basics
+### 1. Database Design Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
@@ -348,7 +352,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Relationships and Collations
+### 2. Data Relationships and Collations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining primary keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
@@ -542,7 +548,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Normalization
+### 3. Data Normalization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### First normal form
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
@@ -809,7 +817,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Understanding the Physical Relational Design
+### 4. Understanding the Physical Relational Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data types that are key to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
@@ -1255,7 +1265,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. How Developments in AI Affect Database Design
+### 5. How Developments in AI Affect Database Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Architectural overview for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
@@ -1398,7 +1410,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Final Project
+### 6. Final Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final project setup: Design your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
@@ -1518,7 +1532,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Empower your world: Innovate, act, transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)

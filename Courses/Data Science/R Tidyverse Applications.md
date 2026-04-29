@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20Tidyverse%20Applications.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Load Data]]** (9 videos)
-- **[[#3. 2. Manipulate Data]]** (8 videos)
-- **[[#4. 3. Factor and Map Data]]** (6 videos)
-- **[[#5. 4. Analyze and Visualize Data]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Load Data]]** (9 videos)
+- **[[#2. Manipulate Data]]** (8 videos)
+- **[[#3. Factor and Map Data]]** (6 videos)
+- **[[#4. Analyze and Visualize Data]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
@@ -305,7 +307,9 @@ created: 2026-04-28
 > **Env Vars:** zip (1), rmd (1)
 
 
-### 2. 1. Load Data
+### 1. Load Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
@@ -1536,7 +1540,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 3. 2. Manipulate Data
+### 2. Manipulate Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dealing with missing values with tidyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
@@ -2819,7 +2825,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Factor and Map Data
+### 3. Factor and Map Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Factor categorical data with forcats
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
@@ -3673,7 +3681,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 5. 4. Analyze and Visualize Data
+### 4. Analyze and Visualize Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize data with dplyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
@@ -4881,7 +4891,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Prompt%20Engineering%20For%20Generative%20Ai.md)

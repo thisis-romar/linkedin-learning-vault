@@ -31,7 +31,7 @@ tags:
   - skill/dynamic-host-configuration-protocol-dhcp
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20DHCP%20and%20DNS.md)
@@ -49,20 +49,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. DHCP Overview]]** (3 videos)
-- **[[#3. 2. Setting Up DHCP]]** (6 videos)
-- **[[#4. 3. Managing DHCP]]** (6 videos)
-- **[[#5. 4. Advanced DHCP]]** (6 videos)
-- **[[#6. 5. DNS Overview]]** (3 videos)
-- **[[#7. 6. Deploying DNS]]** (3 videos)
-- **[[#8. 7. DNS Zones]]** (4 videos)
-- **[[#9. 8. DNS Resource Records]]** (4 videos)
-- **[[#10. 9. Advanced DNS]]** (3 videos)
-- **[[#11. 10. DNS Security]]** (4 videos)
-- **[[#12. 11. DHCP and DNS Management]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. DHCP Overview]]** (3 videos)
+- **[[#2. Setting Up DHCP]]** (6 videos)
+- **[[#3. Managing DHCP]]** (6 videos)
+- **[[#4. Advanced DHCP]]** (6 videos)
+- **[[#5. DNS Overview]]** (3 videos)
+- **[[#6. Deploying DNS]]** (3 videos)
+- **[[#7. DNS Zones]]** (4 videos)
+- **[[#8. DNS Resource Records]]** (4 videos)
+- **[[#9. Advanced DNS]]** (3 videos)
+- **[[#10. DNS Security]]** (4 videos)
+- **[[#11. DHCP and DNS Management]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and configure Windows Server 2022 DHCP and DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [robert] (1)
 
 
-### 2. 1. DHCP Overview
+### 1. DHCP Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is DHCP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980)
@@ -278,7 +282,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setting Up DHCP
+### 2. Setting Up DHCP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing the DHCP server role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980)
@@ -649,7 +655,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Managing DHCP
+### 3. Managing DHCP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up reservations
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980)
@@ -1040,7 +1048,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Advanced DHCP
+### 4. Advanced DHCP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DHCP failover and high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980)
@@ -1455,7 +1465,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. DNS Overview
+### 5. DNS Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DNS importance with Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980)
@@ -1675,7 +1687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Deploying DNS
+### 6. Deploying DNS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install DNS on a member server
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980)
@@ -1889,7 +1903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. DNS Zones
+### 7. DNS Zones
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Forward DNS zones and AD integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980)
@@ -2263,7 +2279,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. DNS Resource Records
+### 8. DNS Resource Records
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Forward and reverse zone records
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980)
@@ -2623,7 +2641,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Advanced DNS
+### 9. Advanced DNS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DNS queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-queries?u=76281980)
@@ -2762,7 +2782,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. DNS Security
+### 10. DNS Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DNS cache locking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980)
@@ -3070,7 +3092,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. DHCP and DNS Management
+### 11. DHCP and DNS Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing DNS and DHCP using Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980)

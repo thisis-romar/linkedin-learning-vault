@@ -29,8 +29,10 @@ tags:
   - topic/web-development
   - skill/usability-testing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Usability%20Testing.md)
 
 ![UX Deep Dive: Usability Testing](https://media.licdn.com/dms/image/v2/C560DAQGtb-Q8JCY7yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588621854430?e=2147483647&amp;v=beta&amp;t=4t3wUfWUWeHIVA38QI5rr90Scnld1DQN0flKGBxp99Y)
 

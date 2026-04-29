@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/people-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Be%20the%20Manager%20People%20Won't%20Leave.md)
@@ -44,12 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Get Them to Stay: The Basics]]** (3 videos)
-- **[[#3. 2. Inspire Them to Grow: The Core Work]]** (3 videos)
-- **[[#4. 3. Help Them Love Their Work: The Challenge]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Get Them to Stay: The Basics]]** (3 videos)
+- **[[#2. Inspire Them to Grow: The Core Work]]** (3 videos)
+- **[[#3. Help Them Love Their Work: The Challenge]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be the manager people won't leave
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-the-manager-people-won-t-leave-23794103?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Get Them to Stay: The Basics
+### 1. Get Them to Stay: The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be someone people trust, no matter what
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-someone-people-trust-no-matter-what-23749098?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Inspire Them to Grow: The Core Work
+### 2. Inspire Them to Grow: The Core Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be obsessed with learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980)
@@ -515,7 +521,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Help Them Love Their Work: The Challenge
+### 3. Help Them Love Their Work: The Challenge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be a next-level mentor
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-next-level-mentor-23791279?u=76281980)

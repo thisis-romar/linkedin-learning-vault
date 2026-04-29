@@ -34,7 +34,7 @@ tags:
   - skill/chatgpt
   - skill/business-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Learning%20ChatGPT%20for%20Business%20Analysis.md)
@@ -52,12 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. All about ChatGPT]]** (5 videos)
-- **[[#3. 2. ChatGPT Use Cases]]** (17 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. All about ChatGPT]]** (5 videos)
+- **[[#2. ChatGPT Use Cases]]** (17 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Power up with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. All about ChatGPT
+### 1. All about ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
@@ -401,7 +405,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. ChatGPT Use Cases
+### 2. ChatGPT Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gaining insights from the output of elicitation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
@@ -1337,7 +1343,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### We're just getting started with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)

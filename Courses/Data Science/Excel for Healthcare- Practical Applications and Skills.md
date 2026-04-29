@@ -33,7 +33,7 @@ tags:
   - skill/microsoft-excel
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20for%20Healthcare-%20Practical%20Applications%20and%20Skills.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Patient Data Management and Analysis with Excel]]** (7 videos)
-- **[[#3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management]]** (5 videos)
-- **[[#4. 3. Excel for Clinical Use and Research in Healthcare]]** (4 videos)
-- **[[#5. 4. Healthcare Supply Chain Management with Excel]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Patient Data Management and Analysis with Excel]]** (7 videos)
+- **[[#2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management]]** (5 videos)
+- **[[#3. Excel for Clinical Use and Research in Healthcare]]** (4 videos)
+- **[[#4. Healthcare Supply Chain Management with Excel]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of using Excel in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
@@ -210,7 +212,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Patient Data Management and Analysis with Excel
+### 1. Patient Data Management and Analysis with Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating patient biodata entry forms with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
@@ -1099,7 +1103,9 @@ created: 2026-04-28
 > **Versions:** 0.7 (1)
 
 
-### 3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
+### 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a nursing staff schedule with Excel: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
@@ -1593,7 +1599,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Excel for Clinical Use and Research in Healthcare
+### 3. Excel for Clinical Use and Research in Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a medication dosage calculation sheet in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
@@ -1988,7 +1996,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Healthcare Supply Chain Management with Excel
+### 4. Healthcare Supply Chain Management with Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an inventory tracker for an antiretroviral clinic
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
@@ -2302,7 +2312,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expanding your skills in healthcare analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)

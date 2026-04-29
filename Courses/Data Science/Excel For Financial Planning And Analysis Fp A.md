@@ -28,7 +28,7 @@ tags:
   - skill/microsoft-excel
   - skill/financial-planning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20For%20Financial%20Planning%20And%20Analysis%20Fp%20A.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Why Does Excel Matter to FP&A?]]** (4 videos)
-- **[[#3. 2. Dynamic Data Tables in Excel for FP&A]]** (8 videos)
-- **[[#4. 3. Dynamic Data Ranges in Excel for FP&A]]** (6 videos)
-- **[[#5. 4. Dynamic Data Arrays in Excel for FP&A]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why Does Excel Matter to FP&A?]]** (4 videos)
+- **[[#2. Dynamic Data Tables in Excel for FP&A]]** (8 videos)
+- **[[#3. Dynamic Data Ranges in Excel for FP&A]]** (6 videos)
+- **[[#4. Dynamic Data Arrays in Excel for FP&A]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveraging Excel for financial planning & analysis (FP&A)
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - financial (1)
 
 
-### 2. 1. Why Does Excel Matter to FP&A?
+### 1. Why Does Excel Matter to FP&A?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is financial planning & analysis (FP&A)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980)
@@ -334,7 +338,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Dynamic Data Tables in Excel for FP&A
+### 2. Dynamic Data Tables in Excel for FP&A
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to dynamic data tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980)
@@ -1605,7 +1611,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Dynamic Data Ranges in Excel for FP&A
+### 3. Dynamic Data Ranges in Excel for FP&A
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using INDEX XMATCH for dynamic ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980)
@@ -2195,7 +2203,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Dynamic Data Arrays in Excel for FP&A
+### 4. Dynamic Data Arrays in Excel for FP&A
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to dynamic arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980)
@@ -3032,7 +3042,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980)

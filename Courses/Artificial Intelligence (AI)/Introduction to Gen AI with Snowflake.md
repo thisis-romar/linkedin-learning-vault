@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Gen%20AI%20with%20Snowflake.md)
@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to GenAI on Snowflake]]** (2 videos)
-- **[[#3. 2. Snowflake Cortex’s LLM-Based Functions]]** (8 videos)
-- **[[#4. 3. Customize LLM Responses with Cortex Fine-Tuning]]** (9 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to GenAI on Snowflake]]** (2 videos)
+- **[[#2. Snowflake Cortex’s LLM-Based Functions]]** (8 videos)
+- **[[#3. Customize LLM Responses with Cortex Fine-Tuning]]** (9 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating the generative AI revolution with Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Introduction to GenAI on Snowflake
+### 1. Introduction to GenAI on Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
@@ -545,7 +549,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1), in the next (1)
 
 
-### 3. 2. Snowflake Cortex’s LLM-Based Functions
+### 2. Snowflake Cortex’s LLM-Based Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
@@ -1593,7 +1599,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Customize LLM Responses with Cortex Fine-Tuning
+### 3. Customize LLM Responses with Cortex Fine-Tuning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Cortex fine-tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)

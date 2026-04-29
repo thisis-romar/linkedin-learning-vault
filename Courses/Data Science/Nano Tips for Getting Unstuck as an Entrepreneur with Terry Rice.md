@@ -28,7 +28,7 @@ tags:
   - skill/business-development
   - skill/entrepreneurship
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20for%20Getting%20Unstuck%20as%20an%20Entrepreneur%20with%20Terry%20Rice.md)
@@ -46,9 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. How to Get Unstuck as an Entrepreneur]]** (10 videos)
+- **[[#1. How to Get Unstuck as an Entrepreneur]]** (10 videos)
 
-### 1. 1. How to Get Unstuck as an Entrepreneur
+### 1. How to Get Unstuck as an Entrepreneur
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to determine the vision and mission of your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)

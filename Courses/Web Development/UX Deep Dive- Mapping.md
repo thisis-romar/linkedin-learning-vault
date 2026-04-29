@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Mapping.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. UX Mapping]]** (1 videos)
-- **[[#2. 1. Mapping Overview]]** (1 videos)
-- **[[#3. 2. Empathy Map]]** (2 videos)
-- **[[#4. 3. Journey Map]]** (3 videos)
-- **[[#5. 4. Experience Map]]** (2 videos)
-- **[[#6. 5. Other Maps]]** (1 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#UX Mapping]]** (1 videos)
+- **[[#1. Mapping Overview]]** (1 videos)
+- **[[#2. Empathy Map]]** (2 videos)
+- **[[#3. Journey Map]]** (3 videos)
+- **[[#4. Experience Map]]** (2 videos)
+- **[[#5. Other Maps]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. UX Mapping
+### UX Mapping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is UX mapping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Mapping Overview
+### 1. Mapping Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mapping as a tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980)
@@ -125,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Empathy Map
+### 2. Empathy Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Empathy map usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/empathy-map-usage?u=76281980)
@@ -255,7 +261,9 @@ created: 2026-04-28
 > **Speakers:** - an (1)
 
 
-### 4. 3. Journey Map
+### 3. Journey Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a journey map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980)
@@ -429,7 +437,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. 4. Experience Map
+### 4. Experience Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a experience map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-experience-map?u=76281980)
@@ -533,7 +543,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 6. 5. Other Maps
+### 5. Other Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Other types of maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980)
@@ -618,7 +630,9 @@ created: 2026-04-28
 > **Speakers:** - empathy (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Share your #uxmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980)

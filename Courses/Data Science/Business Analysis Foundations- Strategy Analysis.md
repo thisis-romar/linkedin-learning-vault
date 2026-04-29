@@ -21,7 +21,7 @@ tags:
   - course
   - topic/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20Foundations-%20Strategy%20Analysis.md)
@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Strategy Analysis Basics]]** (3 videos)
-- **[[#3. 2. Analyzing the Current State]]** (5 videos)
-- **[[#4. 3. Defining the Future State]]** (6 videos)
-- **[[#5. 4. Assessing Risks of Solutions]]** (2 videos)
-- **[[#6. 5. Defining the Change Strategy]]** (2 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Strategy Analysis Basics]]** (3 videos)
+- **[[#2. Analyzing the Current State]]** (5 videos)
+- **[[#3. Defining the Future State]]** (6 videos)
+- **[[#4. Assessing Risks of Solutions]]** (2 videos)
+- **[[#5. Defining the Change Strategy]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Increase success with strategy analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/increase-success-with-strategy-analysis?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Understanding Strategy Analysis Basics
+### 1. Understanding Strategy Analysis Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is strategy analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/what-is-strategy-analysis?u=76281980)
@@ -319,7 +323,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Analyzing the Current State
+### 2. Analyzing the Current State
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980)
@@ -703,7 +709,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Defining the Future State
+### 3. Defining the Future State
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980)
@@ -1126,7 +1134,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Assessing Risks of Solutions
+### 4. Assessing Risks of Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assess risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980)
@@ -1273,7 +1283,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 6. 5. Defining the Change Strategy
+### 5. Defining the Change Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define change strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-change-strategy?u=76281980)
@@ -1439,7 +1451,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supporting project initiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/supporting-project-initiation?u=76281980)

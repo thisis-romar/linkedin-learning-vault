@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Using%20Custom%20Meta%20Boxes%20in%20WordPress.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. How CMB2 Works]]** (8 videos)
-- **[[#3. 2. Building Our Custom Fields]]** (9 videos)
-- **[[#4. 3. Creating a Post Select Box]]** (2 videos)
-- **[[#5. 4. Noteworthy Features]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. How CMB2 Works]]** (8 videos)
+- **[[#2. Building Our Custom Fields]]** (9 videos)
+- **[[#3. Creating a Post Select Box]]** (2 videos)
+- **[[#4. Noteworthy Features]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Custom fields without dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. How CMB2 Works
+### 1. How CMB2 Works
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is CMB2 and how does it work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980)
@@ -526,7 +530,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Building Our Custom Fields
+### 2. Building Our Custom Fields
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining our custom fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980)
@@ -1615,7 +1621,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Creating a Post Select Box
+### 3. Creating a Post Select Box
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a post select box
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980)
@@ -1846,7 +1854,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Noteworthy Features
+### 4. Noteworthy Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bringing in taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980)
@@ -2031,7 +2041,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980)

@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - Cybersecurity
   - Network and System Administration
-louvain_cluster: 3
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/security
@@ -31,7 +31,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/VoIP-%20From%20Fundamentals%20to%20Troubleshooting.md)

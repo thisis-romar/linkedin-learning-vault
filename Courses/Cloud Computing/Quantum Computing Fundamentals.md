@@ -30,7 +30,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Quantum%20Computing%20Fundamentals.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Quantum Bits]]** (12 videos)
-- **[[#3. 2. Multiple Quantum Bits]]** (3 videos)
-- **[[#4. 3. Single-Qubit Pauli Gates]]** (10 videos)
-- **[[#5. 4. Single-Qubit Superposition Gates]]** (10 videos)
-- **[[#6. 5. Multi-Qubit Gates]]** (8 videos)
-- **[[#7. 6. Quantum Entanglement]]** (5 videos)
-- **[[#8. 7. Real Quantum Hardware]]** (3 videos)
-- **[[#9. 8. Quantum Algorithms]]** (6 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Quantum Bits]]** (12 videos)
+- **[[#2. Multiple Quantum Bits]]** (3 videos)
+- **[[#3. Single-Qubit Pauli Gates]]** (10 videos)
+- **[[#4. Single-Qubit Superposition Gates]]** (10 videos)
+- **[[#5. Multi-Qubit Gates]]** (8 videos)
+- **[[#6. Quantum Entanglement]]** (5 videos)
+- **[[#7. Real Quantum Hardware]]** (3 videos)
+- **[[#8. Quantum Algorithms]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
@@ -376,7 +378,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Quantum Bits
+### 1. Quantum Bits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classical bits vs. quantum bits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
@@ -1898,7 +1902,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Multiple Quantum Bits
+### 2. Multiple Quantum Bits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Represent multiple qubits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
@@ -2106,7 +2112,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Single-Qubit Pauli Gates
+### 3. Single-Qubit Pauli Gates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of matrix operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
@@ -2852,7 +2860,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. 4. Single-Qubit Superposition Gates
+### 4. Single-Qubit Superposition Gates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hadamard gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
@@ -3508,7 +3518,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5. Multi-Qubit Gates
+### 5. Multi-Qubit Gates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controlled-NOT (CNOT) gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
@@ -3952,7 +3964,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Quantum Entanglement
+### 6. Quantum Entanglement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is quantum entanglement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
@@ -4361,7 +4375,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Real Quantum Hardware
+### 7. Real Quantum Hardware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access IBM quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
@@ -4639,7 +4655,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 9. 8. Quantum Algorithms
+### 8. Quantum Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Superdense coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
@@ -5158,7 +5176,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your next quantum steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)

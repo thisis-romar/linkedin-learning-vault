@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Advanced%20Decision%20Trees%20with%20KNIME.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Exploring the Many Decision Tree Algorithms]]** (3 videos)
-- **[[#3. 2. Using Extensions]]** (3 videos)
-- **[[#4. 3. What Is Rule Induction?]]** (3 videos)
-- **[[#5. 4. Low Code Python Options in KNIME]]** (4 videos)
-- **[[#6. 5. Ensembles and Random Forests]]** (3 videos)
-- **[[#7. 6. Advanced Tips and Tricks]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Exploring the Many Decision Tree Algorithms]]** (3 videos)
+- **[[#2. Using Extensions]]** (3 videos)
+- **[[#3. What Is Rule Induction?]]** (3 videos)
+- **[[#4. Low Code Python Options in KNIME]]** (4 videos)
+- **[[#5. Ensembles and Random Forests]]** (3 videos)
+- **[[#6. Advanced Tips and Tricks]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Exploring the Many Decision Tree Algorithms
+### 1. Exploring the Many Decision Tree Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why are trees considered greedy algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980)
@@ -336,7 +340,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Extensions
+### 2. Using Extensions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980)
@@ -568,7 +574,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. What Is Rule Induction?
+### 3. What Is Rule Induction?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing trees and rule induction
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980)
@@ -781,7 +789,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Low Code Python Options in KNIME
+### 4. Low Code Python Options in KNIME
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Low code options in KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980)
@@ -1207,7 +1217,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Ensembles and Random Forests
+### 5. Ensembles and Random Forests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing random forest
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980)
@@ -1540,7 +1552,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 7. 6. Advanced Tips and Tricks
+### 6. Advanced Tips and Tricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data reduction with random forests
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980)
@@ -1859,7 +1873,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts and recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980)

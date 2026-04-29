@@ -34,7 +34,7 @@ tags:
   - skill/data-structures
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Data%20Structures-%20Stacks%2C%20Deques%2C%20and%20Queues.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Stacks]]** (5 videos)
-- **[[#3. 2. Queues]]** (5 videos)
-- **[[#4. 3. Deques]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Stacks]]** (5 videos)
+- **[[#2. Queues]]** (5 videos)
+- **[[#3. Deques]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python data structures: Stacks, queues, and deques
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Stacks
+### 1. Stacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stacks: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stacks-an-introduction?u=76281980)
@@ -468,7 +472,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Queues
+### 2. Queues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Queues: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980)
@@ -801,7 +807,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. 3. Deques
+### 3. Deques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deques: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980)
@@ -926,7 +934,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980)

@@ -41,7 +41,7 @@ tags:
   - skill/javascript
   - skill/ecmascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Functional%20Programming%20with%20JavaScript%20ES6%2B.md)
@@ -59,15 +59,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introductory Functional Concepts]]** (9 videos)
-- **[[#3. 2. First-Class Functions]]** (9 videos)
-- **[[#4. 3. JavaScript Array Manipulation]]** (10 videos)
-- **[[#5. 4. Advanced Functional Concepts]]** (3 videos)
-- **[[#6. 5. Code Conversion Challenges]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introductory Functional Concepts]]** (9 videos)
+- **[[#2. First-Class Functions]]** (9 videos)
+- **[[#3. JavaScript Array Manipulation]]** (10 videos)
+- **[[#4. Advanced Functional Concepts]]** (3 videos)
+- **[[#5. Code Conversion Challenges]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional programming will change the way you think about code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
@@ -190,7 +192,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Introductory Functional Concepts
+### 1. Introductory Functional Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The goal of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
@@ -762,7 +766,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. First-Class Functions
+### 2. First-Class Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JavaScript arrow function syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
@@ -1980,7 +1986,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 4. 3. JavaScript Array Manipulation
+### 3. JavaScript Array Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of functional data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
@@ -3244,7 +3252,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Advanced Functional Concepts
+### 4. Advanced Functional Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Currying and partial application
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
@@ -3719,7 +3729,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. 5. Code Conversion Challenges
+### 5. Code Conversion Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Count occurrences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
@@ -3728,7 +3740,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-anagrams?u=76281980)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your ES6+ journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)

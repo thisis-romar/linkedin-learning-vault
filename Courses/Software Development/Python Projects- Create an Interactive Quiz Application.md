@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Projects-%20Create%20an%20Interactive%20Quiz%20Application.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Overview]]** (4 videos)
-- **[[#3. 2. The Basics]]** (7 videos)
-- **[[#4. 3. Improvements]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Overview]]** (4 videos)
+- **[[#2. The Basics]]** (7 videos)
+- **[[#3. Improvements]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a quiz app in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
@@ -205,7 +207,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the app requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
@@ -663,7 +667,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Basics
+### 2. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the Question and Answer classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
@@ -1699,7 +1705,9 @@ created: 2026-04-28
 > **Definitions:** is called (1), is a  (1)
 
 
-### 4. 3. Improvements
+### 3. Improvements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Presenting questions in random order
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
@@ -2093,7 +2101,9 @@ created: 2026-04-28
 > **Speakers:** - [joe] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)

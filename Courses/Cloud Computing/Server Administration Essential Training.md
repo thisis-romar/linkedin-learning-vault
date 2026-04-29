@@ -33,7 +33,7 @@ tags:
   - topic/network-and-system-administration
   - skill/network-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Server%20Administration%20Essential%20Training.md)
@@ -51,19 +51,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Server Architecture]]** (3 videos)
-- **[[#3. 2. Server Administration]]** (4 videos)
-- **[[#4. 3. Server Maintenance]]** (5 videos)
-- **[[#5. 4. Networking]]** (4 videos)
-- **[[#6. 5. Storage]]** (3 videos)
-- **[[#7. 6. Security]]** (4 videos)
-- **[[#8. 7. Environmental Protection]]** (3 videos)
-- **[[#9. 8. Virtualization and Cloud Computing]]** (3 videos)
-- **[[#10. 9. Disaster Recovery]]** (3 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Server Architecture]]** (3 videos)
+- **[[#2. Server Administration]]** (4 videos)
+- **[[#3. Server Maintenance]]** (5 videos)
+- **[[#4. Networking]]** (4 videos)
+- **[[#5. Storage]]** (3 videos)
+- **[[#6. Security]]** (4 videos)
+- **[[#7. Environmental Protection]]** (3 videos)
+- **[[#8. Virtualization and Cloud Computing]]** (3 videos)
+- **[[#9. Disaster Recovery]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with server administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Server Architecture
+### 1. Server Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Server form factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
@@ -449,7 +453,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Server Administration
+### 2. Server Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
@@ -879,7 +885,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Server Maintenance
+### 3. Server Maintenance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### General server management
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
@@ -1345,7 +1353,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Networking
+### 4. Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic IP configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
@@ -1656,7 +1666,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Storage
+### 5. Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
@@ -1937,7 +1949,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Security
+### 6. Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rights and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
@@ -2338,7 +2352,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Environmental Protection
+### 7. Environmental Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Power protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
@@ -2556,7 +2572,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Virtualization and Cloud Computing
+### 8. Virtualization and Cloud Computing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
@@ -2841,7 +2859,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Disaster Recovery
+### 9. Disaster Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning for a disaster
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
@@ -3232,7 +3252,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)

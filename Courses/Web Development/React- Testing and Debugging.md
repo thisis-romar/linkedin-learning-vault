@@ -30,7 +30,7 @@ tags:
   - skill/debugging
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Testing%20and%20Debugging.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up]]** (6 videos)
-- **[[#3. 2. Testing with Jest]]** (8 videos)
-- **[[#4. 3. Debugging with Chrome and Extensions]]** (5 videos)
-- **[[#5. 4. ESLint and Types]]** (3 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up]]** (6 videos)
+- **[[#2. Testing with Jest]]** (8 videos)
+- **[[#3. Debugging with Chrome and Extensions]]** (5 videos)
+- **[[#4. ESLint and Types]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing and debugging your React apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your test project
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980)
@@ -605,7 +609,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. 2. Testing with Jest
+### 2. Testing with Jest
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test strings with matchers
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980)
@@ -1427,7 +1433,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 4. 3. Debugging with Chrome and Extensions
+### 3. Debugging with Chrome and Extensions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debug with Chrome introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980)
@@ -1847,7 +1855,9 @@ created: 2026-04-28
 > **URLs:** [reactjs.org](https://reactjs.org) (1)
 
 
-### 5. 4. ESLint and Types
+### 4. ESLint and Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code improvement with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980)
@@ -2155,7 +2165,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React StrictMode behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/devsecops
   - skill/continuous-delivery-cd
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/DevSecOps-%20Building%20a%20Secure%20Continuous%20Delivery%20Pipeline.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The DevSecOps Toolchain]]** (4 videos)
-- **[[#3. 2. Development Tools]]** (4 videos)
-- **[[#4. 3. Inherit Tools]]** (5 videos)
-- **[[#5. 4. Build Tools]]** (3 videos)
-- **[[#6. 5. Deploy Tools]]** (3 videos)
-- **[[#7. 6. Operation Tools]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The DevSecOps Toolchain]]** (4 videos)
+- **[[#2. Development Tools]]** (4 videos)
+- **[[#3. Inherit Tools]]** (5 videos)
+- **[[#4. Build Tools]]** (3 videos)
+- **[[#5. Deploy Tools]]** (3 videos)
+- **[[#6. Operation Tools]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/securing-your-ci-cd-pipeline?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The DevSecOps Toolchain
+### 1. The DevSecOps Toolchain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Traditional InfoSec is in crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/traditional-infosec-is-in-crisis?u=76281980)
@@ -403,7 +407,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Development Tools
+### 2. Development Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure development practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/secure-development-practices?u=76281980)
@@ -774,7 +780,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Inherit Tools
+### 3. Inherit Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's in your app?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/what-s-in-your-app?u=76281980)
@@ -1110,7 +1118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Build Tools
+### 4. Build Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security testing in the build stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-testing-in-the-build-stage?u=76281980)
@@ -1406,7 +1416,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 6. 5. Deploy Tools
+### 5. Deploy Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security in the deploy phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/security-in-the-deploy-phase?u=76281980)
@@ -1638,7 +1650,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 7. 6. Operation Tools
+### 6. Operation Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping security in operate
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/keeping-security-in-operate?u=76281980)
@@ -1969,7 +1983,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/next-steps?u=76281980)

@@ -34,7 +34,7 @@ tags:
   - skill/microsoft-entra-id
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20for%20Microsoft%20Entra%20ID.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Entra ID Connect Fundamentals]]** (5 videos)
-- **[[#3. 2. Planning for Users and Devices]]** (7 videos)
-- **[[#4. 3. Preparing the Environment]]** (8 videos)
-- **[[#5. 4. Deploying Entra ID Connect]]** (6 videos)
-- **[[#6. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Entra ID Connect Fundamentals]]** (5 videos)
+- **[[#2. Planning for Users and Devices]]** (7 videos)
+- **[[#3. Preparing the Environment]]** (8 videos)
+- **[[#4. Deploying Entra ID Connect]]** (6 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 2. 1. Entra ID Connect Fundamentals
+### 1. Entra ID Connect Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Entra ID Connect overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
@@ -570,7 +574,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Planning for Users and Devices
+### 2. Planning for Users and Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Password hash synchronization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
@@ -1161,7 +1167,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Preparing the Environment
+### 3. Preparing the Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing Windows Server AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
@@ -1670,7 +1678,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Deploying Entra ID Connect
+### 4. Deploying Entra ID Connect
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deployment methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
@@ -2291,7 +2301,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)

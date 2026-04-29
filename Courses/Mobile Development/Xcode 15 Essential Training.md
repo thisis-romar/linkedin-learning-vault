@@ -32,7 +32,7 @@ tags:
   - skill/xcode
   - skill/ios-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Xcode%2015%20Essential%20Training.md)
@@ -50,15 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (10 videos)
-- **[[#3. 2. Efficient Coding with SwiftUI and Prototyping]]** (5 videos)
-- **[[#4. 3. Source Control]]** (7 videos)
-- **[[#5. 4. Storyboard Design Basics]]** (6 videos)
-- **[[#6. 5. Debugging and Testing]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (10 videos)
+- **[[#2. Efficient Coding with SwiftUI and Prototyping]]** (5 videos)
+- **[[#3. Source Control]]** (7 videos)
+- **[[#4. Storyboard Design Basics]]** (6 videos)
+- **[[#5. Debugging and Testing]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming an Xcode expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
@@ -782,7 +786,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Efficient Coding with SwiftUI and Prototyping
+### 2. Efficient Coding with SwiftUI and Prototyping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the canvas with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
@@ -1078,7 +1084,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Source Control
+### 3. Source Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a local repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
@@ -1476,7 +1484,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Storyboard Design Basics
+### 4. Storyboard Design Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Interface Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
@@ -1971,7 +1981,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Debugging and Testing
+### 5. Debugging and Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
@@ -2253,7 +2265,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-for-learning-and-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Developing%20A%20Learning%20Mindset%20In%20The%20Age%20Of%20Ai.md)

@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20with%20LangChain.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Language Models]]** (1 videos)
-- **[[#3. 2. LLMs and Text Generation]]** (4 videos)
-- **[[#4. 3. Components of LangChain]]** (7 videos)
-- **[[#5. 4. Basics of Prompting]]** (2 videos)
-- **[[#6. 5. Prompt Templates Deep Dive]]** (17 videos)
-- **[[#7. 6. Prompting Techniques]]** (7 videos)
-- **[[#8. 7. Prompt Management a.k.a. PromptOps]]** (6 videos)
-- **[[#9. 8. The LLM Landscape]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Language Models]]** (1 videos)
+- **[[#2. LLMs and Text Generation]]** (4 videos)
+- **[[#3. Components of LangChain]]** (7 videos)
+- **[[#4. Basics of Prompting]]** (2 videos)
+- **[[#5. Prompt Templates Deep Dive]]** (17 videos)
+- **[[#6. Prompting Techniques]]** (7 videos)
+- **[[#7. Prompt Management a.k.a. PromptOps]]** (6 videos)
+- **[[#8. The LLM Landscape]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create powerful LLM driven applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - hi (1)
 
 
-### 2. 1. Introduction to Language Models
+### 1. Introduction to Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
@@ -187,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. LLMs and Text Generation
+### 2. LLMs and Text Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do language models generate text?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
@@ -646,7 +652,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Components of LangChain
+### 3. Components of LangChain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is LangChain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
@@ -1950,7 +1958,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Basics of Prompting
+### 4. Basics of Prompting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
@@ -2228,7 +2238,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Prompt Templates Deep Dive
+### 5. Prompt Templates Deep Dive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to prompt templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
@@ -4106,7 +4118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Prompting Techniques
+### 6. Prompting Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chain of thought
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
@@ -5675,7 +5689,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1), set up (1)
 
 
-### 8. 7. Prompt Management a.k.a. PromptOps
+### 7. Prompt Management a.k.a. PromptOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt management
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
@@ -6581,7 +6597,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. The LLM Landscape
+### 8. The LLM Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applications of language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)

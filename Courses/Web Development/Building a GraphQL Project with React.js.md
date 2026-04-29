@@ -31,7 +31,7 @@ tags:
   - skill/react-js
   - skill/graphql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20a%20GraphQL%20Project%20with%20React.js.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (3 videos)
-- **[[#3. 2. GitHub's GraphQL Schema]]** (3 videos)
-- **[[#4. 3. Working with GraphQL Data]]** (4 videos)
-- **[[#5. 4. Building the React App]]** (4 videos)
-- **[[#6. 5. Adding Interactive Features]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. GitHub's GraphQL Schema]]** (3 videos)
+- **[[#3. Working with GraphQL Data]]** (4 videos)
+- **[[#4. Building the React App]]** (4 videos)
+- **[[#5. Adding Interactive Features]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use React with GraphQL for projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1), install (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980)
@@ -750,7 +754,9 @@ created: 2026-04-28
 > **Tools:** terminal (2), visual studio (1)
 
 
-### 3. 2. GitHub's GraphQL Schema
+### 2. GitHub's GraphQL Schema
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980)
@@ -1335,7 +1341,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Working with GraphQL Data
+### 3. Working with GraphQL Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Retrieving data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980)
@@ -1687,7 +1695,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Building the React App
+### 4. Building the React App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating a list of repos
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980)
@@ -2242,7 +2252,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 6. 5. Adding Interactive Features
+### 5. Adding Interactive Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating dynamic queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980)
@@ -2792,7 +2804,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980)

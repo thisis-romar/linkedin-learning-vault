@@ -29,7 +29,7 @@ tags:
   - skill/itil
   - skill/cybersecurity-incident-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Incident%20Management.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Incident Reduction]]** (6 videos)
-- **[[#3. 2. Incident Shift-Left]]** (6 videos)
-- **[[#4. 3. Incident Monitoring Optimization]]** (6 videos)
-- **[[#5. 4. Incident Cycle Time Reduction]]** (6 videos)
-- **[[#6. 5. Incident Reassignment Reduction]]** (6 videos)
-- **[[#7. 6. First-Contact Closure Rate Optimization]]** (6 videos)
-- **[[#8. 7. Knowledge Base Optimization]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Incident Reduction]]** (6 videos)
+- **[[#2. Incident Shift-Left]]** (6 videos)
+- **[[#3. Incident Monitoring Optimization]]** (6 videos)
+- **[[#4. Incident Cycle Time Reduction]]** (6 videos)
+- **[[#5. Incident Reassignment Reduction]]** (6 videos)
+- **[[#6. First-Contact Closure Rate Optimization]]** (6 videos)
+- **[[#7. Knowledge Base Optimization]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stand apart as a incident management practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980)
@@ -298,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Incident Reduction
+### 1. Incident Reduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is incident reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980)
@@ -764,7 +768,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Incident Shift-Left
+### 2. Incident Shift-Left
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is incident shift-left, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980)
@@ -1241,7 +1247,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Incident Monitoring Optimization
+### 3. Incident Monitoring Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the incident monitoring optimization response, and why do it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-monitoring-optimization-and-why-do-it?u=76281980)
@@ -1733,7 +1741,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Incident Cycle Time Reduction
+### 4. Incident Cycle Time Reduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is incident cycle time reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-cycle-time-reduction-and-why-use-it?u=76281980)
@@ -2242,7 +2252,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Incident Reassignment Reduction
+### 5. Incident Reassignment Reduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is incident reassignment reduction, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-reassignment-reduction-and-why-do-it?u=76281980)
@@ -2750,7 +2762,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. First-Contact Closure Rate Optimization
+### 6. First-Contact Closure Rate Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is first-contact closure rate optimization, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-first-contact-closure-rate-optimization-and-why-use-it?u=76281980)
@@ -3246,7 +3260,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Knowledge Base Optimization
+### 7. Knowledge Base Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is knowledge base optimization, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-knowledgebase-optimization-and-why-use-it?u=76281980)
@@ -3744,7 +3760,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further your journey into incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980)

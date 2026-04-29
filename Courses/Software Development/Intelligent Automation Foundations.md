@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Intelligent%20Automation%20Foundations.md)

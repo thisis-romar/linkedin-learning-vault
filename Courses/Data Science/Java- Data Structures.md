@@ -36,7 +36,7 @@ tags:
   - skill/data-structures
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java-%20Data%20Structures.md)
@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Java Data Structures]]** (2 videos)
-- **[[#3. 2. Using Arrays]]** (2 videos)
-- **[[#4. 3. Java Collections]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Java Data Structures]]** (2 videos)
+- **[[#2. Using Arrays]]** (2 videos)
+- **[[#3. Java Collections]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
@@ -330,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Java Data Structures
+### 1. Java Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a data structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
@@ -446,7 +450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Arrays
+### 2. Using Arrays
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
@@ -639,7 +645,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Java Collections
+### 3. Java Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Collection interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
@@ -1224,7 +1232,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)

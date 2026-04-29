@@ -39,7 +39,7 @@ tags:
   - skill/data-analysis
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/R%20for%20Data%20Science-%20Analysis%20and%20Visualization.md)
@@ -57,15 +57,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is R?]]** (2 videos)
-- **[[#3. 2. Getting Started]]** (11 videos)
-- **[[#4. 3. Data Visualization]]** (7 videos)
-- **[[#5. 4. Data Wrangling]]** (3 videos)
-- **[[#6. 5. Data Analysis]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is R?]]** (2 videos)
+- **[[#2. Getting Started]]** (11 videos)
+- **[[#3. Data Visualization]]** (7 videos)
+- **[[#4. Data Wrangling]]** (3 videos)
+- **[[#5. Data Analysis]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### R for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is R?
+### 1. What Is R?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
@@ -318,7 +322,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Started
+### 2. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
@@ -1725,7 +1731,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 4. 3. Data Visualization
+### 3. Data Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using colors in R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
@@ -2925,7 +2933,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Wrangling
+### 4. Data Wrangling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting cases and subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
@@ -3178,7 +3188,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Analysis
+### 5. Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
@@ -3785,7 +3797,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)

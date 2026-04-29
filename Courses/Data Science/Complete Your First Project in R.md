@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/rstudio
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Your%20First%20Project%20in%20R.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Exploring Customer Data]]** (9 videos)
-- **[[#3. 2. Classification Analysis]]** (10 videos)
-- **[[#4. 3. Cluster Analysis]]** (8 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Exploring Customer Data]]** (9 videos)
+- **[[#2. Classification Analysis]]** (10 videos)
+- **[[#3. Cluster Analysis]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
@@ -265,7 +267,9 @@ created: 2026-04-28
 > **Prerequisites:** install (4)
 
 
-### 2. 1. Exploring Customer Data
+### 1. Exploring Customer Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Red30 Tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
@@ -1028,7 +1032,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Classification Analysis
+### 2. Classification Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding classification analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
@@ -1937,7 +1943,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Cluster Analysis
+### 3. Cluster Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
@@ -2733,7 +2741,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)

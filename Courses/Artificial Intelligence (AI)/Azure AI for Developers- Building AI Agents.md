@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/semantic-kernel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Building%20AI%20Agents.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Working with AI Agents]]** (9 videos)
-- **[[#3. 2. Semantic Kernel]]** (7 videos)
-- **[[#4. 3. Autogen]]** (10 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with AI Agents]]** (9 videos)
+- **[[#2. Semantic Kernel]]** (7 videos)
+- **[[#3. Autogen]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build AI agents with Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with AI Agents
+### 1. Working with AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
@@ -760,7 +764,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Semantic Kernel
+### 2. Semantic Kernel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Semantic Kernel Agent Framework overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
@@ -1228,7 +1234,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Autogen
+### 3. Autogen
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AutoGen overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
@@ -2032,7 +2040,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)

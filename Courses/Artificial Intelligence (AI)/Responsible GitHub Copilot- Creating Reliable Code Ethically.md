@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/github-copilot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20GitHub%20Copilot-%20Creating%20Reliable%20Code%20Ethically.md)
@@ -55,11 +55,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Using GitHub Copilot Responsibly]]** (7 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Using GitHub Copilot Responsibly]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAI and creating code responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. 1. Using GitHub Copilot Responsibly
+### 1. Using GitHub Copilot Responsibly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controlling the Skies: Your role as a Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
@@ -508,7 +512,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)

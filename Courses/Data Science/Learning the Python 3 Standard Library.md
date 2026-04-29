@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20Python%203%20Standard%20Library.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Python: What's Built In?]]** (9 videos)
-- **[[#3. 2. Python: Math]]** (7 videos)
-- **[[#4. 3. Python Input/Output]]** (8 videos)
-- **[[#5. 4. Python: Date and Time, HTML Parsing, and HTTP]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Python: What's Built In?]]** (9 videos)
+- **[[#2. Python: Math]]** (7 videos)
+- **[[#3. Python Input/Output]]** (8 videos)
+- **[[#4. Python: Date and Time, HTML Parsing, and HTTP]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make writing Python easier with Python standard libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
@@ -266,7 +268,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Python: What's Built In?
+### 1. Python: What's Built In?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Logical operators: And, or, not
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
@@ -1229,7 +1233,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Python: Math
+### 2. Python: Math
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trigonometry, ceiling, floor, and constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
@@ -1919,7 +1925,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Python Input/Output
+### 3. Python Input/Output
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
@@ -2603,7 +2611,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Python: Date and Time, HTML Parsing, and HTTP
+### 4. Python: Date and Time, HTML Parsing, and HTTP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the current time with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
@@ -3263,7 +3273,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add these built-in functions to your own applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)

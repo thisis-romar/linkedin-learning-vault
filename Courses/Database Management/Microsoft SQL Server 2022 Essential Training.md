@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Microsoft%20SQL%20Server%202022%20Essential%20Training.md)
@@ -47,19 +47,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. Logging in to the Server]]** (4 videos)
-- **[[#4. 3. Creating Databases]]** (9 videos)
-- **[[#5. 4. Table Design for Healthy Databases]]** (10 videos)
-- **[[#6. 5. Structured Query Language]]** (17 videos)
-- **[[#7. 6. Writing Efficient Queries]]** (9 videos)
-- **[[#8. 7. Backup and Restore]]** (5 videos)
-- **[[#9. 8. Security]]** (5 videos)
-- **[[#10. 9. Monitoring and Management]]** (5 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Logging in to the Server]]** (4 videos)
+- **[[#3. Creating Databases]]** (9 videos)
+- **[[#4. Table Design for Healthy Databases]]** (10 videos)
+- **[[#5. Structured Query Language]]** (17 videos)
+- **[[#6. Writing Efficient Queries]]** (9 videos)
+- **[[#7. Backup and Restore]]** (5 videos)
+- **[[#8. Security]]** (5 videos)
+- **[[#9. Monitoring and Management]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create databases with SQL Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980)
@@ -159,7 +161,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Core concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980)
@@ -884,7 +888,9 @@ created: 2026-04-28
 > **File Paths:** docker_sql_server_2022.txt (1)
 
 
-### 3. 2. Logging in to the Server
+### 2. Logging in to the Server
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User permissions and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980)
@@ -1367,7 +1373,9 @@ created: 2026-04-28
 > **Tools:** azure portal (1), docker desktop (1)
 
 
-### 4. 3. Creating Databases
+### 3. Creating Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create the first database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980)
@@ -2481,7 +2489,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 5. 4. Table Design for Healthy Databases
+### 4. Table Design for Healthy Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose appropriate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980)
@@ -3553,7 +3563,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Structured Query Language
+### 5. Structured Query Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the role of T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980)
@@ -5268,7 +5280,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 7. 6. Writing Efficient Queries
+### 6. Writing Efficient Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a view of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980)
@@ -6387,7 +6401,9 @@ created: 2026-04-28
 > **Speakers:** - stored (1)
 
 
-### 8. 7. Backup and Restore
+### 7. Backup and Restore
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a full backup of the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980)
@@ -6793,7 +6809,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Security
+### 8. Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980)
@@ -7449,7 +7467,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Monitoring and Management
+### 9. Monitoring and Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the role of system databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980)
@@ -7804,7 +7824,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980)

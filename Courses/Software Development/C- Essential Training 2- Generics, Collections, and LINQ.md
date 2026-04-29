@@ -33,7 +33,7 @@ tags:
   - skill/language-integrated-query-linq
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C-%20Essential%20Training%202-%20Generics%2C%20Collections%2C%20and%20LINQ.md)

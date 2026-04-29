@@ -28,7 +28,7 @@ tags:
   - skill/twilio
   - skill/serverless-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Twilio%20Essentials%20Unit%203-%20All%20Together%20Now.md)
@@ -46,9 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. All Together Now]]** (9 videos)
+- **[[#1. All Together Now]]** (9 videos)
 
-### 1. 1. All Together Now
+### 1. All Together Now
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)

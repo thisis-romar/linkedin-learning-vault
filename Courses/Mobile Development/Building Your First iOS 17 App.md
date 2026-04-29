@@ -26,7 +26,7 @@ tags:
   - topic/mobile-development
   - skill/ios-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Mobile%20Development/Building%20Your%20First%20iOS%2017%20App.md)
@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Setup]]** (3 videos)
-- **[[#3. 2. SwiftUI Fundamentals]]** (6 videos)
-- **[[#4. 3. Finishing the App]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Setup]]** (3 videos)
+- **[[#2. SwiftUI Fundamentals]]** (6 videos)
+- **[[#3. Finishing the App]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to build an app in an afternoon
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Setup
+### 1. Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
@@ -299,7 +303,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. SwiftUI Fundamentals
+### 2. SwiftUI Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SwiftUI stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
@@ -847,7 +853,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Finishing the App
+### 3. Finishing the App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Converting between data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
@@ -1087,7 +1095,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)

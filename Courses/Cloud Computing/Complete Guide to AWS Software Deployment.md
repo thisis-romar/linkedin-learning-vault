@@ -32,7 +32,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/software-deployment
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20AWS%20Software%20Deployment.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. AWS Elastic Compute Cloud (EC2) Foundations]]** (5 videos)
-- **[[#3. 2. EC2 Creation and Provisioning]]** (13 videos)
-- **[[#4. 3. Deployment Concepts]]** (3 videos)
-- **[[#5. 4. Elastic Beanstalk]]** (10 videos)
-- **[[#6. 5. CodeDeploy]]** (18 videos)
-- **[[#7. 6. Elastic Container Service]]** (7 videos)
-- **[[#8. 7. Automating ECS Deployments]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. AWS Elastic Compute Cloud (EC2) Foundations]]** (5 videos)
+- **[[#2. EC2 Creation and Provisioning]]** (13 videos)
+- **[[#3. Deployment Concepts]]** (3 videos)
+- **[[#4. Elastic Beanstalk]]** (10 videos)
+- **[[#5. CodeDeploy]]** (18 videos)
+- **[[#6. Elastic Container Service]]** (7 videos)
+- **[[#7. Automating ECS Deployments]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to AWS software deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
@@ -370,7 +372,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AWS Elastic Compute Cloud (EC2) Foundations
+### 1. AWS Elastic Compute Cloud (EC2) Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AWS EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
@@ -1032,7 +1036,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 3. 2. EC2 Creation and Provisioning
+### 2. EC2 Creation and Provisioning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an AWS EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
@@ -2619,7 +2625,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Deployment Concepts
+### 3. Deployment Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Architect apps for horizontal scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
@@ -3178,7 +3186,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2), scroll down (1)
 
 
-### 5. 4. Elastic Beanstalk
+### 4. Elastic Beanstalk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AWS Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
@@ -4629,7 +4639,9 @@ created: 2026-04-28
 > **Warnings:** watch out (1)
 
 
-### 6. 5. CodeDeploy
+### 5. CodeDeploy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS CodeDeploy key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
@@ -7360,7 +7372,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Elastic Container Service
+### 6. Elastic Container Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AWS Elastic Container Service and Fargate
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
@@ -8327,7 +8341,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Automating ECS Deployments
+### 7. Automating ECS Deployments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Automating Docker builds on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
@@ -9203,7 +9219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)

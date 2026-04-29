@@ -35,7 +35,7 @@ tags:
   - skill/stata
   - skill/financial-modeling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.md)
@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Basics of Algo Trading]]** (8 videos)
-- **[[#3. 2. Stock Trading with Python]]** (6 videos)
-- **[[#4. 3. R and Bond Trading]]** (5 videos)
-- **[[#5. 4. Investment Analysis and Stata]]** (6 videos)
-- **[[#6. 5. Data and Trading]]** (4 videos)
-- **[[#7. 6. Strategies, Patterns, and Wall Street]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Basics of Algo Trading]]** (8 videos)
+- **[[#2. Stock Trading with Python]]** (6 videos)
+- **[[#3. R and Bond Trading]]** (5 videos)
+- **[[#4. Investment Analysis and Stata]]** (6 videos)
+- **[[#5. Data and Trading]]** (4 videos)
+- **[[#6. Strategies, Patterns, and Wall Street]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with algorithmic trading and finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Basics of Algo Trading
+### 1. The Basics of Algo Trading
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of algo trading
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980)
@@ -859,7 +863,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Stock Trading with Python
+### 2. Stock Trading with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### One software option: Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980)
@@ -1404,7 +1410,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 4. 3. R and Bond Trading
+### 3. R and Bond Trading
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### One software option: R
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980)
@@ -2018,7 +2026,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Investment Analysis and Stata
+### 4. Investment Analysis and Stata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### One software option: Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980)
@@ -2636,7 +2646,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data and Trading
+### 5. Data and Trading
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting broad market data
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980)
@@ -2921,7 +2933,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Strategies, Patterns, and Wall Street
+### 6. Strategies, Patterns, and Wall Street
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing tactics: Trading or investing
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980)
@@ -3524,7 +3538,9 @@ created: 2026-04-28
 > **Speakers:** - [michael] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980)

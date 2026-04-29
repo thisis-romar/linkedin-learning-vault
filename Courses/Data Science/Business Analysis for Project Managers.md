@@ -28,7 +28,7 @@ tags:
   - skill/project-management
   - skill/business-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analysis%20for%20Project%20Managers.md)
@@ -46,18 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Preproject Activities]]** (4 videos)
-- **[[#3. 2. Stakeholders]]** (2 videos)
-- **[[#4. 3. Initial Project Understanding]]** (2 videos)
-- **[[#5. 4. Project Plans]]** (3 videos)
-- **[[#6. 5. Analyzing Requirements]]** (4 videos)
-- **[[#7. 6. Agile Approach]]** (2 videos)
-- **[[#8. 7. Verification and Validation]]** (2 videos)
-- **[[#9. 8. Project Closure and Deployment]]** (3 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Preproject Activities]]** (4 videos)
+- **[[#2. Stakeholders]]** (2 videos)
+- **[[#3. Initial Project Understanding]]** (2 videos)
+- **[[#4. Project Plans]]** (3 videos)
+- **[[#5. Analyzing Requirements]]** (4 videos)
+- **[[#6. Agile Approach]]** (2 videos)
+- **[[#7. Verification and Validation]]** (2 videos)
+- **[[#8. Project Closure and Deployment]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business analysis: Supporting project management work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
@@ -249,7 +251,9 @@ created: 2026-04-28
 > **Speakers:** - bas (1)
 
 
-### 2. 1. Preproject Activities
+### 1. Preproject Activities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initiating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
@@ -536,7 +540,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Stakeholders
+### 2. Stakeholders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stakeholder identification and assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
@@ -670,7 +676,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Initial Project Understanding
+### 3. Initial Project Understanding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to develop a shared vision of the product or project result
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
@@ -781,7 +789,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. 4. Project Plans
+### 4. Project Plans
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify, plan, and execute on business analysis activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
@@ -993,7 +1003,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Analyzing Requirements
+### 5. Analyzing Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
@@ -1376,7 +1388,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 7. 6. Agile Approach
+### 6. Agile Approach
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business analyst (BA) or product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
@@ -1526,7 +1540,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 8. 7. Verification and Validation
+### 7. Verification and Validation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supporting requirements verification and testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
@@ -1648,7 +1664,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 9. 8. Project Closure and Deployment
+### 8. Project Closure and Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
@@ -1878,7 +1896,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business analysis competencies are essential for project managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)

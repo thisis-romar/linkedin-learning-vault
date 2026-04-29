@@ -30,7 +30,7 @@ tags:
   - skill/rest-apis
   - skill/django
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20Web%20APIs%20with%20Django.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Serializing, Listing, Filtering, and Paginating Models]]** (6 videos)
-- **[[#3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models]]** (6 videos)
-- **[[#4. 3. Managing Serializer Fields, Relations, and Validation]]** (6 videos)
-- **[[#5. 4. Testing API Views]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Serializing, Listing, Filtering, and Paginating Models]]** (6 videos)
+- **[[#2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models]]** (6 videos)
+- **[[#3. Managing Serializer Fields, Relations, and Validation]]** (6 videos)
+- **[[#4. Testing API Views]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a REST API with Django and Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Serializing, Listing, Filtering, and Paginating Models
+### 1. Serializing, Listing, Filtering, and Paginating Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a Django Rest framework serializer to serialize a model
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
@@ -460,7 +464,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
+### 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
@@ -724,7 +730,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Managing Serializer Fields, Relations, and Validation
+### 3. Managing Serializer Fields, Relations, and Validation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Serializer with only selected fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
@@ -1080,7 +1088,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Testing API Views
+### 4. Testing API Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test case for a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
@@ -1304,7 +1314,9 @@ created: 2026-04-28
 > **Speakers:** - [man] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)

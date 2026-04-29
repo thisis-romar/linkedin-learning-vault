@@ -30,7 +30,7 @@ tags:
   - skill/debugging-code
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20JavaScript%20Debugging.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Understanding the Need for a Debugger]]** (5 videos)
-- **[[#3. 2. Debugger Basics]]** (12 videos)
-- **[[#4. 3. Debugging in Practice]]** (12 videos)
-- **[[#5. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Understanding the Need for a Debugger]]** (5 videos)
+- **[[#2. Debugger Basics]]** (12 videos)
+- **[[#3. Debugging in Practice]]** (12 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
@@ -239,7 +241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding the Need for a Debugger
+### 1. Understanding the Need for a Debugger
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing our friend, the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
@@ -717,7 +721,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 3. 2. Debugger Basics
+### 2. Debugger Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging without a debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
@@ -2372,7 +2378,9 @@ created: 2026-04-28
 > **Versions:** 2.1 (1)
 
 
-### 4. 3. Debugging in Practice
+### 3. Debugging in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging the use of a jQuery plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
@@ -4228,7 +4236,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)

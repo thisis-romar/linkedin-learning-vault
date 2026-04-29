@@ -37,7 +37,7 @@ tags:
   - topic/cloud-computing
   - skill/data-warehousing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Data%20Warehouses.md)
@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Data Warehouses]]** (6 videos)
-- **[[#3. 2. Dimension Modeling]]** (6 videos)
-- **[[#4. 3. Create Your First Data Warehouse]]** (3 videos)
-- **[[#5. 4. Modern Data Warehouses]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Data Warehouses]]** (6 videos)
+- **[[#2. Dimension Modeling]]** (6 videos)
+- **[[#3. Create Your First Data Warehouse]]** (3 videos)
+- **[[#4. Modern Data Warehouses]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data warehouses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/introduction-to-data-warehouses?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - [deepak] (1)
 
 
-### 2. 1. Introduction to Data Warehouses
+### 1. Introduction to Data Warehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data warehouse key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980)
@@ -407,7 +411,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Dimension Modeling
+### 2. Dimension Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimensional modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980)
@@ -711,7 +717,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Create Your First Data Warehouse
+### 3. Create Your First Data Warehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to install SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980)
@@ -995,7 +1003,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Modern Data Warehouses
+### 4. Modern Data Warehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980)
@@ -1148,7 +1158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980)

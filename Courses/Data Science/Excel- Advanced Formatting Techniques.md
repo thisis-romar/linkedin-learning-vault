@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Advanced%20Formatting%20Techniques.md)
@@ -49,19 +49,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Formatting and Aligning Text]]** (5 videos)
-- **[[#3. 2. Formatting Numbers and Dates]]** (6 videos)
-- **[[#4. 3. Working with Images and Shapes]]** (3 videos)
-- **[[#5. 4. Conditional Formatting]]** (4 videos)
-- **[[#6. 5. Formatting for Print]]** (3 videos)
-- **[[#7. 6. Workbooks and Worksheets]]** (2 videos)
-- **[[#8. 7. Tables, Slicers, Themes]]** (3 videos)
-- **[[#9. 8. Charts and Graphs]]** (2 videos)
-- **[[#10. 9. Advanced, Random, and Fascinating Formatting]]** (5 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Formatting and Aligning Text]]** (5 videos)
+- **[[#2. Formatting Numbers and Dates]]** (6 videos)
+- **[[#3. Working with Images and Shapes]]** (3 videos)
+- **[[#4. Conditional Formatting]]** (4 videos)
+- **[[#5. Formatting for Print]]** (3 videos)
+- **[[#6. Workbooks and Worksheets]]** (2 videos)
+- **[[#7. Tables, Slicers, Themes]]** (3 videos)
+- **[[#8. Charts and Graphs]]** (2 videos)
+- **[[#9. Advanced, Random, and Fascinating Formatting]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced formatting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - [oz (1)
 
 
-### 2. 1. Formatting and Aligning Text
+### 1. Formatting and Aligning Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Subscript, underline, and strikethrough text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/subscript-underline-and-strikethrough-text?u=76281980)
@@ -877,7 +881,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Formatting Numbers and Dates
+### 2. Formatting Numbers and Dates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dates and custom formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980)
@@ -1676,7 +1682,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Images and Shapes
+### 3. Working with Images and Shapes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Group and align shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980)
@@ -2067,7 +2075,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Conditional Formatting
+### 4. Conditional Formatting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conditional formatting for duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980)
@@ -2643,7 +2653,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Formatting for Print
+### 5. Formatting for Print
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Page numbers and page breaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/page-numbers-and-page-breaks?u=76281980)
@@ -2940,7 +2952,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Workbooks and Worksheets
+### 6. Workbooks and Worksheets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Format multiple sheets at once
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-multiple-sheets-at-once?u=76281980)
@@ -3137,7 +3151,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Tables, Slicers, Themes
+### 7. Tables, Slicers, Themes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980)
@@ -3470,7 +3486,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Charts and Graphs
+### 8. Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grid lines, legends, and other chart formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/grid-lines-legends-and-other-chart-formatting?u=76281980)
@@ -3715,7 +3733,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Advanced, Random, and Fascinating Formatting
+### 9. Advanced, Random, and Fascinating Formatting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and uninstall fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980)
@@ -4168,7 +4188,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the most from Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980)

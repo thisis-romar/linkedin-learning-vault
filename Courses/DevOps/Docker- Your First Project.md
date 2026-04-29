@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/docker-products
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Docker-%20Your%20First%20Project.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Project]]** (3 videos)
-- **[[#3. 2. Creating a First Docker Project]]** (2 videos)
-- **[[#4. 3. Pulling and Pushing Docker Images]]** (6 videos)
-- **[[#5. 4. Running Docker Containers]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Project]]** (3 videos)
+- **[[#2. Creating a First Docker Project]]** (2 videos)
+- **[[#3. Pulling and Pushing Docker Images]]** (6 videos)
+- **[[#4. Running Docker Containers]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your first Docker project
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Project
+### 1. The Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application using Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/application-using-docker?u=76281980)
@@ -269,7 +273,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Creating a First Docker Project
+### 2. Creating a First Docker Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing a Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/writing-a-dockerfile?u=76281980)
@@ -436,7 +442,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Pulling and Pushing Docker Images
+### 3. Pulling and Pushing Docker Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Searching for images in Docker Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/searching-for-images-in-docker-hub?u=76281980)
@@ -834,7 +842,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Running Docker Containers
+### 4. Running Docker Containers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running a container
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/running-a-container?u=76281980)
@@ -1216,7 +1226,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-your-first-project/next-steps?u=76281980)

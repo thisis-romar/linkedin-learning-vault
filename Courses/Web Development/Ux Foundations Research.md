@@ -24,7 +24,7 @@ tags:
   - skill/user-experience-ux
   - skill/ux-research
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Ux%20Foundations%20Research.md)

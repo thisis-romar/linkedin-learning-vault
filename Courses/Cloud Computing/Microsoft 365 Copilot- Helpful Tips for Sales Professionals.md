@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/sales-effectiveness
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365%20Copilot-%20Helpful%20Tips%20for%20Sales%20Professionals.md)
@@ -48,10 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Use Case Examples]]** (4 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Use Case Examples]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Copilot's role in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Use Case Examples
+### 1. Use Case Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boost customer research and sales preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)

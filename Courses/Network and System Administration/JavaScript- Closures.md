@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Closures.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Building Blocks of Closures]]** (5 videos)
-- **[[#3. 2. Creating and Using Closures]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Building Blocks of Closures]]** (5 videos)
+- **[[#2. Creating and Using Closures]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using closures in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
@@ -290,7 +292,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Building Blocks of Closures
+### 1. Building Blocks of Closures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Local and global scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
@@ -766,7 +770,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/solution-create-a-closure-using-a-nested-function?u=76281980)
 
 
-### 3. 2. Creating and Using Closures
+### 2. Creating and Using Closures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implement the module pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
@@ -1160,7 +1166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to learn closures
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)

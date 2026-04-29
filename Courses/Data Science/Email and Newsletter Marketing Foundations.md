@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/email-marketing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Email%20and%20Newsletter%20Marketing%20Foundations.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Overview]]** (2 videos)
-- **[[#3. 2. Basics]]** (2 videos)
-- **[[#4. 3. Contacts and Lists]]** (2 videos)
-- **[[#5. 4. An Effective Email Strategy]]** (4 videos)
-- **[[#6. 5. Success with Analytics]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview]]** (2 videos)
+- **[[#2. Basics]]** (2 videos)
+- **[[#3. Contacts and Lists]]** (2 videos)
+- **[[#4. An Effective Email Strategy]]** (4 videos)
+- **[[#5. Success with Analytics]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - e (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980)
@@ -231,7 +235,9 @@ created: 2026-04-28
 > **Speakers:** - whether (1)
 
 
-### 3. 2. Basics
+### 2. Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding email to your marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980)
@@ -395,7 +401,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Contacts and Lists
+### 3. Contacts and Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintaining healthy email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980)
@@ -558,7 +566,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 5. 4. An Effective Email Strategy
+### 4. An Effective Email Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a good strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980)
@@ -947,7 +957,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 6. 5. Success with Analytics
+### 5. Success with Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using metrics in email marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980)
@@ -1137,7 +1149,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980)

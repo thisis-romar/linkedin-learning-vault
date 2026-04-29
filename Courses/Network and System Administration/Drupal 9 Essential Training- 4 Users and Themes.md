@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%204%20Users%20and%20Themes.md)
@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Users Explained]]** (5 videos)
-- **[[#3. 2. Themes Explained]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Users Explained]]** (5 videos)
+- **[[#2. Themes Explained]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Users Explained
+### 1. Users Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction and the user workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
@@ -644,7 +648,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Themes Explained
+### 2. Themes Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Themes explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)

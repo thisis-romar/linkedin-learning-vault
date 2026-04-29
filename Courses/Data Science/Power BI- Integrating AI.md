@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI-%20Integrating%20AI.md)
@@ -54,16 +54,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. How Can We Use AI in Power BI?]]** (10 videos)
-- **[[#3. 2. Configuring the Semantic Model and Power Query]]** (8 videos)
-- **[[#4. 3. Analyzing Data Loaded into a Model]]** (4 videos)
-- **[[#5. 4. Analyzing Trends]]** (6 videos)
-- **[[#6. 5. Analyzing Groups]]** (9 videos)
-- **[[#7. 6. Determining Outliers and Anomalies]]** (6 videos)
-- **[[#8. 7. Natural Language Processing Visuals]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. How Can We Use AI in Power BI?]]** (10 videos)
+- **[[#2. Configuring the Semantic Model and Power Query]]** (8 videos)
+- **[[#3. Analyzing Data Loaded into a Model]]** (4 videos)
+- **[[#4. Analyzing Trends]]** (6 videos)
+- **[[#5. Analyzing Groups]]** (9 videos)
+- **[[#6. Determining Outliers and Anomalies]]** (6 videos)
+- **[[#7. Natural Language Processing Visuals]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. How Can We Use AI in Power BI?
+### 1. How Can We Use AI in Power BI?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overviewing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
@@ -861,7 +865,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Configuring the Semantic Model and Power Query
+### 2. Configuring the Semantic Model and Power Query
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing Power BI visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
@@ -1523,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Analyzing Data Loaded into a Model
+### 3. Analyzing Data Loaded into a Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Utilizing the decomposition tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
@@ -1798,7 +1806,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Analyzing Trends
+### 4. Analyzing Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
@@ -2353,7 +2363,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 6. 5. Analyzing Groups
+### 5. Analyzing Groups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculating linear regression coefficients
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
@@ -3065,7 +3077,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Determining Outliers and Anomalies
+### 6. Determining Outliers and Anomalies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculating rolling averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
@@ -3589,7 +3603,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Natural Language Processing Visuals
+### 7. Natural Language Processing Visuals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting everything together
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)

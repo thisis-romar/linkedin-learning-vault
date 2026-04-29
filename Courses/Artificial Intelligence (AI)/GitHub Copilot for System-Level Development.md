@@ -38,7 +38,7 @@ tags:
   - skill/infrastructure-as-code-iac
   - skill/code-refactoring
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Copilot%20for%20System-Level%20Development.md)
@@ -56,12 +56,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. Module 1: AI-Augmented Test-Driven Development (TDD)]]** (6 videos)
-- **[[#3. Module 2: Large-Scale Refactoring]]** (6 videos)
-- **[[#4. Module 3: Infrastructure as Code (IaC) with Copilot]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#Module 1: AI-Augmented Test-Driven Development (TDD)]]** (6 videos)
+- **[[#Module 2: Large-Scale Refactoring]]** (6 videos)
+- **[[#Module 3: Infrastructure as Code (IaC) with Copilot]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. Module 1: AI-Augmented Test-Driven Development (TDD)
+### Module 1: AI-Augmented Test-Driven Development (TDD)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI-assisted TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
@@ -714,7 +718,9 @@ created: 2026-04-28
 > **UI Navigation:** toggle (1)
 
 
-### 3. Module 2: Large-Scale Refactoring
+### Module 2: Large-Scale Refactoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic use of workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
@@ -1398,7 +1404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Module 3: Infrastructure as Code (IaC) with Copilot
+### Module 3: Infrastructure as Code (IaC) with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating IaC configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/six-sigma
   - skill/operational-excellence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Operational%20Excellence%20Foundations.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is Operational Excellence?]]** (1 videos)
-- **[[#3. 2. Key Concepts and Tools]]** (10 videos)
-- **[[#4. 3. Implementing Operational Excellence]]** (10 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Operational Excellence?]]** (1 videos)
+- **[[#2. Key Concepts and Tools]]** (10 videos)
+- **[[#3. Implementing Operational Excellence]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. What Is Operational Excellence?
+### 1. What Is Operational Excellence?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is operational excellence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
@@ -214,7 +218,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 3. 2. Key Concepts and Tools
+### 2. Key Concepts and Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Process stakeholders and SIPOC
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
@@ -1100,7 +1106,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 4. 3. Implementing Operational Excellence
+### 3. Implementing Operational Excellence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key roles in operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
@@ -2131,7 +2139,9 @@ created: 2026-04-28
 > **Speakers:** - better (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)

@@ -43,7 +43,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Foundations.md)
@@ -61,15 +61,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Machine Learning]]** (6 videos)
-- **[[#3. 2. Collecting Data for Machine Learning]]** (2 videos)
-- **[[#4. 3. Understanding Data for Machine Learning]]** (4 videos)
-- **[[#5. 4. Preparing Data for Machine Learning]]** (7 videos)
-- **[[#6. 5. Types of Machine Learning Models]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Machine Learning]]** (6 videos)
+- **[[#2. Collecting Data for Machine Learning]]** (2 videos)
+- **[[#3. Understanding Data for Machine Learning]]** (4 videos)
+- **[[#4. Preparing Data for Machine Learning]]** (7 videos)
+- **[[#5. Types of Machine Learning Models]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning in our world
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
@@ -213,7 +215,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Machine Learning
+### 1. Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is machine learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
@@ -765,7 +769,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Collecting Data for Machine Learning
+### 2. Collecting Data for Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Things to consider when collecting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
@@ -960,7 +966,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Understanding Data for Machine Learning
+### 3. Understanding Data for Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describe your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
@@ -1386,7 +1394,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Preparing Data for Machine Learning
+### 4. Preparing Data for Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
@@ -2114,7 +2124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Types of Machine Learning Models
+### 5. Types of Machine Learning Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classification vs. regression problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
@@ -2367,7 +2379,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with applied machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Maps%20and%20Sets.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Maps]]** (12 videos)
-- **[[#3. 2. WeakMaps]]** (2 videos)
-- **[[#4. 3. Sets]]** (10 videos)
-- **[[#5. 4. WeakSets]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Maps]]** (12 videos)
+- **[[#2. WeakMaps]]** (2 videos)
+- **[[#3. Sets]]** (10 videos)
+- **[[#4. WeakSets]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get to know JavaScript maps and sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Maps
+### 1. Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Map object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
@@ -963,7 +967,9 @@ created: 2026-04-28
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### 3. 2. WeakMaps
+### 2. WeakMaps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the WeakMap object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
@@ -1055,7 +1061,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Sets
+### 3. Sets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Set object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
@@ -1672,7 +1680,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. WeakSets
+### 4. WeakSets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the WeakSet object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
@@ -1754,7 +1764,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/transact-sql-t-sql
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20To%20Transact%20Sql.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Introducing SELECT]]** (4 videos)
-- **[[#3. 2. Filtering the Result Set]]** (7 videos)
-- **[[#4. 3. Manipulating the Result Set]]** (4 videos)
-- **[[#5. 4. Joins]]** (5 videos)
-- **[[#6. 5. DDL and DML: Creating and Changing Data]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Introducing SELECT]]** (4 videos)
+- **[[#2. Filtering the Result Set]]** (7 videos)
+- **[[#3. Manipulating the Result Set]]** (4 videos)
+- **[[#4. Joins]]** (5 videos)
+- **[[#5. DDL and DML: Creating and Changing Data]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transact-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introducing SELECT
+### 1. Introducing SELECT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structure of a SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
@@ -421,7 +425,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Filtering the Result Set
+### 2. Filtering the Result Set
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering data with WHERE using equalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
@@ -835,7 +841,9 @@ created: 2026-04-28
 > **Non-Speech:** (catchy upbeat music) (1)
 
 
-### 4. 3. Manipulating the Result Set
+### 3. Manipulating the Result Set
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ORDER BY
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
@@ -1042,7 +1050,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Joins
+### 4. Joins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### INNER JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
@@ -1361,7 +1371,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. DDL and DML: Creating and Changing Data
+### 5. DDL and DML: Creating and Changing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
@@ -1787,7 +1799,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/smart-contracts
   - skill/cryptography
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20and%20Smart%20Contracts%20Security.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Demystifying Blockchain]]** (3 videos)
-- **[[#3. 2. Security Properties of Blockchain]]** (4 videos)
-- **[[#4. 3. Security Model for the Blockchain Ecosystem]]** (3 videos)
-- **[[#5. 4. Blockchain Platform Security]]** (2 videos)
-- **[[#6. 5. Distributed Apps and Smart Contracts Security]]** (6 videos)
-- **[[#7. 6. Non-distributed Apps and Enabler Services]]** (3 videos)
-- **[[#8. 7. End User Security]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Demystifying Blockchain]]** (3 videos)
+- **[[#2. Security Properties of Blockchain]]** (4 videos)
+- **[[#3. Security Model for the Blockchain Ecosystem]]** (3 videos)
+- **[[#4. Blockchain Platform Security]]** (2 videos)
+- **[[#5. Distributed Apps and Smart Contracts Security]]** (6 videos)
+- **[[#6. Non-distributed Apps and Enabler Services]]** (3 videos)
+- **[[#7. End User Security]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security concerns with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Demystifying Blockchain
+### 1. Demystifying Blockchain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980)
@@ -403,7 +407,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Security Properties of Blockchain
+### 2. Security Properties of Blockchain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consensus
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980)
@@ -700,7 +706,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Security Model for the Blockchain Ecosystem
+### 3. Security Model for the Blockchain Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980)
@@ -847,7 +855,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Blockchain Platform Security
+### 4. Blockchain Platform Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Proof-of-work protocol attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980)
@@ -1048,7 +1058,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Distributed Apps and Smart Contracts Security
+### 5. Distributed Apps and Smart Contracts Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Smart contracts and EVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980)
@@ -1517,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Non-distributed Apps and Enabler Services
+### 6. Non-distributed Apps and Enabler Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain ecosystem threats: Part one
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980)
@@ -1719,7 +1733,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. End User Security
+### 7. End User Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wallet and keys security
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980)
@@ -1803,7 +1819,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980)

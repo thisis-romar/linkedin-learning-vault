@@ -31,7 +31,7 @@ tags:
   - skill/it-project-program-management
   - skill/program-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Program%20Management%20for%20IT%20Professionals.md)

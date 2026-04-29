@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/mapguide
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20MapGuide%20Open%20Source.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding and Installing MapGuide]]** (3 videos)
-- **[[#3. 2. Connecting and Loading Data with MapGuide Maestro]]** (3 videos)
-- **[[#4. 3. Stylizing Data]]** (6 videos)
-- **[[#5. 4. Maps]]** (1 videos)
-- **[[#6. 5. Basic Web Layouts]]** (2 videos)
-- **[[#7. 6. Application Definitions]]** (4 videos)
-- **[[#8. 7. Publishing to the Web]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding and Installing MapGuide]]** (3 videos)
+- **[[#2. Connecting and Loading Data with MapGuide Maestro]]** (3 videos)
+- **[[#3. Stylizing Data]]** (6 videos)
+- **[[#4. Maps]]** (1 videos)
+- **[[#5. Basic Web Layouts]]** (2 videos)
+- **[[#6. Application Definitions]]** (4 videos)
+- **[[#7. Publishing to the Web]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore what MapGuide has to offer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding and Installing MapGuide
+### 1. Understanding and Installing MapGuide
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the components of MapGuide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
@@ -1023,7 +1027,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 3. 2. Connecting and Loading Data with MapGuide Maestro
+### 2. Connecting and Loading Data with MapGuide Maestro
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating project folders in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
@@ -1692,7 +1698,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 4. 3. Stylizing Data
+### 3. Stylizing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
@@ -2808,7 +2816,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Maps
+### 4. Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating maps in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
@@ -3163,7 +3173,9 @@ created: 2026-04-28
 > **Best Practices:** rule of thumb (2)
 
 
-### 6. 5. Basic Web Layouts
+### 5. Basic Web Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating basic web layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
@@ -3712,7 +3724,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Application Definitions
+### 6. Application Definitions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating application definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
@@ -4547,7 +4561,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 8. 7. Publishing to the Web
+### 7. Publishing to the Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Publishing to the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
@@ -4891,7 +4907,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)

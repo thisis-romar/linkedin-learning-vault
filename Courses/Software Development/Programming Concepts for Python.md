@@ -34,8 +34,10 @@ tags:
   - skill/python-programming-language
   - skill/programming-concepts
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Programming%20Concepts%20for%20Python.md)
 
 ![Programming Concepts for Python](https://media.licdn.com/dms/image/v2/D560DAQF5tQ0NTwTQ3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1698098378404?e=2147483647&amp;v=beta&amp;t=k-HFT6ZNyxctmneqP5BNNrZDWCC1KUbJKULSg6Nx9vo)
 

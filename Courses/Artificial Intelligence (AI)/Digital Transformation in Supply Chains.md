@@ -33,7 +33,7 @@ tags:
   - skill/supply-chain-management
   - skill/digital-transformation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Digital%20Transformation%20in%20Supply%20Chains.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Current Supply Chain Technologies]]** (9 videos)
-- **[[#3. 2. Emerging Supply Chain Technologies]]** (12 videos)
-- **[[#4. 3. Transforming Your Supply Chain]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Current Supply Chain Technologies]]** (9 videos)
+- **[[#2. Emerging Supply Chain Technologies]]** (12 videos)
+- **[[#3. Transforming Your Supply Chain]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital transformation of supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. Current Supply Chain Technologies
+### 1. Current Supply Chain Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare for Supply Chain 4.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
@@ -636,7 +640,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Emerging Supply Chain Technologies
+### 2. Emerging Supply Chain Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Artificial intelligence (AI) in the supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
@@ -1281,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Transforming Your Supply Chain
+### 3. Transforming Your Supply Chain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify new business models for supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
@@ -1704,7 +1712,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)

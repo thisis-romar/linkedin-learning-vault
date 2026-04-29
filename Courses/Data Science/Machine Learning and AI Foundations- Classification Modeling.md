@@ -36,7 +36,7 @@ tags:
   - skill/data-classification
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Machine%20Learning%20and%20AI%20Foundations-%20Classification%20Modeling.md)
@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Big Picture: Defining Your Classification Strategy]]** (6 videos)
-- **[[#3. 2. How Do I Choose a "Winner"?]]** (4 videos)
-- **[[#4. 3. Algorithms on Parade]]** (14 videos)
-- **[[#5. 4. Common Modeling Challenges]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Big Picture: Defining Your Classification Strategy]]** (6 videos)
+- **[[#2. How Do I Choose a "Winner"?]]** (4 videos)
+- **[[#3. Algorithms on Parade]]** (14 videos)
+- **[[#4. Common Modeling Challenges]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classification problems in machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
@@ -214,7 +216,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. The Big Picture: Defining Your Classification Strategy
+### 1. The Big Picture: Defining Your Classification Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of binary classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
@@ -522,7 +526,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. How Do I Choose a "Winner"?
+### 2. How Do I Choose a "Winner"?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training and test partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
@@ -769,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Algorithms on Parade
+### 3. Algorithms on Parade
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
@@ -2117,7 +2125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Common Modeling Challenges
+### 4. Common Modeling Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Imbalanced target categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
@@ -2649,7 +2659,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)

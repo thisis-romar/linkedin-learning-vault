@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/git
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Git%20from%20Scratch.md)
@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Git Basics]]** (6 videos)
-- **[[#3. 2. Branches: Alternate Timelines]]** (6 videos)
-- **[[#4. 3. Changing History]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Git Basics]]** (6 videos)
+- **[[#2. Branches: Alternate Timelines]]** (6 videos)
+- **[[#3. Changing History]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Git from Scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - [morten (1)
 
 
-### 2. 1. Git Basics
+### 1. Git Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use version control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
@@ -295,7 +299,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Branches: Alternate Timelines
+### 2. Branches: Alternate Timelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### git branch: Create an alternate timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
@@ -528,7 +534,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Changing History
+### 3. Changing History
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### git merge: Combine two timelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)

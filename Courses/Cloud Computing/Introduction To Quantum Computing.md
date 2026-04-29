@@ -25,7 +25,7 @@ tags:
   - topic/security
   - skill/quantum-computing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Introduction%20To%20Quantum%20Computing.md)
@@ -43,14 +43,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding Classical Computing]]** (4 videos)
-- **[[#3. 2. What Is Quantum Computing?]]** (5 videos)
-- **[[#4. 3. Applications of Quantum Computing]]** (3 videos)
-- **[[#5. 4. Opportunities and Risks of Quantum Computing]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Classical Computing]]** (4 videos)
+- **[[#2. What Is Quantum Computing?]]** (5 videos)
+- **[[#3. Applications of Quantum Computing]]** (3 videos)
+- **[[#4. Opportunities and Risks of Quantum Computing]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A new era of computing is emerging
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [jonathan] (1)
 
 
-### 2. 1. Understanding Classical Computing
+### 1. Understanding Classical Computing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The current computing age
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980)
@@ -497,7 +501,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. What Is Quantum Computing?
+### 2. What Is Quantum Computing?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What exactly is this quantum stuff?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980)
@@ -1041,7 +1047,9 @@ created: 2026-04-28
 > **Speakers:** - entanglement (1), - when (1), - you (1)
 
 
-### 4. 3. Applications of Quantum Computing
+### 3. Applications of Quantum Computing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The current state of quantum computing research
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980)
@@ -1324,7 +1332,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Opportunities and Risks of Quantum Computing
+### 4. Opportunities and Risks of Quantum Computing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Opportunities for enterprises and individuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980)
@@ -1562,7 +1572,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980)

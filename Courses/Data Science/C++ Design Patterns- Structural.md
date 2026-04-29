@@ -34,7 +34,7 @@ tags:
   - skill/software-design-patterns
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%2B%2B%20Design%20Patterns-%20Structural.md)
@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Adapter]]** (6 videos)
-- **[[#3. 2. The Bridge]]** (5 videos)
-- **[[#4. 3. The Composite]]** (5 videos)
-- **[[#5. 4. The Decorator]]** (5 videos)
-- **[[#6. 5. The Façade]]** (5 videos)
-- **[[#7. 6. The Flyweight]]** (4 videos)
-- **[[#8. 7. The Proxy]]** (5 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Adapter]]** (6 videos)
+- **[[#2. The Bridge]]** (5 videos)
+- **[[#3. The Composite]]** (5 videos)
+- **[[#4. The Decorator]]** (5 videos)
+- **[[#5. The Façade]]** (5 videos)
+- **[[#6. The Flyweight]]** (4 videos)
+- **[[#7. The Proxy]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structural design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [karoly] (1)
 
 
-### 2. 1. The Adapter
+### 1. The Adapter
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
@@ -463,7 +467,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Bridge
+### 2. The Bridge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
@@ -746,7 +752,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 4. 3. The Composite
+### 3. The Composite
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
@@ -1086,7 +1094,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. The Decorator
+### 4. The Decorator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
@@ -1359,7 +1369,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. The Façade
+### 5. The Façade
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
@@ -1644,7 +1656,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 7. 6. The Flyweight
+### 6. The Flyweight
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
@@ -1968,7 +1982,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. The Proxy
+### 7. The Proxy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
@@ -2302,7 +2318,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)

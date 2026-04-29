@@ -31,7 +31,7 @@ tags:
   - skill/network-monitoring-tools
   - skill/ethical-hacking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Ethical%20Hacking-%20Scanning%20Networks.md)

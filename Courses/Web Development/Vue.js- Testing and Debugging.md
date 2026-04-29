@@ -31,7 +31,7 @@ tags:
   - skill/software-testing
   - skill/debugging-code
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Testing%20and%20Debugging.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Setting Up Testing Tools]]** (4 videos)
-- **[[#3. 2. Unit Testing]]** (7 videos)
-- **[[#4. 3. Testing Vue Components]]** (3 videos)
-- **[[#5. 4. Debugging with Vue and Chrome Developer tools]]** (5 videos)
-- **[[#6. 5. Functional and Automated Testing]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Setting Up Testing Tools]]** (4 videos)
+- **[[#2. Unit Testing]]** (7 videos)
+- **[[#3. Testing Vue Components]]** (3 videos)
+- **[[#4. Debugging with Vue and Chrome Developer tools]]** (5 videos)
+- **[[#5. Functional and Automated Testing]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing Vue applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980)
@@ -215,7 +217,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up Testing Tools
+### 1. Setting Up Testing Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the sample project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **Speakers:** - linting (1)
 
 
-### 3. 2. Unit Testing
+### 2. Unit Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing and running Jest
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980)
@@ -1066,7 +1072,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 4. 3. Testing Vue Components
+### 3. Testing Vue Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mounting components using render
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980)
@@ -1322,7 +1330,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Debugging with Vue and Chrome Developer tools
+### 4. Debugging with Vue and Chrome Developer tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging errors using Chrome DevTools
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980)
@@ -1793,7 +1803,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Functional and Automated Testing
+### 5. Functional and Automated Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980)
@@ -2107,7 +2119,9 @@ created: 2026-04-28
 > **Versions:** version 12 (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980)

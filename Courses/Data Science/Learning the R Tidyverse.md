@@ -32,7 +32,7 @@ tags:
   - skill/r-programming-language
   - skill/tidyverse
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20the%20R%20Tidyverse.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Tidyverse Fundamentals]]** (12 videos)
-- **[[#3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse]]** (6 videos)
-- **[[#4. 3. Reading Data In and Out of the Tidyverse]]** (4 videos)
-- **[[#5. 4. Grouping and Summarizing Data with the Tidyverse]]** (10 videos)
-- **[[#6. 5. Important Packages and Functions in the Tidyverse]]** (5 videos)
-- **[[#7. 6. Working Smart with the Tidyverse]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Tidyverse Fundamentals]]** (12 videos)
+- **[[#2. Tidy Data: The Fundamental Idea behind the Tidyverse]]** (6 videos)
+- **[[#3. Reading Data In and Out of the Tidyverse]]** (4 videos)
+- **[[#4. Grouping and Summarizing Data with the Tidyverse]]** (10 videos)
+- **[[#5. Important Packages and Functions in the Tidyverse]]** (5 videos)
+- **[[#6. Working Smart with the Tidyverse]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started in the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tidyverse Fundamentals
+### 1. Tidyverse Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the tidyverse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
@@ -1326,7 +1330,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse
+### 2. Tidy Data: The Fundamental Idea behind the Tidyverse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
@@ -1881,7 +1887,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Reading Data In and Out of the Tidyverse
+### 3. Reading Data In and Out of the Tidyverse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using projects to simplify file paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
@@ -2244,7 +2252,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Grouping and Summarizing Data with the Tidyverse
+### 4. Grouping and Summarizing Data with the Tidyverse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grouping and summarizing data by column or row
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
@@ -2858,7 +2868,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Important Packages and Functions in the Tidyverse
+### 5. Important Packages and Functions in the Tidyverse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ggplot2 for beautiful data storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
@@ -3559,7 +3571,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Working Smart with the Tidyverse
+### 6. Working Smart with the Tidyverse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling NAs in the tidyverse with drop_na() and replace_na()
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
@@ -4191,7 +4205,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)

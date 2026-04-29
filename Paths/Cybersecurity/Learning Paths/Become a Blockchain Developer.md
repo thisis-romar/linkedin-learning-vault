@@ -12,12 +12,12 @@ tags:
   - learning-path
   - topic/security
   - topic/data-science
-  - status/in-progress
-last_activity: 2026-04-26T23:25:37.776Z
-activity_total: 12
-courses_visited: 11
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
     last_opened: null
@@ -75,7 +75,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cybersecurity/Learning%20Paths/Become%20a%20Blockchain%20Developer.md)

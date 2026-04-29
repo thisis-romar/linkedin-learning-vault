@@ -30,7 +30,7 @@ tags:
   - skill/server-configuration
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202019-%20Installation%20and%20Configuration.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Planning the Installation]]** (4 videos)
-- **[[#3. 2. Installing Windows Server 2019]]** (7 videos)
-- **[[#4. 3. Configuring Storage]]** (4 videos)
-- **[[#5. 4. Managing Server Roles and Features]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Planning the Installation]]** (4 videos)
+- **[[#2. Installing Windows Server 2019]]** (7 videos)
+- **[[#3. Configuring Storage]]** (4 videos)
+- **[[#4. Managing Server Roles and Features]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing to install Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. Planning the Installation
+### 1. Planning the Installation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning the role(s) of the server
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980)
@@ -476,7 +480,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Installing Windows Server 2019
+### 2. Installing Windows Server 2019
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing from disk or an ISO file
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980)
@@ -1111,7 +1117,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1)
 
 
-### 4. 3. Configuring Storage
+### 3. Configuring Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating different volume types
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980)
@@ -1452,7 +1460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Server Roles and Features
+### 4. Managing Server Roles and Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning role configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980)
@@ -1957,7 +1967,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980)

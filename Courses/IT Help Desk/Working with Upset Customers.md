@@ -28,7 +28,7 @@ tags:
   - skill/escalation-resolution
   - skill/customer-service
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Working%20with%20Upset%20Customers.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Preventing Customer Anger]]** (3 videos)
-- **[[#3. 2. Serving Angry Customers]]** (5 videos)
-- **[[#4. 3. Learning from Angry Customers]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Preventing Customer Anger]]** (3 videos)
+- **[[#2. Serving Angry Customers]]** (5 videos)
+- **[[#3. Learning from Angry Customers]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Serving upset customers with ease
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
@@ -331,7 +333,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Preventing Customer Anger
+### 1. Preventing Customer Anger
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating personal connections with rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
@@ -620,7 +624,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 3. 2. Serving Angry Customers
+### 2. Serving Angry Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recognizing your natural instincts
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
@@ -1170,7 +1176,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Learning from Angry Customers
+### 3. Learning from Angry Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preserving the relationship
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
@@ -1458,7 +1466,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting the work in
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)

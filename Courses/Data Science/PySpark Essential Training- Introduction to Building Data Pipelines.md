@@ -40,7 +40,7 @@ tags:
   - skill/pyspark
   - skill/data-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/PySpark%20Essential%20Training-%20Introduction%20to%20Building%20Data%20Pipelines.md)
@@ -58,16 +58,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to Spark and PySpark]]** (3 videos)
-- **[[#3. 2. Setting Up PySpark]]** (2 videos)
-- **[[#4. 3. Working with PySpark DataFrames]]** (6 videos)
-- **[[#5. 4. Essential PySpark Data Manipulation]]** (7 videos)
-- **[[#6. 5. PySpark SQL]]** (5 videos)
-- **[[#7. 6. PySpark in a Production Environment]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Spark and PySpark]]** (3 videos)
+- **[[#2. Setting Up PySpark]]** (2 videos)
+- **[[#3. Working with PySpark DataFrames]]** (6 videos)
+- **[[#4. Essential PySpark Data Manipulation]]** (7 videos)
+- **[[#5. PySpark SQL]]** (5 videos)
+- **[[#6. PySpark in a Production Environment]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Spark and PySpark
+### 1. Introduction to Spark and PySpark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Apache Spark: The foundation of PySpark
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980)
@@ -274,7 +278,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setting Up PySpark
+### 2. Setting Up PySpark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Colab notebook setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980)
@@ -443,7 +449,9 @@ created: 2026-04-28
 > **URLs:** [google.com](https://google.com) (1)
 
 
-### 4. 3. Working with PySpark DataFrames
+### 3. Working with PySpark DataFrames
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to PySpark DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980)
@@ -783,7 +791,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Essential PySpark Data Manipulation
+### 4. Essential PySpark Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling missing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980)
@@ -1191,7 +1201,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. PySpark SQL
+### 5. PySpark SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is PySpark SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980)
@@ -1386,7 +1398,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. PySpark in a Production Environment
+### 6. PySpark in a Production Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Production environment requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980)
@@ -1626,7 +1640,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap of key concepts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980)

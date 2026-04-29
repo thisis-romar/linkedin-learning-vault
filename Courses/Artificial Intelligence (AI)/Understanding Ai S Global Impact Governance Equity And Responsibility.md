@@ -27,7 +27,7 @@ tags:
   - skill/ai-equity
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20Ai%20S%20Global%20Impact%20Governance%20Equity%20And%20Responsibility.md)
@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Basics of AI]]** (4 videos)
-- **[[#3. 2. Critical Perspectives on AI]]** (6 videos)
-- **[[#4. 3. AI and the United Nations System]]** (3 videos)
-- **[[#5. 4. The Mechanics of AI]]** (5 videos)
-- **[[#6. 5. Practical Applications of AI]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics of AI]]** (4 videos)
+- **[[#2. Critical Perspectives on AI]]** (6 videos)
+- **[[#3. AI and the United Nations System]]** (3 videos)
+- **[[#4. The Mechanics of AI]]** (5 videos)
+- **[[#5. Practical Applications of AI]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Artificial intelligence: From everyday tasks to global challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 2. 1. The Basics of AI
+### 1. The Basics of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
@@ -478,7 +482,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 3. 2. Critical Perspectives on AI
+### 2. Critical Perspectives on AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI accuracy vs. truth
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
@@ -833,7 +839,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. AI and the United Nations System
+### 3. AI and the United Nations System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI for Global goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
@@ -1009,7 +1017,9 @@ created: 2026-04-28
 > **Env Vars:** unesco (1)
 
 
-### 5. 4. The Mechanics of AI
+### 4. The Mechanics of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
@@ -1364,7 +1374,9 @@ created: 2026-04-28
 > **CLI Commands:** cat (1)
 
 
-### 6. 5. Practical Applications of AI
+### 5. Practical Applications of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible AI tools for beginners
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)

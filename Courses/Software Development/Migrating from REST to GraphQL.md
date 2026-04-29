@@ -31,7 +31,7 @@ tags:
   - skill/graphql
   - skill/representational-state-transfer-rest
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Migrating%20from%20REST%20to%20GraphQL.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. First steps]]** (4 videos)
-- **[[#3. 2. Add Items with GraphQL]]** (5 videos)
-- **[[#4. 3. Read Items with GraphQL]]** (3 videos)
-- **[[#5. 4. Update Items with GraphQL]]** (2 videos)
-- **[[#6. 4. Update Items with GraphQL]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. First steps]]** (4 videos)
+- **[[#2. Add Items with GraphQL]]** (5 videos)
+- **[[#3. Read Items with GraphQL]]** (3 videos)
+- **[[#4. Update Items with GraphQL]]** (2 videos)
+- **[[#4. Update Items with GraphQL]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Replace REST with GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. First steps
+### 1. First steps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use GraphQL for REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980)
@@ -426,7 +430,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Add Items with GraphQL
+### 2. Add Items with GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create the initial schema and type
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980)
@@ -949,7 +955,9 @@ created: 2026-04-28
 > **Env Vars:** fyi (1)
 
 
-### 4. 3. Read Items with GraphQL
+### 3. Read Items with GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple queries in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980)
@@ -1193,7 +1201,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Update Items with GraphQL
+### 4. Update Items with GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980)
@@ -1366,7 +1376,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 4. Update Items with GraphQL
+### 4. Update Items with GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coding our delete mutation
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980)
@@ -1517,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980)

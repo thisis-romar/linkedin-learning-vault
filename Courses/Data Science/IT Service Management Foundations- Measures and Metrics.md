@@ -30,7 +30,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/IT%20Service%20Management%20Foundations-%20Measures%20and%20Metrics.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is Your Vision?]]** (3 videos)
-- **[[#3. 2. Measurements]]** (7 videos)
-- **[[#4. 3. Measurement Models]]** (5 videos)
-- **[[#5. 4. Assessments and Reporting]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Your Vision?]]** (3 videos)
+- **[[#2. Measurements]]** (7 videos)
+- **[[#3. Measurement Models]]** (5 videos)
+- **[[#4. Assessments and Reporting]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. What Is Your Vision?
+### 1. What Is Your Vision?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start with why
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
@@ -592,7 +596,9 @@ created: 2026-04-28
 > **Speakers:** - since (1)
 
 
-### 3. 2. Measurements
+### 2. Measurements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measurements and metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
@@ -1555,7 +1561,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Measurement Models
+### 3. Measurement Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measurement models
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
@@ -2106,7 +2114,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Assessments and Reporting
+### 4. Assessments and Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
@@ -2554,7 +2564,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)

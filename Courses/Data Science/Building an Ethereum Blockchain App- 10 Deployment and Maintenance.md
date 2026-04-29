@@ -36,7 +36,7 @@ tags:
   - skill/ethereum
   - skill/software-deployment
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%2010%20Deployment%20and%20Maintenance.md)
@@ -54,9 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Deploying and Maintaining Ethereum Apps]]** (6 videos)
+- **[[#1. Deploying and Maintaining Ethereum Apps]]** (6 videos)
 
-### 1. 1. Deploying and Maintaining Ethereum Apps
+### 1. Deploying and Maintaining Ethereum Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)

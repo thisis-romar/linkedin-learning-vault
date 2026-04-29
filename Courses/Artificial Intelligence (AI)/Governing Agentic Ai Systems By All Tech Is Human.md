@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Governing%20Agentic%20Ai%20Systems%20By%20All%20Tech%20Is%20Human.md)
@@ -47,9 +47,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Governing Agentic AI Systems]]** (1 videos)
+- **[[#Governing Agentic AI Systems]]** (1 videos)
 
-### 1. Governing Agentic AI Systems
+### Governing Agentic AI Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Governing agentic AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)

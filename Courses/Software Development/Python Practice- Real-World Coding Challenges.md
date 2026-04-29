@@ -35,7 +35,7 @@ tags:
   - skill/python-programming-language
   - skill/coding-practices
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20Practice-%20Real-World%20Coding%20Challenges.md)
@@ -53,20 +53,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Quickstart]]** (2 videos)
-- **[[#3. 2. Basic Data Types]]** (2 videos)
-- **[[#4. 3. Basic Data Structures]]** (2 videos)
-- **[[#5. 4. Control Flow]]** (2 videos)
-- **[[#6. 5. Functions]]** (2 videos)
-- **[[#7. 6. Classes and Objects]]** (2 videos)
-- **[[#8. 7. Errors]]** (2 videos)
-- **[[#9. 8. Threads and Processes]]** (2 videos)
-- **[[#10. 9. Working with Files]]** (2 videos)
-- **[[#11. 10. Packaging Python]]** (2 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Quickstart]]** (2 videos)
+- **[[#2. Basic Data Types]]** (2 videos)
+- **[[#3. Basic Data Structures]]** (2 videos)
+- **[[#4. Control Flow]]** (2 videos)
+- **[[#5. Functions]]** (2 videos)
+- **[[#6. Classes and Objects]]** (2 videos)
+- **[[#7. Errors]]** (2 videos)
+- **[[#8. Threads and Processes]]** (2 videos)
+- **[[#9. Working with Files]]** (2 videos)
+- **[[#10. Packaging Python]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stepping up to the challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
@@ -321,7 +323,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 2. 1. Quickstart
+### 1. Quickstart
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: It's hip to be square
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
@@ -398,7 +402,9 @@ created: 2026-04-28
 > **Non-Speech:** (pleasant electronic music) (1)
 
 
-### 3. 2. Basic Data Types
+### 2. Basic Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Sense of direction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
@@ -484,7 +490,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Basic Data Structures
+### 3. Basic Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Structuring scribes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
@@ -568,7 +576,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Control Flow
+### 4. Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Hitting a wall
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
@@ -664,7 +674,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Functions
+### 5. Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Plotting the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
@@ -729,7 +741,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Classes and Objects
+### 6. Classes and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Extending the scribe
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
@@ -819,7 +833,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Errors
+### 7. Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: The trouble with scribbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
@@ -916,7 +932,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Threads and Processes
+### 8. Threads and Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: When I move, you move
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
@@ -1033,7 +1051,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 10. 9. Working with Files
+### 9. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Single file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
@@ -1159,7 +1179,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat techno music) (1)
 
 
-### 11. 10. Packaging Python
+### 10. Packaging Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Handling arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
@@ -1268,7 +1290,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your Python journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)

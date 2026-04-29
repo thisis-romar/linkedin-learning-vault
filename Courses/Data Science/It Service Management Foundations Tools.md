@@ -26,7 +26,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/It%20Service%20Management%20Foundations%20Tools.md)
@@ -44,20 +44,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Tools Included]]** (1 videos)
-- **[[#3. 2. Considerations Covered]]** (1 videos)
-- **[[#4. 3. Accessible Consideration]]** (2 videos)
-- **[[#5. 4. Auditable Consideration]]** (2 videos)
-- **[[#6. 5. Efficient Consideration]]** (2 videos)
-- **[[#7. 6. Functional Consideration]]** (2 videos)
-- **[[#8. 7. Measureable Consideration]]** (2 videos)
-- **[[#9. 8. Permissive Consideration]]** (2 videos)
-- **[[#10. 9. Reportable Consideration]]** (2 videos)
-- **[[#11. 10. Upgradeable Consideration]]** (2 videos)
-- **[[#12. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Tools Included]]** (1 videos)
+- **[[#2. Considerations Covered]]** (1 videos)
+- **[[#3. Accessible Consideration]]** (2 videos)
+- **[[#4. Auditable Consideration]]** (2 videos)
+- **[[#5. Efficient Consideration]]** (2 videos)
+- **[[#6. Functional Consideration]]** (2 videos)
+- **[[#7. Measureable Consideration]]** (2 videos)
+- **[[#8. Permissive Consideration]]** (2 videos)
+- **[[#9. Reportable Consideration]]** (2 videos)
+- **[[#10. Upgradeable Consideration]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making the right choice for ITSM tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tools Included
+### 1. Tools Included
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why these tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/why-these-tools?u=76281980)
@@ -144,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Considerations Covered
+### 2. Considerations Covered
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the considerations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/what-are-the-considerations?u=76281980)
@@ -181,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Accessible Consideration
+### 3. Accessible Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/accessible?u=76281980)
@@ -249,7 +257,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Auditable Consideration
+### 4. Auditable Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Auditable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980)
@@ -362,7 +372,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Efficient Consideration
+### 5. Efficient Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Efficient
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980)
@@ -475,7 +487,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 7. 6. Functional Consideration
+### 6. Functional Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980)
@@ -560,7 +574,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Measureable Consideration
+### 7. Measureable Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measureable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/measureable?u=76281980)
@@ -644,7 +660,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Permissive Consideration
+### 8. Permissive Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Permissive
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/permissive?u=76281980)
@@ -762,7 +780,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Reportable Consideration
+### 9. Reportable Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reportable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980)
@@ -823,7 +843,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Upgradeable Consideration
+### 10. Upgradeable Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upgradeable
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/upgradeable?u=76281980)
@@ -909,7 +931,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The broader ITSM tool ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980)

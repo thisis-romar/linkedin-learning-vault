@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Level%20Up-%20JavaScript.md)
@@ -47,10 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Challenges]]** (15 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Challenges]]** (15 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Put your JavaScript skills to the test
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
@@ -234,7 +236,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 2. 1. Challenges
+### 1. Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Available books
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)

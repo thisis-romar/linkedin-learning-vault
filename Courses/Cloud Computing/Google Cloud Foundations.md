@@ -27,7 +27,7 @@ tags:
   - skill/cloud-foundations
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Google%20Cloud%20Foundations.md)
@@ -45,16 +45,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Google Cloud Compliance Requirements]]** (2 videos)
-- **[[#3. 2. Gemini for Google Cloud overview]]** (2 videos)
-- **[[#4. 3. Google Cloud Resource Hierarchy]]** (2 videos)
-- **[[#5. 4. Controlling and Optimizing Google Cloud Costs]]** (3 videos)
-- **[[#6. 5. Google Cloud Geographical Segmentation Strategy]]** (2 videos)
-- **[[#7. 6. Google Cloud Support Options]]** (2 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Google Cloud Compliance Requirements]]** (2 videos)
+- **[[#2. Gemini for Google Cloud overview]]** (2 videos)
+- **[[#3. Google Cloud Resource Hierarchy]]** (2 videos)
+- **[[#4. Controlling and Optimizing Google Cloud Costs]]** (3 videos)
+- **[[#5. Google Cloud Geographical Segmentation Strategy]]** (2 videos)
+- **[[#6. Google Cloud Support Options]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Google Cloud Compliance Requirements
+### 1. Google Cloud Compliance Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Google Cloud compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
@@ -216,7 +220,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Gemini for Google Cloud overview
+### 2. Gemini for Google Cloud overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How Gemini works and uses your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
@@ -368,7 +374,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Google Cloud Resource Hierarchy
+### 3. Google Cloud Resource Hierarchy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Google Cloud resources and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
@@ -559,7 +567,9 @@ created: 2026-04-28
 > **URLs:** [yahoo.com](https://yahoo.com) (1)
 
 
-### 5. 4. Controlling and Optimizing Google Cloud Costs
+### 4. Controlling and Optimizing Google Cloud Costs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Cloud billing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
@@ -827,7 +837,9 @@ created: 2026-04-28
 > **Code Identifiers:** vcpus (1)
 
 
-### 6. 5. Google Cloud Geographical Segmentation Strategy
+### 5. Google Cloud Geographical Segmentation Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Breaking down Google's network infrastucture
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
@@ -1065,7 +1077,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Google Cloud Support Options
+### 6. Google Cloud Support Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Google Cloud support
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
@@ -1224,7 +1238,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Cloud certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)

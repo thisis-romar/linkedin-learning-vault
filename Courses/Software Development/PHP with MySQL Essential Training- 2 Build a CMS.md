@@ -31,7 +31,7 @@ tags:
   - skill/mysql
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/PHP%20with%20MySQL%20Essential%20Training-%202%20Build%20a%20CMS.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Create a Content Management System]]** (3 videos)
-- **[[#3. 2. Build Dynamic Content Navigation]]** (7 videos)
-- **[[#4. 3. Use Context and Options]]** (8 videos)
-- **[[#5. 4. Cookies and Sessions]]** (7 videos)
-- **[[#6. 5. Regulate Page Access]]** (10 videos)
-- **[[#7. 6. Nesting Related Resources]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Create a Content Management System]]** (3 videos)
+- **[[#2. Build Dynamic Content Navigation]]** (7 videos)
+- **[[#3. Use Context and Options]]** (8 videos)
+- **[[#4. Cookies and Sessions]]** (7 videos)
+- **[[#5. Regulate Page Access]]** (10 videos)
+- **[[#6. Nesting Related Resources]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PHP with MySQL Essential Training: Build a CMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Create a Content Management System
+### 1. Create a Content Management System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
@@ -602,7 +606,9 @@ created: 2026-04-28
 > **Tools:** atom (1)
 
 
-### 3. 2. Build Dynamic Content Navigation
+### 2. Build Dynamic Content Navigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### List subjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
@@ -1539,7 +1545,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Use Context and Options
+### 3. Use Context and Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The public context
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
@@ -2636,7 +2644,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1)
 
 
-### 5. 4. Cookies and Sessions
+### 4. Cookies and Sessions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with cookies
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
@@ -3576,7 +3586,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Regulate Page Access
+### 5. Regulate Page Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User authentication overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
@@ -5193,7 +5205,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Nesting Related Resources
+### 6. Nesting Related Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand nested resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
@@ -6612,7 +6626,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1), just like (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)

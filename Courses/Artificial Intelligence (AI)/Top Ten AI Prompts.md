@@ -30,7 +30,7 @@ tags:
   - skill/ai-prompting
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Top%20Ten%20AI%20Prompts.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Top 10 AI Prompts]]** (20 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Top 10 AI Prompts]]** (20 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
@@ -228,7 +230,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. The Top 10 AI Prompts
+### 1. The Top 10 AI Prompts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to draft a business plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
@@ -2437,7 +2441,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)

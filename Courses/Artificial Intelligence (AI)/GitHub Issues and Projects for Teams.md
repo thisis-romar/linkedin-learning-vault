@@ -32,7 +32,7 @@ tags:
   - skill/github
   - skill/issue-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/GitHub%20Issues%20and%20Projects%20for%20Teams.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Basics of Issues]]** (10 videos)
-- **[[#3. 2. Managing Issues]]** (4 videos)
-- **[[#4. 3. Basics of Projects]]** (7 videos)
-- **[[#5. 4. Combining Knowledge]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Basics of Issues]]** (10 videos)
+- **[[#2. Managing Issues]]** (4 videos)
+- **[[#3. Basics of Projects]]** (7 videos)
+- **[[#4. Combining Knowledge]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaboration at its finest with GitHub issues and projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/collaboration-at-its-finest-with-github-issues-and-projects?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Basics of Issues
+### 1. Basics of Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-an-issue?u=76281980)
@@ -712,7 +716,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 3. 2. Managing Issues
+### 2. Managing Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Marking duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/marking-duplicates?u=76281980)
@@ -883,7 +889,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Basics of Projects
+### 3. Basics of Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/creating-a-project?u=76281980)
@@ -1464,7 +1472,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. 4. Combining Knowledge
+### 4. Combining Knowledge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using issues and projects for teamwork planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/using-issues-and-projects-for-teamwork-planning?u=76281980)
@@ -1613,7 +1623,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-issues-and-projects-for-teams/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/database-queries
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Querying%20Microsoft%20SQL%20Server%202022.md)
@@ -49,19 +49,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Introduction to T-SQL Queries]]** (10 videos)
-- **[[#3. 2. Additional Filter Techniques]]** (8 videos)
-- **[[#4. 3. Retrieve Records from Multiple Tables]]** (7 videos)
-- **[[#5. 4. Group Records]]** (8 videos)
-- **[[#6. 5. Manipulate Data with Functions]]** (15 videos)
-- **[[#7. 6. Writing SQL Scripts]]** (3 videos)
-- **[[#8. 7. SQL Subqueries]]** (7 videos)
-- **[[#9. 8. Work with Variables]]** (4 videos)
-- **[[#10. 9. Result Set Operators]]** (3 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Introduction to T-SQL Queries]]** (10 videos)
+- **[[#2. Additional Filter Techniques]]** (8 videos)
+- **[[#3. Retrieve Records from Multiple Tables]]** (7 videos)
+- **[[#4. Group Records]]** (8 videos)
+- **[[#5. Manipulate Data with Functions]]** (15 videos)
+- **[[#6. Writing SQL Scripts]]** (3 videos)
+- **[[#7. SQL Subqueries]]** (7 videos)
+- **[[#8. Work with Variables]]** (4 videos)
+- **[[#9. Result Set Operators]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Turn data into information with queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
@@ -239,7 +241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to T-SQL Queries
+### 1. Introduction to T-SQL Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Transact SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
@@ -1279,7 +1283,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Additional Filter Techniques
+### 2. Additional Filter Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Limit results with TOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
@@ -1970,7 +1976,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Retrieve Records from Multiple Tables
+### 3. Retrieve Records from Multiple Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Table joins and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
@@ -2746,7 +2754,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Group Records
+### 4. Group Records
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand record grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
@@ -3689,7 +3699,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Manipulate Data with Functions
+### 5. Manipulate Data with Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use functions in T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
@@ -5346,7 +5358,9 @@ created: 2026-04-28
 > **Non-Speech:** (playful music) (1)
 
 
-### 7. 6. Writing SQL Scripts
+### 6. Writing SQL Scripts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change database context with USE
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
@@ -5560,7 +5574,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. SQL Subqueries
+### 7. SQL Subqueries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
@@ -6469,7 +6485,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Work with Variables
+### 8. Work with Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and use variables in a query
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
@@ -6926,7 +6944,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 10. 9. Result Set Operators
+### 9. Result Set Operators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Combine results with UNION
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
@@ -7182,7 +7202,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)

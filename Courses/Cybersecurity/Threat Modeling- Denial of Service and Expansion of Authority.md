@@ -28,7 +28,7 @@ tags:
   - skill/threat-modeling
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Threat%20Modeling-%20Denial%20of%20Service%20and%20Expansion%20of%20Authority.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. DoS Targets]]** (6 videos)
-- **[[#3. 2. Properties of DoS Attacks]]** (3 videos)
-- **[[#4. 3. DoS in Various Technologies]]** (2 videos)
-- **[[#5. 4. DoS Defenses]]** (2 videos)
-- **[[#6. 5. EOP]]** (4 videos)
-- **[[#7. 6. EOP Defenses]]** (9 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. DoS Targets]]** (6 videos)
+- **[[#2. Properties of DoS Attacks]]** (3 videos)
+- **[[#3. DoS in Various Technologies]]** (2 videos)
+- **[[#4. DoS Defenses]]** (2 videos)
+- **[[#5. EOP]]** (4 videos)
+- **[[#6. EOP Defenses]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Let me interrupt you
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. DoS Targets
+### 1. DoS Targets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DoS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/dos-in-context?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Properties of DoS Attacks
+### 2. Properties of DoS Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Persistence and transience of DoS
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/persistence-and-transience-of-dos?u=76281980)
@@ -527,7 +533,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. DoS in Various Technologies
+### 3. DoS in Various Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mobile and IoT denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980)
@@ -590,7 +598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. DoS Defenses
+### 4. DoS Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/designing-for-resilience?u=76281980)
@@ -649,7 +659,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. EOP
+### 5. EOP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is elevation of privilege?
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980)
@@ -827,7 +839,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. EOP Defenses
+### 6. EOP Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ways to defend against EOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/ways-to-defend-against-eop?u=76281980)
@@ -1188,7 +1202,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/internal-mobility
   - skill/career-path-planning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Navigating%20Internal%20Mobility%20as%20an%20Employee.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Internal Mobility and the Great Reshuffle]]** (3 videos)
-- **[[#3. 2. Positioning Yourself for an Internal Move]]** (5 videos)
-- **[[#4. 3. How to Find Internal Opportunities]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Internal Mobility and the Great Reshuffle]]** (3 videos)
+- **[[#2. Positioning Yourself for an Internal Move]]** (5 videos)
+- **[[#3. How to Find Internal Opportunities]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accelerate your career satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Internal Mobility and the Great Reshuffle
+### 1. Internal Mobility and the Great Reshuffle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of internal mobility
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
@@ -346,7 +350,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Positioning Yourself for an Internal Move
+### 2. Positioning Yourself for an Internal Move
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assess your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
@@ -775,7 +781,9 @@ created: 2026-04-28
 > **Speakers:** - knowing (1)
 
 
-### 4. 3. How to Find Internal Opportunities
+### 3. How to Find Internal Opportunities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know where to look for internal opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
@@ -1225,7 +1233,9 @@ created: 2026-04-28
 > **Speakers:** - can (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)

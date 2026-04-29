@@ -33,7 +33,7 @@ tags:
   - skill/retrieval-augmented-generation-rag
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20AI-%20RAG%20using%20LlamaIndex.md)
@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. Fundamental Concepts in LlamaIndex]]** (7 videos)
-- **[[#4. 3. Introduction to RAG]]** (7 videos)
-- **[[#5. 4. RAG Evaluation]]** (3 videos)
-- **[[#6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques]]** (7 videos)
-- **[[#7. 6. Advanced RAG: Post-Retrieval and Other Techniques]]** (5 videos)
-- **[[#8. 7. Modular RAG]]** (4 videos)
-- **[[#9. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Fundamental Concepts in LlamaIndex]]** (7 videos)
+- **[[#3. Introduction to RAG]]** (7 videos)
+- **[[#4. RAG Evaluation]]** (3 videos)
+- **[[#5. Advanced RAG: Pre-Retrieval and Indexing Techniques]]** (7 videos)
+- **[[#6. Advanced RAG: Post-Retrieval and Other Techniques]]** (5 videos)
+- **[[#7. Modular RAG]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overcome the limitations of LLMs with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
@@ -258,7 +260,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
@@ -1063,7 +1067,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Fundamental Concepts in LlamaIndex
+### 2. Fundamental Concepts in LlamaIndex
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How LlamaIndex is organized
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
@@ -2210,7 +2216,9 @@ created: 2026-04-28
 > **Warnings:** heads up (1), keep in mind (1)
 
 
-### 4. 3. Introduction to RAG
+### 3. Introduction to RAG
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of a RAG system
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
@@ -3606,7 +3614,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. RAG Evaluation
+### 4. RAG Evaluation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to RAG evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
@@ -4158,7 +4168,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
+### 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How we can improve on Naive RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
@@ -5378,7 +5390,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 7. 6. Advanced RAG: Post-Retrieval and Other Techniques
+### 6. Advanced RAG: Post-Retrieval and Other Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Node post-processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
@@ -6352,7 +6366,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Modular RAG
+### 7. Modular RAG
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
@@ -7183,7 +7199,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LlamaIndex evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)

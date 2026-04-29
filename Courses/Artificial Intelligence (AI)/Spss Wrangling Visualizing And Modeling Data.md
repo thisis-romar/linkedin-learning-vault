@@ -29,7 +29,7 @@ tags:
   - skill/ibm-spss
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Spss%20Wrangling%20Visualizing%20And%20Modeling%20Data.md)
@@ -47,20 +47,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What is SPSS?]]** (2 videos)
-- **[[#3. 2. Getting Started]]** (7 videos)
-- **[[#4. 3. Data Visualization]]** (7 videos)
-- **[[#5. 4. Data Wrangling]]** (5 videos)
-- **[[#6. 5. Recoding Data]]** (8 videos)
-- **[[#7. 6. Exploring Data]]** (7 videos)
-- **[[#8. 7. Clustering and Classification]]** (6 videos)
-- **[[#9. 8. Analyzing Data]]** (6 videos)
-- **[[#10. 9. Building Predictive Models]]** (4 videos)
-- **[[#11. 10. Sharing Your Work]]** (1 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What is SPSS?]]** (2 videos)
+- **[[#2. Getting Started]]** (7 videos)
+- **[[#3. Data Visualization]]** (7 videos)
+- **[[#4. Data Wrangling]]** (5 videos)
+- **[[#5. Recoding Data]]** (8 videos)
+- **[[#6. Exploring Data]]** (7 videos)
+- **[[#7. Clustering and Classification]]** (6 videos)
+- **[[#8. Analyzing Data]]** (6 videos)
+- **[[#9. Building Predictive Models]]** (4 videos)
+- **[[#10. Sharing Your Work]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/welcome?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. What is SPSS?
+### 1. What is SPSS?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SPSS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/spss-in-context?u=76281980)
@@ -229,7 +233,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Started
+### 2. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/navigating-spss?u=76281980)
@@ -1003,7 +1009,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Visualization
+### 3. Data Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing data with Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/visualizing-data-with-chart-builder?u=76281980)
@@ -1813,7 +1821,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Wrangling
+### 4. Data Wrangling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/importing-data?u=76281980)
@@ -2596,7 +2606,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 6. 5. Recoding Data
+### 5. Recoding Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recoding variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/recoding-variables?u=76281980)
@@ -3993,7 +4005,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Exploring Data
+### 6. Exploring Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -5382,7 +5396,9 @@ created: 2026-04-28
 > **File Paths:** d.c (2)
 
 
-### 8. 7. Clustering and Classification
+### 7. Clustering and Classification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/hierarchical-clustering?u=76281980)
@@ -6474,7 +6490,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Analyzing Data
+### 8. Analyzing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -7142,7 +7160,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Building Predictive Models
+### 9. Building Predictive Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computing a linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/computing-a-linear-regression?u=76281980)
@@ -8027,7 +8047,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 11. 10. Sharing Your Work
+### 10. Sharing Your Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exporting charts and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/exporting-charts-and-tables?u=76281980)
@@ -8136,7 +8158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spss-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Resume.md)
@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Action Basics]]** (4 videos)
-- **[[#3. 2. Publishing a Marketplace Action]]** (6 videos)
-- **[[#4. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Action Basics]]** (4 videos)
+- **[[#2. Publishing a Marketplace Action]]** (6 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a marketplace GitHub action
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Action Basics
+### 1. Action Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How actions work
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980)
@@ -761,7 +765,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 3. 2. Publishing a Marketplace Action
+### 2. Publishing a Marketplace Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a workflow with existing actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980)
@@ -1666,7 +1672,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1), source code (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Resources

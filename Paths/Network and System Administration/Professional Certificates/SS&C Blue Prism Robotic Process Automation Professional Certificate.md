@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Network and System Administration
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 3
 tags:
   - professional-certificate
   - topic/network-and-system-administration
@@ -35,7 +35,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Network%20and%20System%20Administration/Professional%20Certificates/SS%26C%20Blue%20Prism%20Robotic%20Process%20Automation%20Professional%20Certificate.md)

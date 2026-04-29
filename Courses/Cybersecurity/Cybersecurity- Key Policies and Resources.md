@@ -30,7 +30,7 @@ tags:
   - skill/it-security-policies-procedures
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity-%20Key%20Policies%20and%20Resources.md)

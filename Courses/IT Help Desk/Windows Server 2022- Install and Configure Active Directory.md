@@ -31,7 +31,7 @@ tags:
   - skill/active-directory
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Install%20and%20Configure%20Active%20Directory.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Installing Domain Controllers]]** (4 videos)
-- **[[#3. 2. Active Directory Administration Tools]]** (6 videos)
-- **[[#4. 3. Flexible Single Master of Operations]]** (3 videos)
-- **[[#5. 4. Active Directory Permissions]]** (3 videos)
-- **[[#6. 5. Managing Active Directory Objects]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Installing Domain Controllers]]** (4 videos)
+- **[[#2. Active Directory Administration Tools]]** (6 videos)
+- **[[#3. Flexible Single Master of Operations]]** (3 videos)
+- **[[#4. Active Directory Permissions]]** (3 videos)
+- **[[#5. Managing Active Directory Objects]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and configure Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Installing Domain Controllers
+### 1. Installing Domain Controllers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Active Directory Domain Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980)
@@ -779,7 +783,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 3. 2. Active Directory Administration Tools
+### 2. Active Directory Administration Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing AD DS with Active Directory Administrative Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
@@ -1431,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - besides (1)
 
 
-### 4. 3. Flexible Single Master of Operations
+### 3. Flexible Single Master of Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### FSMO overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980)
@@ -1956,7 +1964,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 5. 4. Active Directory Permissions
+### 4. Active Directory Permissions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Delegating permissions manually
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980)
@@ -2284,7 +2294,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Managing Active Directory Objects
+### 5. Managing Active Directory Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980)
@@ -3357,7 +3369,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980)

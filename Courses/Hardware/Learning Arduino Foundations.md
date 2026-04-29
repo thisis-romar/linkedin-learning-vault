@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino%20Foundations.md)
@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Arduino]]** (5 videos)
-- **[[#3. 2. Creating an Arduino Program]]** (8 videos)
-- **[[#4. 3. Interface with Output (LED)]]** (6 videos)
-- **[[#5. 4. Interface with Input (Pushbutton)]]** (6 videos)
-- **[[#6. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Arduino]]** (5 videos)
+- **[[#2. Creating an Arduino Program]]** (8 videos)
+- **[[#3. Interface with Output (LED)]]** (6 videos)
+- **[[#4. Interface with Input (Pushbutton)]]** (6 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to Arduino
+### 1. Introduction to Arduino
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an Arduino?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980)
@@ -357,7 +361,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating an Arduino Program
+### 2. Creating an Arduino Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Download the Arduino software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980)
@@ -790,7 +796,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Interface with Output (LED)
+### 3. Interface with Output (LED)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Light-emitting diodes (LEDs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980)
@@ -1186,7 +1194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Interface with Input (Pushbutton)
+### 4. Interface with Input (Pushbutton)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pushbutton
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980)
@@ -1532,7 +1542,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980)

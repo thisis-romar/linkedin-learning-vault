@@ -31,7 +31,7 @@ tags:
   - skill/professional-networking
   - skill/linkedin
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Rock%20Your%20LinkedIn%20Profile.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Build Your Brand into Your LinkedIn Profile]]** (2 videos)
-- **[[#3. 2. Craft Your LinkedIn Profile Intro]]** (5 videos)
-- **[[#4. 3. Craft Your Profile Summary and Feature Content on LinkedIn]]** (3 videos)
-- **[[#5. 4. Outline Your Career Journey]]** (4 videos)
-- **[[#6. 5. Build Credibility with Skills, Endorsements, and Recommendations]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Build Your Brand into Your LinkedIn Profile]]** (2 videos)
+- **[[#2. Craft Your LinkedIn Profile Intro]]** (5 videos)
+- **[[#3. Craft Your Profile Summary and Feature Content on LinkedIn]]** (3 videos)
+- **[[#4. Outline Your Career Journey]]** (4 videos)
+- **[[#5. Build Credibility with Skills, Endorsements, and Recommendations]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect to opportunity with LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
@@ -124,7 +126,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Build Your Brand into Your LinkedIn Profile
+### 1. Build Your Brand into Your LinkedIn Profile
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elevate your presence: Use profile to build your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
@@ -275,7 +279,9 @@ created: 2026-04-28
 > **Speakers:** - connection (1)
 
 
-### 3. 2. Craft Your LinkedIn Profile Intro
+### 2. Craft Your LinkedIn Profile Intro
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a photo to stand out
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
@@ -679,7 +685,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Craft Your Profile Summary and Feature Content on LinkedIn
+### 3. Craft Your Profile Summary and Feature Content on LinkedIn
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduce yourself with a profile summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
@@ -1039,7 +1047,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Outline Your Career Journey
+### 4. Outline Your Career Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use your work experience to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
@@ -1480,7 +1490,9 @@ created: 2026-04-28
 > **Speakers:** - ready (1)
 
 
-### 6. 5. Build Credibility with Skills, Endorsements, and Recommendations
+### 5. Build Credibility with Skills, Endorsements, and Recommendations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Showcase your expertise with skills and endorsements
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
@@ -1844,7 +1856,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for LinkedIn success
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)

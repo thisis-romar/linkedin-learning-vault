@@ -9,7 +9,7 @@ level_advanced: 2
 tags:
   - skill
   - skill/governance-risk-management-and-compliance-grc
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Governance%2C%20Risk%20Management%2C%20and%20Compliance%20(GRC).md)

@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/continuous-monitoring
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Algorithmic%20Auditing%20and%20Continuous%20Monitoring.md)

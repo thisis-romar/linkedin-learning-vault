@@ -45,7 +45,7 @@ tags:
   - skill/agile-methodologies
   - skill/agile-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Introduction%20to%20Agile%20Development%20Practices-%20Bring%20Agile%20to%20Your%20Development%20Pipelines.md)

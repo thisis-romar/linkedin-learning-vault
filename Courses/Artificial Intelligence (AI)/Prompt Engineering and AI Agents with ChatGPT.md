@@ -30,7 +30,7 @@ tags:
   - skill/chatgpt
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering%20and%20AI%20Agents%20with%20ChatGPT.md)
@@ -48,10 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Agentive Prompt Engineering]]** (7 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Agentive Prompt Engineering]]** (7 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The new age of prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - chatgpt (1)
 
 
-### 2. 1. Agentive Prompt Engineering
+### 1. Agentive Prompt Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompting strategies for agentic behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)

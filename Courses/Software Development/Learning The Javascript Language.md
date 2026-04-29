@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20The%20Javascript%20Language.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started]]** (5 videos)
-- **[[#3. 2. Variables and Types]]** (6 videos)
-- **[[#4. 3. Objects, Arrays, and More]]** (9 videos)
-- **[[#5. 4. Operators and Control Structures]]** (8 videos)
-- **[[#6. 5. Iterating with Loops]]** (4 videos)
-- **[[#7. 6. Functions]]** (10 videos)
-- **[[#8. 7. A Few More Advanced Pieces]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (5 videos)
+- **[[#2. Variables and Types]]** (6 videos)
+- **[[#3. Objects, Arrays, and More]]** (9 videos)
+- **[[#4. Operators and Control Structures]]** (8 videos)
+- **[[#5. Iterating with Loops]]** (4 videos)
+- **[[#6. Functions]]** (10 videos)
+- **[[#7. A Few More Advanced Pieces]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become conversant in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
@@ -196,7 +198,9 @@ created: 2026-04-28
 > **File Paths:** node.js (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Syntax: Learning to read and write
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
@@ -557,7 +561,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Variables and Types
+### 2. Variables and Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Declaring and assigning variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
@@ -1157,7 +1163,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Objects, Arrays, and More
+### 3. Objects, Arrays, and More
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
@@ -2138,7 +2146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Operators and Control Structures
+### 4. Operators and Control Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
@@ -3320,7 +3330,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 6. 5. Iterating with Loops
+### 5. Iterating with Loops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### For loops: Sequential
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
@@ -4058,7 +4070,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Functions
+### 6. Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
@@ -5116,7 +5130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. A Few More Advanced Pieces
+### 7. A Few More Advanced Pieces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asynchronous code: Waiting is the hardest part
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
@@ -5525,7 +5541,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your JavaScript development journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)

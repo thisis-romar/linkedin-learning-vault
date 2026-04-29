@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/wireshark
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark%20Essential%20Training.md)
@@ -43,15 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Traffic Capture Overview]]** (5 videos)
-- **[[#3. 2. Getting Started with Wireshark]]** (6 videos)
-- **[[#4. 3. Examining the Internet Suite]]** (11 videos)
-- **[[#5. 4. Deep Packet Analysis of Common Protocols]]** (7 videos)
-- **[[#6. 5. Working with Packet Captures]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Traffic Capture Overview]]** (5 videos)
+- **[[#2. Getting Started with Wireshark]]** (6 videos)
+- **[[#3. Examining the Internet Suite]]** (11 videos)
+- **[[#4. Deep Packet Analysis of Common Protocols]]** (7 videos)
+- **[[#5. Working with Packet Captures]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Appreciating traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Traffic Capture Overview
+### 1. Traffic Capture Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980)
@@ -672,7 +676,9 @@ created: 2026-04-28
 > **Definitions:** is called (1)
 
 
-### 3. 2. Getting Started with Wireshark
+### 2. Getting Started with Wireshark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using display and capture filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980)
@@ -1095,7 +1101,9 @@ created: 2026-04-28
 > **Non-Speech:** (bouncy music) (1)
 
 
-### 4. 3. Examining the Internet Suite
+### 3. Examining the Internet Suite
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the TCP-IP suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980)
@@ -2230,7 +2238,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. 4. Deep Packet Analysis of Common Protocols
+### 4. Deep Packet Analysis of Common Protocols
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dissecting DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980)
@@ -2956,7 +2966,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 6. 5. Working with Packet Captures
+### 5. Working with Packet Captures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Wireshark expert system
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980)
@@ -3389,7 +3401,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980)

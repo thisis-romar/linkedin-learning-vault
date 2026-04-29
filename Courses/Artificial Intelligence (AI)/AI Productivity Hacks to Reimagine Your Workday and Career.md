@@ -21,7 +21,7 @@ tags:
   - course
   - topic/artificial-intelligence
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Productivity%20Hacks%20to%20Reimagine%20Your%20Workday%20and%20Career.md)

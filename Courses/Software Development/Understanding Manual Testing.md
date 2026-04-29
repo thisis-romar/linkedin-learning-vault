@@ -30,7 +30,7 @@ tags:
   - skill/quality-assurance
   - skill/manual-testing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Understanding%20Manual%20Testing.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Overview]]** (3 videos)
-- **[[#3. 2. Execution]]** (4 videos)
-- **[[#4. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Overview]]** (3 videos)
+- **[[#2. Execution]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is manual testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
@@ -465,7 +469,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Execution
+### 2. Execution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test plans and use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
@@ -777,7 +783,9 @@ created: 2026-04-28
 > **Speakers:** - [educator] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where do you start?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)

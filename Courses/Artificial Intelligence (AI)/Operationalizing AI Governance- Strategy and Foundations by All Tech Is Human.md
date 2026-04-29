@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-governance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Operationalizing%20AI%20Governance-%20Strategy%20and%20Foundations%20by%20All%20Tech%20Is%20Human.md)
@@ -50,9 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Operationalizing AI Governance]]** (2 videos)
+- **[[#Operationalizing AI Governance]]** (2 videos)
 
-### 1. Operationalizing AI Governance
+### Operationalizing AI Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategy and foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)

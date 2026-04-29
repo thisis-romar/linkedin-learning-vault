@@ -30,7 +30,7 @@ tags:
   - skill/ip-addressing
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Cisco%20Networking%20Foundations-%20IP%20Addressing.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. IPv4 Addressing]]** (15 videos)
-- **[[#3. 2. IPv6 Addressing]]** (14 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. IPv4 Addressing]]** (15 videos)
+- **[[#2. IPv6 Addressing]]** (14 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn IP addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. IPv4 Addressing
+### 1. IPv4 Addressing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Converting from binary to decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
@@ -1443,7 +1447,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. IPv6 Addressing
+### 2. IPv6 Addressing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hexadecimal numbering
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
@@ -2414,7 +2420,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)

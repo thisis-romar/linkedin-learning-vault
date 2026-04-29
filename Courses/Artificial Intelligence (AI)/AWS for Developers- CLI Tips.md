@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/aws-command-line-interface-cli
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AWS%20for%20Developers-%20CLI%20Tips.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to AWS CLI]]** (3 videos)
-- **[[#3. 2. Managing EC2 Instances with AWS CLI]]** (3 videos)
-- **[[#4. 3. Working with S3 and AWS CLI]]** (3 videos)
-- **[[#5. 4. Managing Permissions with IAM and AWS CLI]]** (3 videos)
-- **[[#6. 5. Managing Other AWS Services with AWS CLI]]** (3 videos)
-- **[[#7. 6. Advanced AWS CLI Topics]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to AWS CLI]]** (3 videos)
+- **[[#2. Managing EC2 Instances with AWS CLI]]** (3 videos)
+- **[[#3. Working with S3 and AWS CLI]]** (3 videos)
+- **[[#4. Managing Permissions with IAM and AWS CLI]]** (3 videos)
+- **[[#5. Managing Other AWS Services with AWS CLI]]** (3 videos)
+- **[[#6. Advanced AWS CLI Topics]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use AWS CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to AWS CLI
+### 1. Introduction to AWS CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of AWS CLI and its benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
@@ -478,7 +482,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1)
 
 
-### 3. 2. Managing EC2 Instances with AWS CLI
+### 2. Managing EC2 Instances with AWS CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and launching EC2 instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
@@ -833,7 +839,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Working with S3 and AWS CLI
+### 3. Working with S3 and AWS CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uploading, downloading, and managing files in S3 buckets
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
@@ -1245,7 +1253,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Permissions with IAM and AWS CLI
+### 4. Managing Permissions with IAM and AWS CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to IAM users, groups, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
@@ -1538,7 +1548,9 @@ created: 2026-04-28
 > **Definitions:** known as (1)
 
 
-### 6. 5. Managing Other AWS Services with AWS CLI
+### 5. Managing Other AWS Services with AWS CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing RDS databases with AWS CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
@@ -1997,7 +2009,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 7. 6. Advanced AWS CLI Topics
+### 6. Advanced AWS CLI Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating AWS CLI with AWS CloudTrail
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
@@ -2310,7 +2324,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1), make sure to (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)

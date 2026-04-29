@@ -30,7 +30,7 @@ tags:
   - skill/business-ethics
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI%20to%20the%20Rescue.md)
@@ -48,9 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Responsible AI to the Rescue]]** (8 videos)
+- **[[#1. Responsible AI to the Rescue]]** (8 videos)
 
-### 1. 1. Responsible AI to the Rescue
+### 1. Responsible AI to the Rescue
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)

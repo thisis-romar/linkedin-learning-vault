@@ -30,7 +30,7 @@ tags:
   - skill/virtual-private-network-vpn
   - skill/multiprotocol-label-switching-mpls
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/MPLS%20L3VPN%20Foundation%20and%20Implementation.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to MPLS and L3VPN]]** (4 videos)
-- **[[#3. 2. MPLS Fundamentals]]** (5 videos)
-- **[[#4. 3. L3VPN Core Concepts]]** (5 videos)
-- **[[#5. 4. Designing MPLS L3VPN]]** (5 videos)
-- **[[#6. 5. Implementing MPLS L3VPN]]** (6 videos)
-- **[[#7. 6. Advanced Topics and Wrap-Up]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to MPLS and L3VPN]]** (4 videos)
+- **[[#2. MPLS Fundamentals]]** (5 videos)
+- **[[#3. L3VPN Core Concepts]]** (5 videos)
+- **[[#4. Designing MPLS L3VPN]]** (5 videos)
+- **[[#5. Implementing MPLS L3VPN]]** (6 videos)
+- **[[#6. Advanced Topics and Wrap-Up]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundation and implementation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to MPLS and L3VPN
+### 1. Introduction to MPLS and L3VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is MPLS? Understanding the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
@@ -411,7 +415,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. 2. MPLS Fundamentals
+### 2. MPLS Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MPLS architecture and components
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
@@ -814,7 +820,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. L3VPN Core Concepts
+### 3. L3VPN Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes L3VPN unique? VRFs and route distinguishers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
@@ -1257,7 +1265,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing MPLS L3VPN
+### 4. Designing MPLS L3VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning an MPLS L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
@@ -1674,7 +1684,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 6. 5. Implementing MPLS L3VPN
+### 5. Implementing MPLS L3VPN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case study: Step-by-step L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
@@ -2359,7 +2371,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Advanced Topics and Wrap-Up
+### 6. Advanced Topics and Wrap-Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inter-AS L3VPN: Connecting multiple providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
@@ -2742,7 +2756,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course summary and next steps for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)

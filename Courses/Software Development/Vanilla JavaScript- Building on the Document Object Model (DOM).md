@@ -30,7 +30,7 @@ tags:
   - skill/document-object-model-dom
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Vanilla%20JavaScript-%20Building%20on%20the%20Document%20Object%20Model%20(DOM).md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Key DOM Concepts]]** (6 videos)
-- **[[#3. 2. HTML to DOM]]** (9 videos)
-- **[[#4. 3. Transforming the DOM]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Key DOM Concepts]]** (6 videos)
+- **[[#2. HTML to DOM]]** (9 videos)
+- **[[#3. Transforming the DOM]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn the JavaScript DOM inside and out
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Key DOM Concepts
+### 1. Key DOM Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Node interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
@@ -1004,7 +1008,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. HTML to DOM
+### 2. HTML to DOM
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where does the DOM come from?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
@@ -2231,7 +2237,9 @@ created: 2026-04-28
 > **Exercise Files:** source code (1)
 
 
-### 4. 3. Transforming the DOM
+### 3. Transforming the DOM
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Traversing the tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
@@ -3068,7 +3076,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Level up your DOM skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)

@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-powerpoint
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Copilot%20in%20PowerPoint-%20From%20Prompt%20to%20Presentation%20(2024).md)
@@ -52,18 +52,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting to Know Copilot in PowerPoint]]** (2 videos)
-- **[[#3. 2. Starting a Presentation from Scratch]]** (3 videos)
-- **[[#4. 3. Starting a Presentation from a Document]]** (1 videos)
-- **[[#5. 4. Adding New Slides with Copilot]]** (2 videos)
-- **[[#6. 5. Refining a Presentation with Copilot]]** (4 videos)
-- **[[#7. 6. Understanding a Presentation with Copilot]]** (2 videos)
-- **[[#8. 7. Asking Copilot for Help]]** (3 videos)
-- **[[#9. 8. Things to Keep In Mind When Using Copilot]]** (1 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting to Know Copilot in PowerPoint]]** (2 videos)
+- **[[#2. Starting a Presentation from Scratch]]** (3 videos)
+- **[[#3. Starting a Presentation from a Document]]** (1 videos)
+- **[[#4. Adding New Slides with Copilot]]** (2 videos)
+- **[[#5. Refining a Presentation with Copilot]]** (4 videos)
+- **[[#6. Understanding a Presentation with Copilot]]** (2 videos)
+- **[[#7. Asking Copilot for Help]]** (3 videos)
+- **[[#8. Things to Keep In Mind When Using Copilot]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/copilot-in-powerpoint?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting to Know Copilot in PowerPoint
+### 1. Getting to Know Copilot in PowerPoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of Copilot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/overview-of-copilot-features?u=76281980)
@@ -296,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Starting a Presentation from Scratch
+### 2. Starting a Presentation from Scratch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -508,7 +514,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Starting a Presentation from a Document
+### 3. Starting a Presentation from a Document
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new presentation from a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/create-a-new-presentation-from-a-document?u=76281980)
@@ -620,7 +628,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Adding New Slides with Copilot
+### 4. Adding New Slides with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/add-a-slide-about-a-specific-subject?u=76281980)
@@ -722,7 +732,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Refining a Presentation with Copilot
+### 5. Refining a Presentation with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/organize-a-presentation?u=76281980)
@@ -951,7 +963,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Understanding a Presentation with Copilot
+### 6. Understanding a Presentation with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/summarize-a-presentation?u=76281980)
@@ -1084,7 +1098,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Asking Copilot for Help
+### 7. Asking Copilot for Help
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/ways-that-copilot-can-help?u=76281980)
@@ -1192,7 +1208,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Things to Keep In Mind When Using Copilot
+### 8. Things to Keep In Mind When Using Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Helpful things to know
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/helpful-things-to-know?u=76281980)
@@ -1273,7 +1291,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more about Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-2024/where-to-learn-more-about-copilot?u=76281980)

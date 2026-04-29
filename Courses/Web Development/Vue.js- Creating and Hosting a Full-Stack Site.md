@@ -29,7 +29,7 @@ tags:
   - skill/vue-js
   - skill/full-stack-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Vue.js-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Creating a Vue.js Front End]]** (15 videos)
-- **[[#3. 2. Creating a Node Back End]]** (8 videos)
-- **[[#4. 3. Adding MongoDB to Your Back-end]]** (8 videos)
-- **[[#5. 4. Connecting the Front- and Back-end]]** (7 videos)
-- **[[#6. 5. Adding Authentication with Firebase Authentication]]** (7 videos)
-- **[[#7. 6. Hosting Your Site]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Creating a Vue.js Front End]]** (15 videos)
+- **[[#2. Creating a Node Back End]]** (8 videos)
+- **[[#3. Adding MongoDB to Your Back-end]]** (8 videos)
+- **[[#4. Connecting the Front- and Back-end]]** (7 videos)
+- **[[#5. Adding Authentication with Firebase Authentication]]** (7 videos)
+- **[[#6. Hosting Your Site]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vue.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
@@ -232,7 +234,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Creating a Vue.js Front End
+### 1. Creating a Vue.js Front End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Vue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
@@ -1975,7 +1979,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating a Node Back End
+### 2. Creating a Node Back End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
@@ -2940,7 +2946,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Adding MongoDB to Your Back-end
+### 3. Adding MongoDB to Your Back-end
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
@@ -3897,7 +3905,9 @@ created: 2026-04-28
 > **Tools:** postman (1)
 
 
-### 5. 4. Connecting the Front- and Back-end
+### 4. Connecting the Front- and Back-end
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
@@ -4772,7 +4782,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Adding Authentication with Firebase Authentication
+### 5. Adding Authentication with Firebase Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Firebase Authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
@@ -5597,7 +5609,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 7. 6. Hosting Your Site
+### 6. Hosting Your Site
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The release process
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
@@ -5914,7 +5928,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)

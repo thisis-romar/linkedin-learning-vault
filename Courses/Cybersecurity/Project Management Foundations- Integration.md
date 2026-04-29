@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/project-integration-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Project%20Management%20Foundations-%20Integration.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Overview: Project Integration Management]]** (4 videos)
-- **[[#3. 2. Processes: Project Integration Management]]** (7 videos)
-- **[[#4. 3. Best Practices: Project Integration Management]]** (5 videos)
-- **[[#5. 4. Emerging Trends: Project Integration Management]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview: Project Integration Management]]** (4 videos)
+- **[[#2. Processes: Project Integration Management]]** (7 videos)
+- **[[#3. Best Practices: Project Integration Management]]** (5 videos)
+- **[[#4. Emerging Trends: Project Integration Management]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate processes as you PM
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Overview: Project Integration Management
+### 1. Overview: Project Integration Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
@@ -356,7 +360,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Processes: Project Integration Management
+### 2. Processes: Project Integration Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop Project Charter
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
@@ -843,7 +849,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Best Practices: Project Integration Management
+### 3. Best Practices: Project Integration Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tailor integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
@@ -1157,7 +1165,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 5. 4. Emerging Trends: Project Integration Management
+### 4. Emerging Trends: Project Integration Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate self-directed teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
@@ -1366,7 +1376,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)

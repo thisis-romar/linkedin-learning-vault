@@ -31,7 +31,7 @@ tags:
   - skill/software-architecture
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Software%20Architecture.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Software Architecture Basics]]** (1 videos)
-- **[[#3. 2. Server-Side Rendering (SSR)]]** (7 videos)
-- **[[#4. 3. State Management Architecture]]** (10 videos)
-- **[[#5. 4. Data Loading and WebSockets]]** (4 videos)
-- **[[#6. 5. Code Splitting]]** (4 videos)
-- **[[#7. 6. Folder Structure and Naming Conventions]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Software Architecture Basics]]** (1 videos)
+- **[[#2. Server-Side Rendering (SSR)]]** (7 videos)
+- **[[#3. State Management Architecture]]** (10 videos)
+- **[[#4. Data Loading and WebSockets]]** (4 videos)
+- **[[#5. Code Splitting]]** (4 videos)
+- **[[#6. Folder Structure and Naming Conventions]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn software architecture with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Software Architecture Basics
+### 1. Software Architecture Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is software architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
@@ -208,7 +212,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Server-Side Rendering (SSR)
+### 2. Server-Side Rendering (SSR)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Server-side rendering basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
@@ -881,7 +887,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. State Management Architecture
+### 3. State Management Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is state management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
@@ -2091,7 +2099,9 @@ created: 2026-04-28
 > **Env Vars:** npm (1)
 
 
-### 5. 4. Data Loading and WebSockets
+### 4. Data Loading and WebSockets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When should we load data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
@@ -2569,7 +2579,9 @@ created: 2026-04-28
 > **URLs:** [http://localhost:8080/api/articles](http://localhost:8080/api/articles) (1)
 
 
-### 6. 5. Code Splitting
+### 5. Code Splitting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code splitting basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
@@ -3047,7 +3059,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 7. 6. Folder Structure and Naming Conventions
+### 6. Folder Structure and Naming Conventions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Function vs. feature-based organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
@@ -3220,7 +3234,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)

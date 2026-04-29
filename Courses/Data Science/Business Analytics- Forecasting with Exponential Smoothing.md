@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Business%20Analytics-%20Forecasting%20with%20Exponential%20Smoothing.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Idea Behind Exponential Smoothing]]** (4 videos)
-- **[[#3. 2. The Forecasting Equation]]** (4 videos)
-- **[[#4. 3. Measuring Forecast Accuracy]]** (2 videos)
-- **[[#5. 4. Optimizing Forecasts]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Idea Behind Exponential Smoothing]]** (4 videos)
+- **[[#2. The Forecasting Equation]]** (4 videos)
+- **[[#3. Measuring Forecast Accuracy]]** (2 videos)
+- **[[#4. Optimizing Forecasts]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/welcome?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Idea Behind Exponential Smoothing
+### 1. The Idea Behind Exponential Smoothing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Self-correcting forecasts
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/self-correcting-forecasts?u=76281980)
@@ -522,7 +526,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Forecasting Equation
+### 2. The Forecasting Equation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dissect the error correction form
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980)
@@ -929,7 +935,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Measuring Forecast Accuracy
+### 3. Measuring Forecast Accuracy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The absolute deviation approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/the-absolute-deviation-approach?u=76281980)
@@ -1046,7 +1054,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Optimizing Forecasts
+### 4. Optimizing Forecasts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solver
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/solver?u=76281980)
@@ -1349,7 +1359,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/next-steps?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/scrum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Scrum-%20The%20Basics.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Problems to Solve]]** (3 videos)
-- **[[#3. 2. The Heart of the Framework]]** (3 videos)
-- **[[#4. 3. Getting Ready to Work]]** (5 videos)
-- **[[#5. 4. Getting Down to Work]]** (4 videos)
-- **[[#6. 5. Wrapping Up a Sprint]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Problems to Solve]]** (3 videos)
+- **[[#2. The Heart of the Framework]]** (3 videos)
+- **[[#3. Getting Ready to Work]]** (5 videos)
+- **[[#4. Getting Down to Work]]** (4 videos)
+- **[[#5. Wrapping Up a Sprint]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practicing scrum in your work environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - agile (1)
 
 
-### 2. 1. Problems to Solve
+### 1. Problems to Solve
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The scrum approach to project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
@@ -285,7 +289,9 @@ created: 2026-04-28
 > **Speakers:** - scrum (1)
 
 
-### 3. 2. The Heart of the Framework
+### 2. The Heart of the Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solve project problems with scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
@@ -554,7 +560,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 4. 3. Getting Ready to Work
+### 3. Getting Ready to Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set the vision for your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
@@ -953,7 +961,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 5. 4. Getting Down to Work
+### 4. Getting Down to Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sprint planning in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
@@ -1253,7 +1263,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Wrapping Up a Sprint
+### 5. Wrapping Up a Sprint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get stories done in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
@@ -1485,7 +1497,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deliver successful projects using scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)

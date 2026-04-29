@@ -32,7 +32,7 @@ tags:
   - skill/python-programming-language
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20SQL%20with%20Python.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Common Interface]]** (8 videos)
-- **[[#3. 2. A CRUD Class]]** (6 videos)
-- **[[#4. 3. Final Project: URL Shortener]]** (6 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Common Interface]]** (8 videos)
+- **[[#2. A CRUD Class]]** (6 videos)
+- **[[#3. Final Project: URL Shortener]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use SQL with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
@@ -460,7 +462,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (3), open the (1), checkbox (1)
 
 
-### 2. 1. Common Interface
+### 1. Common Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Python DB-API
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
@@ -1209,7 +1213,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. A CRUD Class
+### 2. A CRUD Class
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The essential four
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
@@ -1852,7 +1858,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 4. 3. Final Project: URL Shortener
+### 3. Final Project: URL Shortener
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
@@ -2400,7 +2408,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)

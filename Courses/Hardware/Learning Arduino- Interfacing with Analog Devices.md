@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/arduino
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/Learning%20Arduino-%20Interfacing%20with%20Analog%20Devices.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Analog Inputs]]** (14 videos)
-- **[[#3. 2. Analog Outputs]]** (8 videos)
-- **[[#4. 3. Interfacing with a Stepper Motor]]** (8 videos)
-- **[[#5. 4. Projects]]** (9 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Analog Inputs]]** (14 videos)
+- **[[#2. Analog Outputs]]** (8 videos)
+- **[[#3. Interfacing with a Stepper Motor]]** (8 videos)
+- **[[#4. Projects]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating analog devices with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Analog Inputs
+### 1. Analog Inputs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are analog devices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980)
@@ -862,7 +866,9 @@ created: 2026-04-28
 > **Speakers:** - alright (1)
 
 
-### 3. 2. Analog Outputs
+### 2. Analog Outputs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How Arduino generates analog output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980)
@@ -1190,7 +1196,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Interfacing with a Stepper Motor
+### 3. Interfacing with a Stepper Motor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stepper motor introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980)
@@ -1659,7 +1667,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. Projects
+### 4. Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the joystick to control LEDs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-the-joystick-to-control-leds?u=76281980)
@@ -2050,7 +2060,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980)

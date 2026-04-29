@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/local-area-network-lan
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Local%20Area%20Network%20(LAN).md)

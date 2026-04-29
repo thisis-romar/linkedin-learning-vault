@@ -32,7 +32,7 @@ tags:
   - skill/laravel
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Essential%20Statamic%20for%20PHP%20and%20Laravel%20Developers.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Statamic]]** (3 videos)
-- **[[#3. 2. Getting Started with Statamic]]** (8 videos)
-- **[[#4. 3. Statamic Internals]]** (9 videos)
-- **[[#5. 4. Deploying Statamic on Netlify]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Statamic]]** (3 videos)
+- **[[#2. Getting Started with Statamic]]** (8 videos)
+- **[[#3. Statamic Internals]]** (9 videos)
+- **[[#4. Deploying Statamic on Netlify]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to Statamic
+### 1. Introduction to Statamic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Statamic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
@@ -271,7 +275,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Started with Statamic
+### 2. Getting Started with Statamic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Statamic as a standalone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
@@ -929,7 +935,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 4. 3. Statamic Internals
+### 3. Statamic Internals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File structure in Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
@@ -1946,7 +1954,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 5. 4. Deploying Statamic on Netlify
+### 4. Deploying Statamic on Netlify
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Statamic as an SSG
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
@@ -2404,7 +2414,9 @@ created: 2026-04-28
 > **Non-Speech:** (techno music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-azure
   - skill/cloud-storage
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Manage%20Storage%20in%20Azure.md)
@@ -49,17 +49,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Overview of Azure Storage]]** (10 videos)
-- **[[#3. 2. Redundancy, Disaster Recovery, and Replication]]** (5 videos)
-- **[[#4. 3. Networking and Infrastructure as Code for Azure Storage]]** (7 videos)
-- **[[#5. 4. Authorizing Operations on Azure Storage]]** (7 videos)
-- **[[#6. 5. Mounting and Synching to Azure File Shares]]** (3 videos)
-- **[[#7. 6. Protecting Azure Storage Data]]** (6 videos)
-- **[[#8. 7. Managing Cost and Monitoring Azure Storage]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview of Azure Storage]]** (10 videos)
+- **[[#2. Redundancy, Disaster Recovery, and Replication]]** (5 videos)
+- **[[#3. Networking and Infrastructure as Code for Azure Storage]]** (7 videos)
+- **[[#4. Authorizing Operations on Azure Storage]]** (7 videos)
+- **[[#5. Mounting and Synching to Azure File Shares]]** (3 videos)
+- **[[#6. Protecting Azure Storage Data]]** (6 videos)
+- **[[#7. Managing Cost and Monitoring Azure Storage]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding storage in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 2. 1. Overview of Azure Storage
+### 1. Overview of Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Storage and the storage services
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980)
@@ -1080,7 +1084,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. 2. Redundancy, Disaster Recovery, and Replication
+### 2. Redundancy, Disaster Recovery, and Replication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### High availability and durability for Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980)
@@ -1594,7 +1600,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Networking and Infrastructure as Code for Azure Storage
+### 3. Networking and Infrastructure as Code for Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage account firewalls and virtual network access
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980)
@@ -2281,7 +2289,9 @@ created: 2026-04-28
 > **CLI Commands:** az (2)
 
 
-### 5. 4. Authorizing Operations on Azure Storage
+### 4. Authorizing Operations on Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The control plane and the data plane
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980)
@@ -3123,7 +3133,9 @@ created: 2026-04-28
 > **Definitions:** is called (1), is a  (1)
 
 
-### 6. 5. Mounting and Synching to Azure File Shares
+### 5. Mounting and Synching to Azure File Shares
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Azure File Sync
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980)
@@ -3616,7 +3628,9 @@ created: 2026-04-28
 > **UI Navigation:** dropdown (1)
 
 
-### 7. 6. Protecting Azure Storage Data
+### 6. Protecting Azure Storage Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Encryption at rest and in transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980)
@@ -4206,7 +4220,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. 7. Managing Cost and Monitoring Azure Storage
+### 7. Managing Cost and Monitoring Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Billing, reserved capacity, and network routing preference for Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980)
@@ -4880,7 +4896,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about Azure management
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980)

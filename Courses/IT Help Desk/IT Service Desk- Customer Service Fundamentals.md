@@ -30,7 +30,7 @@ tags:
   - skill/it-service-management
   - skill/customer-service-skills
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/IT%20Service%20Desk-%20Customer%20Service%20Fundamentals.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Anatomy of a Contact]]** (7 videos)
-- **[[#3. 2. Customer Service Tasks]]** (6 videos)
-- **[[#4. 3. Language and Professionalism]]** (9 videos)
-- **[[#5. 4. Common Help Desk Customer Service Situations]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Anatomy of a Contact]]** (7 videos)
+- **[[#2. Customer Service Tasks]]** (6 videos)
+- **[[#3. Language and Professionalism]]** (9 videos)
+- **[[#4. Common Help Desk Customer Service Situations]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - technical (1)
 
 
-### 2. 1. Anatomy of a Contact
+### 1. Anatomy of a Contact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Contact greeting and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
@@ -716,7 +720,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Customer Service Tasks
+### 2. Customer Service Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Placing a contact on hold
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
@@ -1264,7 +1270,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 4. 3. Language and Professionalism
+### 3. Language and Professionalism
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The value of building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
@@ -2213,7 +2221,9 @@ created: 2026-04-28
 > **Warnings:** common error (1)
 
 
-### 5. 4. Common Help Desk Customer Service Situations
+### 4. Common Help Desk Customer Service Situations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recovering unsatisfied customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
@@ -3203,7 +3213,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)

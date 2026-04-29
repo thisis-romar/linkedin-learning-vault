@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Java%2011.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Getting Started with Java]]** (7 videos)
-- **[[#3. 2. Building Strong Foundations]]** (7 videos)
-- **[[#4. 3. Control Flow]]** (7 videos)
-- **[[#5. 4. Debugging in Java]]** (4 videos)
-- **[[#6. 5. Functions in Java]]** (7 videos)
-- **[[#7. 6. Classes in Java]]** (9 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Getting Started with Java]]** (7 videos)
+- **[[#2. Building Strong Foundations]]** (7 videos)
+- **[[#3. Control Flow]]** (7 videos)
+- **[[#4. Debugging in Java]]** (4 videos)
+- **[[#5. Functions in Java]]** (7 videos)
+- **[[#6. Classes in Java]]** (9 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to learning Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
@@ -186,7 +188,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Java
+### 1. Getting Started with Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
@@ -714,7 +718,9 @@ created: 2026-04-28
 > **Cross-References:** we talked about (1)
 
 
-### 3. 2. Building Strong Foundations
+### 2. Building Strong Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
@@ -1225,7 +1231,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Control Flow
+### 3. Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mapping out program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
@@ -1749,7 +1757,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Debugging in Java
+### 4. Debugging in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging syntax and logical errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
@@ -2122,7 +2132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Functions in Java
+### 5. Functions in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are functions? (conceptually)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
@@ -2836,7 +2848,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Classes in Java
+### 6. Classes in Java
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classes in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
@@ -3557,7 +3571,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating Java documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)

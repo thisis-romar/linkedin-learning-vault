@@ -31,7 +31,7 @@ tags:
   - skill/automation
   - skill/productivity-improvement
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Ai%20Agents%20For%20Everyday%20Professionals%20Simple%20Automations%20To%20Speed%20Up%20Your%20Work%20No%20Code%20Required.md)

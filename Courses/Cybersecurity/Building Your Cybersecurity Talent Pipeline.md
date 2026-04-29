@@ -32,7 +32,7 @@ tags:
   - skill/tech-career-skills
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20Your%20Cybersecurity%20Talent%20Pipeline.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Why Is Building a Pipeline Important?]]** (3 videos)
-- **[[#3. 2. Where to Start]]** (3 videos)
-- **[[#4. 3. The Pipeline Mentality]]** (4 videos)
-- **[[#5. 4. Additional Outcomes]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why Is Building a Pipeline Important?]]** (3 videos)
+- **[[#2. Where to Start]]** (3 videos)
+- **[[#3. The Pipeline Mentality]]** (4 videos)
+- **[[#4. Additional Outcomes]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your cybersecurity pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Why Is Building a Pipeline Important?
+### 1. Why Is Building a Pipeline Important?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The cybersecurity skills gap: Fact or fiction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980)
@@ -346,7 +350,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Where to Start
+### 2. Where to Start
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980)
@@ -623,7 +629,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. The Pipeline Mentality
+### 3. The Pipeline Mentality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintaining your pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980)
@@ -962,7 +970,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Additional Outcomes
+### 4. Additional Outcomes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boosting your corporate brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/boosting-your-corporate-brand?u=76281980)

@@ -37,7 +37,7 @@ tags:
   - skill/python-programming-language
   - skill/healthcare-analytics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20for%20Health%20Sciences%20and%20Healthcare.md)
@@ -55,20 +55,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. General Programming Concepts]]** (11 videos)
-- **[[#3. 2. Setup and Workspace]]** (2 videos)
-- **[[#4. 3. Python File Handling]]** (3 videos)
-- **[[#5. 4. Basic Python Data Type]]** (3 videos)
-- **[[#6. 5. Basic Python Data Structures]]** (6 videos)
-- **[[#7. 6. Basic Operations in Python]]** (5 videos)
-- **[[#8. 7. Python Functions and Statements]]** (5 videos)
-- **[[#9. 8. Built-in Functions and Other Operations in Python]]** (14 videos)
-- **[[#10. 9. Code Documentation in Python]]** (4 videos)
-- **[[#11. 10. Libraries]]** (3 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. General Programming Concepts]]** (11 videos)
+- **[[#2. Setup and Workspace]]** (2 videos)
+- **[[#3. Python File Handling]]** (3 videos)
+- **[[#4. Basic Python Data Type]]** (3 videos)
+- **[[#5. Basic Python Data Structures]]** (6 videos)
+- **[[#6. Basic Operations in Python]]** (5 videos)
+- **[[#7. Python Functions and Statements]]** (5 videos)
+- **[[#8. Built-in Functions and Other Operations in Python]]** (14 videos)
+- **[[#9. Code Documentation in Python]]** (4 videos)
+- **[[#10. Libraries]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn Python for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. General Programming Concepts
+### 1. General Programming Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980)
@@ -799,7 +803,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setup and Workspace
+### 2. Setup and Workspace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Colaboratory notebook (online)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980)
@@ -863,7 +869,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/an-overview-of-the-coderpad-coding-challenges?u=76281980)
 
 
-### 4. 3. Python File Handling
+### 3. Python File Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Open Python file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980)
@@ -971,7 +979,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Basic Python Data Type
+### 4. Basic Python Data Type
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980)
@@ -1174,7 +1184,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Basic Python Data Structures
+### 5. Basic Python Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980)
@@ -1595,7 +1607,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Basic Operations in Python
+### 6. Basic Operations in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Arithmetic operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980)
@@ -1916,7 +1930,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Python Functions and Statements
+### 7. Python Functions and Statements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980)
@@ -2163,7 +2179,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Built-in Functions and Other Operations in Python
+### 8. Built-in Functions and Other Operations in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Length and count function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980)
@@ -2668,7 +2686,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Code Documentation in Python
+### 9. Code Documentation in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980)
@@ -2903,7 +2923,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Libraries
+### 10. Libraries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Import statement and aliasing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980)
@@ -3059,7 +3081,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/next-steps?u=76281980)

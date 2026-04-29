@@ -31,7 +31,7 @@ tags:
   - skill/cloud-services
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Cloud%20Fundamentals-%20Explore%20Cloud%20Services.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Cloud Concepts]]** (4 videos)
-- **[[#3. 2. Core Azure Services]]** (6 videos)
-- **[[#4. 3. Identity, Governance, Privacy, and Compliance]]** (9 videos)
-- **[[#5. 4. Cloud and Network Security]]** (7 videos)
-- **[[#6. 5. Core Solutions and Management Tools]]** (6 videos)
-- **[[#7. 6. Planning and Cost Management]]** (4 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Cloud Concepts]]** (4 videos)
+- **[[#2. Core Azure Services]]** (6 videos)
+- **[[#3. Identity, Governance, Privacy, and Compliance]]** (9 videos)
+- **[[#4. Cloud and Network Security]]** (7 videos)
+- **[[#5. Core Solutions and Management Tools]]** (6 videos)
+- **[[#6. Planning and Cost Management]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Concepts
+### 1. Cloud Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud benefits and considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Core Azure Services
+### 2. Core Azure Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure architectural components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980)
@@ -1055,7 +1061,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Identity, Governance, Privacy, and Compliance
+### 3. Identity, Governance, Privacy, and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure identity services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980)
@@ -1668,7 +1676,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud and Network Security
+### 4. Cloud and Network Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980)
@@ -2140,7 +2150,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Core Solutions and Management Tools
+### 5. Core Solutions and Management Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980)
@@ -2508,7 +2520,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Planning and Cost Management
+### 6. Planning and Cost Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure pricing calculator
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980)

@@ -10,12 +10,12 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/data-science
-  - status/in-progress
-last_activity: 2026-04-22T19:59:27.932Z
-activity_total: 10
-courses_visited: 10
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
     last_opened: null
@@ -61,7 +61,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Build%20an%20Ethereum%20Blockchain%20App.md)

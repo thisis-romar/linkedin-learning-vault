@@ -30,7 +30,7 @@ tags:
   - skill/knime
   - skill/data-literacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Low%20Code-No-Code%20Data%20Literacy%20with%20KNIME-%20From%20Basic%20to%20Advanced.md)
@@ -48,22 +48,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. KNIME Analytics Platform]]** (9 videos)
-- **[[#2. 2. Data Access]]** (2 videos)
-- **[[#3. 3. Data Cleaning]]** (3 videos)
-- **[[#4. 4. Data Transformation]]** (2 videos)
-- **[[#5. 5. Workflow Documentation]]** (1 videos)
-- **[[#6. 6. Data Merging]]** (3 videos)
-- **[[#7. 7. Data Aggregation]]** (3 videos)
-- **[[#8. 8. Data Export and Visualization]]** (3 videos)
-- **[[#9. 9. Flow Variables]]** (1 videos)
-- **[[#10. 10. Components]]** (2 videos)
-- **[[#11. 11. Workflow Control]]** (3 videos)
-- **[[#12. 12. Error Handling]]** (1 videos)
-- **[[#13. 13. Date and Time Data]]** (2 videos)
-- **[[#14. 14. Databases]]** (2 videos)
+- **[[#1. KNIME Analytics Platform]]** (9 videos)
+- **[[#2. Data Access]]** (2 videos)
+- **[[#3. Data Cleaning]]** (3 videos)
+- **[[#4. Data Transformation]]** (2 videos)
+- **[[#5. Workflow Documentation]]** (1 videos)
+- **[[#6. Data Merging]]** (3 videos)
+- **[[#7. Data Aggregation]]** (3 videos)
+- **[[#8. Data Export and Visualization]]** (3 videos)
+- **[[#9. Flow Variables]]** (1 videos)
+- **[[#10. Components]]** (2 videos)
+- **[[#11. Workflow Control]]** (3 videos)
+- **[[#12. Error Handling]]** (1 videos)
+- **[[#13. Date and Time Data]]** (2 videos)
+- **[[#14. Databases]]** (2 videos)
 
-### 1. 1. KNIME Analytics Platform
+### 1. KNIME Analytics Platform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is KNIME Analytics Platform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980)
@@ -606,7 +608,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 2. Data Access
+### 2. Data Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data access with KNIME: Reading files
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980)
@@ -839,7 +843,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 3. Data Cleaning
+### 3. Data Cleaning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data cleaning with KNIME: How to filter rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980)
@@ -1077,7 +1083,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 4. Data Transformation
+### 4. Data Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data transformation with KNIME: Numbers, strings, and rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-numbers-strings-and-rules?u=76281980)
@@ -1278,7 +1286,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 5. Workflow Documentation
+### 5. Workflow Documentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to keep workflows tidy and documented
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980)
@@ -1366,7 +1376,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 6. Data Merging
+### 6. Data Merging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data merging with KNIME: How to concatenate tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980)
@@ -1617,7 +1629,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 7. Data Aggregation
+### 7. Data Aggregation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data aggregation with KNIME: Simple aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980)
@@ -1872,7 +1886,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 8. 8. Data Export and Visualization
+### 8. Data Export and Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data export with KNIME: Write to a CSV file
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980)
@@ -2153,7 +2169,9 @@ created: 2026-04-28
 > **Warnings:** note that (1), keep in mind (1)
 
 
-### 9. 9. Flow Variables
+### 9. Flow Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Flow variables in KNIME Analytics Platform: Concept and application
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980)
@@ -2280,7 +2298,9 @@ created: 2026-04-28
 > **Versions:** version 5 (1)
 
 
-### 10. 10. Components
+### 10. Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a component in KNIME Analytics Platform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980)
@@ -2485,7 +2505,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 11. 11. Workflow Control
+### 11. Workflow Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a loop?
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980)
@@ -2820,7 +2842,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 12. 12. Error Handling
+### 12. Error Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Error handling with try-catch in KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980)
@@ -2940,7 +2964,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 13. 13. Date and Time Data
+### 13. Date and Time Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling date and time data with KNIME: Convert strings, extract date, and time fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-convert-strings-and-extract-date-and-time-fields?u=76281980)
@@ -3138,7 +3164,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 14. 14. Databases
+### 14. Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Querying databases from KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980)

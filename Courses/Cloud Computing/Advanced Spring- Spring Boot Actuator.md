@@ -34,7 +34,7 @@ tags:
   - skill/spring-framework
   - skill/spring-boot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Advanced%20Spring-%20Spring%20Boot%20Actuator.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Intro to Spring Boot Actuator]]** (6 videos)
-- **[[#3. 2. Creating and Securing Actuator Endpoints]]** (3 videos)
-- **[[#4. 3. Metrics and Prometheus]]** (7 videos)
-- **[[#5. 4. Grafana Dashboards]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Intro to Spring Boot Actuator]]** (6 videos)
+- **[[#2. Creating and Securing Actuator Endpoints]]** (3 videos)
+- **[[#3. Metrics and Prometheus]]** (7 videos)
+- **[[#4. Grafana Dashboards]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Need to monitor the performance of your applications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Intro to Spring Boot Actuator
+### 1. Intro to Spring Boot Actuator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Spring Boot Actuator
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980)
@@ -703,7 +707,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1), make (1)
 
 
-### 3. 2. Creating and Securing Actuator Endpoints
+### 2. Creating and Securing Actuator Endpoints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing the Health Indicator interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980)
@@ -1134,7 +1140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Metrics and Prometheus
+### 3. Metrics and Prometheus
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spring Boot Actuator metrics and Prometheus
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980)
@@ -1610,7 +1618,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Grafana Dashboards
+### 4. Grafana Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing and running a Grafana Docker image
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980)
@@ -1883,7 +1893,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980)

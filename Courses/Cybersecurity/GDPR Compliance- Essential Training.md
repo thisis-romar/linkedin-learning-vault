@@ -29,7 +29,7 @@ tags:
   - skill/legal-compliance
   - skill/general-data-protection-regulation-gdpr
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/GDPR%20Compliance-%20Essential%20Training.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. GDPR Basics]]** (3 videos)
-- **[[#3. 2. GDPR Responsibilities]]** (3 videos)
-- **[[#4. 3. Technical Components]]** (5 videos)
-- **[[#5. 4. Requirements]]** (4 videos)
-- **[[#6. 5. Data Subject Rights]]** (7 videos)
-- **[[#7. 6. Breach Notification]]** (3 videos)
-- **[[#8. 7. Real-World Guidance]]** (3 videos)
-- **[[#9. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. GDPR Basics]]** (3 videos)
+- **[[#2. GDPR Responsibilities]]** (3 videos)
+- **[[#3. Technical Components]]** (5 videos)
+- **[[#4. Requirements]]** (4 videos)
+- **[[#5. Data Subject Rights]]** (7 videos)
+- **[[#6. Breach Notification]]** (3 videos)
+- **[[#7. Real-World Guidance]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
@@ -185,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. GDPR Basics
+### 1. GDPR Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of GDPR basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
@@ -389,7 +393,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. GDPR Responsibilities
+### 2. GDPR Responsibilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data controllers and processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
@@ -583,7 +589,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Technical Components
+### 3. Technical Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Article 24: Responsibilities of the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
@@ -887,7 +895,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Requirements
+### 4. Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Legal basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
@@ -1185,7 +1195,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Data Subject Rights
+### 5. Data Subject Rights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
@@ -1462,7 +1474,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Breach Notification
+### 6. Breach Notification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Timing
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
@@ -1647,7 +1661,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Real-World Guidance
+### 7. Real-World Guidance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Published guidance summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
@@ -1801,7 +1817,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional references to ensure GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)

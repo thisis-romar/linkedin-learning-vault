@@ -31,7 +31,7 @@ tags:
   - topic/data-science
   - skill/social-media-marketing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Social%20Media%20Marketing%20Foundations.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Create a Social Media Strategy]]** (4 videos)
-- **[[#3. 2. Choose the Right Social Networks]]** (4 videos)
-- **[[#4. 3. Publish Engaging Social Content]]** (3 videos)
-- **[[#5. 4. Interact with Customers]]** (3 videos)
-- **[[#6. 5. Foster Social Media Partnerships]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Create a Social Media Strategy]]** (4 videos)
+- **[[#2. Choose the Right Social Networks]]** (4 videos)
+- **[[#3. Publish Engaging Social Content]]** (3 videos)
+- **[[#4. Interact with Customers]]** (3 videos)
+- **[[#5. Foster Social Media Partnerships]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is social media marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Create a Social Media Strategy
+### 1. Create a Social Media Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Produce an actionable social media strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
@@ -379,7 +383,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Choose the Right Social Networks
+### 2. Choose the Right Social Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Community-based social networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
@@ -606,7 +612,9 @@ created: 2026-04-28
 > **Speakers:** - people (1)
 
 
-### 4. 3. Publish Engaging Social Content
+### 3. Publish Engaging Social Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create organic content for social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
@@ -798,7 +806,9 @@ created: 2026-04-28
 > **Speakers:** - authenticity (1)
 
 
-### 5. 4. Interact with Customers
+### 4. Interact with Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embrace social listening and monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
@@ -995,7 +1005,9 @@ created: 2026-04-28
 > **Speakers:** - responding (1)
 
 
-### 6. 5. Foster Social Media Partnerships
+### 5. Foster Social Media Partnerships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coordinate teams with a social media policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
@@ -1163,7 +1175,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stay updated on social media marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)

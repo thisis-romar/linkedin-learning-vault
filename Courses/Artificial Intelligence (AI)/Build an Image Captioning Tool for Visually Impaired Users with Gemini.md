@@ -40,7 +40,7 @@ tags:
   - skill/computer-vision
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20an%20Image%20Captioning%20Tool%20for%20Visually%20Impaired%20Users%20with%20Gemini.md)

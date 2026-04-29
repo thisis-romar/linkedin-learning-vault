@@ -31,7 +31,7 @@ tags:
   - skill/blockchain-architecture
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain%20for%20Developers-%20Hyperledger%20Fabric%20on%20Azure.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started in Blockchain and Hyperledger]]** (2 videos)
-- **[[#3. 2. Hyperledger Concepts]]** (6 videos)
-- **[[#4. 3. Blockchain in Azure]]** (3 videos)
-- **[[#5. 4. Set Up Your Blockchain Environment]]** (5 videos)
-- **[[#6. 5. Create Your Azure Blockchain Application]]** (6 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started in Blockchain and Hyperledger]]** (2 videos)
+- **[[#2. Hyperledger Concepts]]** (6 videos)
+- **[[#3. Blockchain in Azure]]** (3 videos)
+- **[[#4. Set Up Your Blockchain Environment]]** (5 videos)
+- **[[#5. Create Your Azure Blockchain Application]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Entering blockchain as a developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started in Blockchain and Hyperledger
+### 1. Getting Started in Blockchain and Hyperledger
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980)
@@ -283,7 +287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Hyperledger Concepts
+### 2. Hyperledger Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hyperledger introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980)
@@ -886,7 +892,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Blockchain in Azure
+### 3. Blockchain in Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hyperledger Fabric on Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980)
@@ -1178,7 +1186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Set Up Your Blockchain Environment
+### 4. Set Up Your Blockchain Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Development environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980)
@@ -1671,7 +1681,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. 5. Create Your Azure Blockchain Application
+### 5. Create Your Azure Blockchain Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/build-the-network?u=76281980)
@@ -2315,7 +2327,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Teardown
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980)

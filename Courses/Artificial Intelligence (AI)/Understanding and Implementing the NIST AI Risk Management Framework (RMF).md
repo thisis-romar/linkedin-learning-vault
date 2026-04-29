@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/risk-management-framework-rmf
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Understanding%20and%20Implementing%20the%20NIST%20AI%20Risk%20Management%20Framework%20(RMF).md)

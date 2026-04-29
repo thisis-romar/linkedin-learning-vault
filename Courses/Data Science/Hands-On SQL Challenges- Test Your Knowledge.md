@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Hands-On%20SQL%20Challenges-%20Test%20Your%20Knowledge.md)
@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. In the Restaurant]]** (12 videos)
-- **[[#3. 2. At the Library]]** (8 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. In the Restaurant]]** (12 videos)
+- **[[#2. At the Library]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL challenges to test your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
@@ -179,7 +181,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. In the Restaurant
+### 1. In the Restaurant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Create invitations for a party
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
@@ -779,7 +783,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. At the Library
+### 2. At the Library
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Check book availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
@@ -1213,7 +1219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your SQL journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)

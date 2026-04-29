@@ -30,7 +30,7 @@ tags:
   - skill/virtual-machines
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Manage%20Virtual%20Machines%20in%20Azure.md)
@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Azure VM Basics]]** (4 videos)
-- **[[#3. 2. Architecture]]** (5 videos)
-- **[[#4. 3. Security and Identity]]** (5 videos)
-- **[[#5. 4. Storage]]** (2 videos)
-- **[[#6. 5. Virtual Machine Management, Maintenance, and Protection]]** (5 videos)
-- **[[#7. 6. Networking]]** (5 videos)
-- **[[#8. 7. Applications and Customization]]** (2 videos)
-- **[[#9. 8. Working with VMs]]** (11 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Azure VM Basics]]** (4 videos)
+- **[[#2. Architecture]]** (5 videos)
+- **[[#3. Security and Identity]]** (5 videos)
+- **[[#4. Storage]]** (2 videos)
+- **[[#5. Virtual Machine Management, Maintenance, and Protection]]** (5 videos)
+- **[[#6. Networking]]** (5 videos)
+- **[[#7. Applications and Customization]]** (2 videos)
+- **[[#8. Working with VMs]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure VM management
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Azure VM Basics
+### 1. Azure VM Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an Azure VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
@@ -488,7 +492,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 3. 2. Architecture
+### 2. Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand VM availability options
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
@@ -941,7 +947,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Security and Identity
+### 3. Security and Identity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose a VM's security type
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
@@ -1398,7 +1406,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Storage
+### 4. Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and attach a new disk
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
@@ -1574,7 +1584,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Virtual Machine Management, Maintenance, and Protection
+### 5. Virtual Machine Management, Maintenance, and Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable disaster recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
@@ -2050,7 +2062,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Networking
+### 6. Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
@@ -2491,7 +2505,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Applications and Customization
+### 7. Applications and Customization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploy VM extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
@@ -2766,7 +2782,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Working with VMs
+### 8. Working with VMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start, stop, and restart VMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
@@ -3730,7 +3748,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/machine-learning
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20and%20AI%20Foundations-%20Clustering%20and%20Association.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. What Is Cluster Analysis?]]** (6 videos)
-- **[[#3. 2. K-Means]]** (11 videos)
-- **[[#4. 3. Visualizing and Reporting Cluster Solutions]]** (3 videos)
-- **[[#5. 4. HDBSCAN]]** (2 videos)
-- **[[#6. 5. Cluster Methods for Categorical Variables]]** (7 videos)
-- **[[#7. 6. Anomaly Detection]]** (4 videos)
-- **[[#8. 7. Association Rules and Sequence Detection]]** (7 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. What Is Cluster Analysis?]]** (6 videos)
+- **[[#2. K-Means]]** (11 videos)
+- **[[#3. Visualizing and Reporting Cluster Solutions]]** (3 videos)
+- **[[#4. HDBSCAN]]** (2 videos)
+- **[[#5. Cluster Methods for Categorical Variables]]** (7 videos)
+- **[[#6. Anomaly Detection]]** (4 videos)
+- **[[#7. Association Rules and Sequence Detection]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Clustering and association
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980)
@@ -291,7 +293,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. What Is Cluster Analysis?
+### 1. What Is Cluster Analysis?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Looking at the data with a 2D scatter plot
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980)
@@ -896,7 +900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. K-Means
+### 2. K-Means
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How does k-means work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-k-means-work?u=76281980)
@@ -1830,7 +1836,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Visualizing and Reporting Cluster Solutions
+### 3. Visualizing and Reporting Cluster Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing cluster means in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980)
@@ -2145,7 +2153,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. HDBSCAN
+### 4. HDBSCAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How does HDBSCAN work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980)
@@ -2322,7 +2332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Cluster Methods for Categorical Variables
+### 5. Cluster Methods for Categorical Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relating clusters to categories statistically
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980)
@@ -3114,7 +3126,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Anomaly Detection
+### 6. Anomaly Detection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The k = 1 trick
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980)
@@ -3592,7 +3606,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Association Rules and Sequence Detection
+### 7. Association Rules and Sequence Detection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to association rules and sequence analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980)
@@ -4357,7 +4373,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980)

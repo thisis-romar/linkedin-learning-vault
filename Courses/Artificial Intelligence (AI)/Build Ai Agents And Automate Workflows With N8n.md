@@ -30,7 +30,7 @@ tags:
   - skill/ai-agents
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Ai%20Agents%20And%20Automate%20Workflows%20With%20N8n.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Building AI Agents with n8n]]** (13 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Building AI Agents with n8n]]** (13 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making AI agents work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Building AI Agents with n8n
+### 1. Building AI Agents with n8n
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing n8n
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
@@ -1327,7 +1331,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)

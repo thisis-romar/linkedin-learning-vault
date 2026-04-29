@@ -33,7 +33,7 @@ tags:
   - skill/supply-chain-security
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Supply%20Chain%20Cybersecurity-%20Preventing%20Supply%20Chain%20Attacks.md)

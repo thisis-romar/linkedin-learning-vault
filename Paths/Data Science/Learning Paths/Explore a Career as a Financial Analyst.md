@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-financial-ana
 course_count: 5
 linkedin_topics:
   - Data Science
-louvain_cluster: 13
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/data-science
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Learning%20Paths/Explore%20a%20Career%20as%20a%20Financial%20Analyst.md)

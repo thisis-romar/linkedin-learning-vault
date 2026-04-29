@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/mongodb
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20MongoDB.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. Documents and Collections]]** (6 videos)
-- **[[#4. 3. Querying]]** (8 videos)
-- **[[#5. 4. Data and Schema Modeling]]** (5 videos)
-- **[[#6. 5. Coding with MongoDB]]** (5 videos)
-- **[[#7. 6. Server Administration]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Documents and Collections]]** (6 videos)
+- **[[#3. Querying]]** (8 videos)
+- **[[#4. Data and Schema Modeling]]** (5 videos)
+- **[[#5. Coding with MongoDB]]** (5 videos)
+- **[[#6. Server Administration]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern database and application design with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [justin (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
@@ -656,7 +660,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Documents and Collections
+### 2. Documents and Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
@@ -1167,7 +1173,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Querying
+### 3. Querying
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sort, limit, and skip
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
@@ -1838,7 +1846,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Data and Schema Modeling
+### 4. Data and Schema Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How you need to think differently
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
@@ -2321,7 +2331,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat techno music) (1)
 
 
-### 6. 5. Coding with MongoDB
+### 5. Coding with MongoDB
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
@@ -3168,7 +3180,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 7. 6. Server Administration
+### 6. Server Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MongoDB config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
@@ -3718,7 +3732,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/performance-metrics
   - skill/business-metrics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Measuring%20Business%20Performance.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Basics of Measuring Business Performance]]** (3 videos)
-- **[[#3. 2. Developing a Metric]]** (3 videos)
-- **[[#4. 3. Systems of Metrics]]** (3 videos)
-- **[[#5. 4. Performance Measurement Tools]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Basics of Measuring Business Performance]]** (3 videos)
+- **[[#2. Developing a Metric]]** (3 videos)
+- **[[#3. Systems of Metrics]]** (3 videos)
+- **[[#4. Performance Measurement Tools]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring business performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Basics of Measuring Business Performance
+### 1. Basics of Measuring Business Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why companies measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
@@ -314,7 +318,9 @@ created: 2026-04-28
 > **Speakers:** - managers (1)
 
 
-### 3. 2. Developing a Metric
+### 2. Developing a Metric
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Characteristic of a good metric
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
@@ -589,7 +595,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Systems of Metrics
+### 3. Systems of Metrics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three categories of performance measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
@@ -842,7 +850,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 5. 4. Performance Measurement Tools
+### 4. Performance Measurement Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using scorecards to measure and manage performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
@@ -1003,7 +1013,9 @@ created: 2026-04-28
 > **Speakers:** - companies (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)

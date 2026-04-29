@@ -26,7 +26,7 @@ tags:
   - topic/security
   - skill/solution-selling
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Solution%20Sales.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Solution Sales Mindset]]** (3 videos)
-- **[[#3. 2. Developing a Buyer Focus]]** (3 videos)
-- **[[#4. 3. Identifying Objectives and Creating Value]]** (6 videos)
-- **[[#5. 4. Establishing Shared Success]]** (4 videos)
-- **[[#6. 5. Planning for Solution Sales Opportunities]]** (1 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Solution Sales Mindset]]** (3 videos)
+- **[[#2. Developing a Buyer Focus]]** (3 videos)
+- **[[#3. Identifying Objectives and Creating Value]]** (6 videos)
+- **[[#4. Establishing Shared Success]]** (4 videos)
+- **[[#5. Planning for Solution Sales Opportunities]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with solution sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. The Solution Sales Mindset
+### 1. The Solution Sales Mindset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The solution sales mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
@@ -344,7 +348,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Developing a Buyer Focus
+### 2. Developing a Buyer Focus
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Qualify who is buying the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
@@ -573,7 +579,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Identifying Objectives and Creating Value
+### 3. Identifying Objectives and Creating Value
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
@@ -1023,7 +1031,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Establishing Shared Success
+### 4. Establishing Shared Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determine progress and value
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
@@ -1297,7 +1307,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 6. 5. Planning for Solution Sales Opportunities
+### 5. Planning for Solution Sales Opportunities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
@@ -1359,7 +1371,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)

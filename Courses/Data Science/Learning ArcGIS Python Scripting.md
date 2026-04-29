@@ -32,7 +32,7 @@ tags:
   - skill/scripting
   - skill/arcgis-pro
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20ArcGIS%20Python%20Scripting.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to Scripting and the Python Language]]** (6 videos)
-- **[[#3. 2. Strings, Numbers, and Variables]]** (6 videos)
-- **[[#4. 3. Getting to ArcGIS with Python]]** (8 videos)
-- **[[#5. 4. Using List Functions to Get to the ArcGIS Objects]]** (10 videos)
-- **[[#6. 5. Reading from and Writing to a File]]** (5 videos)
-- **[[#7. 6. Attaching Your Script to a Tool in ArcGIS Pro]]** (2 videos)
-- **[[#8. 7. Creating Help Documentation for a Script]]** (1 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Scripting and the Python Language]]** (6 videos)
+- **[[#2. Strings, Numbers, and Variables]]** (6 videos)
+- **[[#3. Getting to ArcGIS with Python]]** (8 videos)
+- **[[#4. Using List Functions to Get to the ArcGIS Objects]]** (10 videos)
+- **[[#5. Reading from and Writing to a File]]** (5 videos)
+- **[[#6. Attaching Your Script to a Tool in ArcGIS Pro]]** (2 videos)
+- **[[#7. Creating Help Documentation for a Script]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Python in ArcGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/getting-started-with-python-in-arcgis?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Scripting and the Python Language
+### 1. Introduction to Scripting and the Python Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scripting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/scripting-overview?u=76281980)
@@ -993,7 +997,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Strings, Numbers, and Variables
+### 2. Strings, Numbers, and Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use variables to make scripts flexible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/use-variables-to-make-scripts-flexible?u=76281980)
@@ -1691,7 +1697,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Getting to ArcGIS with Python
+### 3. Getting to ArcGIS with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object-oriented programming (OOP) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/object-oriented-programming-oop-overview?u=76281980)
@@ -2617,7 +2625,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using List Functions to Get to the ArcGIS Objects
+### 4. Using List Functions to Get to the ArcGIS Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/working-with-lists?u=76281980)
@@ -4056,7 +4066,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Reading from and Writing to a File
+### 5. Reading from and Writing to a File
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Read from and write to a text file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/read-from-and-write-to-a-text-file?u=76281980)
@@ -4807,7 +4819,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 7. 6. Attaching Your Script to a Tool in ArcGIS Pro
+### 6. Attaching Your Script to a Tool in ArcGIS Pro
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making scripts dynamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/making-scripts-dynamic?u=76281980)
@@ -5090,7 +5104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Creating Help Documentation for a Script
+### 7. Creating Help Documentation for a Script
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating help documentation for a script tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/creating-help-documentation-for-a-script-tool?u=76281980)
@@ -5134,7 +5150,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arcgis-python-scripting-21011315/next-steps-and-additional-resources?u=76281980)

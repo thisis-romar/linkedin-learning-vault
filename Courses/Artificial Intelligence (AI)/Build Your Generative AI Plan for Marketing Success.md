@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Build%20Your%20Generative%20AI%20Plan%20for%20Marketing%20Success.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Delegate Marketing Tasks to Your AI Deputy]]** (5 videos)
-- **[[#3. 2. Create Your Own Marketing Analytics Assistant]]** (3 videos)
-- **[[#4. 3. Boost Your Career with a Strategic Brainstorming Partner]]** (4 videos)
-- **[[#5. 4. Becoming a Marketing Trailblazer with Generative AI]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Delegate Marketing Tasks to Your AI Deputy]]** (5 videos)
+- **[[#2. Create Your Own Marketing Analytics Assistant]]** (3 videos)
+- **[[#3. Boost Your Career with a Strategic Brainstorming Partner]]** (4 videos)
+- **[[#4. Becoming a Marketing Trailblazer with Generative AI]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practical applications of generative AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Delegate Marketing Tasks to Your AI Deputy
+### 1. Delegate Marketing Tasks to Your AI Deputy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analogies for working with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
@@ -522,7 +526,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create Your Own Marketing Analytics Assistant
+### 2. Create Your Own Marketing Analytics Assistant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creative campaign development with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
@@ -710,7 +716,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Boost Your Career with a Strategic Brainstorming Partner
+### 3. Boost Your Career with a Strategic Brainstorming Partner
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asking generative AI to help you ask it
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
@@ -1060,7 +1068,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Becoming a Marketing Trailblazer with Generative AI
+### 4. Becoming a Marketing Trailblazer with Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizational readiness and executive alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
@@ -1355,7 +1365,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to leverage AI to support your marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)

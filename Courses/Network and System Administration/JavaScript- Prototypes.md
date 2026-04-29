@@ -34,7 +34,7 @@ tags:
   - skill/software-prototyping
   - skill/prototype-framework
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/JavaScript-%20Prototypes.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Building Blocks of Prototypes]]** (3 videos)
-- **[[#3. 2. Using Prototypal Inheritance]]** (4 videos)
-- **[[#4. 3. Using ES6 Classes]]** (2 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Building Blocks of Prototypes]]** (3 videos)
+- **[[#2. Using Prototypal Inheritance]]** (4 videos)
+- **[[#3. Using ES6 Classes]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding prototypes in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Building Blocks of Prototypes
+### 1. Building Blocks of Prototypes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
@@ -607,7 +611,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Prototypal Inheritance
+### 2. Using Prototypal Inheritance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the prototype property
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
@@ -952,7 +958,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Using ES6 Classes
+### 3. Using ES6 Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand ES6 classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
@@ -1125,7 +1133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/data-engineering
   - skill/rust-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Rust%20for%20Data%20Engineering.md)
@@ -49,20 +49,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Getting Started with the Modern Rust Development Ecosystem]]** (8 videos)
-- **[[#2. 2. Rust Sequences and Maps]]** (8 videos)
-- **[[#3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures]]** (8 videos)
-- **[[#4. 4. Rust Safety and Security Features]]** (7 videos)
-- **[[#5. 5. Security Programming with Rust]]** (8 videos)
-- **[[#6. 6. Concurrency with Rust]]** (8 videos)
-- **[[#7. 7. Using Rust to Manage Data, Files, and Network Storage]]** (6 videos)
-- **[[#8. 8. DataFrames with Rust, Python, and Notebooks]]** (7 videos)
-- **[[#9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering]]** (8 videos)
-- **[[#10. 10. Getting Started with Rust Data Pipelines (Including ETL)]]** (7 videos)
-- **[[#11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines]]** (7 videos)
-- **[[#12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud]]** (9 videos)
+- **[[#1. Getting Started with the Modern Rust Development Ecosystem]]** (8 videos)
+- **[[#2. Rust Sequences and Maps]]** (8 videos)
+- **[[#3. Rust Sets, Graphs, and Miscellaneous Data Structures]]** (8 videos)
+- **[[#4. Rust Safety and Security Features]]** (7 videos)
+- **[[#5. Security Programming with Rust]]** (8 videos)
+- **[[#6. Concurrency with Rust]]** (8 videos)
+- **[[#7. Using Rust to Manage Data, Files, and Network Storage]]** (6 videos)
+- **[[#8. DataFrames with Rust, Python, and Notebooks]]** (7 videos)
+- **[[#9. Using Rust with Cloud SDKs and CLIs for Data Engineering]]** (8 videos)
+- **[[#10. Getting Started with Rust Data Pipelines (Including ETL)]]** (7 videos)
+- **[[#11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines]]** (7 videos)
+- **[[#12. Building SQL Solutions with Rust, Generative AI, and Cloud]]** (9 videos)
 
-### 1. 1. Getting Started with the Modern Rust Development Ecosystem
+### 1. Getting Started with the Modern Rust Development Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet the instructor and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
@@ -1421,7 +1423,9 @@ created: 2026-04-28
 > **Exercise Files:** template (2)
 
 
-### 2. 2. Rust Sequences and Maps
+### 2. Rust Sequences and Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Rust sequences and maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
@@ -1943,7 +1947,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures
+### 3. Rust Sets, Graphs, and Miscellaneous Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyzing UFC fighter network using graph centrality in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
@@ -2532,7 +2538,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 4. 4. Rust Safety and Security Features
+### 4. Rust Safety and Security Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
@@ -3006,7 +3014,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 5. Security Programming with Rust
+### 5. Security Programming with Rust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### High availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
@@ -3629,7 +3639,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 6. Concurrency with Rust
+### 6. Concurrency with Rust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Core concepts in concurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
@@ -4523,7 +4535,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 7. Using Rust to Manage Data, Files, and Network Storage
+### 7. Using Rust to Manage Data, Files, and Network Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Process CSV files in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
@@ -5250,7 +5264,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 8. DataFrames with Rust, Python, and Notebooks
+### 8. DataFrames with Rust, Python, and Notebooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
@@ -5966,7 +5982,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
+### 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud developer workspace advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
@@ -7359,7 +7377,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1), picture (1)
 
 
-### 10. 10. Getting Started with Rust Data Pipelines (Including ETL)
+### 10. Getting Started with Rust Data Pipelines (Including ETL)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Jack and the Beanstalk data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
@@ -8171,7 +8191,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1), source code (1)
 
 
-### 11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
+### 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Hugging Face Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
@@ -9051,7 +9073,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud
+### 12. Building SQL Solutions with Rust, Generative AI, and Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting the correct database on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)

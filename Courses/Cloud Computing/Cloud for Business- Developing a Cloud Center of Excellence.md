@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/cloud-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Cloud%20for%20Business-%20Developing%20a%20Cloud%20Center%20of%20Excellence.md)

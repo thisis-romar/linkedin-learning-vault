@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-decision-making
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Removing%20Noise%20and%20Bias%20from%20Strategic%20Decision-Making.md)

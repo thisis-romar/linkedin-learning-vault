@@ -38,7 +38,7 @@ tags:
   - skill/data-analytics
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20Interactive%20Tableau%20Dashboards.md)
@@ -56,17 +56,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. How to Create the Right Kind of Dashboard]]** (5 videos)
-- **[[#3. 2. Dashboard Structure]]** (8 videos)
-- **[[#4. 3. Dashboard Objects]]** (13 videos)
-- **[[#5. 4. Dashboard Design Elements]]** (9 videos)
-- **[[#6. 5. Interactions with Dashboard Actions]]** (10 videos)
-- **[[#7. 6. Using Story Dashboards]]** (6 videos)
-- **[[#8. 7. One Dataset, Five Dashboards]]** (7 videos)
-- **[[#9. Conclusion: Continuing Your Tableau Dashboard Learning Journey]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. How to Create the Right Kind of Dashboard]]** (5 videos)
+- **[[#2. Dashboard Structure]]** (8 videos)
+- **[[#3. Dashboard Objects]]** (13 videos)
+- **[[#4. Dashboard Design Elements]]** (9 videos)
+- **[[#5. Interactions with Dashboard Actions]]** (10 videos)
+- **[[#6. Using Story Dashboards]]** (6 videos)
+- **[[#7. One Dataset, Five Dashboards]]** (7 videos)
+- **[[#Conclusion: Continuing Your Tableau Dashboard Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing dashboards in Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/designing-dashboards-in-tableau?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - [matt] (1)
 
 
-### 2. 1. How to Create the Right Kind of Dashboard
+### 1. How to Create the Right Kind of Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who, what, where, and why: The four questions for every dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/the-four-questions-for-every-dashboard?u=76281980)
@@ -766,7 +770,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Dashboard Structure
+### 2. Dashboard Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a basic dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/create-a-basic-dashboard?u=76281980)
@@ -1790,7 +1796,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Dashboard Objects
+### 3. Dashboard Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding a horizontal container
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-a-horizontal-container?u=76281980)
@@ -3404,7 +3412,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Dashboard Design Elements
+### 4. Dashboard Design Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Giving a dashboard a good title
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/giving-a-dashboard-a-good-title?u=76281980)
@@ -4811,7 +4821,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Interactions with Dashboard Actions
+### 5. Interactions with Dashboard Actions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding interaction with actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/adding-interation-with-actions?u=76281980)
@@ -5992,7 +6004,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Using Story Dashboards
+### 6. Using Story Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DataViz vs. data stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/dataviz-vs-datastories?u=76281980)
@@ -6763,7 +6777,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. One Dataset, Five Dashboards
+### 7. One Dataset, Five Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build an exploratory dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/build-a-exploratory-dashboard?u=76281980)
@@ -8257,7 +8273,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat energetic music) (1)
 
 
-### 9. Conclusion: Continuing Your Tableau Dashboard Learning Journey
+### Conclusion: Continuing Your Tableau Dashboard Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-interactive-tableau-dashboards-25827168/next-steps-and-additional-resources?u=76281980)

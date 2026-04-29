@@ -10,12 +10,12 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-  - status/in-progress
-last_activity: 2026-04-27T20:12:08.666Z
-activity_total: 1
-courses_visited: 1
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[WordPress Essential Training]]'
     last_opened: null
@@ -57,7 +57,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Web%20Development/Learning%20Paths/Getting%20Started%20with%20WordPress.md)

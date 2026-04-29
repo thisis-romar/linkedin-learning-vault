@@ -27,7 +27,7 @@ tags:
   - skill/react-js
   - skill/user-interface-design
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Modern%20Uis%20With%20React%20Router%20V6.md)
@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Routing Basics]]** (6 videos)
-- **[[#3. 2. Nested Routes and URL Parameters]]** (7 videos)
-- **[[#4. 3. Take Routing Further]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Routing Basics]]** (6 videos)
+- **[[#2. Nested Routes and URL Parameters]]** (7 videos)
+- **[[#3. Take Routing Further]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building modern UIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/building-modern-uis?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Routing Basics
+### 1. Routing Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The fundamentals of routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/the-fundamentals-of-routing?u=76281980)
@@ -548,7 +552,9 @@ created: 2026-04-28
 > **Non-Speech:** (playful music) (1)
 
 
-### 3. 2. Nested Routes and URL Parameters
+### 2. Nested Routes and URL Parameters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How nested routing works
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/how-nested-routing-works?u=76281980)
@@ -1101,7 +1107,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 4. 3. Take Routing Further
+### 3. Take Routing Further
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Index routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/index-routes?u=76281980)
@@ -1367,7 +1375,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/next-steps?u=76281980)

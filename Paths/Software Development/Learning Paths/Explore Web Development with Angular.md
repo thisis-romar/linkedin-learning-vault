@@ -12,12 +12,12 @@ tags:
   - learning-path
   - topic/software-development
   - topic/web-development
-  - status/in-progress
-last_activity: 2026-04-26T23:33:21.472Z
-activity_total: 5
-courses_visited: 2
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Angular Essential Training]]'
     last_opened: null
@@ -43,7 +43,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/Explore%20Web%20Development%20with%20Angular.md)

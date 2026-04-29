@@ -31,7 +31,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%20in%20the%20New%20World%20of%20Work.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Protecting Your Privacy During COVID]]** (3 videos)
-- **[[#3. 2. Protecting Privacy in the New WFH World]]** (3 videos)
-- **[[#4. 3. How to Protect Your Employees' Privacy During COVID]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Protecting Your Privacy During COVID]]** (3 videos)
+- **[[#2. Protecting Privacy in the New WFH World]]** (3 videos)
+- **[[#3. How to Protect Your Employees' Privacy During COVID]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Privacy considerations in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - hi (1)
 
 
-### 2. 1. Protecting Your Privacy During COVID
+### 1. Protecting Your Privacy During COVID
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980)
@@ -240,7 +244,9 @@ created: 2026-04-28
 > **Speakers:** - all (1)
 
 
-### 3. 2. Protecting Privacy in the New WFH World
+### 2. Protecting Privacy in the New WFH World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Privacy risks and solutions for employees during COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980)
@@ -415,7 +421,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. How to Protect Your Employees' Privacy During COVID
+### 3. How to Protect Your Employees' Privacy During COVID
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting your privacy when it's time to go back to the office
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980)
@@ -595,7 +603,9 @@ created: 2026-04-28
 > **Speakers:** - similar (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about privacy in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980)

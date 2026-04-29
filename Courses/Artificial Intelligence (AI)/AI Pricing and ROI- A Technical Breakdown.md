@@ -31,7 +31,7 @@ tags:
   - skill/cost-management
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Pricing%20and%20ROI-%20A%20Technical%20Breakdown.md)
@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Build vs. Buy]]** (4 videos)
-- **[[#3. 2. Costs of Using an AI API]]** (10 videos)
-- **[[#4. 3. Examining Major Vendor Pricing]]** (6 videos)
-- **[[#5. 4. Costs of Training AI]]** (13 videos)
-- **[[#6. 5. Costs of Hosting AI]]** (9 videos)
-- **[[#7. 6. Other Costs]]** (5 videos)
-- **[[#8. 7. Revenue-Generating Models]]** (11 videos)
-- **[[#9. 8. ROI on AI Use Cases]]** (4 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Build vs. Buy]]** (4 videos)
+- **[[#2. Costs of Using an AI API]]** (10 videos)
+- **[[#3. Examining Major Vendor Pricing]]** (6 videos)
+- **[[#4. Costs of Training AI]]** (13 videos)
+- **[[#5. Costs of Hosting AI]]** (9 videos)
+- **[[#6. Other Costs]]** (5 videos)
+- **[[#7. Revenue-Generating Models]]** (11 videos)
+- **[[#8. ROI on AI Use Cases]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Considering the cost of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - everyone (1)
 
 
-### 2. 1. Build vs. Buy
+### 1. Build vs. Buy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Framing build vs. buy in an AI context
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980)
@@ -301,7 +305,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Costs of Using an AI API
+### 2. Costs of Using an AI API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI as an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980)
@@ -1022,7 +1028,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 4. 3. Examining Major Vendor Pricing
+### 3. Examining Major Vendor Pricing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into ChatGPT pricing (OpenAI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980)
@@ -1455,7 +1463,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 5. 4. Costs of Training AI
+### 4. Costs of Training AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of technical components and tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980)
@@ -2467,7 +2477,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Costs of Hosting AI
+### 5. Costs of Hosting AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hosting and running your AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980)
@@ -3289,7 +3301,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Other Costs
+### 6. Other Costs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI copyright and legal risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980)
@@ -3710,7 +3724,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 8. 7. Revenue-Generating Models
+### 7. Revenue-Generating Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unit and margin pricing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980)
@@ -4657,7 +4673,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 9. 8. ROI on AI Use Cases
+### 8. ROI on AI Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ROI on AI customer support automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980)
@@ -5071,7 +5089,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980)

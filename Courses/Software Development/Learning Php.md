@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Php.md)
@@ -43,19 +43,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Basics]]** (8 videos)
-- **[[#3. 2. Control Structures]]** (8 videos)
-- **[[#4. 3. Math in PHP]]** (5 videos)
-- **[[#5. 4. Loops]]** (6 videos)
-- **[[#6. 5. Functions and Objects]]** (11 videos)
-- **[[#7. 6. Including External Files]]** (6 videos)
-- **[[#8. 7. Troubleshooting Your Code]]** (7 videos)
-- **[[#9. 8. Processing Forms]]** (9 videos)
-- **[[#10. 9. Advanced Topics]]** (4 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Basics]]** (8 videos)
+- **[[#2. Control Structures]]** (8 videos)
+- **[[#3. Math in PHP]]** (5 videos)
+- **[[#4. Loops]]** (6 videos)
+- **[[#5. Functions and Objects]]** (11 videos)
+- **[[#6. Including External Files]]** (6 videos)
+- **[[#7. Troubleshooting Your Code]]** (7 videos)
+- **[[#8. Processing Forms]]** (9 videos)
+- **[[#9. Advanced Topics]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Should you learn PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Basics
+### 1. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How PHP works
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
@@ -904,7 +908,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Control Structures
+### 2. Control Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boolean operators and the truth (update for PHP 8.0)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
@@ -1672,7 +1678,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Math in PHP
+### 3. Math in PHP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Arithmetic operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
@@ -2031,7 +2039,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Loops
+### 4. Loops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are loops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
@@ -2453,7 +2463,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Functions and Objects
+### 5. Functions and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
@@ -3036,7 +3048,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 7. 6. Including External Files
+### 6. Including External Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
@@ -3491,7 +3505,9 @@ created: 2026-04-28
 > **Tools:** vs code (1)
 
 
-### 8. 7. Troubleshooting Your Code
+### 7. Troubleshooting Your Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common debugging tools in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
@@ -3900,7 +3916,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/breaking-changes-moving-from-7-x-to-8-0?u=76281980)
 
 
-### 9. 8. Processing Forms
+### 8. Processing Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GET vs. POST
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
@@ -4666,7 +4684,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 10. 9. Advanced Topics
+### 9. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading files in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
@@ -5076,7 +5096,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)

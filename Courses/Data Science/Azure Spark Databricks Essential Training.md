@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/azure-databricks
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Azure%20Spark%20Databricks%20Essential%20Training.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Big Data on Azure Databricks]]** (7 videos)
-- **[[#3. 2. Core Azure Databricks Workloads]]** (7 videos)
-- **[[#4. 3. Scaling Azure Databricks Workloads]]** (6 videos)
-- **[[#5. 4. Data Pipelines with Azure Databricks]]** (9 videos)
-- **[[#6. 5. Machine Learning Architectures]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Big Data on Azure Databricks]]** (7 videos)
+- **[[#2. Core Azure Databricks Workloads]]** (7 videos)
+- **[[#3. Scaling Azure Databricks Workloads]]** (6 videos)
+- **[[#4. Data Pipelines with Azure Databricks]]** (9 videos)
+- **[[#5. Machine Learning Architectures]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Big Data on Azure Databricks
+### 1. Big Data on Azure Databricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet Databricks Apache Spark clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980)
@@ -562,7 +566,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Core Azure Databricks Workloads
+### 2. Core Azure Databricks Workloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review Databricks Azure cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980)
@@ -1528,7 +1534,9 @@ created: 2026-04-28
 > **Code Identifiers:** featuresource (1), labelsource (1)
 
 
-### 4. 3. Scaling Azure Databricks Workloads
+### 3. Scaling Azure Databricks Workloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand data engineering workload steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980)
@@ -2147,7 +2155,9 @@ created: 2026-04-28
 > **Code Identifiers:** scaling_big (1)
 
 
-### 5. 4. Data Pipelines with Azure Databricks
+### 4. Data Pipelines with Azure Databricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Databricks jobs and role-based control
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980)
@@ -3106,7 +3116,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 6. 5. Machine Learning Architectures
+### 5. Machine Learning Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Databricks pipeline considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980)
@@ -3385,7 +3397,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980)

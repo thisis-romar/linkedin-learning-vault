@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/wordpress-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20Everything%20about%20Plugins.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Plugins]]** (5 videos)
-- **[[#3. 2. Getting Started with Plugins]]** (4 videos)
-- **[[#4. 3. Building a Site with Plugins]]** (8 videos)
-- **[[#5. 4. Troubleshooting Plugins]]** (4 videos)
-- **[[#6. 5. Creating Your Own Plugin]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Plugins]]** (5 videos)
+- **[[#2. Getting Started with Plugins]]** (4 videos)
+- **[[#3. Building a Site with Plugins]]** (8 videos)
+- **[[#4. Troubleshooting Plugins]]** (4 videos)
+- **[[#5. Creating Your Own Plugin]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Everything about WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Plugins
+### 1. Introduction to Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a plugin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
@@ -468,7 +472,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. Getting Started with Plugins
+### 2. Getting Started with Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to install and activate a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
@@ -721,7 +727,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Building a Site with Plugins
+### 3. Building a Site with Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of using a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
@@ -1385,7 +1393,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Troubleshooting Plugins
+### 4. Troubleshooting Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding a problem plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
@@ -1653,7 +1663,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Creating Your Own Plugin
+### 5. Creating Your Own Plugin
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a simple plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
@@ -1906,7 +1918,9 @@ created: 2026-04-28
 > **Env Vars:** api (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your WordPress plugin journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)

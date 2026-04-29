@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/lead-generation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/How%20to%20Generate%20Marketing%20Leads%20with%20AI.md)
@@ -50,11 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Applying AI to Lead Generation]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Applying AI to Lead Generation]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boost your lead generation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Applying AI to Lead Generation
+### 1. Applying AI to Lead Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AI for lead generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
@@ -582,7 +586,9 @@ created: 2026-04-28
 > **Speakers:** - yeah (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cultivate a growth mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)

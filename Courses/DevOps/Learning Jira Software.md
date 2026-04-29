@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/jira
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jira%20Software.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Jira Software Features]]** (9 videos)
-- **[[#3. 2. Power User Tips]]** (1 videos)
-- **[[#4. 3. Creating Filters]]** (4 videos)
-- **[[#5. 4. Creating Dashboards]]** (5 videos)
-- **[[#6. 5. Best Practices for Jira Users]]** (1 videos)
-- **[[#7. 6. Creating Boards]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Jira Software Features]]** (9 videos)
+- **[[#2. Power User Tips]]** (1 videos)
+- **[[#3. Creating Filters]]** (4 videos)
+- **[[#4. Creating Dashboards]]** (5 videos)
+- **[[#5. Best Practices for Jira Users]]** (1 videos)
+- **[[#6. Creating Boards]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980)
@@ -285,7 +287,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Jira Software Features
+### 1. Jira Software Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software project types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980)
@@ -2346,7 +2350,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. Power User Tips
+### 2. Power User Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the most from Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980)
@@ -2429,7 +2435,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Creating Filters
+### 3. Creating Filters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filter overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980)
@@ -2703,7 +2711,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Creating Dashboards
+### 4. Creating Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dashboard overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980)
@@ -2982,7 +2992,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Best Practices for Jira Users
+### 5. Best Practices for Jira Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What your administrator wishes you knew
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980)
@@ -3056,7 +3068,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 7. 6. Creating Boards
+### 6. Creating Boards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Board overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980)
@@ -3296,7 +3310,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980)

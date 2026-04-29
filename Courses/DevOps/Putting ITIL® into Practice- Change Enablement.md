@@ -33,7 +33,7 @@ tags:
   - skill/itil
   - skill/change-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20ITIL%C2%AE%20into%20Practice-%20Change%20Enablement.md)
@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Request for Change]]** (6 videos)
-- **[[#3. 2. Change Proposal]]** (6 videos)
-- **[[#4. 3. Change Evaluation]]** (6 videos)
-- **[[#5. 4. Change Advisory Board]]** (6 videos)
-- **[[#6. 5. Change Scheduling]]** (6 videos)
-- **[[#7. 6. Change Communication]]** (6 videos)
-- **[[#8. 7. Change Implementation]]** (6 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Request for Change]]** (6 videos)
+- **[[#2. Change Proposal]]** (6 videos)
+- **[[#3. Change Evaluation]]** (6 videos)
+- **[[#4. Change Advisory Board]]** (6 videos)
+- **[[#5. Change Scheduling]]** (6 videos)
+- **[[#6. Change Communication]]** (6 videos)
+- **[[#7. Change Implementation]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stand apart as a change practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
@@ -337,7 +339,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Request for Change
+### 1. Request for Change
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a request for change, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
@@ -802,7 +806,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Change Proposal
+### 2. Change Proposal
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a change proposal and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
@@ -1208,7 +1214,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Change Evaluation
+### 3. Change Evaluation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is change evaluation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
@@ -1604,7 +1612,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Change Advisory Board
+### 4. Change Advisory Board
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a change advisory board and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
@@ -1982,7 +1992,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. 5. Change Scheduling
+### 5. Change Scheduling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is change scheduling and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
@@ -2354,7 +2366,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Change Communication
+### 6. Change Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is change communication and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
@@ -2774,7 +2788,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Change Implementation
+### 7. Change Implementation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is change implementation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
@@ -3202,7 +3218,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further your journey into change enablement
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)

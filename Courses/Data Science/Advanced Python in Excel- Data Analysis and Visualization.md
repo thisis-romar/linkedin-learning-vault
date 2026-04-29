@@ -36,7 +36,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Python%20in%20Excel-%20Data%20Analysis%20and%20Visualization.md)
@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Exploratory Data Analysis]]** (3 videos)
-- **[[#3. 2. Trends]]** (4 videos)
-- **[[#4. 3. Predictions]]** (5 videos)
-- **[[#5. 4. Dashboard for Consistent Monitoring]]** (3 videos)
-- **[[#6. 5. Final Project]]** (1 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Exploratory Data Analysis]]** (3 videos)
+- **[[#2. Trends]]** (4 videos)
+- **[[#3. Predictions]]** (5 videos)
+- **[[#4. Dashboard for Consistent Monitoring]]** (3 videos)
+- **[[#5. Final Project]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Do more with data using Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data used in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
@@ -312,7 +316,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Trends
+### 2. Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
@@ -493,7 +499,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 4. 3. Predictions
+### 3. Predictions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive tools: Shaping future strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
@@ -778,7 +786,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 5. 4. Dashboard for Consistent Monitoring
+### 4. Dashboard for Consistent Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build an effective dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
@@ -918,7 +928,9 @@ created: 2026-04-28
 > **Speakers:** - from (1)
 
 
-### 6. 5. Final Project
+### 5. Final Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final project walk-through
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
@@ -991,7 +1003,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)

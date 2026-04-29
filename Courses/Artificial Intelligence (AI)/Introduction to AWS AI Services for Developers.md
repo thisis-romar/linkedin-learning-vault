@@ -35,7 +35,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20AWS%20AI%20Services%20for%20Developers.md)
@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. AWS CodeWhisperer]]** (3 videos)
-- **[[#3. 2. CodeGuru Security]]** (8 videos)
-- **[[#4. 3. CodeGuru Profiler]]** (5 videos)
-- **[[#5. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AWS CodeWhisperer]]** (3 videos)
+- **[[#2. CodeGuru Security]]** (8 videos)
+- **[[#3. CodeGuru Profiler]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI assisted development with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-assisted-development-with-aws?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. AWS CodeWhisperer
+### 1. AWS CodeWhisperer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI coding assistants
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/ai-coding-assistants?u=76281980)
@@ -321,7 +325,9 @@ created: 2026-04-28
 > **Code Identifiers:** lambda_handler (2), sum_file_path (1)
 
 
-### 3. 2. CodeGuru Security
+### 2. CodeGuru Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shift-left testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-left-testing?u=76281980)
@@ -743,7 +749,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. CodeGuru Profiler
+### 3. CodeGuru Profiler
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shift-right testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/shift-right-testing?u=76281980)
@@ -1012,7 +1020,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Removing costs from CodeGuru
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-aws-ai-services-for-developers/removing-costs-from-codeguru?u=76281980)

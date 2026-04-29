@@ -33,7 +33,7 @@ tags:
   - skill/design-thinking
   - skill/organizational-change-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Design%20Thinking-%20Lead%20Change%20in%20Your%20Organization.md)

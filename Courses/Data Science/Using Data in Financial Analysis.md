@@ -32,7 +32,7 @@ tags:
   - skill/financial-analysis
   - skill/financial-forecasting
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Using%20Data%20in%20Financial%20Analysis.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Basics]]** (5 videos)
-- **[[#3. 2. Financial Analysis]]** (5 videos)
-- **[[#4. 3. Forecasting in Finance]]** (5 videos)
-- **[[#5. 4. Interpret Forecast Results]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics]]** (5 videos)
+- **[[#2. Financial Analysis]]** (5 videos)
+- **[[#3. Forecasting in Finance]]** (5 videos)
+- **[[#4. Interpret Forecast Results]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of data in financial analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. The Basics
+### 1. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data and business
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980)
@@ -576,7 +580,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Financial Analysis
+### 2. Financial Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Financial analysis with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980)
@@ -1109,7 +1115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Forecasting in Finance
+### 3. Forecasting in Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980)
@@ -1613,7 +1621,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Interpret Forecast Results
+### 4. Interpret Forecast Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980)
@@ -2043,7 +2053,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stress testing the results
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980)

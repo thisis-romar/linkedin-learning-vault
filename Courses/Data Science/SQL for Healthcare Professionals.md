@@ -35,7 +35,7 @@ tags:
   - skill/data-analysis
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20for%20Healthcare%20Professionals.md)
@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. A Brief Overview of SQL]]** (7 videos)
-- **[[#3. 2. Patient Care Management]]** (3 videos)
-- **[[#4. 3. Population Health Management]]** (6 videos)
-- **[[#5. 4. Clinical Research]]** (4 videos)
-- **[[#6. 5. Healthcare Administration]]** (5 videos)
-- **[[#7. 6. Final Project: Healthcare Analytics]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. A Brief Overview of SQL]]** (7 videos)
+- **[[#2. Patient Care Management]]** (3 videos)
+- **[[#3. Population Health Management]]** (6 videos)
+- **[[#4. Clinical Research]]** (4 videos)
+- **[[#5. Healthcare Administration]]** (5 videos)
+- **[[#6. Final Project: Healthcare Analytics]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL for healthcare: Transforming data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. A Brief Overview of SQL
+### 1. A Brief Overview of SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use SQL in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
@@ -748,7 +752,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Patient Care Management
+### 2. Patient Care Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How SQL is used in patient care management
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
@@ -898,7 +904,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Population Health Management
+### 3. Population Health Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to use SQL to manage population health
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
@@ -1316,7 +1324,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Clinical Research
+### 4. Clinical Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using SQL in clinical research
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
@@ -1661,7 +1671,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Healthcare Administration
+### 5. Healthcare Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to use SQL to analyze workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
@@ -1986,7 +1998,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Final Project: Healthcare Analytics
+### 6. Final Project: Healthcare Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assignment: Healthcare analytics scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
@@ -2433,7 +2447,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)

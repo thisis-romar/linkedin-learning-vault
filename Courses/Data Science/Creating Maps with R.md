@@ -37,7 +37,7 @@ tags:
   - skill/r-programming-language
   - skill/data-mapping
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20Maps%20with%20R.md)
@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Mapping Fundamentals]]** (7 videos)
-- **[[#3. 2. Processing GIS Data from Excel]]** (5 videos)
-- **[[#4. 3. Working with GIS Data Formats]]** (5 videos)
-- **[[#5. 4. Static Maps with ggplot2]]** (10 videos)
-- **[[#6. 5. Interactive Maps with Leaflet]]** (10 videos)
-- **[[#7. 6. CRS, Projections, and Map Tiles]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Mapping Fundamentals]]** (7 videos)
+- **[[#2. Processing GIS Data from Excel]]** (5 videos)
+- **[[#3. Working with GIS Data Formats]]** (5 videos)
+- **[[#4. Static Maps with ggplot2]]** (10 videos)
+- **[[#5. Interactive Maps with Leaflet]]** (10 videos)
+- **[[#6. CRS, Projections, and Map Tiles]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why create maps with R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980)
@@ -181,7 +183,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Mapping Fundamentals
+### 1. Mapping Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to choose a map
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980)
@@ -693,7 +697,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Processing GIS Data from Excel
+### 2. Processing GIS Data from Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standardize country names with {countrycode}
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/standardize-country-names-with-countrycode?u=76281980)
@@ -1096,7 +1102,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Working with GIS Data Formats
+### 3. Working with GIS Data Formats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GIS data formats: Raster or vector
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980)
@@ -1366,7 +1374,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Static Maps with ggplot2
+### 4. Static Maps with ggplot2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use geom_sf to visualize geo locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/use-geom-sf-to-visualize-geo-locations?u=76281980)
@@ -2284,7 +2294,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Interactive Maps with Leaflet
+### 5. Interactive Maps with Leaflet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basics of using Leaflet
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980)
@@ -3171,7 +3183,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. CRS, Projections, and Map Tiles
+### 6. CRS, Projections, and Map Tiles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Base maps and tiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980)
@@ -3530,7 +3544,9 @@ created: 2026-04-28
 > **Speakers:** - [instructors] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What else can you learn about creating maps in R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980)

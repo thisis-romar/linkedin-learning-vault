@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/firebase
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Using%20AI%20in%20the%20Design%20to%20Full-Stack%20Development%20Life%20Cycle.md)
@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Wireframing]]** (5 videos)
-- **[[#3. 2. Frontend Development]]** (5 videos)
-- **[[#4. 3. Backend Development]]** (4 videos)
-- **[[#5. 4. Testing Your Full Stack Project]]** (5 videos)
-- **[[#6. 5. Deployment and Documentation]]** (5 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Wireframing]]** (5 videos)
+- **[[#2. Frontend Development]]** (5 videos)
+- **[[#3. Backend Development]]** (4 videos)
+- **[[#4. Testing Your Full Stack Project]]** (5 videos)
+- **[[#5. Deployment and Documentation]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leaning into AI: Reframing what we know and how we build
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Wireframing
+### 1. Wireframing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leaning into AI: Introduction to AI in wireframing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
@@ -459,7 +463,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Frontend Development
+### 2. Frontend Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to brainstorm your frontend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
@@ -789,7 +795,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Backend Development
+### 3. Backend Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coming up with your backend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
@@ -1060,7 +1068,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Testing Your Full Stack Project
+### 4. Testing Your Full Stack Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
@@ -1378,7 +1388,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Deployment and Documentation
+### 5. Deployment and Documentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Streamlining handoff and delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
@@ -1633,7 +1645,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of design to dev stages and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)

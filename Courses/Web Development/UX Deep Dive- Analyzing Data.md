@@ -28,8 +28,10 @@ tags:
   - topic/web-development
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Analyzing%20Data.md)
 
 ![UX Deep Dive: Analyzing Data](https://media.licdn.com/dms/image/v2/C560DAQHqF_LIR_8vXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597179288976?e=2147483647&amp;v=beta&amp;t=8ZhjqM8L3FhijlT6IG1Mbocfasya6daXGtLRHd6gs7I)
 

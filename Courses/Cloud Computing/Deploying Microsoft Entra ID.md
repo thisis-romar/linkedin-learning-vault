@@ -32,7 +32,7 @@ tags:
   - topic/network-and-system-administration
   - skill/microsoft-entra-id
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Deploying%20Microsoft%20Entra%20ID.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Managing Users]]** (16 videos)
-- **[[#3. 2. Managing Groups]]** (15 videos)
-- **[[#4. 3. Managing Devices]]** (9 videos)
-- **[[#5. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Managing Users]]** (16 videos)
+- **[[#2. Managing Groups]]** (15 videos)
+- **[[#3. Managing Devices]]** (9 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
@@ -196,7 +198,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Managing Users
+### 1. Managing Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
@@ -1227,7 +1231,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Managing Groups
+### 2. Managing Groups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
@@ -2184,7 +2190,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Managing Devices
+### 3. Managing Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Device management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
@@ -3005,7 +3013,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)

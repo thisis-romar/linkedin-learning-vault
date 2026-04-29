@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/cfi-financial-analysis-and-modeling
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 13
+louvain_cluster: 14
 tags:
   - professional-certificate
   - topic/data-science
@@ -45,7 +45,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Data%20Science/Professional%20Certificates/CFI%20Financial%20Analysis%20and%20Modeling%20Professional%20Certificate.md)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-neural-networks
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/AI%20Workshop-%20Build%20a%20Neural%20Network%20with%20PyTorch%20Lightning.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Building a Neural Network with PyTorch]]** (7 videos)
-- **[[#3. 2. Using PyTorch Lightning to Build a Regression Model]]** (4 videos)
-- **[[#4. 3. Using PyTorch Lightning to Build a Classification Model]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Building a Neural Network with PyTorch]]** (7 videos)
+- **[[#2. Using PyTorch Lightning to Build a Regression Model]]** (4 videos)
+- **[[#3. Using PyTorch Lightning to Build a Classification Model]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI workshop build a neural network with PyTorch Lightning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980)
@@ -316,7 +318,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Building a Neural Network with PyTorch
+### 1. Building a Neural Network with PyTorch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the virtual environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980)
@@ -1198,7 +1202,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using PyTorch Lightning to Build a Regression Model
+### 2. Using PyTorch Lightning to Build a Regression Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt engineering to convert PyTorch to PyTorch Lightning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980)
@@ -1743,7 +1749,9 @@ created: 2026-04-28
 > **Code Identifiers:** log_dir (1)
 
 
-### 4. 3. Using PyTorch Lightning to Build a Classification Model
+### 3. Using PyTorch Lightning to Build a Classification Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading and exploring classification data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980)
@@ -2148,7 +2156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980)

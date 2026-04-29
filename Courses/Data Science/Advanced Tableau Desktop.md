@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/tableau
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Tableau%20Desktop.md)
@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Getting Started]]** (2 videos)
-- **[[#2. 1. Relationships]]** (20 videos)
-- **[[#3. 2. Dynamic Design]]** (12 videos)
-- **[[#4. 3. Parameter and Set Actions]]** (15 videos)
-- **[[#5. 4. Geospatial Mapping]]** (16 videos)
-- **[[#6. 5. Advanced Calculations]]** (15 videos)
-- **[[#7. 6. Predictive Analytics]]** (10 videos)
+- **[[#Getting Started]]** (2 videos)
+- **[[#1. Relationships]]** (20 videos)
+- **[[#2. Dynamic Design]]** (12 videos)
+- **[[#3. Parameter and Set Actions]]** (15 videos)
+- **[[#4. Geospatial Mapping]]** (16 videos)
+- **[[#5. Advanced Calculations]]** (15 videos)
+- **[[#6. Predictive Analytics]]** (10 videos)
 
-### 1. Getting Started
+### Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course structure and outline
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Relationships
+### 1. Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
@@ -1647,7 +1651,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Dynamic Design
+### 2. Dynamic Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dynamic design
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
@@ -3745,7 +3751,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Parameter and Set Actions
+### 3. Parameter and Set Actions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interactivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
@@ -6404,7 +6412,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Geospatial Mapping
+### 4. Geospatial Mapping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Geospatial mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
@@ -7824,7 +7834,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping?u=76281980)
 
 
-### 6. 5. Advanced Calculations
+### 5. Advanced Calculations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced calculations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
@@ -10371,7 +10383,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-advanced-calculations?u=76281980)
 
 
-### 7. 6. Predictive Analytics
+### 6. Predictive Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)

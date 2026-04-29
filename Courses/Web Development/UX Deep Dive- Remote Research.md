@@ -26,7 +26,7 @@ tags:
   - topic/web-development
   - skill/ux-research
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Remote%20Research.md)
@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Remote Research Overview]]** (2 videos)
-- **[[#3. 2. Preparing for Remote UX Research]]** (4 videos)
-- **[[#4. 3. Running Remote Research Sessions]]** (1 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Remote Research Overview]]** (2 videos)
+- **[[#2. Preparing for Remote UX Research]]** (4 videos)
+- **[[#3. Running Remote Research Sessions]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is remote UX research?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Remote Research Overview
+### 1. Remote Research Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of remote UX research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980)
@@ -250,7 +254,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 3. 2. Preparing for Remote UX Research
+### 2. Preparing for Remote UX Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing effective remote studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980)
@@ -499,7 +505,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Running Remote Research Sessions
+### 3. Running Remote Research Sessions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running effective remote research sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980)
@@ -586,7 +594,9 @@ created: 2026-04-28
 > **Speakers:** - running (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep the data coming
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980)

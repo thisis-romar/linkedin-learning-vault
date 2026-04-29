@@ -32,7 +32,7 @@ tags:
   - skill/data-analysis
   - skill/wavelets
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Wavelet%20Analysis-%20Applications%20with%20Wolfram%20Language.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Frequency Detection in a Time Series]]** (1 videos)
-- **[[#3. 2. Filtering Frequencies from Time Series]]** (1 videos)
-- **[[#4. 3. Applying Wavelet Analysis to Finance]]** (1 videos)
-- **[[#5. 4. Edge Detection on Images]]** (1 videos)
-- **[[#6. 5. Denoising Images]]** (1 videos)
-- **[[#7. 6. Wavelet Thresholding]]** (1 videos)
-- **[[#8. References]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Frequency Detection in a Time Series]]** (1 videos)
+- **[[#2. Filtering Frequencies from Time Series]]** (1 videos)
+- **[[#3. Applying Wavelet Analysis to Finance]]** (1 videos)
+- **[[#4. Edge Detection on Images]]** (1 videos)
+- **[[#5. Denoising Images]]** (1 videos)
+- **[[#6. Wavelet Thresholding]]** (1 videos)
+- **[[#References]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction: Wavelet Analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/introduction-wavelet-analysis?u=76281980)
@@ -175,7 +177,9 @@ created: 2026-04-28
 > **Versions:** 0.3 (1)
 
 
-### 2. 1. Frequency Detection in a Time Series
+### 1. Frequency Detection in a Time Series
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Frequency Detection in a Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/frequency-detection-in-a-time-series?u=76281980)
@@ -316,7 +320,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Filtering Frequencies from Time Series
+### 2. Filtering Frequencies from Time Series
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering Frequencies from Time Series
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/filtering-frequencies-from-time-series?u=76281980)
@@ -407,7 +413,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 4. 3. Applying Wavelet Analysis to Finance
+### 3. Applying Wavelet Analysis to Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying Wavelet Analysis to Finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/applying-wavelet-analysis-to-finance?u=76281980)
@@ -474,7 +482,9 @@ created: 2026-04-28
 > **Env Vars:** ibm (1)
 
 
-### 5. 4. Edge Detection on Images
+### 4. Edge Detection on Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Edge Detection on Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/edge-detection-on-images?u=76281980)
@@ -619,7 +629,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1), picture (1)
 
 
-### 6. 5. Denoising Images
+### 5. Denoising Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Denoising Images
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/denoising-images?u=76281980)
@@ -721,7 +733,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 7. 6. Wavelet Thresholding
+### 6. Wavelet Thresholding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wavelet Thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -990,7 +1004,9 @@ created: 2026-04-28
 > **Prerequisites:** before we start (1)
 
 
-### 8. References
+### References
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-applications-with-wolfram-language/references?u=76281980)

@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Practice%20It-%20Java.md)
@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Variables]]** (5 videos)
-- **[[#3. 2. Classes and Objects]]** (7 videos)
-- **[[#4. 3. Control Flow]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Variables]]** (5 videos)
+- **[[#2. Classes and Objects]]** (7 videos)
+- **[[#3. Control Flow]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice some Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
@@ -272,7 +274,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Variables
+### 1. Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Topic overview: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
@@ -667,7 +671,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle music) (1)
 
 
-### 3. 2. Classes and Objects
+### 2. Classes and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Topic overview: Classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
@@ -1132,7 +1138,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Control Flow
+### 3. Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Topic overview: Control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
@@ -1784,7 +1792,9 @@ created: 2026-04-28
 > **Non-Speech:** (two-toned deep synth chimes) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps to practice more Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)

@@ -20,7 +20,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Synthetic%20Data%20as%20the%20Future%20of%20AI%20Privacy%2C%20Explainability%2C%20and%20Fairness-%20An%20Introduction%20for%20Data%20Scientists%20and%20Data%20Executives.md)

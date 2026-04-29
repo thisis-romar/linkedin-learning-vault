@@ -35,7 +35,7 @@ tags:
   - skill/microsoft-word
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Copilot%20in%20Word-%20Create%20and%20Refine%20Documents%20with%20AI.md)
@@ -53,12 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating with Copilot]]** (4 videos)
-- **[[#3. 2. Editing and Revising with Copilot]]** (2 videos)
-- **[[#4. 3. Summarizing and Understanding with Copilot]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating with Copilot]]** (4 videos)
+- **[[#2. Editing and Revising with Copilot]]** (2 videos)
+- **[[#3. Summarizing and Understanding with Copilot]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Copilot in Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating with Copilot
+### 1. Creating with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Draft a new document from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
@@ -400,7 +404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Editing and Revising with Copilot
+### 2. Editing and Revising with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adjust the tone in existing content
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
@@ -514,7 +520,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Summarizing and Understanding with Copilot
+### 3. Summarizing and Understanding with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize and understand documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)

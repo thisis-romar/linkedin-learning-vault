@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/geographic-information-systems-gis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Foundations%20of%20Geographic%20Information%20Systems%20(GIS).md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understanding GIS]]** (5 videos)
-- **[[#3. 2. GIS Core Concepts]]** (5 videos)
-- **[[#4. 3. Geospatial Analysis]]** (3 videos)
-- **[[#5. 4. Spatial Data Sources]]** (2 videos)
-- **[[#6. 5. GIS as a Spatial Platform]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding GIS]]** (5 videos)
+- **[[#2. GIS Core Concepts]]** (5 videos)
+- **[[#3. Geospatial Analysis]]** (3 videos)
+- **[[#4. Spatial Data Sources]]** (2 videos)
+- **[[#5. GIS as a Spatial Platform]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thinking spatially
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Code Keywords:** finally, (1)
 
 
-### 2. 1. Understanding GIS
+### 1. Understanding GIS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solving spatial problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
@@ -381,7 +385,9 @@ created: 2026-04-28
 > **Code Keywords:** finally, (1)
 
 
-### 3. 2. GIS Core Concepts
+### 2. GIS Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More than digital maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
@@ -709,7 +715,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 4. 3. Geospatial Analysis
+### 3. Geospatial Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asking a map questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
@@ -878,7 +886,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 5. 4. Spatial Data Sources
+### 4. Spatial Data Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying GIS data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
@@ -997,7 +1007,9 @@ created: 2026-04-28
 > **Env Vars:** gis (9), gps (4), cad (1)
 
 
-### 6. 5. GIS as a Spatial Platform
+### 5. GIS as a Spatial Platform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enterprise-level GIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
@@ -1085,7 +1097,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting it to practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)

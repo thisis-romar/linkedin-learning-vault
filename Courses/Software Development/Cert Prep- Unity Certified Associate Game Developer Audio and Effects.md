@@ -30,7 +30,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Audio%20and%20Effects.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Audio Assets and Basics]]** (5 videos)
-- **[[#3. 2. Coding with Audio]]** (5 videos)
-- **[[#4. 3. VFX Graph]]** (4 videos)
-- **[[#5. 4. Particle Systems and Effects]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Audio Assets and Basics]]** (5 videos)
+- **[[#2. Coding with Audio]]** (5 videos)
+- **[[#3. VFX Graph]]** (4 videos)
+- **[[#4. Particle Systems and Effects]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating audio and effects for your games
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Audio Assets and Basics
+### 1. Audio Assets and Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Audio files: Music and SFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980)
@@ -807,7 +811,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 2. Coding with Audio
+### 2. Coding with Audio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coding with audiomixers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980)
@@ -1397,7 +1403,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. VFX Graph
+### 3. VFX Graph
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a VFX graph asset
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980)
@@ -1894,7 +1902,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Particle Systems and Effects
+### 4. Particle Systems and Effects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding particle systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980)
@@ -2572,7 +2582,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980)

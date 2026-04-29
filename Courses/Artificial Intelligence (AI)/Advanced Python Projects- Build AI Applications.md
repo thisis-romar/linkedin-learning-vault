@@ -32,7 +32,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20Python%20Projects-%20Build%20AI%20Applications.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1.  NLP: Build a Chatbot with Sentiment Analyzer]]** (5 videos)
-- **[[#3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity]]** (6 videos)
-- **[[#4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI]]** (9 videos)
-- **[[#5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1.  NLP: Build a Chatbot with Sentiment Analyzer]]** (5 videos)
+- **[[#2. Machine Learning: Using Python to Find Your Next Business Opportunity]]** (6 videos)
+- **[[#3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI]]** (9 videos)
+- **[[#4. Chat with Your Documents Using LLM: Front-end with Streamlit]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elevate Your Python portfolio with advanced AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
@@ -288,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1.  NLP: Build a Chatbot with Sentiment Analyzer
+### 1.  NLP: Build a Chatbot with Sentiment Analyzer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Processing user input
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
@@ -561,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity
+### 2. Machine Learning: Using Python to Find Your Next Business Opportunity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data analytics using pandas, matplotlib, and scikit-learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
@@ -1194,7 +1200,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
+### 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
@@ -1902,7 +1910,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1), install (1)
 
 
-### 5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit
+### 4. Chat with Your Documents Using LLM: Front-end with Streamlit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to API communication with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
@@ -2497,7 +2507,9 @@ created: 2026-04-28
 > **Tools:** aws console (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)

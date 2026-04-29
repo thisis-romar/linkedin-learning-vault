@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server%202022%20Administration.md)
@@ -47,22 +47,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. Lesson 1: Installing and Using SQL Server Administration and Development Tools]]** (6 videos)
-- **[[#3. Lesson 2: Introducing Database Server Components]]** (5 videos)
-- **[[#4. Lesson 3: Provisioning SQL Server SQL Databases]]** (6 videos)
-- **[[#5. Lesson 4: Provisioning Azure SQL Database]]** (5 videos)
-- **[[#6. Lesson 5: Implementing and Managing SQL Server User Security and Permissions]]** (5 videos)
-- **[[#7. Lesson 6: Securing the Server and Data]]** (5 videos)
-- **[[#8. Lesson 7: Understanding and Designing SQL Server Tables]]** (7 videos)
-- **[[#9. Lesson 8: Performance Tuning and Optimizing SQL]]** (6 videos)
-- **[[#10. Lesson 9: Developing, Deploying, and Managing Data Recovery]]** (8 videos)
-- **[[#11. Lesson 10: Implementing SQL Server High Availability and Disaster Recovery]]** (5 videos)
-- **[[#12. Lesson 11: Managing and Monitoring SQL Server Databases]]** (11 videos)
-- **[[#13. Lesson 12: Automating SQL Server Administration]]** (4 videos)
-- **[[#14. Summary]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#Lesson 1: Installing and Using SQL Server Administration and Development Tools]]** (6 videos)
+- **[[#Lesson 2: Introducing Database Server Components]]** (5 videos)
+- **[[#Lesson 3: Provisioning SQL Server SQL Databases]]** (6 videos)
+- **[[#Lesson 4: Provisioning Azure SQL Database]]** (5 videos)
+- **[[#Lesson 5: Implementing and Managing SQL Server User Security and Permissions]]** (5 videos)
+- **[[#Lesson 6: Securing the Server and Data]]** (5 videos)
+- **[[#Lesson 7: Understanding and Designing SQL Server Tables]]** (7 videos)
+- **[[#Lesson 8: Performance Tuning and Optimizing SQL]]** (6 videos)
+- **[[#Lesson 9: Developing, Deploying, and Managing Data Recovery]]** (8 videos)
+- **[[#Lesson 10: Implementing SQL Server High Availability and Disaster Recovery]]** (5 videos)
+- **[[#Lesson 11: Managing and Monitoring SQL Server Databases]]** (11 videos)
+- **[[#Lesson 12: Automating SQL Server Administration]]** (4 videos)
+- **[[#Summary]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 2. Lesson 1: Installing and Using SQL Server Administration and Development Tools
+### Lesson 1: Installing and Using SQL Server Administration and Development Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 1 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980)
@@ -634,7 +638,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 3. Lesson 2: Introducing Database Server Components
+### Lesson 2: Introducing Database Server Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980)
@@ -1770,7 +1776,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. Lesson 3: Provisioning SQL Server SQL Databases
+### Lesson 3: Provisioning SQL Server SQL Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 2 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980)
@@ -2039,7 +2047,9 @@ created: 2026-04-28
 > **Warnings:** note that (1), caution (1)
 
 
-### 5. Lesson 4: Provisioning Azure SQL Database
+### Lesson 4: Provisioning Azure SQL Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980)
@@ -3085,7 +3095,9 @@ created: 2026-04-28
 > **Tools:** azure portal (2)
 
 
-### 6. Lesson 5: Implementing and Managing SQL Server User Security and Permissions
+### Lesson 5: Implementing and Managing SQL Server User Security and Permissions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 3 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980)
@@ -3691,7 +3703,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 7. Lesson 6: Securing the Server and Data
+### Lesson 6: Securing the Server and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980)
@@ -4716,7 +4730,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (2)
 
 
-### 8. Lesson 7: Understanding and Designing SQL Server Tables
+### Lesson 7: Understanding and Designing SQL Server Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 4 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980)
@@ -5884,7 +5900,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 9. Lesson 8: Performance Tuning and Optimizing SQL
+### Lesson 8: Performance Tuning and Optimizing SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980)
@@ -6744,7 +6762,9 @@ created: 2026-04-28
 > **Definitions:** is called (1)
 
 
-### 10. Lesson 9: Developing, Deploying, and Managing Data Recovery
+### Lesson 9: Developing, Deploying, and Managing Data Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 5 introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980)
@@ -7411,7 +7431,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 11. Lesson 10: Implementing SQL Server High Availability and Disaster Recovery
+### Lesson 10: Implementing SQL Server High Availability and Disaster Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980)
@@ -7763,7 +7785,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 12. Lesson 11: Managing and Monitoring SQL Server Databases
+### Lesson 11: Managing and Monitoring SQL Server Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Module 6 Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980)
@@ -9527,7 +9551,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 13. Lesson 12: Automating SQL Server Administration
+### Lesson 12: Automating SQL Server Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980)
@@ -9949,7 +9975,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 14. Summary
+### Summary
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980)

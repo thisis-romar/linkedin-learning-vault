@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/JavaScript-%20Async.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Programming Asynchronously with Callbacks]]** (5 videos)
-- **[[#3. 2. Programming Asynchronously with Promises]]** (8 videos)
-- **[[#4. 3. Programming Asynchronously with Async/Await]]** (4 videos)
-- **[[#5. 4. Programming Asynchronously with Web Workers]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Programming Asynchronously with Callbacks]]** (5 videos)
+- **[[#2. Programming Asynchronously with Promises]]** (8 videos)
+- **[[#3. Programming Asynchronously with Async/Await]]** (4 videos)
+- **[[#4. Programming Asynchronously with Web Workers]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing smart asynchronous code
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
@@ -244,7 +246,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 2. 1. Programming Asynchronously with Callbacks
+### 1. Programming Asynchronously with Callbacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding what asynchronous means
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
@@ -729,7 +733,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Programming Asynchronously with Promises
+### 2. Programming Asynchronously with Promises
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
@@ -1242,7 +1248,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Programming Asynchronously with Async/Await
+### 3. Programming Asynchronously with Async/Await
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the async/await model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
@@ -1498,7 +1506,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Programming Asynchronously with Web Workers
+### 4. Programming Asynchronously with Web Workers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a web worker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
@@ -1937,7 +1947,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asynchronous coding experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)

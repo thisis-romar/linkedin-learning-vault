@@ -28,8 +28,10 @@ tags:
   - skill/user-experience-ux
   - skill/principle-for-mac
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Principle%20for%20UX%20Design.md)
 
 ![Principle for UX Design](https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug)
 
@@ -4467,4 +4469,10 @@ _Courses sharing skills:_
 
 - [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interface Prototyping
 - [[Adobe XD Essential Training- Prototype]] — User Interface Prototyping
-- [[Surveys and Questionnaires for UX Projects]] — User Experi
+- [[Surveys and Questionnaires for UX Projects]] — User Experience (UX)
+- [[UX Foundations- Generational Design]] — User Experience (UX)
+- [[Ux Foundations Research]] — User Experience (UX)
+
+---
+
+[↑ Back to top](#)

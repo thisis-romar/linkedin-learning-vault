@@ -24,8 +24,10 @@ tags:
   - skill/interpersonal-communication
   - skill/professional-communication
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Communication%20Foundations.md)
 
 ![Communication Foundations](https://media.licdn.com/dms/image/v2/D560DAQHKwoWZ8QK6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601056751?e=2147483647&amp;v=beta&amp;t=aCB0k3ELSGIFYrocfiGn_cJsi-xovxi7ko8EJZUZBpY)
 

@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/drupal
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Drupal%209%20Essential%20Training-%205%20Layout.md)
@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Layout Explained]]** (10 videos)
-- **[[#3. 2. Views Explained]]** (8 videos)
-- **[[#4. 3. Menus Explained]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Layout Explained]]** (10 videos)
+- **[[#2. Views Explained]]** (8 videos)
+- **[[#3. Menus Explained]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - hi (1)
 
 
-### 2. 1. Layout Explained
+### 1. Layout Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layout explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
@@ -1269,7 +1273,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Views Explained
+### 2. Views Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Views explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
@@ -2246,7 +2252,9 @@ created: 2026-04-28
 > **Versions:** 2.7 (1)
 
 
-### 4. 3. Menus Explained
+### 3. Menus Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modify the main menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)

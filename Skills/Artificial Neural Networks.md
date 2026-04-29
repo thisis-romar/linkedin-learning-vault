@@ -9,7 +9,7 @@ level_advanced: 0
 tags:
   - skill
   - skill/artificial-neural-networks
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Artificial%20Neural%20Networks.md)

@@ -32,7 +32,7 @@ tags:
   - topic/devops
   - skill/software-development-life-cycle-sdlc
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Software%20Development%20Life%20Cycle%20(SDLC).md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Traditional Methods]]** (3 videos)
-- **[[#3. 2. Early Agile Methods]]** (3 videos)
-- **[[#4. 3. Modern Approaches]]** (17 videos)
-- **[[#5. 4. Other Approaches]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Traditional Methods]]** (3 videos)
+- **[[#2. Early Agile Methods]]** (3 videos)
+- **[[#3. Modern Approaches]]** (17 videos)
+- **[[#4. Other Approaches]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Processes for software projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. Traditional Methods
+### 1. Traditional Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Waterfall model: Brief overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
@@ -296,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Early Agile Methods
+### 2. Early Agile Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dynamic systems development method (DSDM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
@@ -581,7 +587,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Modern Approaches
+### 3. Modern Approaches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
@@ -1898,7 +1906,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Other Approaches
+### 4. Other Approaches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CMM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
@@ -2143,7 +2153,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)

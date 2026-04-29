@@ -33,7 +33,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Windows%20Server%202022%20Essential%20Training.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started]]** (7 videos)
-- **[[#3. 2. Managing Windows Server 2022]]** (6 videos)
-- **[[#4. 3. Active Directory Creation and Administration]]** (8 videos)
-- **[[#5. 4. Monitoring and Maintenance]]** (6 videos)
-- **[[#6. 5. Windows Server 2022 in the Azure Cloud]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Managing Windows Server 2022]]** (6 videos)
+- **[[#3. Active Directory Creation and Administration]]** (8 videos)
+- **[[#4. Monitoring and Maintenance]]** (6 videos)
+- **[[#5. Windows Server 2022 in the Azure Cloud]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [robert] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980)
@@ -620,7 +624,9 @@ created: 2026-04-28
 > **URLs:** [google.com](https://google.com) (1)
 
 
-### 3. 2. Managing Windows Server 2022
+### 2. Managing Windows Server 2022
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PowerShell commandlets
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980)
@@ -1517,7 +1523,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Active Directory Creation and Administration
+### 3. Active Directory Creation and Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Domain and forest creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980)
@@ -2667,7 +2675,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Monitoring and Maintenance
+### 4. Monitoring and Maintenance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Backing up Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980)
@@ -3548,7 +3558,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Windows Server 2022 in the Azure Cloud
+### 5. Windows Server 2022 in the Azure Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Azure environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980)
@@ -4032,7 +4044,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going to the next level with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980)

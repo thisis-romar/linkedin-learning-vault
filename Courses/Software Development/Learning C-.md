@@ -31,7 +31,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20C-.md)
@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **2. 1. Overview of C#** (4 videos)
-- **3. 2. C# Program Flow** (6 videos)
-- **4. 3. C# Strings** (6 videos)
-- **5. 4. C# Functions** (5 videos)
-- **6. 5. Object-Oriented C#** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **1. Overview of C#** (4 videos)
+- **2. C# Program Flow** (6 videos)
+- **3. C# Strings** (6 videos)
+- **4. C# Functions** (5 videos)
+- **5. Object-Oriented C#** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to learning C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
@@ -373,7 +375,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview of C#
+### 1. Overview of C#
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hello World C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
@@ -1030,7 +1034,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. 2. C# Program Flow
+### 2. C# Program Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conditionals with "if"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
@@ -1715,7 +1721,9 @@ created: 2026-04-28
 > **Speakers:** - [illustrator] (1)
 
 
-### 4. 3. C# Strings
+### 3. C# Strings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### String operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
@@ -2600,7 +2608,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-count-the-data-types?u=76281980)
 
 
-### 5. 4. C# Functions
+### 4. C# Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Function basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
@@ -3061,7 +3071,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Object-Oriented C#
+### 5. Object-Oriented C#
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining C# classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
@@ -3811,7 +3823,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)

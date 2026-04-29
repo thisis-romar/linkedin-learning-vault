@@ -32,7 +32,7 @@ tags:
   - skill/software-design-patterns
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Complete%20Guide%20to%20Java%20Design%20Patterns-%20Creational%2C%20Behavioral%2C%20and%20Structural.md)
@@ -50,37 +50,39 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Design Patterns]]** (1 videos)
-- **[[#3. 2. Creational Design Patterns]]** (1 videos)
-- **[[#4. 3. The Builder Pattern]]** (6 videos)
-- **[[#5. 4. The Singleton Pattern]]** (5 videos)
-- **[[#6. 5. The Prototype Pattern]]** (5 videos)
-- **[[#7. 6. The Factory Method]]** (5 videos)
-- **[[#8. 7. Abstract Factories]]** (6 videos)
-- **[[#9. 8. Structural Design Patterns]]** (1 videos)
-- **[[#10. 9. The Adapter Pattern]]** (5 videos)
-- **[[#11. 10. The Bridge Pattern]]** (4 videos)
-- **[[#12. 11. The Composite Pattern]]** (4 videos)
-- **[[#13. 12. The Decorator Pattern]]** (5 videos)
-- **[[#14. 13. The Facade Pattern]]** (4 videos)
-- **[[#15. 14. The Flyweight Pattern]]** (4 videos)
-- **[[#16. 15. The Proxy Pattern]]** (6 videos)
-- **[[#17. 16. Behavioral Design Patterns]]** (1 videos)
-- **[[#18. 17. The Chain of Responsibility Pattern]]** (5 videos)
-- **[[#19. 18. The Command Pattern]]** (5 videos)
-- **[[#20. 19. The Interpreter Pattern]]** (5 videos)
-- **[[#21. 20. The Iterator Pattern]]** (5 videos)
-- **[[#22. 21. The Mediator Pattern]]** (5 videos)
-- **[[#23. 22. The Memento Pattern]]** (4 videos)
-- **[[#24. 23. The Observer Pattern]]** (5 videos)
-- **[[#25. 24. The State Pattern]]** (5 videos)
-- **[[#26. 25. The Strategy Pattern]]** (5 videos)
-- **[[#27. 26. The Template Method Pattern]]** (4 videos)
-- **[[#28. 27. The Visitor Pattern]]** (4 videos)
-- **[[#29. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Design Patterns]]** (1 videos)
+- **[[#2. Creational Design Patterns]]** (1 videos)
+- **[[#3. The Builder Pattern]]** (6 videos)
+- **[[#4. The Singleton Pattern]]** (5 videos)
+- **[[#5. The Prototype Pattern]]** (5 videos)
+- **[[#6. The Factory Method]]** (5 videos)
+- **[[#7. Abstract Factories]]** (6 videos)
+- **[[#8. Structural Design Patterns]]** (1 videos)
+- **[[#9. The Adapter Pattern]]** (5 videos)
+- **[[#10. The Bridge Pattern]]** (4 videos)
+- **[[#11. The Composite Pattern]]** (4 videos)
+- **[[#12. The Decorator Pattern]]** (5 videos)
+- **[[#13. The Facade Pattern]]** (4 videos)
+- **[[#14. The Flyweight Pattern]]** (4 videos)
+- **[[#15. The Proxy Pattern]]** (6 videos)
+- **[[#16. Behavioral Design Patterns]]** (1 videos)
+- **[[#17. The Chain of Responsibility Pattern]]** (5 videos)
+- **[[#18. The Command Pattern]]** (5 videos)
+- **[[#19. The Interpreter Pattern]]** (5 videos)
+- **[[#20. The Iterator Pattern]]** (5 videos)
+- **[[#21. The Mediator Pattern]]** (5 videos)
+- **[[#22. The Memento Pattern]]** (4 videos)
+- **[[#23. The Observer Pattern]]** (5 videos)
+- **[[#24. The State Pattern]]** (5 videos)
+- **[[#25. The Strategy Pattern]]** (5 videos)
+- **[[#26. The Template Method Pattern]]** (4 videos)
+- **[[#27. The Visitor Pattern]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your code with design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Env Vars:** ide (1)
 
 
-### 2. 1. Design Patterns
+### 1. Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980)
@@ -195,7 +199,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 3. 2. Creational Design Patterns
+### 2. Creational Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are creational design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980)
@@ -246,7 +252,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. The Builder Pattern
+### 3. The Builder Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding complex constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980)
@@ -694,7 +702,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. The Singleton Pattern
+### 4. The Singleton Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to use the Singleton pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980)
@@ -1041,7 +1051,9 @@ created: 2026-04-28
 > **CLI Commands:** cat (2)
 
 
-### 6. 5. The Prototype Pattern
+### 5. The Prototype Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Prototype pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980)
@@ -1403,7 +1415,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 7. 6. The Factory Method
+### 6. The Factory Method
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Factory Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980)
@@ -1858,7 +1872,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 8. 7. Abstract Factories
+### 7. Abstract Factories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand abstract factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-abstract-factories?u=76281980)
@@ -2449,7 +2465,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 9. 8. Structural Design Patterns
+### 8. Structural Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are structural design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980)
@@ -2487,7 +2505,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 10. 9. The Adapter Pattern
+### 9. The Adapter Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980)
@@ -2852,7 +2872,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 11. 10. The Bridge Pattern
+### 10. The Bridge Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Bridge pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-bridge-pattern?u=76281980)
@@ -3133,7 +3155,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 12. 11. The Composite Pattern
+### 11. The Composite Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Composite pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern-23224165?u=76281980)
@@ -3399,7 +3423,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 13. 12. The Decorator Pattern
+### 12. The Decorator Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Decorator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern?u=76281980)
@@ -3767,7 +3793,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 14. 13. The Facade Pattern
+### 13. The Facade Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Facade pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980)
@@ -3941,7 +3969,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 15. 14. The Flyweight Pattern
+### 14. The Flyweight Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Flyweight pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980)
@@ -4242,7 +4272,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 16. 15. The Proxy Pattern
+### 15. The Proxy Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Proxy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-proxy-pattern?u=76281980)
@@ -4642,7 +4674,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 17. 16. Behavioral Design Patterns
+### 16. Behavioral Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are behavioral design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980)
@@ -4666,7 +4700,9 @@ created: 2026-04-28
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=36)** Some other object patterns are more focused on encapsulating behavior in a single object, and then delegating requests to it.
 
 
-### 18. 17. The Chain of Responsibility Pattern
+### 17. The Chain of Responsibility Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-chain-of-responsibility-pattern?u=76281980)
@@ -5058,7 +5094,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 19. 18. The Command Pattern
+### 18. The Command Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Command pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-command-pattern?u=76281980)
@@ -5445,7 +5483,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 20. 19. The Interpreter Pattern
+### 19. The Interpreter Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980)
@@ -5811,7 +5851,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 21. 20. The Iterator Pattern
+### 20. The Iterator Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980)
@@ -6230,7 +6272,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2)
 
 
-### 22. 21. The Mediator Pattern
+### 21. The Mediator Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Mediator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-mediator-pattern?u=76281980)
@@ -6637,7 +6681,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 23. 22. The Memento Pattern
+### 22. The Memento Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Memento pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980)
@@ -6912,7 +6958,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 24. 23. The Observer Pattern
+### 23. The Observer Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980)
@@ -7240,7 +7288,9 @@ created: 2026-04-28
 > **Definitions:** is called (1)
 
 
-### 25. 24. The State Pattern
+### 24. The State Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the State pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980)
@@ -7606,7 +7656,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2)
 
 
-### 26. 25. The Strategy Pattern
+### 25. The Strategy Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Strategy pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980)
@@ -7925,7 +7977,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 27. 26. The Template Method Pattern
+### 26. The Template Method Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Template Method pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980)
@@ -8148,7 +8202,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 28. 27. The Visitor Pattern
+### 27. The Visitor Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Visitor pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980)
@@ -8494,7 +8550,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 29. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980)

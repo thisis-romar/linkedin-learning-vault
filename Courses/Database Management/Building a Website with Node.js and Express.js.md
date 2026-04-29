@@ -33,7 +33,7 @@ tags:
   - skill/express-js
   - skill/node-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Building%20a%20Website%20with%20Node.js%20and%20Express.js.md)
@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Building a Basic Express Application]]** (5 videos)
-- **[[#3. 2. Template Engines]]** (3 videos)
-- **[[#4. 3. Express Routes and Middleware]]** (5 videos)
-- **[[#5. 4. Professional Templating with Express]]** (8 videos)
-- **[[#6. 5. Handling Errors Gracefully]]** (3 videos)
-- **[[#7. 6. Handling Form Data]]** (4 videos)
-- **[[#8. 7. Creating APIs with Express]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Building a Basic Express Application]]** (5 videos)
+- **[[#2. Template Engines]]** (3 videos)
+- **[[#3. Express Routes and Middleware]]** (5 videos)
+- **[[#4. Professional Templating with Express]]** (8 videos)
+- **[[#5. Handling Errors Gracefully]]** (3 videos)
+- **[[#6. Handling Form Data]]** (4 videos)
+- **[[#7. Creating APIs with Express]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dynamic websites with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980)
@@ -259,7 +261,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Building a Basic Express Application
+### 1. Building a Basic Express Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an Express server in three minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980)
@@ -729,7 +733,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Template Engines
+### 2. Template Engines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Template engines and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980)
@@ -928,7 +934,9 @@ created: 2026-04-28
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 
 
-### 4. 3. Express Routes and Middleware
+### 3. Express Routes and Middleware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Express middleware and routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980)
@@ -1504,7 +1512,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1), open the (1)
 
 
-### 5. 4. Professional Templating with Express
+### 4. Professional Templating with Express
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a site-wide layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980)
@@ -2445,7 +2455,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1), picture (1)
 
 
-### 6. 5. Handling Errors Gracefully
+### 5. Handling Errors Gracefully
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to handle errors in express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980)
@@ -2775,7 +2787,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Handling Form Data
+### 6. Handling Form Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a form template
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980)
@@ -3193,7 +3207,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Creating APIs with Express
+### 7. Creating APIs with Express
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A little intro to REST APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980)
@@ -3658,7 +3674,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build on what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980)

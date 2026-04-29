@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/game-programming
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Building%20the%20Classic%20Snake%20Game%20with%20Python.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Python Turtle Graphics]]** (6 videos)
-- **[[#3. 2. The Snake Game]]** (7 videos)
-- **[[#4. 3. Finishing Touches]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Python Turtle Graphics]]** (6 videos)
+- **[[#2. The Snake Game]]** (7 videos)
+- **[[#3. Finishing Touches]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take your Python skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Python Turtle Graphics
+### 1. Introduction to Python Turtle Graphics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet turtle graphics
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
@@ -652,7 +656,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. The Snake Game
+### 2. The Snake Game
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Snake representation and movement
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
@@ -1611,7 +1617,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 4. 3. Finishing Touches
+### 3. Finishing Touches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding repetition by using Lambda expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
@@ -2097,7 +2105,9 @@ created: 2026-04-28
 > **File Paths:** score.txt (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating material covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)

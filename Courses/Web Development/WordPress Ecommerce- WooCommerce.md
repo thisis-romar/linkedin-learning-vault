@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/woocommerce
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/WordPress%20Ecommerce-%20WooCommerce.md)
@@ -46,21 +46,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (2 videos)
-- **[[#3. 2. Setting Up Shop with WooCommerce]]** (3 videos)
-- **[[#4. 3. Adding Products]]** (12 videos)
-- **[[#5. 4. Customizing Your Theme]]** (7 videos)
-- **[[#6. 5. Setting Up Shipping Options]]** (7 videos)
-- **[[#7. 6. Setting Up Payment]]** (4 videos)
-- **[[#8. 7. Setting Up Taxes]]** (4 videos)
-- **[[#9. 8. Connecting to Services]]** (3 videos)
-- **[[#10. 9. Managing Sales]]** (5 videos)
-- **[[#11. 10. WooCommerce Settings]]** (5 videos)
-- **[[#12. 11. Mobile Apps]]** (1 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (2 videos)
+- **[[#2. Setting Up Shop with WooCommerce]]** (3 videos)
+- **[[#3. Adding Products]]** (12 videos)
+- **[[#4. Customizing Your Theme]]** (7 videos)
+- **[[#5. Setting Up Shipping Options]]** (7 videos)
+- **[[#6. Setting Up Payment]]** (4 videos)
+- **[[#7. Setting Up Taxes]]** (4 videos)
+- **[[#8. Connecting to Services]]** (3 videos)
+- **[[#9. Managing Sales]]** (5 videos)
+- **[[#10. WooCommerce Settings]]** (5 videos)
+- **[[#11. Mobile Apps]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sell anything with WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why WooCommerce?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
@@ -295,7 +299,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Setting Up Shop with WooCommerce
+### 2. Setting Up Shop with WooCommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Downloading and installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
@@ -618,7 +624,9 @@ created: 2026-04-28
 > **Code Identifiers:** ecommerce (1)
 
 
-### 4. 3. Adding Products
+### 3. Adding Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding a new product
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
@@ -1635,7 +1643,9 @@ created: 2026-04-28
 > **Code Identifiers:** sample_products (1)
 
 
-### 5. 4. Customizing Your Theme
+### 4. Customizing Your Theme
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Storefront
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
@@ -2252,7 +2262,9 @@ created: 2026-04-28
 > **Speakers:** - [patrick] (1)
 
 
-### 6. 5. Setting Up Shipping Options
+### 5. Setting Up Shipping Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing shipping options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
@@ -2772,7 +2784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Setting Up Payment
+### 6. Setting Up Payment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring payment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
@@ -3178,7 +3192,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Setting Up Taxes
+### 7. Setting Up Taxes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring tax settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
@@ -3436,7 +3452,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Connecting to Services
+### 8. Connecting to Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
@@ -3701,7 +3719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Managing Sales
+### 9. Managing Sales
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing the customer experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
@@ -4079,7 +4099,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. WooCommerce Settings
+### 10. WooCommerce Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
@@ -4585,7 +4607,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Mobile Apps
+### 11. Mobile Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing the WooCommerce mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
@@ -4673,7 +4697,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)

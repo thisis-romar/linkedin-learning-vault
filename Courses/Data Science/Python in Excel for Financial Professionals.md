@@ -35,7 +35,7 @@ tags:
   - skill/microsoft-excel
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20in%20Excel%20for%20Financial%20Professionals.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Started with Python in Excel]]** (6 videos)
-- **[[#3. 2. Financial Modeling]]** (7 videos)
-- **[[#4. 3. Automation]]** (4 videos)
-- **[[#5. 4. Data Visualization]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started with Python in Excel]]** (6 videos)
+- **[[#2. Financial Modeling]]** (7 videos)
+- **[[#3. Automation]]** (4 videos)
+- **[[#4. Data Visualization]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/welcome-to-python-in-excel?u=76281980)
@@ -149,7 +151,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Python in Excel
+### 1. Getting Started with Python in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integration of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/integration-of-python-in-excel?u=76281980)
@@ -448,7 +452,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic electronic music) (1)
 
 
-### 3. 2. Financial Modeling
+### 2. Financial Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discounted cash flow, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/discounted-cash-flow-part-1?u=76281980)
@@ -808,7 +814,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Automation
+### 3. Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automate consolidation of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/automate-consolidation-of-data?u=76281980)
@@ -983,7 +991,9 @@ created: 2026-04-28
 > **Non-Speech:** (quirky music) (1)
 
 
-### 5. 4. Data Visualization
+### 4. Data Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic charts and graphs for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/basic-charts-and-graphs-for-finance?u=76281980)
@@ -1169,7 +1179,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/next-steps?u=76281980)

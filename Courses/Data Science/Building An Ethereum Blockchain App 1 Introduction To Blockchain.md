@@ -29,7 +29,7 @@ tags:
   - skill/blockchain
   - skill/ethereum
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20An%20Ethereum%20Blockchain%20App%201%20Introduction%20To%20Blockchain.md)
@@ -47,10 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What Is Blockchain?]]** (14 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Blockchain?]]** (14 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - hi (1)
 
 
-### 2. 1. What Is Blockchain?
+### 1. What Is Blockchain?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The beginning of blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)

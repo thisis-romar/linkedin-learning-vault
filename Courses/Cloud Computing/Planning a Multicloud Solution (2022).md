@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/cloud-strategy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20a%20Multicloud%20Solution%20(2022).md)

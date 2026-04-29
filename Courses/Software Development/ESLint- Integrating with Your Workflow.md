@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Integrating%20with%20Your%20Workflow.md)
@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Integrating ESLint with Your Workflow]]** (6 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Integrating ESLint with Your Workflow]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Customizing automatic error checking
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
@@ -283,7 +285,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Integrating ESLint with Your Workflow
+### 1. Integrating ESLint with Your Workflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up a project with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
@@ -1076,7 +1080,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)

@@ -28,7 +28,7 @@ tags:
   - skill/tech-career-skills
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Introduction%20To%20Career%20Skills%20In%20Software%20Development.md)
@@ -46,18 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Life as a Programmer]]** (4 videos)
-- **[[#3. 2. Software Development]]** (5 videos)
-- **[[#4. 3. Tools of the Trade]]** (6 videos)
-- **[[#5. 4. Programming Languages]]** (6 videos)
-- **[[#6. 5. Python Show and Tell]]** (7 videos)
-- **[[#7. 6. Working with Python]]** (5 videos)
-- **[[#8. 7. Exploring Different Languages]]** (6 videos)
-- **[[#9. 8. Your First Programming Job]]** (5 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Life as a Programmer]]** (4 videos)
+- **[[#2. Software Development]]** (5 videos)
+- **[[#3. Tools of the Trade]]** (6 videos)
+- **[[#4. Programming Languages]]** (6 videos)
+- **[[#5. Python Show and Tell]]** (7 videos)
+- **[[#6. Working with Python]]** (5 videos)
+- **[[#7. Exploring Different Languages]]** (6 videos)
+- **[[#8. Your First Programming Job]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beginning your programming journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Life as a Programmer
+### 1. Life as a Programmer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What do programmers do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980)
@@ -423,7 +427,9 @@ created: 2026-04-28
 > **Speakers:** - marc (1)
 
 
-### 3. 2. Software Development
+### 2. Software Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is software development?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980)
@@ -785,7 +791,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 4. 3. Tools of the Trade
+### 3. Tools of the Trade
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore version control systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980)
@@ -1162,7 +1170,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 5. 4. Programming Languages
+### 4. Programming Languages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a programming language?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980)
@@ -1501,7 +1511,9 @@ created: 2026-04-28
 > **Speakers:** - statements (1)
 
 
-### 6. 5. Python Show and Tell
+### 5. Python Show and Tell
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980)
@@ -2041,7 +2053,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat intro music) (1)
 
 
-### 7. 6. Working with Python
+### 6. Working with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980)
@@ -2418,7 +2432,9 @@ created: 2026-04-28
 > **Speakers:** - python (1)
 
 
-### 8. 7. Exploring Different Languages
+### 7. Exploring Different Languages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Statements and expressions across languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980)
@@ -2772,7 +2788,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 9. 8. Your First Programming Job
+### 8. Your First Programming Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-hiring-process?u=76281980)
@@ -3147,7 +3165,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980)

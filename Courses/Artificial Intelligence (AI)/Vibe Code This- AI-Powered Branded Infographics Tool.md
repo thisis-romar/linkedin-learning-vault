@@ -35,7 +35,7 @@ tags:
   - skill/infographics
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Vibe%20Code%20This-%20AI-Powered%20Branded%20Infographics%20Tool.md)

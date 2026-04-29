@@ -25,7 +25,7 @@ tags:
   - topic/web-development
   - skill/graphql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Learning%20Graphql.md)
@@ -43,15 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Is GraphQL?]]** (3 videos)
-- **[[#3. 2. GraphQL Queries]]** (4 videos)
-- **[[#4. 3. Mutations and Subscriptions]]** (5 videos)
-- **[[#5. 4. Creating a GraphQL Server Schema]]** (4 videos)
-- **[[#6. 5. Schema Enhancements]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is GraphQL?]]** (3 videos)
+- **[[#2. GraphQL Queries]]** (4 videos)
+- **[[#3. Mutations and Subscriptions]]** (5 videos)
+- **[[#4. Creating a GraphQL Server Schema]]** (4 videos)
+- **[[#5. Schema Enhancements]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An introduction to GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. What Is GraphQL?
+### 1. What Is GraphQL?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980)
@@ -312,7 +316,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 3. 2. GraphQL Queries
+### 2. GraphQL Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using enum types and arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980)
@@ -609,7 +615,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Mutations and Subscriptions
+### 3. Mutations and Subscriptions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Changing data with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980)
@@ -921,7 +929,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 5. 4. Creating a GraphQL Server Schema
+### 4. Creating a GraphQL Server Schema
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the GraphQL schema definition language
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980)
@@ -1219,7 +1229,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Schema Enhancements
+### 5. Schema Enhancements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/working-with-mutations?u=76281980)
@@ -1610,7 +1622,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - skill/data-management
   - skill/data-quality
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Data%20Quality-%20Core%20Concepts.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Data Quality Fundamentals]]** (16 videos)
-- **[[#3. 2. Data Quality Across the Data Lifecycle]]** (13 videos)
-- **[[#4. 3. Common Data Quality Issues and How to Measure Them]]** (8 videos)
-- **[[#5. 4. Data Quality Tooling]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data Quality Fundamentals]]** (16 videos)
+- **[[#2. Data Quality Across the Data Lifecycle]]** (13 videos)
+- **[[#3. Common Data Quality Issues and How to Measure Them]]** (8 videos)
+- **[[#4. Data Quality Tooling]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. Data Quality Fundamentals
+### 1. Data Quality Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data quality introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980)
@@ -870,7 +874,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Quality Across the Data Lifecycle
+### 2. Data Quality Across the Data Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data lifecycle introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980)
@@ -1513,7 +1519,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Common Data Quality Issues and How to Measure Them
+### 3. Common Data Quality Issues and How to Measure Them
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to issues and measurements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980)
@@ -1887,7 +1895,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Quality Tooling
+### 4. Data Quality Tooling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980)
@@ -2159,7 +2169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980)

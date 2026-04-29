@@ -30,7 +30,7 @@ tags:
   - skill/information-security-awareness
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Building%20a%20Cybersecurity%20Awareness%20Program.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding the Current Security Awareness Foundation]]** (3 videos)
-- **[[#3. 2. Developing a Solid Awareness Plan]]** (3 videos)
-- **[[#4. 3. Implementing and Communicating the Security Awareness Program]]** (4 videos)
-- **[[#5. 4. Engaging Employees with Ongoing Awareness Initiatives]]** (4 videos)
-- **[[#6. 5. Measuring the Effectiveness of Your Security Awareness Program]]** (2 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the Current Security Awareness Foundation]]** (3 videos)
+- **[[#2. Developing a Solid Awareness Plan]]** (3 videos)
+- **[[#3. Implementing and Communicating the Security Awareness Program]]** (4 videos)
+- **[[#4. Engaging Employees with Ongoing Awareness Initiatives]]** (4 videos)
+- **[[#5. Measuring the Effectiveness of Your Security Awareness Program]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
@@ -152,7 +154,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding the Current Security Awareness Foundation
+### 1. Understanding the Current Security Awareness Foundation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting to know your collaborators and partners
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
@@ -372,7 +376,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Developing a Solid Awareness Plan
+### 2. Developing a Solid Awareness Plan
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing a program plan and identifying resources needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
@@ -590,7 +596,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Implementing and Communicating the Security Awareness Program
+### 3. Implementing and Communicating the Security Awareness Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating brand recognition for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
@@ -891,7 +899,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Engaging Employees with Ongoing Awareness Initiatives
+### 4. Engaging Employees with Ongoing Awareness Initiatives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting creative to reach your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
@@ -1227,7 +1237,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Measuring the Effectiveness of Your Security Awareness Program
+### 5. Measuring the Effectiveness of Your Security Awareness Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring impact and behavior change
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
@@ -1398,7 +1410,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps: Maturing and adjusting the program over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)

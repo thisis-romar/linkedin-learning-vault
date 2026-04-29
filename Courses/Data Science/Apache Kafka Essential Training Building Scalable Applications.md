@@ -28,7 +28,7 @@ tags:
   - skill/apache-kafka
   - skill/scalable-web-applications
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Apache%20Kafka%20Essential%20Training%20Building%20Scalable%20Applications.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to Kafka]]** (4 videos)
-- **[[#3. 2. Kafka Scaling Concepts]]** (5 videos)
-- **[[#4. 3. Building a Kafka Cluster]]** (5 videos)
-- **[[#5. 4. Building Scalable Producers]]** (5 videos)
-- **[[#6. 5. Building Scalable Consumers]]** (5 videos)
-- **[[#7. 6. Kafka Best Practices]]** (4 videos)
-- **[[#8. 7. Use Case Project]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Kafka]]** (4 videos)
+- **[[#2. Kafka Scaling Concepts]]** (5 videos)
+- **[[#3. Building a Kafka Cluster]]** (5 videos)
+- **[[#4. Building Scalable Producers]]** (5 videos)
+- **[[#5. Building Scalable Consumers]]** (5 videos)
+- **[[#6. Kafka Best Practices]]** (4 videos)
+- **[[#7. Use Case Project]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building robust Kafka applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - [kumaran] (1)
 
 
-### 2. 1. Introduction to Kafka
+### 1. Introduction to Kafka
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Kafka?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
@@ -299,7 +303,9 @@ created: 2026-04-28
 > **File Paths:** kafka-cluster.yml (1)
 
 
-### 3. 2. Kafka Scaling Concepts
+### 2. Kafka Scaling Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A Kafka cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
@@ -611,7 +617,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Building a Kafka Cluster
+### 3. Building a Kafka Cluster
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kafka cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
@@ -1085,7 +1093,9 @@ created: 2026-04-28
 > **Versions:** node 1002 (1)
 
 
-### 5. 4. Building Scalable Producers
+### 4. Building Scalable Producers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Producer internals
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
@@ -1422,7 +1432,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Building Scalable Consumers
+### 5. Building Scalable Consumers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How consumer works
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
@@ -1780,7 +1792,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 7. 6. Kafka Best Practices
+### 6. Kafka Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing partition counts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
@@ -1966,7 +1980,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Use Case Project
+### 7. Use Case Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kafka applications use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
@@ -2119,7 +2135,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do you extend your Kafka learning journey?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)

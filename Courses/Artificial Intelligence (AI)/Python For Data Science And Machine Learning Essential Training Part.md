@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Python%20For%20Data%20Science%20And%20Machine%20Learning%20Essential%20Training%20Part.md)
@@ -59,18 +59,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to the Data Professions]]** (4 videos)
-- **[[#3. 2. Data Preparation Basics]]** (7 videos)
-- **[[#4. 3. Data Visualization 101]]** (4 videos)
-- **[[#5. 4. Practical Data Visualization]]** (7 videos)
-- **[[#6. 5. Exploratory Data Analysis]]** (7 videos)
-- **[[#7. 6. Getting Started with Machine Learning]]** (3 videos)
-- **[[#8. 7. Data Sourcing via Web Scraping]]** (7 videos)
-- **[[#9. 8. Collaborative Analytics with Streamlit]]** (6 videos)
-- **[[#10. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to the Data Professions]]** (4 videos)
+- **[[#2. Data Preparation Basics]]** (7 videos)
+- **[[#3. Data Visualization 101]]** (4 videos)
+- **[[#4. Practical Data Visualization]]** (7 videos)
+- **[[#5. Exploratory Data Analysis]]** (7 videos)
+- **[[#6. Getting Started with Machine Learning]]** (3 videos)
+- **[[#7. Data Sourcing via Web Scraping]]** (7 videos)
+- **[[#8. Collaborative Analytics with Streamlit]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to the Data Professions
+### 1. Introduction to the Data Professions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the data professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980)
@@ -573,7 +577,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Preparation Basics
+### 2. Data Preparation Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980)
@@ -1680,7 +1686,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Data Visualization 101
+### 3. Data Visualization 101
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of visualization in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980)
@@ -2132,7 +2140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Practical Data Visualization
+### 4. Practical Data Visualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the matplotlib and Seaborn libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980)
@@ -3780,7 +3790,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 6. 5. Exploratory Data Analysis
+### 5. Exploratory Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple arithmetic
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980)
@@ -5345,7 +5357,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Getting Started with Machine Learning
+### 6. Getting Started with Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cleaning and treating categorical variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980)
@@ -5826,7 +5840,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Data Sourcing via Web Scraping
+### 7. Data Sourcing via Web Scraping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction of web scraping
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980)
@@ -7566,7 +7582,9 @@ created: 2026-04-28
 > **Cross-References:** coming up (1)
 
 
-### 9. 8. Collaborative Analytics with Streamlit
+### 8. Collaborative Analytics with Streamlit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Streamlit
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980)
@@ -8442,7 +8460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Portfolio and career readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980)

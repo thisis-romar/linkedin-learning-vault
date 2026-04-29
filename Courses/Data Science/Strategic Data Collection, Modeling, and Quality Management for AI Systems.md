@@ -40,7 +40,7 @@ tags:
   - skill/data-quality
   - skill/data-cleaning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strategic%20Data%20Collection%2C%20Modeling%2C%20and%20Quality%20Management%20for%20AI%20Systems.md)

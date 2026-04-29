@@ -30,7 +30,7 @@ tags:
   - skill/data-driven-decision-making
   - skill/data-ethics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Ethics-%20Making%20Data-Driven%20Decisions.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Thinking about ethics]]** (6 videos)
-- **[[#3. 2. Decision Traceability]]** (7 videos)
-- **[[#4. 3. Objectivity]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Thinking about ethics]]** (6 videos)
+- **[[#2. Decision Traceability]]** (7 videos)
+- **[[#3. Objectivity]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical decisionmaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 2. 1. Thinking about ethics
+### 1. Thinking about ethics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being a moral company
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980)
@@ -623,7 +627,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 3. 2. Decision Traceability
+### 2. Decision Traceability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The right to algorithmic traceability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980)
@@ -1228,7 +1234,9 @@ created: 2026-04-28
 > **Speakers:** - self (1)
 
 
-### 4. 3. Objectivity
+### 3. Objectivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does data objectivity mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980)
@@ -1687,7 +1695,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980)

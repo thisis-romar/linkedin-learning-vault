@@ -32,7 +32,7 @@ tags:
   - skill/data-visualization
   - skill/statistical-data-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Advanced%20Data%20Visualizations-%2012%20Uncommon%20Plot%20Types%20and%20How%20to%20Use%20Them.md)

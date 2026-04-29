@@ -31,7 +31,7 @@ tags:
   - skill/angular
   - skill/firebase
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Angular-%20Cloud-Powered%20Apps%20with%20Firebase.md)

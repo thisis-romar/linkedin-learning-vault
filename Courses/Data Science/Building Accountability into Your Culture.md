@@ -32,7 +32,7 @@ tags:
   - skill/accountability
   - skill/organizational-culture
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20Accountability%20into%20Your%20Culture.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Role of Leaders in Modeling Accountability]]** (4 videos)
-- **[[#3. 2. The Role of Individuals and Teams]]** (3 videos)
-- **[[#4. 3. Building Accountability into Your Culture and Brand]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Role of Leaders in Modeling Accountability]]** (4 videos)
+- **[[#2. The Role of Individuals and Teams]]** (3 videos)
+- **[[#3. Building Accountability into Your Culture and Brand]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your role as a leader in driving accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 2. 1. The Role of Leaders in Modeling Accountability
+### 1. The Role of Leaders in Modeling Accountability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting the tone for accountable behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980)
@@ -354,7 +358,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. The Role of Individuals and Teams
+### 2. The Role of Individuals and Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining accountability on your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980)
@@ -545,7 +551,9 @@ created: 2026-04-28
 > **Speakers:** - leaders (1)
 
 
-### 4. 3. Building Accountability into Your Culture and Brand
+### 3. Building Accountability into Your Culture and Brand
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980)
@@ -759,7 +767,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating momentum and overcoming obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Azure%20Storage%20Essential%20Training%20(2021).md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Develop Solutions for Azure Blob Storage]]** (6 videos)
-- **[[#3. 2. Develop Solutions for Azure Files]]** (7 videos)
-- **[[#4. 3. Develop Solutions for Azure Queues]]** (3 videos)
-- **[[#5. 4. Secure Azure Storage]]** (6 videos)
-- **[[#6. 5. Manage Azure Storage]]** (4 videos)
-- **[[#7. 6. Backup Azure Storage]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Develop Solutions for Azure Blob Storage]]** (6 videos)
+- **[[#2. Develop Solutions for Azure Files]]** (7 videos)
+- **[[#3. Develop Solutions for Azure Queues]]** (3 videos)
+- **[[#4. Secure Azure Storage]]** (6 videos)
+- **[[#5. Manage Azure Storage]]** (4 videos)
+- **[[#6. Backup Azure Storage]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Develop Solutions for Azure Blob Storage
+### 1. Develop Solutions for Azure Blob Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Storage accounts and replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
@@ -668,7 +672,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Develop Solutions for Azure Files
+### 2. Develop Solutions for Azure Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Files
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
@@ -1292,7 +1298,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Develop Solutions for Azure Queues
+### 3. Develop Solutions for Azure Queues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Storage queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
@@ -1655,7 +1663,9 @@ created: 2026-04-28
 > **Code Identifiers:** appsettings (1)
 
 
-### 5. 4. Secure Azure Storage
+### 4. Secure Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing storage data
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
@@ -2236,7 +2246,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Manage Azure Storage
+### 5. Manage Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Storage Explorer
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
@@ -2618,7 +2630,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 7. 6. Backup Azure Storage
+### 6. Backup Azure Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting Azure file shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
@@ -3026,7 +3040,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning never stops
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)

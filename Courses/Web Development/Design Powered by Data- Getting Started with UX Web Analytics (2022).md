@@ -28,7 +28,7 @@ tags:
   - skill/web-analytics
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Design%20Powered%20by%20Data-%20Getting%20Started%20with%20UX%20Web%20Analytics%20(2022).md)
@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. UX Web Analytics Techniques]]** (5 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. UX Web Analytics Techniques]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### UX analysis: A world between data and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
@@ -221,7 +223,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. UX Web Analytics Techniques
+### 1. UX Web Analytics Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Event tracking and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
@@ -679,7 +683,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)

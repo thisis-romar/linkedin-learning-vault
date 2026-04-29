@@ -37,7 +37,7 @@ tags:
   - skill/data-privacy
   - skill/privacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Understanding%20and%20Prioritizing%20Data%20Privacy.md)
@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Getting Comfortable with the Basics]]** (5 videos)
-- **[[#3. 2. Why Should Anyone Care About Privacy?]]** (6 videos)
-- **[[#4. 3. What's the Harm? Does Privacy Matter in the Age of AI?]]** (5 videos)
-- **[[#5. 4. Privacy Solutions and Futures]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Comfortable with the Basics]]** (5 videos)
+- **[[#2. Why Should Anyone Care About Privacy?]]** (6 videos)
+- **[[#3. What's the Harm? Does Privacy Matter in the Age of AI?]]** (5 videos)
+- **[[#4. Privacy Solutions and Futures]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect personal information and foster trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protect-personal-information-and-foster-trust?u=76281980)
@@ -201,7 +203,9 @@ created: 2026-04-28
 > **Speakers:** - privacy (1)
 
 
-### 2. 1. Getting Comfortable with the Basics
+### 1. Getting Comfortable with the Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data tells a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-tells-a-story?u=76281980)
@@ -488,7 +492,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Why Should Anyone Care About Privacy?
+### 2. Why Should Anyone Care About Privacy?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data as a personal descriptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-as-a-personal-descriptor?u=76281980)
@@ -837,7 +843,9 @@ created: 2026-04-28
 > **Speakers:** - transparency (1)
 
 
-### 4. 3. What's the Harm? Does Privacy Matter in the Age of AI?
+### 3. What's the Harm? Does Privacy Matter in the Age of AI?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting the story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protecting-the-story?u=76281980)
@@ -1109,7 +1117,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 5. 4. Privacy Solutions and Futures
+### 4. Privacy Solutions and Futures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trust, transparency, ethics, and accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/trust-transparency-ethics-and-accountability?u=76281980)
@@ -1524,7 +1534,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Guardians of trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/guardians-of-trust?u=76281980)

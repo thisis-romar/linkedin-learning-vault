@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel-%20Lookup%20Functions%20in%20Depth.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Locating Data with MATCH, INDEX, and XMATCH Functions]]** (3 videos)
-- **[[#3. 2. VLOOKUP, HLOOKUP, and XLOOKUP]]** (5 videos)
-- **[[#4. 3. Finding Matching Data Without Using External Lists]]** (2 videos)
-- **[[#5. 4. Other Functions with Lookup Capabilities]]** (4 videos)
-- **[[#6. 5. Recently Introduced Functions with Lookup Capabilities]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Locating Data with MATCH, INDEX, and XMATCH Functions]]** (3 videos)
+- **[[#2. VLOOKUP, HLOOKUP, and XLOOKUP]]** (5 videos)
+- **[[#3. Finding Matching Data Without Using External Lists]]** (2 videos)
+- **[[#4. Other Functions with Lookup Capabilities]]** (4 videos)
+- **[[#5. Recently Introduced Functions with Lookup Capabilities]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform your Excel skills with in-depth lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - [dennis] (1)
 
 
-### 2. 1. Locating Data with MATCH, INDEX, and XMATCH Functions
+### 1. Locating Data with MATCH, INDEX, and XMATCH Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Locating data with the MATCH and XMATCH functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
@@ -537,7 +541,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. VLOOKUP, HLOOKUP, and XLOOKUP
+### 2. VLOOKUP, HLOOKUP, and XLOOKUP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structuring data for use with lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
@@ -1102,7 +1108,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Finding Matching Data Without Using External Lists
+### 3. Finding Matching Data Without Using External Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding table-like information within a function using the CHOOSE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
@@ -1383,7 +1391,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Other Functions with Lookup Capabilities
+### 4. Other Functions with Lookup Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extracting and counting unique entries using the UNIQUE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
@@ -1911,7 +1921,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Recently Introduced Functions with Lookup Capabilities
+### 5. Recently Introduced Functions with Lookup Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
@@ -2580,7 +2592,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your next steps in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)

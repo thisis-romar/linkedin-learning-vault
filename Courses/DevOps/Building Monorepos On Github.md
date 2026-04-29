@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Building%20Monorepos%20On%20Github.md)
@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Creating and Building Monorepos]]** (7 videos)
-- **[[#3. 2. Tools to Manage Your Monorepos]]** (4 videos)
-- **[[#4. 3. GitHub Actions for Monorepos]]** (6 videos)
-- **[[#5. 4. Best Practices]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Creating and Building Monorepos]]** (7 videos)
+- **[[#2. Tools to Manage Your Monorepos]]** (4 videos)
+- **[[#3. GitHub Actions for Monorepos]]** (6 videos)
+- **[[#4. Best Practices]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing code in monorepos
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/managing-code-in-monorepos?u=76281980)
@@ -307,7 +309,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Creating and Building Monorepos
+### 1. Creating and Building Monorepos
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your first monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980)
@@ -806,7 +810,9 @@ created: 2026-04-28
 > **Speakers:** - sharing (1)
 
 
-### 3. 2. Tools to Manage Your Monorepos
+### 2. Tools to Manage Your Monorepos
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to migrate projects to your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980)
@@ -1068,7 +1074,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. GitHub Actions for Monorepos
+### 3. GitHub Actions for Monorepos
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting familiar with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980)
@@ -1556,7 +1564,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 5. 4. Best Practices
+### 4. Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to design your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980)
@@ -1683,7 +1693,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980)

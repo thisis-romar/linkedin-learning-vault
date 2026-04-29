@@ -30,7 +30,7 @@ tags:
   - skill/data-architecture
   - skill/mesh
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Mesh%20Architecture-%20Core%20Concepts.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. The Four Pillars of Data Mesh]]** (4 videos)
-- **[[#3. 2. Designing Your First Data Mesh Architecture]]** (4 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. The Four Pillars of Data Mesh]]** (4 videos)
+- **[[#2. Designing Your First Data Mesh Architecture]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data mesh?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
@@ -257,7 +259,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 2. 1. The Four Pillars of Data Mesh
+### 1. The Four Pillars of Data Mesh
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An intro to data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
@@ -476,7 +480,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Designing Your First Data Mesh Architecture
+### 2. Designing Your First Data Mesh Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose your data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
@@ -778,7 +784,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Investment in your future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)

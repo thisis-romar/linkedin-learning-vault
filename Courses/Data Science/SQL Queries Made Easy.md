@@ -32,7 +32,7 @@ tags:
   - skill/database-queries
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Queries%20Made%20Easy.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating Tables in Databases]]** (3 videos)
-- **[[#3. 2. Manipulating Data]]** (4 videos)
-- **[[#4. 3. Transaction Control]]** (2 videos)
-- **[[#5. 4. Data Definition Language]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating Tables in Databases]]** (3 videos)
+- **[[#2. Manipulating Data]]** (4 videos)
+- **[[#3. Transaction Control]]** (2 videos)
+- **[[#4. Data Definition Language]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making a statement with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/making-a-statement-with-sql?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating Tables in Databases
+### 1. Creating Tables in Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a table and naming conventions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/what-is-a-table-and-naming-conventions?u=76281980)
@@ -328,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Manipulating Data
+### 2. Manipulating Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add rows in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980)
@@ -804,7 +810,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transaction Control
+### 3. Transaction Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Committing database changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/committing-database-changes?u=76281980)
@@ -916,7 +924,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Data Definition Language
+### 4. Data Definition Language
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Different ways to create tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980)
@@ -1273,7 +1283,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/next-steps?u=76281980)

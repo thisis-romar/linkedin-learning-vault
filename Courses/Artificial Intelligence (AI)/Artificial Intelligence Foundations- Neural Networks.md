@@ -38,7 +38,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/artificial-intelligence-foundations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Artificial%20Intelligence%20Foundations-%20Neural%20Networks.md)
@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. What Are Neural Networks?]]** (4 videos)
-- **[[#3. 2. Key Components in Neural Network Architecture]]** (3 videos)
-- **[[#4. 3. Other Types of Neural Networks]]** (4 videos)
-- **[[#5. 4. Build a Simple Neural Network Using Keras]]** (8 videos)
-- **[[#6. 5. Best Practices for Optimizing a Neural Network]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Are Neural Networks?]]** (4 videos)
+- **[[#2. Key Components in Neural Network Architecture]]** (3 videos)
+- **[[#3. Other Types of Neural Networks]]** (4 videos)
+- **[[#4. Build a Simple Neural Network Using Keras]]** (8 videos)
+- **[[#5. Best Practices for Optimizing a Neural Network]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Neural networks 101: Your path to AI brilliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Are Neural Networks?
+### 1. What Are Neural Networks?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Neural networks: The building blocks of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
@@ -427,7 +431,9 @@ created: 2026-04-28
 > **Env Vars:** mlp (2)
 
 
-### 3. 2. Key Components in Neural Network Architecture
+### 2. Key Components in Neural Network Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layers: Input, hidden, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
@@ -651,7 +657,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Other Types of Neural Networks
+### 3. Other Types of Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Convolutional neural networks (CNN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
@@ -1034,7 +1042,9 @@ created: 2026-04-28
 > **Versions:** 1.0 (1)
 
 
-### 5. 4. Build a Simple Neural Network Using Keras
+### 4. Build a Simple Neural Network Using Keras
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Keras Sequential model
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
@@ -1587,7 +1597,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Best Practices for Optimizing a Neural Network
+### 5. Best Practices for Optimizing a Neural Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overfitting and underfitting: Two common ANN problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
@@ -2004,7 +2016,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)

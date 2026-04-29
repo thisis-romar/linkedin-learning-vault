@@ -30,7 +30,7 @@ tags:
   - skill/software-development-security
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Foundational%20JavaScript%20Security.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction and Setup]]** (6 videos)
-- **[[#3. 2. Reconnaissance]]** (7 videos)
-- **[[#4. 3. Top Security Threats]]** (10 videos)
-- **[[#5. 4. Security Threats Applied]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction and Setup]]** (6 videos)
+- **[[#2. Reconnaissance]]** (7 videos)
+- **[[#3. Top Security Threats]]** (10 videos)
+- **[[#4. Security Threats Applied]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundational JavaScript security
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction and Setup
+### 1. Introduction and Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ethical hacking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
@@ -309,7 +313,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Reconnaissance
+### 2. Reconnaissance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reconnaissance introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
@@ -657,7 +663,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Top Security Threats
+### 3. Top Security Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Injection threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
@@ -991,7 +999,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 5. 4. Security Threats Applied
+### 4. Security Threats Applied
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Injection threat resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
@@ -1240,7 +1250,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)

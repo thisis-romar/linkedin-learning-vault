@@ -25,7 +25,7 @@ tags:
   - topic/devops
   - skill/jenkins
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Learning%20Jenkins%20Automating%20Software%20Development%20And%20System%20Administration.md)
@@ -43,14 +43,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Installing Jenkins]]** (6 videos)
-- **[[#3. 2. Jenkins Jobs]]** (9 videos)
-- **[[#4. 3. Job Workspaces, Artifacts, and Parameters]]** (9 videos)
-- **[[#5. 4. Organize Jobs with Views and Folders]]** (6 videos)
-- **[[#6. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Installing Jenkins]]** (6 videos)
+- **[[#2. Jenkins Jobs]]** (9 videos)
+- **[[#3. Job Workspaces, Artifacts, and Parameters]]** (9 videos)
+- **[[#4. Organize Jobs with Views and Folders]]** (6 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kickstart your DevOps journey with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980)
@@ -198,7 +200,9 @@ created: 2026-04-28
 > **Exercise Files:** source code (1)
 
 
-### 2. 1. Installing Jenkins
+### 1. Installing Jenkins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### System requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980)
@@ -547,7 +551,9 @@ created: 2026-04-28
 > **Versions:** java 21 (1), 21.0 (1)
 
 
-### 3. 2. Jenkins Jobs
+### 2. Jenkins Jobs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your first jenkins job
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980)
@@ -1049,7 +1055,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Job Workspaces, Artifacts, and Parameters
+### 3. Job Workspaces, Artifacts, and Parameters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using a global build tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980)
@@ -1690,7 +1698,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Organize Jobs with Views and Folders
+### 4. Organize Jobs with Views and Folders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Views and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980)
@@ -2028,7 +2038,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pipeline as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980)

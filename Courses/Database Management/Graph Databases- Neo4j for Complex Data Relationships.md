@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/neo4j
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Graph%20Databases-%20Neo4j%20for%20Complex%20Data%20Relationships.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Neo4j Fundamentals]]** (5 videos)
-- **[[#3. 2. Environment Setup]]** (4 videos)
-- **[[#4. 3. Writing Data]]** (6 videos)
-- **[[#5. 4. Query Data]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Neo4j Fundamentals]]** (5 videos)
+- **[[#2. Environment Setup]]** (4 videos)
+- **[[#3. Writing Data]]** (6 videos)
+- **[[#4. Query Data]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980)
@@ -254,7 +256,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Neo4j Fundamentals
+### 1. Neo4j Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Neo4j fundamental terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980)
@@ -667,7 +671,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Environment Setup
+### 2. Environment Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to install Neo4j
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980)
@@ -1076,7 +1082,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Writing Data
+### 3. Writing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The data set explained and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/the-data-set-explained-and-goals?u=76281980)
@@ -1682,7 +1690,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Query Data
+### 4. Query Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to explore Neo4j data with the user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980)
@@ -2020,7 +2030,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980)

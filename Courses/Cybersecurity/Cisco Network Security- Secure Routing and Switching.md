@@ -33,7 +33,7 @@ tags:
   - skill/network-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Secure%20Routing%20and%20Switching.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Secure Routing and Switching]]** (3 videos)
-- **[[#3. 2. Securing Cisco Routers]]** (9 videos)
-- **[[#4. 3. Security on Cisco Switches]]** (8 videos)
-- **[[#5. 4. Mitigation Procedures]]** (4 videos)
-- **[[#6. 5. VLAN Security]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Secure Routing and Switching]]** (3 videos)
+- **[[#2. Securing Cisco Routers]]** (9 videos)
+- **[[#3. Security on Cisco Switches]]** (8 videos)
+- **[[#4. Mitigation Procedures]]** (4 videos)
+- **[[#5. VLAN Security]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Secure Routing and Switching
+### 1. Secure Routing and Switching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure routing and switching: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Securing Cisco Routers
+### 2. Securing Cisco Routers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layer 3 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980)
@@ -850,7 +856,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 4. 3. Security on Cisco Switches
+### 3. Security on Cisco Switches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layer 2 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980)
@@ -1344,7 +1352,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Mitigation Procedures
+### 4. Mitigation Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implement DHCP snooping
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980)
@@ -1581,7 +1591,9 @@ created: 2026-04-28
 > **Speakers:** - [female (1)
 
 
-### 6. 5. VLAN Security
+### 5. VLAN Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### VLAN attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980)
@@ -1733,7 +1745,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/database-development
   - skill/couchbase
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Introduction%20to%20Couchbase.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started with Couchbase Capella]]** (8 videos)
-- **[[#3. 2. Completing Key Value Operations]]** (5 videos)
-- **[[#4. 3. Querying with Couchbase]]** (2 videos)
-- **[[#5. 4. Getting Your Couchbase Database to Perform Effectively]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Couchbase Capella]]** (8 videos)
+- **[[#2. Completing Key Value Operations]]** (5 videos)
+- **[[#3. Querying with Couchbase]]** (2 videos)
+- **[[#4. Getting Your Couchbase Database to Perform Effectively]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Couchbase and what it can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Couchbase Capella
+### 1. Getting Started with Couchbase Capella
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Signing up for Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980)
@@ -800,7 +804,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Completing Key Value Operations
+### 2. Completing Key Value Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Completing a Get
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980)
@@ -1043,7 +1049,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Querying with Couchbase
+### 3. Querying with Couchbase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SQL and SQL++ and Indexing In Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980)
@@ -1252,7 +1260,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 5. 4. Getting Your Couchbase Database to Perform Effectively
+### 4. Getting Your Couchbase Database to Perform Effectively
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluating database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980)
@@ -1505,7 +1515,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980)

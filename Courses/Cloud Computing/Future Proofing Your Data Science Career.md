@@ -29,7 +29,7 @@ tags:
   - skill/tech-career-skills
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Future%20Proofing%20Your%20Data%20Science%20Career.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Socio-Historical Perspective]]** (2 videos)
-- **[[#3. 2. The Data Science Workplace]]** (3 videos)
-- **[[#4. 3. Future Career Toolkit]]** (2 videos)
-- **[[#5. 4. Finding Your VOICE]]** (7 videos)
-- **[[#6. 5. Developing Your ANTENNA]]** (6 videos)
-- **[[#7. 6. Connecting via Your MESH]]** (11 videos)
-- **[[#8. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Socio-Historical Perspective]]** (2 videos)
+- **[[#2. The Data Science Workplace]]** (3 videos)
+- **[[#3. Future Career Toolkit]]** (2 videos)
+- **[[#4. Finding Your VOICE]]** (7 videos)
+- **[[#5. Developing Your ANTENNA]]** (6 videos)
+- **[[#6. Connecting via Your MESH]]** (11 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science is disrupting every business
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Speakers:** - research (1)
 
 
-### 2. 1. Socio-Historical Perspective
+### 1. Socio-Historical Perspective
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A brief history of machines helping humans
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
@@ -253,7 +257,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. The Data Science Workplace
+### 2. The Data Science Workplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data science drives Wall Street and Main Street
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
@@ -376,7 +382,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Future Career Toolkit
+### 3. Future Career Toolkit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing the emerging data science job market
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
@@ -454,7 +462,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Finding Your VOICE
+### 4. Finding Your VOICE
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is your VOICE?
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
@@ -703,7 +713,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. 5. Developing Your ANTENNA
+### 5. Developing Your ANTENNA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ANTENNA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
@@ -981,7 +993,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 7. 6. Connecting via Your MESH
+### 6. Connecting via Your MESH
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### It is not what you know, but who you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
@@ -1472,7 +1486,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare for future data-science careers
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)

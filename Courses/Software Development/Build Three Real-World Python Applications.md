@@ -34,7 +34,7 @@ tags:
   - skill/python-programming-language
   - skill/application-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Build%20Three%20Real-World%20Python%20Applications.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Scraping the Wisdom Pet Medicine Website]]** (13 videos)
-- **[[#3. 2. Exploring Alpha Vantage API]]** (13 videos)
-- **[[#4. 3. Text Analysis on Great Expectations Novel]]** (12 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Scraping the Wisdom Pet Medicine Website]]** (13 videos)
+- **[[#2. Exploring Alpha Vantage API]]** (13 videos)
+- **[[#3. Text Analysis on Great Expectations Novel]]** (12 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Real-world Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
@@ -232,7 +234,9 @@ created: 2026-04-28
 > **Code Identifiers:** great_expectations (1), man_in_top_hat (1), sense_and_sensibility (1)
 
 
-### 2. 1. Scraping the Wisdom Pet Medicine Website
+### 1. Scraping the Wisdom Pet Medicine Website
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is web scraping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
@@ -1084,7 +1088,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Exploring Alpha Vantage API
+### 2. Exploring Alpha Vantage API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are APIs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
@@ -2187,7 +2193,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Text Analysis on Great Expectations Novel
+### 3. Text Analysis on Great Expectations Novel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is text analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
@@ -3272,7 +3280,9 @@ created: 2026-04-28
 > **Non-Speech:** (bouncy music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)

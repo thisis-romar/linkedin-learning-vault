@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/javascript
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Vanilla%20JavaScript-%20Web%20Performance%20Optimization%20APIs.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Reactive Web Performance]]** (5 videos)
-- **[[#3. 2. Performance Basics]]** (5 videos)
-- **[[#4. 3. Measure Performance]]** (8 videos)
-- **[[#5. 4. Decision-Making Helpers]]** (4 videos)
-- **[[#6. 5. Execute Code More Efficiently]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Reactive Web Performance]]** (5 videos)
+- **[[#2. Performance Basics]]** (5 videos)
+- **[[#3. Measure Performance]]** (8 videos)
+- **[[#4. Decision-Making Helpers]]** (4 videos)
+- **[[#5. Execute Code More Efficiently]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize APIs with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Reactive Web Performance
+### 1. Reactive Web Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for web performance APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980)
@@ -491,7 +495,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Performance Basics
+### 2. Performance Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigation Timing Level 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980)
@@ -888,7 +894,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Measure Performance
+### 3. Measure Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring our websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980)
@@ -1582,7 +1590,9 @@ created: 2026-04-28
 > **Prerequisites:** install (2)
 
 
-### 5. 4. Decision-Making Helpers
+### 4. Decision-Making Helpers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Read network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980)
@@ -1889,7 +1899,9 @@ created: 2026-04-28
 > **Versions:** 3.0 (1)
 
 
-### 6. 5. Execute Code More Efficiently
+### 5. Execute Code More Efficiently
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Send low-priority requests with beacons
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980)
@@ -2161,7 +2173,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980)

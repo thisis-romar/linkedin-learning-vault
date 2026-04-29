@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Functional%20Programming%20with%20PHP.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introductory Functional Concepts]]** (5 videos)
-- **[[#3. 2. First-Class Functions]]** (7 videos)
-- **[[#4. 3. PHP: The Functional Parts]]** (11 videos)
-- **[[#5. 4. Advanced Functional Concepts]]** (5 videos)
-- **[[#6. 5. Code Conversion Challenges]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introductory Functional Concepts]]** (5 videos)
+- **[[#2. First-Class Functions]]** (7 videos)
+- **[[#3. PHP: The Functional Parts]]** (11 videos)
+- **[[#4. Advanced Functional Concepts]]** (5 videos)
+- **[[#5. Code Conversion Challenges]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A functional approach to transform code
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980)
@@ -200,7 +202,9 @@ created: 2026-04-28
 > **File Paths:** brew.sh (1)
 
 
-### 2. 1. Introductory Functional Concepts
+### 1. Introductory Functional Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980)
@@ -616,7 +620,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. First-Class Functions
+### 2. First-Class Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functions as data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980)
@@ -1323,7 +1329,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. PHP: The Functional Parts
+### 3. PHP: The Functional Parts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with arrays, functionally
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980)
@@ -2296,7 +2304,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Advanced Functional Concepts
+### 4. Advanced Functional Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced functional concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980)
@@ -2677,7 +2687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Code Conversion Challenges
+### 5. Code Conversion Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Property getter
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980)
@@ -2945,7 +2957,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980)

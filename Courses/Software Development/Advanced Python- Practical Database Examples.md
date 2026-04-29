@@ -31,7 +31,7 @@ tags:
   - skill/python-programming-language
   - skill/database-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python-%20Practical%20Database%20Examples.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Creating an API that Serves Data from a Database with FastAPI]]** (12 videos)
-- **[[#3. 2. Developing Analysis Applications with Pandas]]** (8 videos)
-- **[[#4. 3. Building a Full-Stack Task List Application with Flask]]** (14 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Creating an API that Serves Data from a Database with FastAPI]]** (12 videos)
+- **[[#2. Developing Analysis Applications with Pandas]]** (8 videos)
+- **[[#3. Building a Full-Stack Task List Application with Flask]]** (14 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - [kathryn] (1)
 
 
-### 2. 1. Creating an API that Serves Data from a Database with FastAPI
+### 1. Creating an API that Serves Data from a Database with FastAPI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
@@ -1110,7 +1114,9 @@ created: 2026-04-28
 > **Tools:** postman (1)
 
 
-### 3. 2. Developing Analysis Applications with Pandas
+### 2. Developing Analysis Applications with Pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
@@ -1625,7 +1631,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Building a Full-Stack Task List Application with Flask
+### 3. Building a Full-Stack Task List Application with Flask
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up Flask in a Python application
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
@@ -2533,7 +2541,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue building applications with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)

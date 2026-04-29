@@ -33,7 +33,7 @@ tags:
   - skill/c
   - skill/parallel-programming
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Complete%20Guide%20to%20Parallel%20and%20Concurrent%20Programming%20with%20C%2B%2B.md)
@@ -51,21 +51,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Parallel Computing Hardware]]** (3 videos)
-- **[[#3. 2. Threads and Processes]]** (9 videos)
-- **[[#4. 3. Mutual Exclusion]]** (5 videos)
-- **[[#5. 4. Locks]]** (6 videos)
-- **[[#6. 5. Liveness]]** (8 videos)
-- **[[#7. 6. Synchronization]]** (6 videos)
-- **[[#8. 7. Barriers]]** (5 videos)
-- **[[#9. 8. Asynchronous Tasks]]** (7 videos)
-- **[[#10. 9. Evaluating Parallel Performance]]** (4 videos)
-- **[[#11. 10. Designing Parallel Programs]]** (4 videos)
-- **[[#12. 11. Challenge Problems]]** (7 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Parallel Computing Hardware]]** (3 videos)
+- **[[#2. Threads and Processes]]** (9 videos)
+- **[[#3. Mutual Exclusion]]** (5 videos)
+- **[[#4. Locks]]** (6 videos)
+- **[[#5. Liveness]]** (8 videos)
+- **[[#6. Synchronization]]** (6 videos)
+- **[[#7. Barriers]]** (5 videos)
+- **[[#8. Asynchronous Tasks]]** (7 videos)
+- **[[#9. Evaluating Parallel Performance]]** (4 videos)
+- **[[#10. Designing Parallel Programs]]** (4 videos)
+- **[[#11. Challenge Problems]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn parallel programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Parallel Computing Hardware
+### 1. Parallel Computing Hardware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sequential vs. parallel computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
@@ -460,7 +464,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 3. 2. Threads and Processes
+### 2. Threads and Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thread versus process
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
@@ -1119,7 +1125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Mutual Exclusion
+### 3. Mutual Exclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data race
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
@@ -1472,7 +1480,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Locks
+### 4. Locks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recursive mutex
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
@@ -1880,7 +1890,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Liveness
+### 5. Liveness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deadlock
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
@@ -2347,7 +2359,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Synchronization
+### 6. Synchronization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Condition variable
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
@@ -2813,7 +2827,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Barriers
+### 7. Barriers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Race condition
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
@@ -3143,7 +3159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Asynchronous Tasks
+### 8. Asynchronous Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computational graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
@@ -3592,7 +3610,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 10. 9. Evaluating Parallel Performance
+### 9. Evaluating Parallel Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Speedup, latency, and throughput
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
@@ -3888,7 +3908,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Designing Parallel Programs
+### 10. Designing Parallel Programs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
@@ -4171,7 +4193,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 12. 11. Challenge Problems
+### 11. Challenge Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the challenges!
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
@@ -4585,7 +4609,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)

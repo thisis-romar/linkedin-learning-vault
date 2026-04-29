@@ -42,7 +42,7 @@ tags:
   - skill/python-programming-language
   - skill/data-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Complete%20Guide%20to%20Python%20for%20Data%20Engineering-%20From%20Beginner%20to%20Advanced.md)
@@ -60,21 +60,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Python Basics]]** (11 videos)
-- **[[#3. 2. Python Collections]]** (6 videos)
-- **[[#4. 3. Python File Handling]]** (4 videos)
-- **[[#5. 4. pandas DataFrame API]]** (7 videos)
-- **[[#6. 5. NumPy]]** (7 videos)
-- **[[#7. 6. OOP with Python]]** (4 videos)
-- **[[#8. 7. Advanced Data Engineering]]** (6 videos)
-- **[[#9. 8. Web Scraping with Python]]** (8 videos)
-- **[[#10. 9. Advanced Built-in Functions]]** (5 videos)
-- **[[#11. 10. Logging in Python]]** (3 videos)
-- **[[#12. 11. Final Project]]** (2 videos)
-- **[[#13. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Python Basics]]** (11 videos)
+- **[[#2. Python Collections]]** (6 videos)
+- **[[#3. Python File Handling]]** (4 videos)
+- **[[#4. pandas DataFrame API]]** (7 videos)
+- **[[#5. NumPy]]** (7 videos)
+- **[[#6. OOP with Python]]** (4 videos)
+- **[[#7. Advanced Data Engineering]]** (6 videos)
+- **[[#8. Web Scraping with Python]]** (8 videos)
+- **[[#9. Advanced Built-in Functions]]** (5 videos)
+- **[[#10. Logging in Python]]** (3 videos)
+- **[[#11. Final Project]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/python-for-data-engineering?u=76281980)
@@ -163,7 +165,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Python Basics
+### 1. Python Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Python and data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-python-data-engineering?u=76281980)
@@ -1270,7 +1274,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Python Collections
+### 2. Python Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/collection-overview?u=76281980)
@@ -1823,7 +1829,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Python File Handling
+### 3. Python File Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File I/O overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/file-i-o-overview?u=76281980)
@@ -2143,7 +2151,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. pandas DataFrame API
+### 4. pandas DataFrame API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas?u=76281980)
@@ -2675,7 +2685,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. NumPy
+### 5. NumPy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to NumPy
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-numpy?u=76281980)
@@ -3382,7 +3394,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 7. 6. OOP with Python
+### 6. OOP with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/understanding-classes-obejct?u=76281980)
@@ -3630,7 +3644,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Advanced Data Engineering
+### 7. Advanced Data Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tips to write efficient Python code
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/tips-to-write-efficent-python-code?u=76281980)
@@ -4025,7 +4041,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Web Scraping with Python
+### 8. Web Scraping with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### HTML basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/html-basics?u=76281980)
@@ -4967,7 +4985,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Advanced Built-in Functions
+### 9. Advanced Built-in Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generators in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/generators-in-python?u=76281980)
@@ -5526,7 +5546,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 11. 10. Logging in Python
+### 10. Logging in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is logging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-logging?u=76281980)
@@ -5796,7 +5818,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. 11. Final Project
+### 11. Final Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final Project: Retail sales analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/captstone-project-retail-sales-analysis?u=76281980)
@@ -6239,7 +6263,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)

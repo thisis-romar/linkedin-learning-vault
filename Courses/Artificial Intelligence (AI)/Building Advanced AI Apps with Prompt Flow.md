@@ -30,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Advanced%20AI%20Apps%20with%20Prompt%20Flow.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Exploring Prompt Flow]]** (8 videos)
-- **[[#3. 2. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Exploring Prompt Flow]]** (8 videos)
+- **[[#2. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt Flow: Your toolkit to build AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - take (1)
 
 
-### 2. 1. Exploring Prompt Flow
+### 1. Exploring Prompt Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Prompt Flow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
@@ -916,7 +920,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 3. 2. Conclusion
+### 2. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going further with Prompt Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)

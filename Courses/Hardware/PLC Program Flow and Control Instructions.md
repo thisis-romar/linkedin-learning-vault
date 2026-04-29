@@ -28,7 +28,7 @@ tags:
   - topic/hardware
   - skill/plc-ladder-logic
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Hardware/PLC%20Program%20Flow%20and%20Control%20Instructions.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Bit Shift Register]]** (6 videos)
-- **[[#3. 2. Word Shift Operations]]** (9 videos)
-- **[[#4. 3. Program Flow Control Instructions]]** (9 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Bit Shift Register]]** (6 videos)
+- **[[#2. Word Shift Operations]]** (9 videos)
+- **[[#3. Program Flow Control Instructions]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PLC program flow and control
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Bit Shift Register
+### 1. Bit Shift Register
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Concepts of bits and words
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
@@ -365,7 +369,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Word Shift Operations
+### 2. Word Shift Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Word shift operations intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
@@ -713,7 +719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Program Flow Control Instructions
+### 3. Program Flow Control Instructions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to program control instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
@@ -975,7 +983,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)

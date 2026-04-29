@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/microsoft-excel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Cert%20Prep-%20Excel%20Expert%20-%20Microsoft%20Office%20Specialist%20for%20Microsoft%20365%20Apps.md)
@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Microsoft Office Specialist (MOS) Expert Exam Overview]]** (2 videos)
-- **[[#3. 2. Manage Workbook Options and Settings]]** (7 videos)
-- **[[#4. 3. Manage and Format Data]]** (11 videos)
-- **[[#5. 4. Create Advanced Formulas]]** (14 videos)
-- **[[#6. 5. Manage Advanced Charts and Tables]]** (7 videos)
-- **[[#7. 6. Final Challenge]]** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Microsoft Office Specialist (MOS) Expert Exam Overview]]** (2 videos)
+- **[[#2. Manage Workbook Options and Settings]]** (7 videos)
+- **[[#3. Manage and Format Data]]** (11 videos)
+- **[[#4. Create Advanced Formulas]]** (14 videos)
+- **[[#5. Manage Advanced Charts and Tables]]** (7 videos)
+- **[[#6. Final Challenge]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prove your Excel skills as a MOS Expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Microsoft Office Specialist (MOS) Expert Exam Overview
+### 1. Microsoft Office Specialist (MOS) Expert Exam Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The different kinds of Microsoft Office Specialist certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980)
@@ -309,7 +313,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Manage Workbook Options and Settings
+### 2. Manage Workbook Options and Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage macros
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980)
@@ -1173,7 +1179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Manage and Format Data
+### 3. Manage and Format Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fill cells using Flash Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980)
@@ -2605,7 +2613,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 5. 4. Create Advanced Formulas
+### 4. Create Advanced Formulas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use AND(), OR(), and NOT() in nested functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980)
@@ -4433,7 +4443,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 6. 5. Manage Advanced Charts and Tables
+### 5. Manage Advanced Charts and Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and modify dual-axis and combo charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-dual-axis-and-combo-charts-17328205?u=76281980)
@@ -5116,7 +5128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Final Challenge
+### 6. Final Challenge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Full-length MOS Excel Expert sample exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-full-length-mos-excel-expert-sample-exam-17329208?u=76281980)

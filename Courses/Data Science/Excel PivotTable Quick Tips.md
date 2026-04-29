@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/excel-pivot
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20PivotTable%20Quick%20Tips.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Excel PivotTable Basics]]** (4 videos)
-- **[[#3. 2. Adjusting Excel PivotTable Data]]** (6 videos)
-- **[[#4. 3. Filtering and Sorting Data in a PivotTable]]** (2 videos)
-- **[[#5. 4. Conditional Formatting with PivotTables]]** (2 videos)
-- **[[#6. 5. PivotCharts and Slicers]]** (2 videos)
-- **[[#7. 6. Data Grouping with Excel Functions]]** (2 videos)
-- **[[#8. 7. Addressing Common Error Messages in PivotTables]]** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Excel PivotTable Basics]]** (4 videos)
+- **[[#2. Adjusting Excel PivotTable Data]]** (6 videos)
+- **[[#3. Filtering and Sorting Data in a PivotTable]]** (2 videos)
+- **[[#4. Conditional Formatting with PivotTables]]** (2 videos)
+- **[[#5. PivotCharts and Slicers]]** (2 videos)
+- **[[#6. Data Grouping with Excel Functions]]** (2 videos)
+- **[[#7. Addressing Common Error Messages in PivotTables]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze your data quickly with PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 2. 1. Excel PivotTable Basics
+### 1. Excel PivotTable Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get data ready for an Excel PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
@@ -226,7 +230,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Adjusting Excel PivotTable Data
+### 2. Adjusting Excel PivotTable Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rearrange a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
@@ -441,7 +447,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Filtering and Sorting Data in a PivotTable
+### 3. Filtering and Sorting Data in a PivotTable
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filter data in a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
@@ -492,7 +500,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Conditional Formatting with PivotTables
+### 4. Conditional Formatting with PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply conditional formatting to a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
@@ -555,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. PivotCharts and Slicers
+### 5. PivotCharts and Slicers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a basic PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
@@ -634,7 +646,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Data Grouping with Excel Functions
+### 6. Data Grouping with Excel Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use GROUPBY to view data like a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
@@ -713,7 +727,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Addressing Common Error Messages in PivotTables
+### 7. Addressing Common Error Messages in PivotTables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PivotTable error messages: Field name not valid
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)

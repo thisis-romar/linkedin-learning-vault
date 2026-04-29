@@ -29,7 +29,7 @@ tags:
   - skill/sql-server-reporting-services-ssrs
   - skill/microsoft-sql-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/SQL%20Server-%20Reporting%20Services.md)
@@ -47,18 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Get Started with SSRS]]** (7 videos)
-- **[[#3. 2. Build Your First Report]]** (8 videos)
-- **[[#4. 3. Work with Data]]** (6 videos)
-- **[[#5. 4. Build Interactive Reports]]** (6 videos)
-- **[[#6. 5. Create Charts]]** (4 videos)
-- **[[#7. 6. Additional Data Visualizations]]** (6 videos)
-- **[[#8. 7. Improve the Presentation]]** (4 videos)
-- **[[#9. 8. Build a Web Portal Dashboard]]** (7 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with SSRS]]** (7 videos)
+- **[[#2. Build Your First Report]]** (8 videos)
+- **[[#3. Work with Data]]** (6 videos)
+- **[[#4. Build Interactive Reports]]** (6 videos)
+- **[[#5. Create Charts]]** (4 videos)
+- **[[#6. Additional Data Visualizations]]** (6 videos)
+- **[[#7. Improve the Presentation]]** (4 videos)
+- **[[#8. Build a Web Portal Dashboard]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Present SQL data with Reporting Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started with SSRS
+### 1. Get Started with SSRS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is SQL Server Reporting Services (SSRS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980)
@@ -705,7 +709,9 @@ created: 2026-04-28
 > **Speakers:** - [adam] (1)
 
 
-### 3. 2. Build Your First Report
+### 2. Build Your First Report
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980)
@@ -1758,7 +1764,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Work with Data
+### 3. Work with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a shared data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980)
@@ -2542,7 +2550,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Build Interactive Reports
+### 4. Build Interactive Reports
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Convert filters into parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980)
@@ -3361,7 +3371,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Create Charts
+### 5. Create Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980)
@@ -3873,7 +3885,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Additional Data Visualizations
+### 6. Additional Data Visualizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gauges
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980)
@@ -4689,7 +4703,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Improve the Presentation
+### 7. Improve the Presentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Include header and footer details
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980)
@@ -5115,7 +5131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Build a Web Portal Dashboard
+### 8. Build a Web Portal Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a key performance indicator (KPI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980)
@@ -5739,7 +5757,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980)

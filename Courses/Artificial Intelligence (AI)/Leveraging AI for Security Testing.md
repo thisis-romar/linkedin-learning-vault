@@ -33,7 +33,7 @@ tags:
   - skill/ai-security
   - skill/security-testing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20AI%20for%20Security%20Testing.md)
@@ -51,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. AI's Role in Security Testing]]** (2 videos)
-- **[[#3. 2. Using AI in Risk Assessments]]** (4 videos)
-- **[[#4. 3. Using AI in Security Controls Assessments]]** (4 videos)
-- **[[#5. 4. Using AI in Compliance Assessments]]** (4 videos)
-- **[[#6. 5. Using AI in Vulnerability Assessments]]** (4 videos)
-- **[[#7. 6. Using AI in Penetration Tests]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI's Role in Security Testing]]** (2 videos)
+- **[[#2. Using AI in Risk Assessments]]** (4 videos)
+- **[[#3. Using AI in Security Controls Assessments]]** (4 videos)
+- **[[#4. Using AI in Compliance Assessments]]** (4 videos)
+- **[[#5. Using AI in Vulnerability Assessments]]** (4 videos)
+- **[[#6. Using AI in Penetration Tests]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI tools for security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-tools-for-security-testing?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. AI's Role in Security Testing
+### 1. AI's Role in Security Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/types-of-security-testing?u=76281980)
@@ -188,7 +192,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using AI in Risk Assessments
+### 2. Using AI in Risk Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a risk assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-risk-assessment?u=76281980)
@@ -569,7 +575,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 4. 3. Using AI in Security Controls Assessments
+### 3. Using AI in Security Controls Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a security controls assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-security-controls-assessment?u=76281980)
@@ -860,7 +868,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. 4. Using AI in Compliance Assessments
+### 4. Using AI in Compliance Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a compliance assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980)
@@ -1200,7 +1210,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Using AI in Vulnerability Assessments
+### 5. Using AI in Vulnerability Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a vulnerability assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-vulnerability-assessment?u=76281980)
@@ -1522,7 +1534,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 7. 6. Using AI in Penetration Tests
+### 6. Using AI in Penetration Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a penetration test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-penetration-test?u=76281980)
@@ -2016,7 +2030,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning future security tests with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/planning-future-security-tests-with-ai?u=76281980)

@@ -34,7 +34,7 @@ tags:
   - skill/full-stack-development
   - skill/react-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/React-%20Creating%20and%20Hosting%20a%20Full-Stack%20Site.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Creating a React Front-End]]** (9 videos)
-- **[[#3. 2. Creating a Node.js Back-End]]** (7 videos)
-- **[[#4. 3. Adding MongoDB to Node.js]]** (5 videos)
-- **[[#5. 4. Connecting the Front-End and Back-End]]** (7 videos)
-- **[[#6. 5. Adding User Authentication with Firebase Auth]]** (11 videos)
-- **[[#7. 6. Hosting a Full-Stack React Application]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating a React Front-End]]** (9 videos)
+- **[[#2. Creating a Node.js Back-End]]** (7 videos)
+- **[[#3. Adding MongoDB to Node.js]]** (5 videos)
+- **[[#4. Connecting the Front-End and Back-End]]** (7 videos)
+- **[[#5. Adding User Authentication with Firebase Auth]]** (11 videos)
+- **[[#6. Hosting a Full-Stack React Application]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your own full-stack website using React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating a React Front-End
+### 1. Creating a React Front-End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
@@ -1093,7 +1097,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Creating a Node.js Back-End
+### 2. Creating a Node.js Back-End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
@@ -1810,7 +1816,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Adding MongoDB to Node.js
+### 3. Adding MongoDB to Node.js
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
@@ -2239,7 +2247,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Connecting the Front-End and Back-End
+### 4. Connecting the Front-End and Back-End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
@@ -2865,7 +2875,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Adding User Authentication with Firebase Auth
+### 5. Adding User Authentication with Firebase Auth
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
@@ -4111,7 +4123,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. 6. Hosting a Full-Stack React Application
+### 6. Hosting a Full-Stack React Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing an app for release
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
@@ -4764,7 +4778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)

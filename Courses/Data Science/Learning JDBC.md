@@ -34,7 +34,7 @@ tags:
   - topic/web-development
   - skill/java-database-connectivity-jdbc
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20JDBC.md)
@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introducing Java Data Access]]** (7 videos)
-- **[[#3. 2. Data Access Basics]]** (11 videos)
-- **[[#4. 3. Advanced Data Access]]** (6 videos)
-- **[[#5. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introducing Java Data Access]]** (7 videos)
+- **[[#2. Data Access Basics]]** (11 videos)
+- **[[#3. Advanced Data Access]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get going with data access in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Java Data Access
+### 1. Introducing Java Data Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relational database management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
@@ -698,7 +702,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Access Basics
+### 2. Data Access Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using a driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
@@ -1734,7 +1740,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Data Access
+### 3. Advanced Data Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
@@ -2240,7 +2248,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### JPA and ORM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)

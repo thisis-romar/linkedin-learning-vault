@@ -31,7 +31,7 @@ tags:
   - skill/windows-system-administration
   - skill/windows-server
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%20Server%202022-%20Installation%20and%20Configuration.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction to Windows Server 2022: Installation and Configuration]]** (2 videos)
-- **[[#2. 1. Installing Windows Server 2022]]** (4 videos)
-- **[[#3. 2. Configuring Windows Server]]** (6 videos)
-- **[[#4. 3. Configuring Storage]]** (7 videos)
-- **[[#5. 4. Configuring Server Roles and Features]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction to Windows Server 2022: Installation and Configuration]]** (2 videos)
+- **[[#1. Installing Windows Server 2022]]** (4 videos)
+- **[[#2. Configuring Windows Server]]** (6 videos)
+- **[[#3. Configuring Storage]]** (7 videos)
+- **[[#4. Configuring Server Roles and Features]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction to Windows Server 2022: Installation and Configuration
+### Introduction to Windows Server 2022: Installation and Configuration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Windows Server 2022: Installation and configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Installing Windows Server 2022
+### 1. Installing Windows Server 2022
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning for Windows Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
@@ -528,7 +532,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Configuring Windows Server
+### 2. Configuring Windows Server
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring a computer name with Server Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
@@ -1092,7 +1098,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Configuring Storage
+### 3. Configuring Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a simple volume
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
@@ -1870,7 +1878,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Configuring Server Roles and Features
+### 4. Configuring Server Roles and Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing roles and features
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
@@ -2392,7 +2402,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)

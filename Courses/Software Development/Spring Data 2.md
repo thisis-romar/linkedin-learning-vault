@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/spring-data
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Spring%20Data%202.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Spring Data Umbrella Project]]** (2 videos)
-- **[[#3. 2. Introduction to Spring Data JPA]]** (5 videos)
-- **[[#4. 3. Spring Data JPA Query Methods]]** (6 videos)
-- **[[#5. 4. Dynamic Spring Data JPA Queries]]** (5 videos)
-- **[[#6. 5. More Spring Data Features]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Spring Data Umbrella Project]]** (2 videos)
+- **[[#2. Introduction to Spring Data JPA]]** (5 videos)
+- **[[#3. Spring Data JPA Query Methods]]** (6 videos)
+- **[[#4. Dynamic Spring Data JPA Queries]]** (5 videos)
+- **[[#5. More Spring Data Features]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Spring Data Umbrella Project
+### 1. Spring Data Umbrella Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mission and modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
@@ -282,7 +286,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Introduction to Spring Data JPA
+### 2. Introduction to Spring Data JPA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spring Boot Starter Data JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
@@ -617,7 +623,9 @@ created: 2026-04-28
 > **Speakers:** - [mariann] (1)
 
 
-### 4. 3. Spring Data JPA Query Methods
+### 3. Spring Data JPA Query Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Property expression query methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
@@ -1170,7 +1178,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Dynamic Spring Data JPA Queries
+### 4. Dynamic Spring Data JPA Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Specifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
@@ -1568,7 +1578,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. More Spring Data Features
+### 5. More Spring Data Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
@@ -2045,7 +2057,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)

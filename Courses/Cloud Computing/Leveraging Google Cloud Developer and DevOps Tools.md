@@ -33,7 +33,7 @@ tags:
   - skill/cloud-development
   - skill/google-cloud-platform-gcp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Leveraging%20Google%20Cloud%20Developer%20and%20DevOps%20Tools.md)
@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Tools for Application Users]]** (6 videos)
-- **[[#3. 2. Tools for Data Scientists]]** (5 videos)
-- **[[#4. 3. Tools for DevOps]]** (6 videos)
-- **[[#5. 4. Tools for Developers]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Tools for Application Users]]** (6 videos)
+- **[[#2. Tools for Data Scientists]]** (5 videos)
+- **[[#3. Tools for DevOps]]** (6 videos)
+- **[[#4. Tools for Developers]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### State of Google Cloud tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/state-of-google-cloud-tools?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tools for Application Users
+### 1. Tools for Application Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Google Console for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980)
@@ -738,7 +742,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Tools for Data Scientists
+### 2. Tools for Data Scientists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable APIs for DLVMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/enable-apis-for-dlvms?u=76281980)
@@ -1176,7 +1182,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Tools for DevOps
+### 3. Tools for DevOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Google Cloud scripts with Cloud Shell for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-cloud-scripts-with-cloud-shell-for-storage?u=76281980)
@@ -1712,7 +1720,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Tools for Developers
+### 4. Tools for Developers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coding with the GCP local Google Cloud SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/coding-with-the-gcp-local-google-cloud-sdk?u=76281980)
@@ -2228,7 +2238,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with Google Cloud Developer and DevOps Tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/next-steps-with-google-cloud-developer-and-devops-tools?u=76281980)

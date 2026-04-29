@@ -34,7 +34,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Better%20Relationships%20and%20More%20Sales-%20Using%20ChatGPT%20to%20Sell.md)
@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Building Trust in a Digital-First Sales World]]** (3 videos)
-- **[[#3. 2. Building Relationships to Get More Meetings]]** (4 videos)
-- **[[#4. 3. Modeling Conversations to Build Trust throughout the Sales Process]]** (4 videos)
-- **[[#5. 4. Building Better Relationships with Current Clients]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Building Trust in a Digital-First Sales World]]** (3 videos)
+- **[[#2. Building Relationships to Get More Meetings]]** (4 videos)
+- **[[#3. Modeling Conversations to Build Trust throughout the Sales Process]]** (4 videos)
+- **[[#4. Building Better Relationships with Current Clients]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and the art of strong sales relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Building Trust in a Digital-First Sales World
+### 1. Building Trust in a Digital-First Sales World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify what matters to buyers when building trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
@@ -251,7 +255,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Building Relationships to Get More Meetings
+### 2. Building Relationships to Get More Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid pitfalls when using ChatGPT to build relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
@@ -503,7 +509,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Modeling Conversations to Build Trust throughout the Sales Process
+### 3. Modeling Conversations to Build Trust throughout the Sales Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Engaging in technical and HR-focused conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
@@ -731,7 +739,9 @@ created: 2026-04-28
 > **Speakers:** - forging (1)
 
 
-### 5. 4. Building Better Relationships with Current Clients
+### 4. Building Better Relationships with Current Clients
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn your new clients' business in minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
@@ -895,7 +905,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tying it all together and what's up next!
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)

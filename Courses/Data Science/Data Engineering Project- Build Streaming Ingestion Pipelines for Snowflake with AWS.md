@@ -33,7 +33,7 @@ tags:
   - skill/amazon-web-services-aws
   - skill/snowflake
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Engineering%20Project-%20Build%20Streaming%20Ingestion%20Pipelines%20for%20Snowflake%20with%20AWS.md)

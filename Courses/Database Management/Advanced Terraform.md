@@ -28,7 +28,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Advanced%20Terraform.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Creating a New Terraform Configuration]]** (7 videos)
-- **[[#3. 2. Intermediate Terraform Concepts]]** (9 videos)
-- **[[#4. 3. Advanced Terraform Concepts]]** (5 videos)
-- **[[#5. 4. Terraform Automation]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Creating a New Terraform Configuration]]** (7 videos)
+- **[[#2. Intermediate Terraform Concepts]]** (9 videos)
+- **[[#3. Advanced Terraform Concepts]]** (5 videos)
+- **[[#4. Terraform Automation]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Advanced Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
@@ -366,7 +368,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1), means that (1)
 
 
-### 2. 1. Creating a New Terraform Configuration
+### 1. Creating a New Terraform Configuration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practical Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
@@ -1033,7 +1037,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 3. 2. Intermediate Terraform Concepts
+### 2. Intermediate Terraform Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Input variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
@@ -2214,7 +2220,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 4. 3. Advanced Terraform Concepts
+### 3. Advanced Terraform Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyzing a module
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
@@ -2763,7 +2771,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 5. 4. Terraform Automation
+### 4. Terraform Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multiple environment configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
@@ -3865,7 +3875,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1), we discussed (1), previous video (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/laravel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20RESTful%20APIs%20in%20Laravel.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. An Introduction to APIs in Laravel]]** (4 videos)
-- **[[#3. 2. Setting Up Our Application]]** (6 videos)
-- **[[#4. 3. Building RESTful API]]** (7 videos)
-- **[[#5. 4. Testing Our API with Postman]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. An Introduction to APIs in Laravel]]** (4 videos)
+- **[[#2. Setting Up Our Application]]** (6 videos)
+- **[[#3. Building RESTful API]]** (7 videos)
+- **[[#4. Testing Our API with Postman]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building RESTful APIs in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - [zuzana] (1)
 
 
-### 2. 1. An Introduction to APIs in Laravel
+### 1. An Introduction to APIs in Laravel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980)
@@ -329,7 +333,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 3. 2. Setting Up Our Application
+### 2. Setting Up Our Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The project infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980)
@@ -911,7 +917,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Building RESTful API
+### 3. Building RESTful API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using API resources to display all petitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980)
@@ -1370,7 +1378,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Testing Our API with Postman
+### 4. Testing Our API with Postman
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Postman
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980)
@@ -1893,7 +1903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980)

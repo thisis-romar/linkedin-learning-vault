@@ -23,7 +23,7 @@ tags:
   - topic/software-development
   - topic/devops
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Planning%20and%20Implementing%20a%20Rapid%20Cloud%20Migration%20(RCM).md)

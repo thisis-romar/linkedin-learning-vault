@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-azure
   - skill/web-application-design
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20a%20Web%20Application%20on%20Microsoft%20Azure.md)
@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Using Azure DevOps for Storing Your Code]]** (5 videos)
-- **[[#3. 2. Hosting and Running the Web Application in Azure App Service]]** (6 videos)
-- **[[#4. 3. Using Azure SQL for Your Data Storage]]** (4 videos)
-- **[[#5. 4. Using Azure Storage for Storing Binary Files]]** (10 videos)
-- **[[#6. 5. Using Azure Functions to Improve Your Web Application]]** (7 videos)
-- **[[#7. 6. Taking Advantage of Azure Logic Apps for Your Web App]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Using Azure DevOps for Storing Your Code]]** (5 videos)
+- **[[#2. Hosting and Running the Web Application in Azure App Service]]** (6 videos)
+- **[[#3. Using Azure SQL for Your Data Storage]]** (4 videos)
+- **[[#4. Using Azure Storage for Storing Binary Files]]** (10 videos)
+- **[[#5. Using Azure Functions to Improve Your Web Application]]** (7 videos)
+- **[[#6. Taking Advantage of Azure Logic Apps for Your Web App]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capitalize on the power of Azure to craft your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980)
@@ -193,7 +195,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Using Azure DevOps for Storing Your Code
+### 1. Using Azure DevOps for Storing Your Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure DevOps for storing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980)
@@ -504,7 +508,9 @@ created: 2026-04-28
 > **Speakers:** - generally (1)
 
 
-### 3. 2. Hosting and Running the Web Application in Azure App Service
+### 2. Hosting and Running the Web Application in Azure App Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hosting and running the web application in Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980)
@@ -846,7 +852,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Azure SQL for Your Data Storage
+### 3. Using Azure SQL for Your Data Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure SQL for your data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980)
@@ -1195,7 +1203,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using Azure Storage for Storing Binary Files
+### 4. Using Azure Storage for Storing Binary Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure Storage for storing binary files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980)
@@ -1811,7 +1821,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Using Azure Functions to Improve Your Web Application
+### 5. Using Azure Functions to Improve Your Web Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Azure Functions to improve your web application
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980)
@@ -2324,7 +2336,9 @@ created: 2026-04-28
 > **Definitions:** in other words (1)
 
 
-### 7. 6. Taking Advantage of Azure Logic Apps for Your Web App
+### 6. Taking Advantage of Azure Logic Apps for Your Web App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking advantage of Azure Logic Apps for your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980)
@@ -2589,7 +2603,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980)

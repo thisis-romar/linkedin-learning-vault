@@ -24,7 +24,7 @@ tags:
   - topic/web-development
   - skill/wordpress
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Wordpress%20Ecommerce.md)
@@ -42,18 +42,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Ingredients for Ecommerce]]** (2 videos)
-- **[[#3. 2. Getting Paid]]** (4 videos)
-- **[[#4. 3. Calculating Shipping]]** (2 videos)
-- **[[#5. 4. Taxes]]** (3 videos)
-- **[[#6. 5. Using WordPress for Ecommerce]]** (2 videos)
-- **[[#7. 6. Understand Your Market]]** (4 videos)
-- **[[#8. 7. Marketing Your Site]]** (4 videos)
-- **[[#9. 8. Testing and Optimizing]]** (2 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Ingredients for Ecommerce]]** (2 videos)
+- **[[#2. Getting Paid]]** (4 videos)
+- **[[#3. Calculating Shipping]]** (2 videos)
+- **[[#4. Taxes]]** (3 videos)
+- **[[#5. Using WordPress for Ecommerce]]** (2 videos)
+- **[[#6. Understand Your Market]]** (4 videos)
+- **[[#7. Marketing Your Site]]** (4 videos)
+- **[[#8. Testing and Optimizing]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build an ecommerce store
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Ingredients for Ecommerce
+### 1. Ingredients for Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Essential ecommerce features
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
@@ -246,7 +250,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting Paid
+### 2. Getting Paid
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of accepting payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
@@ -554,7 +560,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Calculating Shipping
+### 3. Calculating Shipping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select a shipping method
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
@@ -681,7 +689,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Taxes
+### 4. Taxes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
@@ -856,7 +866,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Using WordPress for Ecommerce
+### 5. Using WordPress for Ecommerce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using native WordPress platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
@@ -1053,7 +1065,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Understand Your Market
+### 6. Understand Your Market
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing a business model
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
@@ -1471,7 +1485,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Marketing Your Site
+### 7. Marketing Your Site
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Attract traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
@@ -1785,7 +1801,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Testing and Optimizing
+### 8. Testing and Optimizing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing your site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
@@ -1973,7 +1991,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)

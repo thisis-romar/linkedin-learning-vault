@@ -10,12 +10,12 @@ louvain_cluster: 11
 tags:
   - learning-path
   - topic/software-development
-  - status/in-progress
-last_activity: 2026-04-26T23:42:22.824Z
-activity_total: 4
-courses_visited: 1
+  - status/fresh
+last_activity: null
+activity_total: 0
+courses_visited: 0
 videos_visited: 0
-progress_status: in-progress
+progress_status: fresh
 course_activity:
   - course: '[[Autocad 2022 Essential Training]]'
     last_opened: null
@@ -53,7 +53,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/The%20Top%20Skills%20Engineering%20Professionals%20Have%20Right%20Now.md)

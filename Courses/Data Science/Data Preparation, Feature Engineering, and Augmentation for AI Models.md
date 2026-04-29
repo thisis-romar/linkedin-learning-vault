@@ -40,7 +40,7 @@ tags:
   - skill/data-preparation
   - skill/feature-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Data%20Preparation%2C%20Feature%20Engineering%2C%20and%20Augmentation%20for%20AI%20Models.md)

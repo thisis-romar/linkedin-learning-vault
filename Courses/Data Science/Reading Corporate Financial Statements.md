@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/financial-statements
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Reading%20Corporate%20Financial%20Statements.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Basics of Financial Statement Preparation]]** (6 videos)
-- **[[#3. 2. The Basics of Income Statement Preparation]]** (4 videos)
-- **[[#4. 3. The Basics of Balance Sheet Preparation]]** (5 videos)
-- **[[#5. 4. The Basics of Statement of Cash Flow Preparation]]** (5 videos)
-- **[[#6. 5. The Basics of Statement of Stockholders' Equity Preparation]]** (3 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics of Financial Statement Preparation]]** (6 videos)
+- **[[#2. The Basics of Income Statement Preparation]]** (4 videos)
+- **[[#3. The Basics of Balance Sheet Preparation]]** (5 videos)
+- **[[#4. The Basics of Statement of Cash Flow Preparation]]** (5 videos)
+- **[[#5. The Basics of Statement of Stockholders' Equity Preparation]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. The Basics of Financial Statement Preparation
+### 1. The Basics of Financial Statement Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What stories do financial statements tell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
@@ -589,7 +593,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. The Basics of Income Statement Preparation
+### 2. The Basics of Income Statement Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recognizing revenue and understanding the revenue recognition principle
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
@@ -816,7 +822,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. The Basics of Balance Sheet Preparation
+### 3. The Basics of Balance Sheet Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The accounting equation and the assets section of the balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
@@ -1083,7 +1091,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. The Basics of Statement of Cash Flow Preparation
+### 4. The Basics of Statement of Cash Flow Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact of operating activities on the cash flow statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
@@ -1404,7 +1414,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 6. 5. The Basics of Statement of Stockholders' Equity Preparation
+### 5. The Basics of Statement of Stockholders' Equity Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the statement of stockholder's equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
@@ -1606,7 +1618,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your next steps in creating financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)

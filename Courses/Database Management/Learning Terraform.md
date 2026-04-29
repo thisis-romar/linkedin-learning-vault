@@ -30,7 +30,7 @@ tags:
   - topic/devops
   - skill/terraform
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Database%20Management/Learning%20Terraform.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. First Steps with Terraform]]** (4 videos)
-- **[[#3. 2. Terraform in Action]]** (6 videos)
-- **[[#4. 3. Infrastructure as Code]]** (7 videos)
-- **[[#5. 4. Advanced Topics]]** (8 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. First Steps with Terraform]]** (4 videos)
+- **[[#2. Terraform in Action]]** (6 videos)
+- **[[#3. Infrastructure as Code]]** (7 videos)
+- **[[#4. Advanced Topics]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn Terraform for your cloud infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. First Steps with Terraform
+### 1. First Steps with Terraform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Terraform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
@@ -483,7 +487,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 3. 2. Terraform in Action
+### 2. Terraform in Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Terraform plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
@@ -1001,7 +1007,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 4. 3. Infrastructure as Code
+### 3. Infrastructure as Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
@@ -1703,7 +1711,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (2)
 
 
-### 5. 4. Advanced Topics
+### 4. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get ready to scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
@@ -3404,7 +3414,9 @@ created: 2026-04-28
 > **Analogies:** for example (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)

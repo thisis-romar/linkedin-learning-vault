@@ -34,7 +34,7 @@ tags:
   - skill/data-preparation
   - skill/data-storage
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Data%20Planning%20Strategy%20And%20Compliance%20For%20Ai%20Initiatives.md)

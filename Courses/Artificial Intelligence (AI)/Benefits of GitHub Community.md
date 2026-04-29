@@ -27,7 +27,7 @@ tags:
   - topic/software-development
   - skill/github
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Benefits%20of%20GitHub%20Community.md)
@@ -45,11 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Benefits of the open source community]]** (5 videos)
-- **[[#3. 2. Open Source Applications]]** (5 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Benefits of the open source community]]** (5 videos)
+- **[[#2. Open Source Applications]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why the GitHub community is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 2. 1. Benefits of the open source community
+### 1. Benefits of the open source community
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Open Source
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
@@ -286,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Open Source Applications
+### 2. Open Source Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Innersource
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)

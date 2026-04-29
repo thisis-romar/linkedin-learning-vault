@@ -28,7 +28,7 @@ tags:
   - skill/computer-networking
   - skill/computer-network-operations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Mpls%20Foundations%20Getting%20Started%20With%20Mpls.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. MPLS Architecture]]** (5 videos)
-- **[[#3. 2. MPLS Terminology]]** (4 videos)
-- **[[#4. 3. Label Distribution Protocol (LDP)]]** (5 videos)
-- **[[#5. 4. Advanced LDP Configuration]]** (5 videos)
-- **[[#6. 5.Different MPLS Modes]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. MPLS Architecture]]** (5 videos)
+- **[[#2. MPLS Terminology]]** (4 videos)
+- **[[#3. Label Distribution Protocol (LDP)]]** (5 videos)
+- **[[#4. Advanced LDP Configuration]]** (5 videos)
+- **[[#5.Different MPLS Modes]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become an MPLS expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - [arash] (1)
 
 
-### 2. 1. MPLS Architecture
+### 1. MPLS Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980)
@@ -443,7 +447,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. MPLS Terminology
+### 2. MPLS Terminology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Label switch router (LSR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980)
@@ -689,7 +695,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Label Distribution Protocol (LDP)
+### 3. Label Distribution Protocol (LDP)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Label distribution protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980)
@@ -1018,7 +1026,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Advanced LDP Configuration
+### 4. Advanced LDP Configuration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LDP authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980)
@@ -1350,7 +1360,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5.Different MPLS Modes
+### 5.Different MPLS Modes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MPLS label spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980)
@@ -1522,7 +1534,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980)

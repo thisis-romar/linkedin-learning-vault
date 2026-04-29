@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/continuous-integration-ci
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Continuous%20Integration-%20Tools.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Self-Hosted]]** (4 videos)
-- **[[#3. 2. Software as a Service (SaaS)]]** (3 videos)
-- **[[#4. 3. Cloud Service Providers]]** (4 videos)
-- **[[#5. 4. Code Repositories]]** (4 videos)
-- **[[#6. 5. Selecting a CI Tool]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Self-Hosted]]** (4 videos)
+- **[[#2. Software as a Service (SaaS)]]** (3 videos)
+- **[[#3. Cloud Service Providers]]** (4 videos)
+- **[[#4. Code Repositories]]** (4 videos)
+- **[[#5. Selecting a CI Tool]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building your CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980)
@@ -395,7 +397,9 @@ created: 2026-04-28
 > **URLs:** [amazon.com](https://amazon.com) (1)
 
 
-### 2. 1. Self-Hosted
+### 1. Self-Hosted
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980)
@@ -685,7 +689,9 @@ created: 2026-04-28
 > **Tools:** visual studio (1)
 
 
-### 3. 2. Software as a Service (SaaS)
+### 2. Software as a Service (SaaS)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Travis CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/travis-ci?u=76281980)
@@ -790,7 +796,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 4. 3. Cloud Service Providers
+### 3. Cloud Service Providers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Amazon Web Services (AWS) CodePipeline and CodeBuild
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980)
@@ -1052,7 +1060,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 5. 4. Code Repositories
+### 4. Code Repositories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980)
@@ -1276,7 +1286,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 6. 5. Selecting a CI Tool
+### 5. Selecting a CI Tool
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting the right CI tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980)

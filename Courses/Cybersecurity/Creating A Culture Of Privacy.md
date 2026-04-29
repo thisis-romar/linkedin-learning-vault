@@ -28,7 +28,7 @@ tags:
   - skill/privacy
   - skill/privacy-issues
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Creating%20A%20Culture%20Of%20Privacy.md)
@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. The Urgency of Getting Data Privacy Right]]** (3 videos)
-- **[[#3. 2. Privacy: From a Compliance Chore to a Strategic Advantage]]** (3 videos)
-- **[[#4. 3. Tie Privacy to Your Corporate Values]]** (2 videos)
-- **[[#5. 4. Create Advocates throughout the Organization]]** (3 videos)
-- **[[#6. 5. Build Privacy into Products]]** (2 videos)
-- **[[#7. 6. Integrate the Privacy Program into the Existing Business]]** (1 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Urgency of Getting Data Privacy Right]]** (3 videos)
+- **[[#2. Privacy: From a Compliance Chore to a Strategic Advantage]]** (3 videos)
+- **[[#3. Tie Privacy to Your Corporate Values]]** (2 videos)
+- **[[#4. Create Advocates throughout the Organization]]** (3 videos)
+- **[[#5. Build Privacy into Products]]** (2 videos)
+- **[[#6. Integrate the Privacy Program into the Existing Business]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
@@ -165,7 +167,9 @@ created: 2026-04-28
 > **Speakers:** - privacy (1)
 
 
-### 2. 1. The Urgency of Getting Data Privacy Right
+### 1. The Urgency of Getting Data Privacy Right
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why organizations need to think about building a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
@@ -410,7 +414,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 3. 2. Privacy: From a Compliance Chore to a Strategic Advantage
+### 2. Privacy: From a Compliance Chore to a Strategic Advantage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing your current privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
@@ -641,7 +647,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Tie Privacy to Your Corporate Values
+### 3. Tie Privacy to Your Corporate Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tying privacy to your corporate mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
@@ -779,7 +787,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Create Advocates throughout the Organization
+### 4. Create Advocates throughout the Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making privacy relevant to every employee
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
@@ -1016,7 +1026,9 @@ created: 2026-04-28
 > **Speakers:** - privacy (1)
 
 
-### 6. 5. Build Privacy into Products
+### 5. Build Privacy into Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a set of privacy guidelines for the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
@@ -1182,7 +1194,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 6. Integrate the Privacy Program into the Existing Business
+### 6. Integrate the Privacy Program into the Existing Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sustaining a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
@@ -1241,7 +1255,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)

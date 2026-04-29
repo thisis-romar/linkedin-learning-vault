@@ -28,7 +28,7 @@ tags:
   - topic/software-development
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Aws%20Essential%20Training%20For%20Developers.md)
@@ -46,20 +46,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. AWS Essential Setup]]** (5 videos)
-- **[[#3. 2. On-Premise to AWS]]** (4 videos)
-- **[[#4. 3. IaaS Compute]]** (8 videos)
-- **[[#5. 4. IaaS Networking]]** (9 videos)
-- **[[#6. 5. IaaS Storage]]** (10 videos)
-- **[[#7. 6. Database as a Service (DBaaS)]]** (6 videos)
-- **[[#8. 7. Platform as a Service (PaaS)]]** (5 videos)
-- **[[#9. 8. Software as a Service (SaaS)]]** (3 videos)
-- **[[#10. 9. DevOps with AWS]]** (5 videos)
-- **[[#11. 10. Security on AWS]]** (5 videos)
-- **[[#12. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. AWS Essential Setup]]** (5 videos)
+- **[[#2. On-Premise to AWS]]** (4 videos)
+- **[[#3. IaaS Compute]]** (8 videos)
+- **[[#4. IaaS Networking]]** (9 videos)
+- **[[#5. IaaS Storage]]** (10 videos)
+- **[[#6. Database as a Service (DBaaS)]]** (6 videos)
+- **[[#7. Platform as a Service (PaaS)]]** (5 videos)
+- **[[#8. Software as a Service (SaaS)]]** (3 videos)
+- **[[#9. DevOps with AWS]]** (5 videos)
+- **[[#10. Security on AWS]]** (5 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the best way to use AWS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-way-to-use-aws?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. AWS Essential Setup
+### 1. AWS Essential Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AWS root account
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980)
@@ -526,7 +530,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 3. 2. On-Premise to AWS
+### 2. On-Premise to AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### On-premise infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980)
@@ -769,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. IaaS Compute
+### 3. IaaS Compute
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn how to create an EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980)
@@ -1300,7 +1308,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. IaaS Networking
+### 4. IaaS Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using security groups as firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980)
@@ -1912,7 +1922,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/point-a-domain-to-your-ec2s-with-route-53?u=76281980)
 
 
-### 6. 5. IaaS Storage
+### 5. IaaS Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hard drives with Elastic Block Store (EBS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980)
@@ -2463,7 +2475,9 @@ created: 2026-04-28
 > **Analogies:** think of it like (1)
 
 
-### 7. 6. Database as a Service (DBaaS)
+### 6. Database as a Service (DBaaS)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is database as a service (DBaaS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980)
@@ -2728,7 +2742,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 8. 7. Platform as a Service (PaaS)
+### 7. Platform as a Service (PaaS)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hosting web apps with Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980)
@@ -2976,7 +2992,9 @@ created: 2026-04-28
 > **Speakers:** - remember (1)
 
 
-### 9. 8. Software as a Service (SaaS)
+### 8. Software as a Service (SaaS)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User authentication for your app
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980)
@@ -3180,7 +3198,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 10. 9. DevOps with AWS
+### 9. DevOps with AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980)
@@ -3467,7 +3487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Security on AWS
+### 10. Security on AWS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS Shield and firewalls with WAF
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980)
@@ -3654,7 +3676,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Check for unwanted charges
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980)

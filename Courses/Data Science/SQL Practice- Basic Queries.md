@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/SQL%20Practice-%20Basic%20Queries.md)
@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Code Challenges]]** (7 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Code Challenges]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Talking to your database in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Code Challenges
+### 1. Code Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Get sorted data from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-sorted-data-from-a-specific-table?u=76281980)
@@ -455,7 +459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980)

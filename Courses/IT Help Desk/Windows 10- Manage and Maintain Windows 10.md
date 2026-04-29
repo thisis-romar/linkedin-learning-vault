@@ -28,7 +28,7 @@ tags:
   - topic/it-help-desk
   - skill/windows-10
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Windows%2010-%20Manage%20and%20Maintain%20Windows%2010.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Configure Updates]]** (5 videos)
-- **[[#3. 2. Monitor Windows]]** (10 videos)
-- **[[#4. 3. Manage Local Users, Local Groups, and Devices]]** (7 videos)
-- **[[#5. 4. Configure System and Data Recovery]]** (10 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Configure Updates]]** (5 videos)
+- **[[#2. Monitor Windows]]** (10 videos)
+- **[[#3. Manage Local Users, Local Groups, and Devices]]** (7 videos)
+- **[[#4. Configure System and Data Recovery]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The benefits of managing and maintaining Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. 1. Configure Updates
+### 1. Configure Updates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure basic Windows Update options
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980)
@@ -517,7 +521,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Monitor Windows
+### 2. Monitor Windows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980)
@@ -1805,7 +1811,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Manage Local Users, Local Groups, and Devices
+### 3. Manage Local Users, Local Groups, and Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a workgroup or join a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980)
@@ -2671,7 +2679,9 @@ created: 2026-04-28
 > **Best Practices:** you should never (1)
 
 
-### 5. 4. Configure System and Data Recovery
+### 4. Configure System and Data Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recover Windows 10 with a recovery drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980)
@@ -3534,7 +3544,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980)

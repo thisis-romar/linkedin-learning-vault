@@ -25,7 +25,7 @@ tags:
   - topic/network-and-system-administration
   - skill/it-service-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Putting%20Itil%20Into%20Practice%20Applying%20Itil%204%20Foundation%20Concepts.md)
@@ -43,18 +43,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1.  ITIL® Foundation Concepts]]** (1 videos)
-- **[[#3. 2. Seven Ways to Apply  ITIL® Foundation Concepts]]** (11 videos)
-- **[[#4. 3. Service Management Key Concepts]]** (4 videos)
-- **[[#5. 4. Service Management Dimensions]]** (3 videos)
-- **[[#6. 5. Service Value System]]** (2 videos)
-- **[[#7. 6. Service Management Guiding Principles]]** (3 videos)
-- **[[#8. 7. Service Value Chain Activities]]** (3 videos)
-- **[[#9. 8. 18 Practices]]** (9 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1.  ITIL® Foundation Concepts]]** (1 videos)
+- **[[#2. Seven Ways to Apply  ITIL® Foundation Concepts]]** (11 videos)
+- **[[#3. Service Management Key Concepts]]** (4 videos)
+- **[[#4. Service Management Dimensions]]** (3 videos)
+- **[[#5. Service Value System]]** (2 videos)
+- **[[#6. Service Management Guiding Principles]]** (3 videos)
+- **[[#7. Service Value Chain Activities]]** (3 videos)
+- **[[#8. 18 Practices]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ITIL® 4 in the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/itil-4-in-the-real-world-23388948?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1.  ITIL® Foundation Concepts
+### 1.  ITIL® Foundation Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What your  ITIL® Foundation course covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/what-your-itil-foundation-course-covered-23398575?u=76281980)
@@ -151,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Seven Ways to Apply  ITIL® Foundation Concepts
+### 2. Seven Ways to Apply  ITIL® Foundation Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Seven ways to apply service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/seven-ways-to-apply-service-management-23394690?u=76281980)
@@ -800,7 +806,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Service Management Key Concepts
+### 3. Service Management Key Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply key service management concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-key-service-management-concepts-23399019?u=76281980)
@@ -1100,7 +1108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Service Management Dimensions
+### 4. Service Management Dimensions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the four dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-four-dimensions-23394691?u=76281980)
@@ -1246,7 +1256,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Service Value System
+### 5. Service Value System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply service value system
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-service-value-system-23400018?u=76281980)
@@ -1416,7 +1428,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Service Management Guiding Principles
+### 6. Service Management Guiding Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the  ITIL® guiding principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-guiding-principles-23394686?u=76281980)
@@ -1573,7 +1587,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Service Value Chain Activities
+### 7. Service Value Chain Activities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply the  ITIL® service value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-the-itil-service-value-chain-23393786?u=76281980)
@@ -1742,7 +1758,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. 18 Practices
+### 8. 18 Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply  ITIL® management practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/apply-itil-management-practices-23396557?u=76281980)
@@ -2459,7 +2477,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-applying-itil-4-foundation-concepts/next-steps-23396558?u=76281980)

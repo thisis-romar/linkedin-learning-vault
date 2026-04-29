@@ -33,7 +33,7 @@ tags:
   - topic/software-development
   - skill/data-structures
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Database%20Foundations-%20Data%20Structures.md)
@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Data Types]]** (9 videos)
-- **[[#3. 2. Design a Normalized Database]]** (6 videos)
-- **[[#4. 3. Identify Rows with Primary Keys]]** (8 videos)
-- **[[#5. 4. Link Data with Foreign Keys]]** (5 videos)
-- **[[#6. 5. Formalize Data Relationships]]** (8 videos)
-- **[[#7. 6. Indexes]]** (3 videos)
-- **[[#8. 7. Constraints]]** (8 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Data Types]]** (9 videos)
+- **[[#2. Design a Normalized Database]]** (6 videos)
+- **[[#3. Identify Rows with Primary Keys]]** (8 videos)
+- **[[#4. Link Data with Foreign Keys]]** (5 videos)
+- **[[#5. Formalize Data Relationships]]** (8 videos)
+- **[[#6. Indexes]]** (3 videos)
+- **[[#7. Constraints]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing data in a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
@@ -379,7 +381,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Types
+### 1. Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data integrity concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
@@ -1464,7 +1468,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Design a Normalized Database
+### 2. Design a Normalized Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect data integrity with normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
@@ -1970,7 +1976,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Identify Rows with Primary Keys
+### 3. Identify Rows with Primary Keys
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose of a primary key
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
@@ -2899,7 +2907,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Link Data with Foreign Keys
+### 4. Link Data with Foreign Keys
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are foreign keys?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
@@ -3326,7 +3336,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 6. 5. Formalize Data Relationships
+### 5. Formalize Data Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### One-to-many relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
@@ -4015,7 +4027,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Indexes
+### 6. Indexes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Table indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
@@ -4323,7 +4337,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 8. 7. Constraints
+### 7. Constraints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validate data with constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
@@ -5226,7 +5242,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)

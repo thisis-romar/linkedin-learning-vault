@@ -28,7 +28,7 @@ tags:
   - skill/scalability
   - skill/node-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js-%20Scaling%20Applications.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Cloning]]** (6 videos)
-- **[[#3. 2. Database Scaling]]** (4 videos)
-- **[[#4. 3. Microservices]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Cloning]]** (6 videos)
+- **[[#2. Database Scaling]]** (4 videos)
+- **[[#3. Microservices]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling applications with Node.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
@@ -192,7 +194,9 @@ created: 2026-04-28
 > **URLs:** [atom.io](https://atom.io) (1)
 
 
-### 2. 1. Cloning
+### 1. Cloning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The scale cube
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
@@ -825,7 +829,9 @@ created: 2026-04-28
 > **Prerequisites:** install (2)
 
 
-### 3. 2. Database Scaling
+### 2. Database Scaling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
@@ -1267,7 +1273,9 @@ created: 2026-04-28
 > **Prerequisites:** install (2)
 
 
-### 4. 3. Microservices
+### 3. Microservices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling the y-axis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
@@ -1850,7 +1858,9 @@ created: 2026-04-28
 > **Env Vars:** npm (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)

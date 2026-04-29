@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/natural-language-processing-nlp
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands-On%20Natural%20Language%20Processing.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Named Entity Recognition (NER)]]** (4 videos)
-- **[[#3. 2. Topic Modeling]]** (5 videos)
-- **[[#4. 3. Text Summarization]]** (3 videos)
-- **[[#5. 4. Sentiment Analysis]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Named Entity Recognition (NER)]]** (4 videos)
+- **[[#2. Topic Modeling]]** (5 videos)
+- **[[#3. Text Summarization]]** (3 videos)
+- **[[#4. Sentiment Analysis]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gain insights from unstructured text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Named Entity Recognition (NER)
+### 1. Named Entity Recognition (NER)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is named entity recognition (NER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
@@ -377,7 +381,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Topic Modeling
+### 2. Topic Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to topic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
@@ -683,7 +689,9 @@ created: 2026-04-28
 > **Speakers:** - model (1)
 
 
-### 4. 3. Text Summarization
+### 3. Text Summarization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is text summarization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
@@ -847,7 +855,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Sentiment Analysis
+### 4. Sentiment Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
@@ -1010,7 +1020,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)

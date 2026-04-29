@@ -31,7 +31,7 @@ tags:
   - skill/microsoft-365
   - skill/cloud-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20365-%20Administration.md)

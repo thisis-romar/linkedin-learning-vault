@@ -29,7 +29,7 @@ tags:
   - topic/devops
   - skill/amazon-ec2
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Amazon%20EC2%20Essential%20Training.md)
@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Introduction to Amazon EC2]]** (17 videos)
-- **[[#3. 2. EC2 Deep Dive]]** (11 videos)
-- **[[#4. 3. EC2 Purchasing Options]]** (8 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Introduction to Amazon EC2]]** (17 videos)
+- **[[#2. EC2 Deep Dive]]** (11 videos)
+- **[[#3. EC2 Purchasing Options]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Amazon EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980)
@@ -650,7 +652,9 @@ created: 2026-04-28
 > **Code Identifiers:** vcpus (1)
 
 
-### 2. 1. Introduction to Amazon EC2
+### 1. Introduction to Amazon EC2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes up an EC2 instance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980)
@@ -3261,7 +3265,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. EC2 Deep Dive
+### 2. EC2 Deep Dive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### EBS snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980)
@@ -4984,7 +4990,9 @@ created: 2026-04-28
 > **Ports:** port 80 (2)
 
 
-### 4. 3. EC2 Purchasing Options
+### 3. EC2 Purchasing Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to EC2 purchasing options
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980)
@@ -5906,7 +5914,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980)

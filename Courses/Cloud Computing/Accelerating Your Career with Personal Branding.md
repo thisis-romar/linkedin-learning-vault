@@ -31,7 +31,7 @@ tags:
   - skill/personal-branding
   - skill/career-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Accelerating%20Your%20Career%20with%20Personal%20Branding.md)
@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Crafting a Standout Personal Brand]]** (4 videos)
-- **[[#3. 2. Managing Your Personal Brand with Impression Management]]** (5 videos)
-- **[[#4. 3. Communicating Your Brand Online]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Crafting a Standout Personal Brand]]** (4 videos)
+- **[[#2. Managing Your Personal Brand with Impression Management]]** (5 videos)
+- **[[#3. Communicating Your Brand Online]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The truth about your career and personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/the-truth-about-your-career-and-personal-branding?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Crafting a Standout Personal Brand
+### 1. Crafting a Standout Personal Brand
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your advantage with personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980)
@@ -394,7 +398,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Managing Your Personal Brand with Impression Management
+### 2. Managing Your Personal Brand with Impression Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting your brand into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-into-action?u=76281980)
@@ -789,7 +795,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Communicating Your Brand Online
+### 3. Communicating Your Brand Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crafting an intentional online brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980)
@@ -1079,7 +1087,9 @@ created: 2026-04-28
 > **Speakers:** - establishing (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking the first step for your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980)

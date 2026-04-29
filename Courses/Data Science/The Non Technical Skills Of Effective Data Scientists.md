@@ -48,7 +48,7 @@ tags:
   - skill/soft-skills
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%20Non%20Technical%20Skills%20Of%20Effective%20Data%20Scientists.md)
@@ -66,12 +66,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. What is Data Science?]]** (2 videos)
-- **[[#3. 2. Imperative Nontechnical Skills]]** (10 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What is Data Science?]]** (2 videos)
+- **[[#2. Imperative Nontechnical Skills]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The non-obvious skills data scientists should think about
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. What is Data Science?
+### 1. What is Data Science?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data Science is about inference and prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
@@ -210,7 +214,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 3. 2. Imperative Nontechnical Skills
+### 2. Imperative Nontechnical Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Confidently defending your turf
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
@@ -1170,7 +1176,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)

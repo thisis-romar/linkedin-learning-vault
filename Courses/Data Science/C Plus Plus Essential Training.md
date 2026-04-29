@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/c
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/C%20Plus%20Plus%20Essential%20Training.md)
@@ -43,19 +43,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Toolchain and Installation]]** (3 videos)
-- **[[#3. 2. The Basics]]** (6 videos)
-- **[[#4. 3. Flow Control]]** (4 videos)
-- **[[#5. 4. Data Types]]** (11 videos)
-- **[[#6. 5. Operators]]** (6 videos)
-- **[[#7. 6. Functions]]** (6 videos)
-- **[[#8. 7. Classes and Objects]]** (8 videos)
-- **[[#9. 8. Templates]]** (5 videos)
-- **[[#10. 9. Standard Template Library]]** (7 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Toolchain and Installation]]** (3 videos)
+- **[[#2. The Basics]]** (6 videos)
+- **[[#3. Flow Control]]** (4 videos)
+- **[[#4. Data Types]]** (11 videos)
+- **[[#5. Operators]]** (6 videos)
+- **[[#6. Functions]]** (6 videos)
+- **[[#7. Classes and Objects]]** (8 videos)
+- **[[#8. Templates]]** (5 videos)
+- **[[#9. Standard Template Library]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
@@ -278,7 +280,9 @@ created: 2026-04-28
 > **Tools:** firefox (1)
 
 
-### 2. 1. Toolchain and Installation
+### 1. Toolchain and Installation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The C++ toolchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
@@ -622,7 +626,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Basics
+### 2. The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
@@ -1281,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Flow Control
+### 3. Flow Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
@@ -1834,7 +1842,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Types
+### 4. Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
@@ -2833,7 +2843,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5. Operators
+### 5. Operators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
@@ -3341,7 +3353,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Functions
+### 6. Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of C++ functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
@@ -3956,7 +3970,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Classes and Objects
+### 7. Classes and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
@@ -4808,7 +4824,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Templates
+### 8. Templates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
@@ -5226,7 +5244,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 10. 9. Standard Template Library
+### 9. Standard Template Library
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the STL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
@@ -5890,7 +5910,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)

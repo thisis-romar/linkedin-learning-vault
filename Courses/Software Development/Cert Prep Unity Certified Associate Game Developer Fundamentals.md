@@ -26,7 +26,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep%20Unity%20Certified%20Associate%20Game%20Developer%20Fundamentals.md)
@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Editor Interface]]** (6 videos)
-- **[[#3. 2. Level Design]]** (7 videos)
-- **[[#4. 3. Project Management]]** (4 videos)
-- **[[#5. 4. Asset Management]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Editor Interface]]** (6 videos)
+- **[[#2. Level Design]]** (7 videos)
+- **[[#3. Project Management]]** (4 videos)
+- **[[#4. Asset Management]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Editor Interface
+### 1. Editor Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
@@ -842,7 +846,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Level Design
+### 2. Level Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding and removing GameObjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
@@ -2265,7 +2271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Project Management
+### 3. Project Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
@@ -2870,7 +2878,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Asset Management
+### 4. Asset Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
@@ -3770,7 +3780,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)

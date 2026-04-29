@@ -9,7 +9,7 @@ level_advanced: 1
 tags:
   - skill
   - skill/solution-architecture
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Skills/Solution%20Architecture.md)

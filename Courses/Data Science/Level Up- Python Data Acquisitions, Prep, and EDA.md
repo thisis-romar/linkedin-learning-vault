@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-acquisition
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Level%20Up-%20Python%20Data%20Acquisitions%2C%20Prep%2C%20and%20EDA.md)
@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Data Acquisition]]** (6 videos)
-- **[[#3. 2. Data Prep]]** (6 videos)
-- **[[#4. 3. EDA]]** (5 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Acquisition]]** (6 videos)
+- **[[#2. Data Prep]]** (6 videos)
+- **[[#3. EDA]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Python for data science: Code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
@@ -242,7 +244,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Data Acquisition
+### 1. Data Acquisition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scraping tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
@@ -686,7 +690,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Data Prep
+### 2. Data Prep
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Constructing regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
@@ -1118,7 +1124,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music plays) (1)
 
 
-### 4. 3. EDA
+### 3. EDA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)

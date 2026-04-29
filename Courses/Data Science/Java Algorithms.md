@@ -30,7 +30,7 @@ tags:
   - skill/algorithms
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Algorithms.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. String Algorithms]]** (8 videos)
-- **[[#3. 2. Array Algorithms]]** (6 videos)
-- **[[#4. 3. Linked List Algorithms]]** (5 videos)
-- **[[#5. 4. Queue and Stack Algorithms]]** (9 videos)
-- **[[#6. 5. Algorithms for Hash-Based Structures]]** (5 videos)
-- **[[#7. 6. Tree Algorithms]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. String Algorithms]]** (8 videos)
+- **[[#2. Array Algorithms]]** (6 videos)
+- **[[#3. Linked List Algorithms]]** (5 videos)
+- **[[#4. Queue and Stack Algorithms]]** (9 videos)
+- **[[#5. Algorithms for Hash-Based Structures]]** (5 videos)
+- **[[#6. Tree Algorithms]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your Java applications with effective algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980)
@@ -399,7 +401,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. String Algorithms
+### 1. String Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validate Strings in Java: All-or-nothing properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980)
@@ -1024,7 +1028,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Array Algorithms
+### 2. Array Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linear search arrays in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980)
@@ -1540,7 +1546,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Linked List Algorithms
+### 3. Linked List Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a linked list?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980)
@@ -1908,7 +1916,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Queue and Stack Algorithms
+### 4. Queue and Stack Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980)
@@ -2657,7 +2667,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Algorithms for Hash-Based Structures
+### 5. Algorithms for Hash-Based Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hash-based structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980)
@@ -3045,7 +3057,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Tree Algorithms
+### 6. Tree Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980)
@@ -3552,7 +3566,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue optimizing algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980)

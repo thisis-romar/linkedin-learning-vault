@@ -25,7 +25,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Advanced%20Python.md)
@@ -43,15 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Python Features]]** (6 videos)
-- **[[#3. 2. Using Iterators]]** (8 videos)
-- **[[#4. 3. String Processing]]** (5 videos)
-- **[[#5. 4. Working with Sequences]]** (7 videos)
-- **[[#6. 5. Exceptions]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Python Features]]** (6 videos)
+- **[[#2. Using Iterators]]** (8 videos)
+- **[[#3. String Processing]]** (5 videos)
+- **[[#4. Working with Sequences]]** (7 videos)
+- **[[#5. Exceptions]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
@@ -263,7 +265,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Python Features
+### 1. Python Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
@@ -1053,7 +1057,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 3. 2. Using Iterators
+### 2. Using Iterators
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic iterators
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
@@ -1933,7 +1939,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. String Processing
+### 3. String Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Built-in string constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
@@ -2687,7 +2695,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Sequences
+### 4. Working with Sequences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sequence slicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
@@ -3322,7 +3332,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Exceptions
+### 5. Exceptions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
@@ -3806,7 +3818,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)

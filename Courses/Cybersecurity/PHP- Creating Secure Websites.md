@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/php
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/PHP-%20Creating%20Secure%20Websites.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Security Overview]]** (3 videos)
-- **[[#3. 2. Securing Your PHP Installation]]** (5 videos)
-- **[[#4. 3. Filtering Input and Controlling Output]]** (5 videos)
-- **[[#5. 4. Defending the Most Common Attacks]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Security Overview]]** (3 videos)
+- **[[#2. Securing Your PHP Installation]]** (5 videos)
+- **[[#3. Filtering Input and Controlling Output]]** (5 videos)
+- **[[#4. Defending the Most Common Attacks]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for security with PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [kevin] (1)
 
 
-### 2. 1. Security Overview
+### 1. Security Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980)
@@ -381,7 +385,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Securing Your PHP Installation
+### 2. Securing Your PHP Installation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping versions up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980)
@@ -828,7 +834,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 4. 3. Filtering Input and Controlling Output
+### 3. Filtering Input and Controlling Output
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validating input
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980)
@@ -1687,7 +1695,9 @@ created: 2026-04-28
 > **Code Identifiers:** cookies_setcookie_example (1)
 
 
-### 5. 4. Defending the Most Common Attacks
+### 4. Defending the Most Common Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cross-site scripting (XSS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980)
@@ -2383,7 +2393,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980)

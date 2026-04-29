@@ -39,7 +39,7 @@ tags:
   - skill/react-js
   - skill/authentication-systems
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Authentication.md)
@@ -57,17 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. User Authentication Basics]]** (16 videos)
-- **[[#3. 2. Email Verification]]** (8 videos)
-- **[[#4. 3. Resetting Passwords]]** (5 videos)
-- **[[#5. 4. OAuth]]** (8 videos)
-- **[[#6. 5. Prebuilt Auth Options]]** (6 videos)
-- **[[#7. 6. Best Practices]]** (7 videos)
-- **[[#8. Conclusion]]** (1 videos)
-- **[[#9. Appendix]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. User Authentication Basics]]** (16 videos)
+- **[[#2. Email Verification]]** (8 videos)
+- **[[#3. Resetting Passwords]]** (5 videos)
+- **[[#4. OAuth]]** (8 videos)
+- **[[#5. Prebuilt Auth Options]]** (6 videos)
+- **[[#6. Best Practices]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
+- **[[#Appendix]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure authentication practices in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
@@ -179,7 +181,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. User Authentication Basics
+### 1. User Authentication Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is user authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
@@ -2551,7 +2555,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Email Verification
+### 2. Email Verification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basic email verification process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
@@ -3459,7 +3465,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Resetting Passwords
+### 3. Resetting Passwords
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basic password reset process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
@@ -3878,7 +3886,9 @@ created: 2026-04-28
 > **API Endpoints:** /api/users (1)
 
 
-### 5. 4. OAuth
+### 4. OAuth
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OAuth basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
@@ -4923,7 +4933,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 6. 5. Prebuilt Auth Options
+### 5. Prebuilt Auth Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why prebuilt auth options?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
@@ -5317,7 +5329,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Best Practices
+### 6. Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using HTTPS and SSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
@@ -5773,7 +5787,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
@@ -5818,7 +5834,9 @@ created: 2026-04-28
 > **Speakers:** - [shaun] (1)
 
 
-### 9. Appendix
+### Appendix
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A tour of Coderpad
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)

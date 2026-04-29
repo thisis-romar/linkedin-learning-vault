@@ -28,7 +28,7 @@ tags:
   - topic/cloud-computing
   - skill/microsoft-word
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Word%20Desktop%20(Microsoft%20365).md)
@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Up and Running with Microsoft Word]]** (8 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Up and Running with Microsoft Word]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get up and running quickly with Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - [nick] (1)
 
 
-### 2. 1. Up and Running with Microsoft Word
+### 1. Up and Running with Microsoft Word
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with ribbons and the Backstage view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
@@ -873,7 +877,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more about Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)

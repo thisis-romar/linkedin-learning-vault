@@ -28,7 +28,7 @@ tags:
   - skill/game-development
   - skill/unity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Cert%20Prep-%20Unity%20Certified%20Associate%20Game%20Developer%20Design%2C%20Production%2C%20and%20Industry%20Awareness.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Game Design]]** (6 videos)
-- **[[#3. 2. Team Work]]** (4 videos)
-- **[[#4. 3. Preparing for Industry]]** (4 videos)
-- **[[#5. 4. Developing for Mobile]]** (6 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Game Design]]** (6 videos)
+- **[[#2. Team Work]]** (4 videos)
+- **[[#3. Preparing for Industry]]** (4 videos)
+- **[[#4. Developing for Mobile]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The game industry and its components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Game Design
+### 1. Game Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Game design documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
@@ -653,7 +657,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Team Work
+### 2. Team Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Version control and project collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
@@ -1009,7 +1015,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Preparing for Industry
+### 3. Preparing for Industry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Job titles and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
@@ -1358,7 +1366,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Developing for Mobile
+### 4. Developing for Mobile
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mobile build platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
@@ -1847,7 +1857,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)

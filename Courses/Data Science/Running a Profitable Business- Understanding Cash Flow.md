@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/cash-flow-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Running%20a%20Profitable%20Business-%20Understanding%20Cash%20Flow.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. The Importance of Cash Flow Analysis]]** (3 videos)
-- **[[#3. 2. Overview of the Statement of Cash Flows]]** (5 videos)
-- **[[#4. 3. Using Cash Flow Data to Make a Loan Decision]]** (5 videos)
-- **[[#5. 4. Convert Income Statement Data to Operating Cash Flow Data]]** (6 videos)
-- **[[#6. 5. Managing Cash Flow]]** (4 videos)
-- **[[#7. 6. Cash Flow Numbers for Some Real Companies]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Importance of Cash Flow Analysis]]** (3 videos)
+- **[[#2. Overview of the Statement of Cash Flows]]** (5 videos)
+- **[[#3. Using Cash Flow Data to Make a Loan Decision]]** (5 videos)
+- **[[#4. Convert Income Statement Data to Operating Cash Flow Data]]** (6 videos)
+- **[[#5. Managing Cash Flow]]** (4 videos)
+- **[[#6. Cash Flow Numbers for Some Real Companies]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cash flow analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Definitions:** is an  (2)
 
 
-### 2. 1. The Importance of Cash Flow Analysis
+### 1. The Importance of Cash Flow Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Home Depot, 1985: Case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Overview of the Statement of Cash Flows
+### 2. Overview of the Statement of Cash Flows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the statement of cash flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980)
@@ -997,7 +1003,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 4. 3. Using Cash Flow Data to Make a Loan Decision
+### 3. Using Cash Flow Data to Make a Loan Decision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mortgage loan application
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/mortgage-loan-application-14329775?u=76281980)
@@ -1373,7 +1381,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 5. 4. Convert Income Statement Data to Operating Cash Flow Data
+### 4. Convert Income Statement Data to Operating Cash Flow Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Jim Stice operating cash flow matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-jim-stice-operating-cash-flow-matrix-14326799?u=76281980)
@@ -2120,7 +2130,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 6. 5. Managing Cash Flow
+### 5. Managing Cash Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-home-depot-story-revisited-14330683?u=76281980)
@@ -2471,7 +2483,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 7. 6. Cash Flow Numbers for Some Real Companies
+### 6. Cash Flow Numbers for Some Real Companies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tough times in 2008, except for Exxon Mobil
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/tough-times-in-2008-except-for-exxon-mobil-14327838?u=76281980)
@@ -2840,7 +2854,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage company cash flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980)

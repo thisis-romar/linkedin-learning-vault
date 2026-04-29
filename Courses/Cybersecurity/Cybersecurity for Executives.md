@@ -32,7 +32,7 @@ tags:
   - skill/governance-risk-management-and-compliance-grc
   - skill/cybersecurity
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cybersecurity%20for%20Executives.md)
@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Understand the Big Picture]]** (6 videos)
-- **[[#3. 2. How to Think About Cybersecurity]]** (4 videos)
-- **[[#4. 3. Avoid Phishing Attacks]]** (3 videos)
-- **[[#5. 4. Stop Malicious Code]]** (3 videos)
-- **[[#6. 5. Avoid Identity Theft]]** (3 videos)
-- **[[#7. 6. Avoid Financial Cyber Theft]]** (3 videos)
-- **[[#8. 7. Special Topics]]** (11 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understand the Big Picture]]** (6 videos)
+- **[[#2. How to Think About Cybersecurity]]** (4 videos)
+- **[[#3. Avoid Phishing Attacks]]** (3 videos)
+- **[[#4. Stop Malicious Code]]** (3 videos)
+- **[[#5. Avoid Identity Theft]]** (3 videos)
+- **[[#6. Avoid Financial Cyber Theft]]** (3 videos)
+- **[[#7. Special Topics]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### You are a target and the first line of defense
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Understand the Big Picture
+### 1. Understand the Big Picture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the big picture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
@@ -358,7 +362,9 @@ created: 2026-04-28
 > **Speakers:** - online (1)
 
 
-### 3. 2. How to Think About Cybersecurity
+### 2. How to Think About Cybersecurity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Think about cybersecurity summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
@@ -545,7 +551,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 4. 3. Avoid Phishing Attacks
+### 3. Avoid Phishing Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid phishing attacks summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
@@ -680,7 +688,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 5. 4. Stop Malicious Code
+### 4. Stop Malicious Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stop malicious code summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
@@ -827,7 +837,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 6. 5. Avoid Identity Theft
+### 5. Avoid Identity Theft
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid identity theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
@@ -989,7 +1001,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 7. 6. Avoid Financial Cyber Theft
+### 6. Avoid Financial Cyber Theft
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid financial cyber theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
@@ -1153,7 +1167,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 8. 7. Special Topics
+### 7. Special Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Special topics summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
@@ -1817,7 +1833,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)

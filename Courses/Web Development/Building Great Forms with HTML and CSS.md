@@ -32,7 +32,7 @@ tags:
   - skill/html
   - skill/forms-development
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Building%20Great%20Forms%20with%20HTML%20and%20CSS.md)
@@ -50,19 +50,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Welcome]]** (3 videos)
-- **[[#2. 1. General Form Setup]]** (3 videos)
-- **[[#3. 2. Form Elements]]** (10 videos)
-- **[[#4. 3. Form-Specific CSS]]** (10 videos)
-- **[[#5. 4. Login and Registration Form]]** (8 videos)
-- **[[#6. 5. A Booking Form: Flight, Hotel, Movie, and More]]** (7 videos)
-- **[[#7. 6. Payment Forms]]** (12 videos)
-- **[[#8. 7. Search Form and Filter Forms]]** (7 videos)
-- **[[#9. 8. Accessibility]]** (3 videos)
-- **[[#10. 9. Submission]]** (5 videos)
-- **[[#11. Conclusion]]** (1 videos)
+- **[[#Welcome]]** (3 videos)
+- **[[#1. General Form Setup]]** (3 videos)
+- **[[#2. Form Elements]]** (10 videos)
+- **[[#3. Form-Specific CSS]]** (10 videos)
+- **[[#4. Login and Registration Form]]** (8 videos)
+- **[[#5. A Booking Form: Flight, Hotel, Movie, and More]]** (7 videos)
+- **[[#6. Payment Forms]]** (12 videos)
+- **[[#7. Search Form and Filter Forms]]** (7 videos)
+- **[[#8. Accessibility]]** (3 videos)
+- **[[#9. Submission]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Welcome
+### Welcome
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making your forms great
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980)
@@ -222,7 +224,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. General Form Setup
+### 1. General Form Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How HTML forms work
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980)
@@ -455,7 +459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Form Elements
+### 2. Form Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fieldsets and legends
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980)
@@ -1671,7 +1677,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Form-Specific CSS
+### 3. Form-Specific CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Form layout tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980)
@@ -3161,7 +3169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Login and Registration Form
+### 4. Login and Registration Form
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The registration process
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980)
@@ -4277,7 +4287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. A Booking Form: Flight, Hotel, Movie, and More
+### 5. A Booking Form: Flight, Hotel, Movie, and More
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a booking form?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980)
@@ -5290,7 +5302,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Payment Forms
+### 6. Payment Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing a payment form
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980)
@@ -6845,7 +6859,9 @@ created: 2026-04-28
 > **Speakers:** - whenever (1)
 
 
-### 8. 7. Search Form and Filter Forms
+### 7. Search Form and Filter Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Search forms: What are they?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980)
@@ -7807,7 +7823,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Accessibility
+### 8. Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Form accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980)
@@ -8168,7 +8186,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 10. 9. Submission
+### 9. Submission
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Client-side form validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980)
@@ -8688,7 +8708,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980)

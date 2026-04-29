@@ -32,7 +32,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/chatgpt
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Hands%20On%20Ai%20Build%20Your%20Own%20Gpts.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Action Item Generator KK]]** (6 videos)
-- **[[#3. 2. Sun Tzu Career Coaching]]** (4 videos)
-- **[[#4. 3. Gift Advisor Lilis]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Action Item Generator KK]]** (6 videos)
+- **[[#2. Sun Tzu Career Coaching]]** (4 videos)
+- **[[#3. Gift Advisor Lilis]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your own GPTs using English
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
@@ -140,7 +142,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Action Item Generator KK
+### 1. Action Item Generator KK
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OpenAI GPTs user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
@@ -594,7 +598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Sun Tzu Career Coaching
+### 2. Sun Tzu Career Coaching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Custom knowledge base
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
@@ -889,7 +895,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Gift Advisor Lilis
+### 3. Gift Advisor Lilis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User intent detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
@@ -1190,7 +1198,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your own GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)

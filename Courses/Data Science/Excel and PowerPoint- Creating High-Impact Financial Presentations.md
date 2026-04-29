@@ -32,7 +32,7 @@ tags:
   - skill/microsoft-powerpoint
   - skill/data-visualization
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Excel%20and%20PowerPoint-%20Creating%20High-Impact%20Financial%20Presentations.md)
@@ -50,18 +50,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Presenting Financial Data]]** (6 videos)
-- **[[#3. 2. Cleaning Up Excel Data for Finance Presentations]]** (5 videos)
-- **[[#4. 3. Dynamic Charting with Formulas and Pivots]]** (4 videos)
-- **[[#5. 4. Building Excel Charts for Presentations]]** (5 videos)
-- **[[#6. 5. Crafting Graphics for Presentations]]** (4 videos)
-- **[[#7. 6. Communicate Your Message with Conditional Formatting]]** (5 videos)
-- **[[#8. 7. Getting Excel Content into PowerPoint]]** (5 videos)
-- **[[#9. 8. Finalizing Your PowerPoint Presentation]]** (5 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Presenting Financial Data]]** (6 videos)
+- **[[#2. Cleaning Up Excel Data for Finance Presentations]]** (5 videos)
+- **[[#3. Dynamic Charting with Formulas and Pivots]]** (4 videos)
+- **[[#4. Building Excel Charts for Presentations]]** (5 videos)
+- **[[#5. Crafting Graphics for Presentations]]** (4 videos)
+- **[[#6. Communicate Your Message with Conditional Formatting]]** (5 videos)
+- **[[#7. Getting Excel Content into PowerPoint]]** (5 videos)
+- **[[#8. Finalizing Your PowerPoint Presentation]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating compelling finance presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Presenting Financial Data
+### 1. Presenting Financial Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How financial and nonfinancial data differs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980)
@@ -494,7 +498,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cleaning Up Excel Data for Finance Presentations
+### 2. Cleaning Up Excel Data for Finance Presentations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Charting with tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980)
@@ -833,7 +839,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Dynamic Charting with Formulas and Pivots
+### 3. Dynamic Charting with Formulas and Pivots
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building charts based on formulas vs. PivotCharts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/building-charts-based-on-formulas-vs-pivotcharts?u=76281980)
@@ -1141,7 +1149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Building Excel Charts for Presentations
+### 4. Building Excel Charts for Presentations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing data with a combo chart on two axes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980)
@@ -1546,7 +1556,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Crafting Graphics for Presentations
+### 5. Crafting Graphics for Presentations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Illustrating trends with sparklines
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980)
@@ -1753,7 +1765,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Communicate Your Message with Conditional Formatting
+### 6. Communicate Your Message with Conditional Formatting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding meaning to tables with color scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980)
@@ -2064,7 +2078,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Getting Excel Content into PowerPoint
+### 7. Getting Excel Content into PowerPoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying Office themes in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980)
@@ -2389,7 +2405,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Finalizing Your PowerPoint Presentation
+### 8. Finalizing Your PowerPoint Presentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pasting Excel content into PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980)
@@ -2763,7 +2781,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/c-sharp-foundations-from-basics-to-
 course_count: 5
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/software-development
@@ -37,7 +37,7 @@ course_activity:
     last_opened: null
     open_count: 0
     videos: []
-created: '2026-04-28'
+created: '2026-04-29'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Software%20Development/Learning%20Paths/C-%20Foundations-%20From%20Basics%20to%20Building%20Blocks.md)

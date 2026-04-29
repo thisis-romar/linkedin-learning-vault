@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/business-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Digital%20Business%20Analysis.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. 1. Transforming Your Projects: Part 1, Human Interaction]]** (4 videos)
-- **[[#3. 2. Transforming Your Projects: Part 2, Data Tools]]** (5 videos)
-- **[[#4. 3. Impact to Requirements and Business Analysis]]** (5 videos)
-- **[[#5. 4. Technique Highlights]]** (4 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Transforming Your Projects: Part 1, Human Interaction]]** (4 videos)
+- **[[#2. Transforming Your Projects: Part 2, Data Tools]]** (5 videos)
+- **[[#3. Impact to Requirements and Business Analysis]]** (5 videos)
+- **[[#4. Technique Highlights]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform your business analyst career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
@@ -334,7 +336,9 @@ created: 2026-04-28
 > **Speakers:** - today (1)
 
 
-### 2. 1. Transforming Your Projects: Part 1, Human Interaction
+### 1. Transforming Your Projects: Part 1, Human Interaction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Natural language generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
@@ -623,7 +627,9 @@ created: 2026-04-28
 > **Speakers:** - could (1)
 
 
-### 3. 2. Transforming Your Projects: Part 2, Data Tools
+### 2. Transforming Your Projects: Part 2, Data Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Biometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
@@ -953,7 +959,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Impact to Requirements and Business Analysis
+### 3. Impact to Requirements and Business Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linking the capabilities together
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
@@ -1286,7 +1294,9 @@ created: 2026-04-28
 > **Speakers:** - digital (1)
 
 
-### 5. 4. Technique Highlights
+### 4. Technique Highlights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Experiments and hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
@@ -1546,7 +1556,9 @@ created: 2026-04-28
 > **Speakers:** - digital (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)

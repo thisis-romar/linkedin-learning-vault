@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/deep-learning
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Deep%20Learning%20with%20Python-%20Optimizing%20Deep%20Learning%20Models.md)
@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Optimizing Deep Learning Models]]** (1 videos)
-- **[[#3. 2. Regularization Techniques]]** (7 videos)
-- **[[#4. 3. Loss Functions and Optimization Algorithms]]** (8 videos)
-- **[[#5. 4. Hyperparameter Tuning Techniques]]** (5 videos)
-- **[[#6. 5. Advanced Training Techniques]]** (7 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Optimizing Deep Learning Models]]** (1 videos)
+- **[[#2. Regularization Techniques]]** (7 videos)
+- **[[#3. Loss Functions and Optimization Algorithms]]** (8 videos)
+- **[[#4. Hyperparameter Tuning Techniques]]** (5 videos)
+- **[[#5. Advanced Training Techniques]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
@@ -168,7 +170,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Optimizing Deep Learning Models
+### 1. Optimizing Deep Learning Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
@@ -226,7 +230,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Regularization Techniques
+### 2. Regularization Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The bias-variance trade-off
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
@@ -641,7 +647,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Loss Functions and Optimization Algorithms
+### 3. Loss Functions and Optimization Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common loss functions in deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
@@ -1115,7 +1123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Hyperparameter Tuning Techniques
+### 4. Hyperparameter Tuning Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Parameters versus hyperparameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
@@ -1642,7 +1652,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 6. 5. Advanced Training Techniques
+### 5. Advanced Training Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Batch normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
@@ -2187,7 +2199,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to optimize deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)

@@ -31,7 +31,7 @@ tags:
   - skill/rest-apis
   - skill/wordpress
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/WordPress-%20REST%20API.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Exploring the WordPress REST API]]** (9 videos)
-- **[[#3. 2. Modify the REST API Response]]** (5 videos)
-- **[[#4. 3. Authentication and Authorization]]** (6 videos)
-- **[[#5. 4. Practical Examples]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Exploring the WordPress REST API]]** (9 videos)
+- **[[#2. Modify the REST API Response]]** (5 videos)
+- **[[#3. Authentication and Authorization]]** (6 videos)
+- **[[#4. Practical Examples]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RESTful WordPress through an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Exploring the WordPress REST API
+### 1. Exploring the WordPress REST API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the WordPress REST API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980)
@@ -944,7 +948,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Modify the REST API Response
+### 2. Modify the REST API Response
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Notes on modifying a REST API response
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980)
@@ -1331,7 +1337,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 4. 3. Authentication and Authorization
+### 3. Authentication and Authorization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980)
@@ -1918,7 +1926,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Practical Examples
+### 4. Practical Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Four practical examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980)
@@ -2728,7 +2738,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980)

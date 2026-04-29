@@ -34,7 +34,7 @@ tags:
   - skill/tech-career-skills
   - skill/interview-preparation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Nail%20Your%20DevOps%20Interview.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Interview Prep]]** (5 videos)
-- **[[#3. 2. DevOps Business Practices Questions]]** (9 videos)
-- **[[#4. 3. Common DevOps Skills]]** (8 videos)
-- **[[#5. 4. Cloud Services Questions]]** (3 videos)
-- **[[#6. 5. Applications and Services Questions]]** (5 videos)
-- **[[#7. 6. Wrapping Up Your Interview]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Interview Prep]]** (5 videos)
+- **[[#2. DevOps Business Practices Questions]]** (9 videos)
+- **[[#3. Common DevOps Skills]]** (8 videos)
+- **[[#4. Cloud Services Questions]]** (3 videos)
+- **[[#5. Applications and Services Questions]]** (5 videos)
+- **[[#6. Wrapping Up Your Interview]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform your career in DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Interview Prep
+### 1. Interview Prep
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
@@ -564,7 +568,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 3. 2. DevOps Business Practices Questions
+### 2. DevOps Business Practices Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
@@ -1067,7 +1073,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Common DevOps Skills
+### 3. Common DevOps Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Operating systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
@@ -1628,7 +1636,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud Services Questions
+### 4. Cloud Services Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud services and their benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
@@ -1817,7 +1827,9 @@ created: 2026-04-28
 > **Speakers:** - what (1), - let (1)
 
 
-### 6. 5. Applications and Services Questions
+### 5. Applications and Services Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
@@ -2116,7 +2128,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 7. 6. Wrapping Up Your Interview
+### 6. Wrapping Up Your Interview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
@@ -2195,7 +2209,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)

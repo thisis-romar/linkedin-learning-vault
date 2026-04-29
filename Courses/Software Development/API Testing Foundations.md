@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/api-testing
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/API%20Testing%20Foundations.md)
@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Getting Started with API Testing]]** (5 videos)
-- **[[#3. 2. Exploratory API Testing]]** (4 videos)
-- **[[#4. 3. API Authorization]]** (5 videos)
-- **[[#5. 4. Hands-On API Testing]]** (9 videos)
-- **[[#6. 5. Additional API Testing Consideration]]** (4 videos)
-- **[[#7. Conclusion]]** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started with API Testing]]** (5 videos)
+- **[[#2. Exploratory API Testing]]** (4 videos)
+- **[[#3. API Authorization]]** (5 videos)
+- **[[#4. Hands-On API Testing]]** (9 videos)
+- **[[#5. Additional API Testing Consideration]]** (4 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standing out as an API tester
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Started with API Testing
+### 1. Getting Started with API Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calling an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
@@ -491,7 +495,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Exploratory API Testing
+### 2. Exploratory API Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and set up API challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
@@ -915,7 +921,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 4. 3. API Authorization
+### 3. API Authorization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of authorization and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
@@ -1345,7 +1353,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Hands-On API Testing
+### 4. Hands-On API Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing GET calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
@@ -2103,7 +2113,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Additional API Testing Consideration
+### 5. Additional API Testing Consideration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using mocks, stubs, and fakes in API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
@@ -2438,7 +2450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

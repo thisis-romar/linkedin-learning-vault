@@ -30,7 +30,7 @@ tags:
   - skill/ai-software-development
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/LinkedIn%20AI%20Academy%20AI-100-%203%20Scaling%20AI%20at%20LinkedIn.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Data Representation Applications]]** (4 videos)
-- **[[#3. 2. Application 1: Building Professional Communities]]** (4 videos)
-- **[[#4. 3. Application 2: Jobs Marketplace]]** (4 videos)
-- **[[#5. 4. Industrialization]]** (3 videos)
-- **[[#6. 5. Building Trusted AI Products Responsibly]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Representation Applications]]** (4 videos)
+- **[[#2. Application 1: Building Professional Communities]]** (4 videos)
+- **[[#3. Application 2: Jobs Marketplace]]** (4 videos)
+- **[[#4. Industrialization]]** (3 videos)
+- **[[#5. Building Trusted AI Products Responsibly]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The LinkedIn AI Academy: Applying AI at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
@@ -160,7 +162,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft uplifting music) (1)
 
 
-### 2. 1. Data Representation Applications
+### 1. Data Representation Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LinkedIn Economic Graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
@@ -405,7 +409,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Application 1: Building Professional Communities
+### 2. Application 1: Building Professional Communities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PYMK and follow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
@@ -681,7 +687,9 @@ created: 2026-04-28
 > **Speakers:** - ads (1)
 
 
-### 4. 3. Application 2: Jobs Marketplace
+### 3. Application 2: Jobs Marketplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Job seeker: recommendations and notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
@@ -991,7 +999,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Industrialization
+### 4. Industrialization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tech stack: Offline, online, and nearline components
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
@@ -1182,7 +1192,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Building Trusted AI Products Responsibly
+### 5. Building Trusted AI Products Responsibly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spam classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
@@ -1541,7 +1553,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with learning AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)

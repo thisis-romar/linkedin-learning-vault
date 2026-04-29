@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - topic/security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Building%20and%20Managing%20a%20Cybersecurity%20Program.md)

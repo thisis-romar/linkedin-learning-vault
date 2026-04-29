@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/python-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Learning%20Python.md)
@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Getting Started]]** (3 videos)
-- **[[#3. 2. Basics of Python]]** (8 videos)
-- **[[#4. 3. Beyond the Basics]]** (6 videos)
-- **[[#5. 4. Welcome to Part 2]]** (1 videos)
-- **[[#6. 5. Using Dates and Times]]** (5 videos)
-- **[[#7. 6. Working with Files]]** (5 videos)
-- **[[#8. 7. Working with the Internet]]** (3 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Basics of Python]]** (8 videos)
+- **[[#3. Beyond the Basics]]** (6 videos)
+- **[[#4. Welcome to Part 2]]** (1 videos)
+- **[[#5. Using Dates and Times]]** (5 videos)
+- **[[#6. Working with Files]]** (5 videos)
+- **[[#7. Working with the Internet]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the course resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/using-the-course-resources?u=76281980)
@@ -402,7 +406,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Basics of Python
+### 2. Basics of Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building "Hello World"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980)
@@ -2051,7 +2057,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Beyond the Basics
+### 3. Beyond the Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/built-in-functions?u=76281980)
@@ -2863,7 +2871,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Welcome to Part 2
+### 4. Welcome to Part 2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/applying-what-we-ve-learned?u=76281980)
@@ -2891,7 +2901,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 6. 5. Using Dates and Times
+### 5. Using Dates and Times
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/the-date-time-and-datetime-classes?u=76281980)
@@ -3696,7 +3708,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Working with Files
+### 6. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/writing-files?u=76281980)
@@ -4420,7 +4434,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 8. 7. Working with the Internet
+### 7. Working with the Internet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Retrieving internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/retrieving-internet-data?u=76281980)
@@ -4897,7 +4913,9 @@ created: 2026-04-28
 > **Documentation:** the docs (1), the documentation (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/conclusion?u=76281980)

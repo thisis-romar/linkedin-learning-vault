@@ -29,7 +29,7 @@ tags:
   - topic/software-development
   - skill/eslint
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/ESLint-%20Checking%20for%20Syntax%20and%20Logic%20Errors.md)
@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Checking for Syntax and Logic Errors]]** (8 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Checking for Syntax and Logic Errors]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using ESLint to catch coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
@@ -281,7 +283,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 2. 1. Checking for Syntax and Logic Errors
+### 1. Checking for Syntax and Logic Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding ESLint error rule types
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
@@ -941,7 +945,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)

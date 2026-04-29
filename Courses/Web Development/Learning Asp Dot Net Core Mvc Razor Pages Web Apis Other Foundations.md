@@ -30,7 +30,7 @@ tags:
   - skill/asp-net-web-api
   - skill/asp-net-mvc
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Learning%20Asp%20Dot%20Net%20Core%20Mvc%20Razor%20Pages%20Web%20Apis%20Other%20Foundations.md)

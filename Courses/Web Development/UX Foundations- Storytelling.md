@@ -28,8 +28,10 @@ tags:
   - skill/storytelling
   - skill/user-experience-design-ued
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
+
+> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Storytelling.md)
 
 ![UX Foundations: Storytelling](https://media.licdn.com/dms/image/v2/C560DAQHYBmnZVIKxgw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588876481777?e=2147483647&amp;v=beta&amp;t=nkfcp03JPs4ES3A8HDcsi2SKVHpIb9W3ETH0xGXFfkI)
 

@@ -37,7 +37,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20to%20Large%20Language%20Models.md)
@@ -55,13 +55,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Transformers in NLP]]** (3 videos)
-- **[[#3. 2. Large Language Model Components]]** (4 videos)
-- **[[#4. 3. Large Language Models]]** (11 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Transformers in NLP]]** (3 videos)
+- **[[#2. Large Language Model Components]]** (4 videos)
+- **[[#3. Large Language Models]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact and functionality of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [jonathan] (1)
 
 
-### 2. 1. Transformers in NLP
+### 1. Transformers in NLP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980)
@@ -375,7 +379,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Large Language Model Components
+### 2. Large Language Model Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980)
@@ -657,7 +663,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Large Language Models
+### 3. Large Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### BERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980)
@@ -1824,7 +1832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going further with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980)

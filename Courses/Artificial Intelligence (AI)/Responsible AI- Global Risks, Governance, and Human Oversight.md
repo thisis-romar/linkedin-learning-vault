@@ -33,7 +33,7 @@ tags:
   - skill/ai-literacy
   - skill/ai-policy-governance-and-regulation
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Responsible%20AI-%20Global%20Risks%2C%20Governance%2C%20and%20Human%20Oversight.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Foundations: AI, Society, and Literacy]]** (5 videos)
-- **[[#3. 2. Bias, Fairness, and Case Studies]]** (4 videos)
-- **[[#4. 3. Responsibility, Transparency, and Safety]]** (5 videos)
-- **[[#5. 4. Information Integrity, Privacy, and Profiling]]** (7 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Foundations: AI, Society, and Literacy]]** (5 videos)
+- **[[#2. Bias, Fairness, and Case Studies]]** (4 videos)
+- **[[#3. Responsibility, Transparency, and Safety]]** (5 videos)
+- **[[#4. Information Integrity, Privacy, and Profiling]]** (7 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What it means to think critically about AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Foundations: AI, Society, and Literacy
+### 1. Foundations: AI, Society, and Literacy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why we should consider AI and society
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980)
@@ -479,7 +483,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1), such as (1), it's like (1), just like (1)
 
 
-### 3. 2. Bias, Fairness, and Case Studies
+### 2. Bias, Fairness, and Case Studies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why bias is not an exception
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980)
@@ -790,7 +796,9 @@ created: 2026-04-28
 > **Analogies:** for example (2)
 
 
-### 4. 3. Responsibility, Transparency, and Safety
+### 3. Responsibility, Transparency, and Safety
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What responsibility means in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980)
@@ -1196,7 +1204,9 @@ created: 2026-04-28
 > **Prerequisites:** install (2)
 
 
-### 5. 4. Information Integrity, Privacy, and Profiling
+### 4. Information Integrity, Privacy, and Profiling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How misinformation and disinformation spread in the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980)

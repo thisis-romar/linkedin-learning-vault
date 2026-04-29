@@ -37,7 +37,7 @@ tags:
   - skill/big-data
   - skill/data-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Python%20for%20Data%20Analysis-%20Solve%20Real-World%20Challenges.md)
@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Case Study Introduction]]** (6 videos)
-- **[[#3. 2. Breaking down the Problem Statement]]** (6 videos)
-- **[[#4. 3. Data Collection, Cleaning and Transformation]]** (7 videos)
-- **[[#5. 4. EDA]]** (10 videos)
-- **[[#6. 5. Data Visualization & Storytelling]]** (8 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Case Study Introduction]]** (6 videos)
+- **[[#2. Breaking down the Problem Statement]]** (6 videos)
+- **[[#3. Data Collection, Cleaning and Transformation]]** (7 videos)
+- **[[#4. EDA]]** (10 videos)
+- **[[#5. Data Visualization & Storytelling]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
@@ -167,7 +169,9 @@ created: 2026-04-28
 > **Non-Speech:** (keyboard keys clicking) (1)
 
 
-### 2. 1. Case Study Introduction
+### 1. Case Study Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Who, What, Where & Why
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
@@ -438,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Breaking down the Problem Statement
+### 2. Breaking down the Problem Statement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define the problem (the three Ds)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
@@ -845,7 +851,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Collection, Cleaning and Transformation
+### 3. Data Collection, Cleaning and Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting Setup in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
@@ -1252,7 +1260,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. EDA
+### 4. EDA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to EDA
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
@@ -2133,7 +2143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Visualization & Storytelling
+### 5. Data Visualization & Storytelling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visual Best Practices: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
@@ -2663,7 +2675,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap-up and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)

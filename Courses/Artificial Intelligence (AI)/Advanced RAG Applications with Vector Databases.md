@@ -45,7 +45,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Advanced%20RAG%20Applications%20with%20Vector%20Databases.md)
@@ -63,13 +63,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Optimizing RAG]]** (15 videos)
-- **[[#3. 2. Image Search with Vector Databases]]** (7 videos)
-- **[[#4. 3. Multimodal RAG with Vector Databases]]** (7 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Optimizing RAG]]** (15 videos)
+- **[[#2. Image Search with Vector Databases]]** (7 videos)
+- **[[#3. Multimodal RAG with Vector Databases]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RAG with vector databases: Advanced strategies for AI optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
@@ -213,7 +215,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Optimizing RAG
+### 1. Optimizing RAG
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to preprocessing for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
@@ -1184,7 +1188,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 3. 2. Image Search with Vector Databases
+### 2. Image Search with Vector Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to vector embeddings for images
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
@@ -1475,7 +1481,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. 3. Multimodal RAG with Vector Databases
+### 3. Multimodal RAG with Vector Databases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the types of multimodality
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
@@ -1859,7 +1867,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)

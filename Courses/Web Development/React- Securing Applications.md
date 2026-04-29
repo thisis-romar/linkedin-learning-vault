@@ -35,7 +35,7 @@ tags:
   - skill/react-js
   - skill/secure-authentication
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Securing%20Applications.md)
@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Setting Up]]** (3 videos)
-- **[[#3. 2. Overview of Security Threats]]** (4 videos)
-- **[[#4. 3. Authentication with Auth0]]** (7 videos)
-- **[[#5. 4. Other React Considerations]]** (2 videos)
-- **[[#6. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up]]** (3 videos)
+- **[[#2. Overview of Security Threats]]** (4 videos)
+- **[[#3. Authentication with Auth0]]** (7 videos)
+- **[[#4. Other React Considerations]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initial setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 3. 2. Overview of Security Threats
+### 2. Overview of Security Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OWASP
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
@@ -679,7 +685,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Authentication with Auth0
+### 3. Authentication with Auth0
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initial setup of your server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
@@ -1443,7 +1451,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Other React Considerations
+### 4. Other React Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React considerations for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
@@ -1560,7 +1570,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Best practices update
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)

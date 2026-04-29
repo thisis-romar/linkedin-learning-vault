@@ -28,7 +28,7 @@ tags:
   - skill/react-js
   - skill/firebase
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/React-%20Cloud-Powered%20Apps%20with%20Firebase.md)
@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Setting Up Your Development Environment]]** (4 videos)
-- **[[#3. 2. Firebase Authentication]]** (9 videos)
-- **[[#4. 3. Storing and Syncing Data with Firebase Cloud Firestore]]** (7 videos)
-- **[[#5. 4. Storing Files with Firebase Cloud Storage]]** (7 videos)
-- **[[#6. 5. Control Access with Custom Claims and Security Rules]]** (7 videos)
-- **[[#7. 6. Going Serverless with Firebase Cloud Functions]]** (3 videos)
-- **[[#8. 7. Hosting with Firebase]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Your Development Environment]]** (4 videos)
+- **[[#2. Firebase Authentication]]** (9 videos)
+- **[[#3. Storing and Syncing Data with Firebase Cloud Firestore]]** (7 videos)
+- **[[#4. Storing Files with Firebase Cloud Storage]]** (7 videos)
+- **[[#5. Control Access with Custom Claims and Security Rules]]** (7 videos)
+- **[[#6. Going Serverless with Firebase Cloud Functions]]** (3 videos)
+- **[[#7. Hosting with Firebase]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980)
@@ -194,7 +196,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker (1)
 
 
-### 2. 1. Setting Up Your Development Environment
+### 1. Setting Up Your Development Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **URLs:** [firebase.app](https://firebase.app) (1)
 
 
-### 3. 2. Firebase Authentication
+### 2. Firebase Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980)
@@ -1337,7 +1343,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Storing and Syncing Data with Firebase Cloud Firestore
+### 3. Storing and Syncing Data with Firebase Cloud Firestore
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980)
@@ -1830,7 +1838,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Storing Files with Firebase Cloud Storage
+### 4. Storing Files with Firebase Cloud Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980)
@@ -2295,7 +2305,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Control Access with Custom Claims and Security Rules
+### 5. Control Access with Custom Claims and Security Rules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2884,7 +2896,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 7. 6. Going Serverless with Firebase Cloud Functions
+### 6. Going Serverless with Firebase Cloud Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980)
@@ -3084,7 +3098,9 @@ created: 2026-04-28
 > **URLs:** [gmail.com](https://gmail.com) (1)
 
 
-### 8. 7. Hosting with Firebase
+### 7. Hosting with Firebase
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980)
@@ -3170,7 +3186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980)

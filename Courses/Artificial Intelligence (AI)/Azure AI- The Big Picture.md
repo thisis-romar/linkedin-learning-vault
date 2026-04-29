@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI-%20The%20Big%20Picture.md)
@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Azure AI Big Picture]]** (3 videos)
-- **[[#3. 2. Azure Machine Learning]]** (3 videos)
-- **[[#4. 3. Azure OpenAI Service]]** (6 videos)
-- **[[#5. 4. Image and Video Analysis]]** (5 videos)
-- **[[#6. 5. Text Analysis and Services]]** (4 videos)
-- **[[#7. 6. Speech Analysis and Creation]]** (5 videos)
-- **[[#8. 7. Azure Applied AI Services]]** (5 videos)
-- **[[#9. 8. Additional Services]]** (2 videos)
-- **[[#10. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Azure AI Big Picture]]** (3 videos)
+- **[[#2. Azure Machine Learning]]** (3 videos)
+- **[[#3. Azure OpenAI Service]]** (6 videos)
+- **[[#4. Image and Video Analysis]]** (5 videos)
+- **[[#5. Text Analysis and Services]]** (4 videos)
+- **[[#6. Speech Analysis and Creation]]** (5 videos)
+- **[[#7. Azure Applied AI Services]]** (5 videos)
+- **[[#8. Additional Services]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure AI from a 10,000-foot view
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980)
@@ -139,7 +141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Azure AI Big Picture
+### 1. Azure AI Big Picture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Azure AI services names
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980)
@@ -514,7 +518,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Azure Machine Learning
+### 2. Azure Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basics of Azure machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980)
@@ -877,7 +883,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Azure OpenAI Service
+### 3. Azure OpenAI Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basics of Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980)
@@ -1321,7 +1329,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Image and Video Analysis
+### 4. Image and Video Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Azure Studios
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980)
@@ -1649,7 +1659,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. 5. Text Analysis and Services
+### 5. Text Analysis and Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the features of Azure AI language analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980)
@@ -1910,7 +1922,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Speech Analysis and Creation
+### 6. Speech Analysis and Creation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Call transcription and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980)
@@ -2397,7 +2411,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 8. 7. Azure Applied AI Services
+### 7. Azure Applied AI Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build intelligent bots with Azure Bot Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980)
@@ -2952,7 +2968,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Additional Services
+### 8. Additional Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reveal genetic insights with Microsoft Genomics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980)
@@ -3091,7 +3109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980)

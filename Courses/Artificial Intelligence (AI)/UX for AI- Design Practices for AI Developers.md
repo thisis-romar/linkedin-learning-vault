@@ -32,7 +32,7 @@ tags:
   - skill/user-experience-design-ued
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/UX%20for%20AI-%20Design%20Practices%20for%20AI%20Developers.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Collaborative UX in The AI Copilot Stack]]** (3 videos)
-- **[[#3. 2. The Titanium Tetrahedron in AI UX Matters]]** (8 videos)
-- **[[#4. 3. Building Appropriate Trust]]** (3 videos)
-- **[[#5. 4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Collaborative UX in The AI Copilot Stack]]** (3 videos)
+- **[[#2. The Titanium Tetrahedron in AI UX Matters]]** (8 videos)
+- **[[#3. Building Appropriate Trust]]** (3 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
@@ -173,7 +175,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Collaborative UX in The AI Copilot Stack
+### 1. Collaborative UX in The AI Copilot Stack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is collaborative UX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
@@ -511,7 +515,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. The Titanium Tetrahedron in AI UX Matters
+### 2. The Titanium Tetrahedron in AI UX Matters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The three iron triangle dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
@@ -1264,7 +1270,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Building Appropriate Trust
+### 3. Building Appropriate Trust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding friction: The new math
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
@@ -1478,7 +1486,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Conclusion
+### 4. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)

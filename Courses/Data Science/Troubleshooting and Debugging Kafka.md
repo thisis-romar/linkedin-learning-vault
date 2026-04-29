@@ -30,7 +30,7 @@ tags:
   - topic/web-development
   - skill/apache-kafka
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Troubleshooting%20and%20Debugging%20Kafka.md)
@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introducing Cloud-Native Kafka on Confluent]]** (6 videos)
-- **[[#3. 2. Observing Consumers and Brokers]]** (4 videos)
-- **[[#4. 3. Processing Kafka Streams]]** (4 videos)
-- **[[#5. 4. Monitoring Consumer Groups]]** (6 videos)
-- **[[#6. 5. Monitoring Multi-Broker Clusters]]** (5 videos)
-- **[[#7. 6. Debugging Brokers and Consumers]]** (3 videos)
-- **[[#8. 7. Configuring Alerts]]** (2 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Cloud-Native Kafka on Confluent]]** (6 videos)
+- **[[#2. Observing Consumers and Brokers]]** (4 videos)
+- **[[#3. Processing Kafka Streams]]** (4 videos)
+- **[[#4. Monitoring Consumer Groups]]** (6 videos)
+- **[[#5. Monitoring Multi-Broker Clusters]]** (5 videos)
+- **[[#6. Debugging Brokers and Consumers]]** (3 videos)
+- **[[#7. Configuring Alerts]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of troubleshooting and debugging Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980)
@@ -140,7 +142,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 2. 1. Introducing Cloud-Native Kafka on Confluent
+### 1. Introducing Cloud-Native Kafka on Confluent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980)
@@ -625,7 +629,9 @@ created: 2026-04-28
 > **Warnings:** troubleshoot (1)
 
 
-### 3. 2. Observing Consumers and Brokers
+### 2. Observing Consumers and Brokers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Observing message production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980)
@@ -1064,7 +1070,9 @@ created: 2026-04-28
 > **Warnings:** troubleshoot (1)
 
 
-### 4. 3. Processing Kafka Streams
+### 3. Processing Kafka Streams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding ksqlDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980)
@@ -1408,7 +1416,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 5. 4. Monitoring Consumer Groups
+### 4. Monitoring Consumer Groups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Programmatically produce messages using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980)
@@ -1990,7 +2000,9 @@ created: 2026-04-28
 > **UI Navigation:** switch to (1)
 
 
-### 6. 5. Monitoring Multi-Broker Clusters
+### 5. Monitoring Multi-Broker Clusters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuration properties for a multi-broker cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980)
@@ -2483,7 +2495,9 @@ created: 2026-04-28
 > **Analogies:** for example (1), such as (1)
 
 
-### 7. 6. Debugging Brokers and Consumers
+### 6. Debugging Brokers and Consumers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging failed brokers, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-1?u=76281980)
@@ -2752,7 +2766,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 8. 7. Configuring Alerts
+### 7. Configuring Alerts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980)
@@ -3017,7 +3033,9 @@ created: 2026-04-28
 > **Ports:** port 465 (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980)

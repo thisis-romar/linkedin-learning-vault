@@ -34,7 +34,7 @@ tags:
   - skill/data-reporting
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Intermediate%20SQL-%20Data%20Reporting%20and%20Analysis.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Prepare to Code in SQL]]** (3 videos)
-- **[[#3. 2. Reporting Data with SQL]]** (9 videos)
-- **[[#4. 3. Editing Data]]** (7 videos)
-- **[[#5. 4. Inserting Data]]** (6 videos)
-- **[[#6. 5. Deleting Data]]** (6 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Prepare to Code in SQL]]** (3 videos)
+- **[[#2. Reporting Data with SQL]]** (9 videos)
+- **[[#3. Editing Data]]** (7 videos)
+- **[[#4. Inserting Data]]** (6 videos)
+- **[[#5. Deleting Data]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn hands-on to extract, manipulate, edit, and delete real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Prepare to Code in SQL
+### 1. Prepare to Code in SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
@@ -380,7 +384,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Reporting Data with SQL
+### 2. Reporting Data with SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basic SELECT query
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
@@ -1242,7 +1248,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat intro music) (1)
 
 
-### 4. 3. Editing Data
+### 3. Editing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### UPDATE fields in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
@@ -1939,7 +1947,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 5. 4. Inserting Data
+### 4. Inserting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### INSERT rows into a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
@@ -2656,7 +2666,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Deleting Data
+### 5. Deleting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DELETE rows from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
@@ -3229,7 +3241,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)

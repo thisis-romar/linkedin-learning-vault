@@ -39,7 +39,7 @@ tags:
   - skill/gemini
   - skill/google-gemini
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20with%20Google%20Gemini%20Advanced%20and%20Ultra.md)
@@ -57,10 +57,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Google Gemini Changes Artificial Intelligence]]** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Google Gemini Changes Artificial Intelligence]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Google's AI family of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - google (1)
 
 
-### 2. 1. Google Gemini Changes Artificial Intelligence
+### 1. Google Gemini Changes Artificial Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Google Gemini fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)

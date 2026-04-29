@@ -37,7 +37,7 @@ tags:
   - skill/ethereum
   - skill/decentralized-applications-dapps
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Building%20an%20Ethereum%20Blockchain%20App-%208%20Supply%20Chain%20Smart%20Contract%20dApp.md)
@@ -55,9 +55,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. Your Supply Chain Smart Contract dApp]]** (18 videos)
+- **[[#1. Your Supply Chain Smart Contract dApp]]** (18 videos)
 
-### 1. 1. Your Supply Chain Smart Contract dApp
+### 1. Your Supply Chain Smart Contract dApp
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing your supply chain app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980)

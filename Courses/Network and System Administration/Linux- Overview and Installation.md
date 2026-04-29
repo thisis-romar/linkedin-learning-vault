@@ -28,7 +28,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Linux-%20Overview%20and%20Installation.md)
@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Linux Overview]]** (5 videos)
-- **[[#3. 2. Before Installing Linux]]** (4 videos)
-- **[[#4. 3. Installing Linux]]** (6 videos)
-- **[[#5. 4. Configuring Linux]]** (5 videos)
-- **[[#6. 5. Using Linux]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Linux Overview]]** (5 videos)
+- **[[#2. Before Installing Linux]]** (4 videos)
+- **[[#3. Installing Linux]]** (6 videos)
+- **[[#4. Configuring Linux]]** (5 videos)
+- **[[#5. Using Linux]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install the power of freedom with Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Linux Overview
+### 1. Linux Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Linux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
@@ -626,7 +630,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Before Installing Linux
+### 2. Before Installing Linux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is virtualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
@@ -1072,7 +1078,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Installing Linux
+### 3. Installing Linux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
@@ -1824,7 +1832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Configuring Linux
+### 4. Configuring Linux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Update system software
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
@@ -2369,7 +2379,9 @@ created: 2026-04-28
 > **Tools:** firefox (1)
 
 
-### 6. 5. Using Linux
+### 5. Using Linux
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing common software in CentOS 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
@@ -2923,7 +2935,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)

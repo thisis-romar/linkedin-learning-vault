@@ -30,7 +30,7 @@ tags:
   - skill/ai-for-marketing
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Nano%20Tips%20For%20Marketing%20Using%20AI%20Tools%20with%20Sam%20Dey.md)
@@ -48,9 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Use AI for Better Marketing]]** (10 videos)
+- **[[#Use AI for Better Marketing]]** (10 videos)
 
-### 1. Use AI for Better Marketing
+### Use AI for Better Marketing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-marketing-using-ai-tools-with-sam-dey/introduction-to-ai-in-marketing?u=76281980)

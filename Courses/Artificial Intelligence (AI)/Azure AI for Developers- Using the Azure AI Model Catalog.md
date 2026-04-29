@@ -30,7 +30,7 @@ tags:
   - topic/software-development
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20AI%20for%20Developers-%20Using%20the%20Azure%20AI%20Model%20Catalog.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to the Azure AI Model Catalog]]** (3 videos)
-- **[[#3. 2. Navigating the Model Catalog]]** (3 videos)
-- **[[#4. 3. Types of Models Available]]** (4 videos)
-- **[[#5. 4. Model Selection and Comparison]]** (3 videos)
-- **[[#6. 5. Deploying Models]]** (3 videos)
-- **[[#7. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to the Azure AI Model Catalog]]** (3 videos)
+- **[[#2. Navigating the Model Catalog]]** (3 videos)
+- **[[#3. Types of Models Available]]** (4 videos)
+- **[[#4. Model Selection and Comparison]]** (3 videos)
+- **[[#5. Deploying Models]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Effortlessly navigate Azure's AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to the Azure AI Model Catalog
+### 1. Introduction to the Azure AI Model Catalog
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980)
@@ -289,7 +293,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Navigating the Model Catalog
+### 2. Navigating the Model Catalog
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessing the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980)
@@ -481,7 +487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Types of Models Available
+### 3. Types of Models Available
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Curated by Azure AI: Popular non-Microsoft models
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980)
@@ -714,7 +722,9 @@ created: 2026-04-28
 > **Speakers:** - aside (1)
 
 
-### 5. 4. Model Selection and Comparison
+### 4. Model Selection and Comparison
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing model cards and sample inferences
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980)
@@ -1068,7 +1078,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Deploying Models
+### 5. Deploying Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deployment options: Managed compute vs. serverless APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980)
@@ -1365,7 +1377,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980)

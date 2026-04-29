@@ -22,7 +22,7 @@ tags:
   - topic/data-science
   - topic/database-management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/The%2080-20%20Rule%20of%20Data%20Science.md)

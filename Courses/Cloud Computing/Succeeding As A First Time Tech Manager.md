@@ -44,7 +44,7 @@ tags:
   - skill/management-development
   - skill/management
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Succeeding%20As%20A%20First%20Time%20Tech%20Manager.md)

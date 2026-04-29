@@ -32,7 +32,7 @@ tags:
   - skill/memory-management
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Java%20Memory%20Management-%20Garbage%20Collection%2C%20JVM%20Tuning%2C%20and%20Spotting%20Memory%20Leaks.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Garbage Collection]]** (9 videos)
-- **[[#3. 2. JVM Tuning]]** (5 videos)
-- **[[#4. 3. Memory Leaks]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Garbage Collection]]** (9 videos)
+- **[[#2. JVM Tuning]]** (5 videos)
+- **[[#3. Memory Leaks]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Java memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Garbage Collection
+### 1. Garbage Collection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the garbage collector
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980)
@@ -907,7 +911,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. JVM Tuning
+### 2. JVM Tuning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is JVM tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980)
@@ -1490,7 +1496,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Memory Leaks
+### 3. Memory Leaks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980)
@@ -1917,7 +1925,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980)

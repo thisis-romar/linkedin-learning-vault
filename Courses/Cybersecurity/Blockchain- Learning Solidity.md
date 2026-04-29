@@ -31,7 +31,7 @@ tags:
   - skill/solidity
   - skill/blockchain
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Blockchain-%20Learning%20Solidity.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction and Setup]]** (4 videos)
-- **[[#3. 2. Solidity Basics]]** (8 videos)
-- **[[#4. 3. Your First Contract]]** (4 videos)
-- **[[#5. 4. Solidity Considerations]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction and Setup]]** (4 videos)
+- **[[#2. Solidity Basics]]** (8 videos)
+- **[[#3. Your First Contract]]** (4 videos)
+- **[[#4. Solidity Considerations]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain: Learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - being (1)
 
 
-### 2. 1. Introduction and Setup
+### 1. Introduction and Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Tools:** vs code (1)
 
 
-### 3. 2. Solidity Basics
+### 2. Solidity Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solidity syntax basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
@@ -1096,7 +1102,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Your First Contract
+### 3. Your First Contract
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set the initial variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
@@ -1478,7 +1486,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 5. 4. Solidity Considerations
+### 4. Solidity Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review the style guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
@@ -1562,7 +1572,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)

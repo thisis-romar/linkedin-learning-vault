@@ -30,7 +30,7 @@ tags:
   - skill/professional-phone-skills
   - skill/customer-service
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/IT%20Help%20Desk/Phone-Based%20Customer%20Service.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Build Rapport over the Phone]]** (5 videos)
-- **[[#3. 2. Exceed Expectations over the Phone]]** (4 videos)
-- **[[#4. 3. Solve Problems over the Phone]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Build Rapport over the Phone]]** (5 videos)
+- **[[#2. Exceed Expectations over the Phone]]** (4 videos)
+- **[[#3. Solve Problems over the Phone]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Phone service still matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
@@ -231,7 +233,9 @@ created: 2026-04-28
 > **Warnings:** watch out (1)
 
 
-### 2. 1. Build Rapport over the Phone
+### 1. Build Rapport over the Phone
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop the perfect phone greeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
@@ -693,7 +697,9 @@ created: 2026-04-28
 > **Analogies:** for example (1), such as (1)
 
 
-### 3. 2. Exceed Expectations over the Phone
+### 2. Exceed Expectations over the Phone
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tune out distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
@@ -1071,7 +1077,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Solve Problems over the Phone
+### 3. Solve Problems over the Phone
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to express empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
@@ -1453,7 +1461,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)

@@ -34,7 +34,7 @@ tags:
   - skill/data-classification
   - skill/privacy
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Privacy%2C%20Governance%2C%20and%20Compliance-%20Data%20Classification%20and%20Inventory.md)
@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. The Privacy Landscape]]** (6 videos)
-- **[[#3. 2. Data Classification]]** (7 videos)
-- **[[#4. 3. An Inventory of Your Data and Risk]]** (3 videos)
-- **[[#5. 4. A Deep Dive into Data Inventory]]** (6 videos)
-- **[[#6. 5. Lessons from the Road: How to Do Data Inventory Right]]** (4 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Privacy Landscape]]** (6 videos)
+- **[[#2. Data Classification]]** (7 videos)
+- **[[#3. An Inventory of Your Data and Risk]]** (3 videos)
+- **[[#4. A Deep Dive into Data Inventory]]** (6 videos)
+- **[[#5. Lessons from the Road: How to Do Data Inventory Right]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
@@ -203,7 +205,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Privacy Landscape
+### 1. The Privacy Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The legal and regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
@@ -592,7 +596,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Data Classification
+### 2. Data Classification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How classification reduces risk around unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
@@ -1034,7 +1040,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. An Inventory of Your Data and Risk
+### 3. An Inventory of Your Data and Risk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data inventory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
@@ -1260,7 +1268,9 @@ created: 2026-04-28
 > **Env Vars:** sql (1)
 
 
-### 5. 4. A Deep Dive into Data Inventory
+### 4. A Deep Dive into Data Inventory
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data inventory using manual resources and automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
@@ -1718,7 +1728,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 6. 5. Lessons from the Road: How to Do Data Inventory Right
+### 5. Lessons from the Road: How to Do Data Inventory Right
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Centralized vs. decentralized
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
@@ -2031,7 +2043,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)

@@ -36,7 +36,7 @@ tags:
   - topic/web-development
   - skill/java
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Java%20Essential%20Training-%20Objects%20and%20APIs.md)
@@ -54,17 +54,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Inheritance]]** (7 videos)
-- **[[#3. 2. Polymorphism]]** (4 videos)
-- **[[#4. 3. Abstraction]]** (4 videos)
-- **[[#5. 4. Interfaces]]** (5 videos)
-- **[[#6. 5. Data Structures]]** (9 videos)
-- **[[#7. 6. Functional Programming]]** (4 videos)
-- **[[#8. 7. Exception Handling]]** (9 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Inheritance]]** (7 videos)
+- **[[#2. Polymorphism]]** (4 videos)
+- **[[#3. Abstraction]]** (4 videos)
+- **[[#4. Interfaces]]** (5 videos)
+- **[[#5. Data Structures]]** (9 videos)
+- **[[#6. Functional Programming]]** (4 videos)
+- **[[#7. Exception Handling]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Java objects and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
@@ -182,7 +184,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 1. Inheritance
+### 1. Inheritance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inheritance between classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
@@ -649,7 +653,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Polymorphism
+### 2. Polymorphism
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Polymorphism with objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
@@ -894,7 +900,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Abstraction
+### 3. Abstraction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Abstract classes and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
@@ -1101,7 +1109,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Interfaces
+### 4. Interfaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
@@ -1378,7 +1388,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Data Structures
+### 5. Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
@@ -2127,7 +2139,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Functional Programming
+### 6. Functional Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
@@ -2401,7 +2415,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Exception Handling
+### 7. Exception Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Try and catch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
@@ -2946,7 +2962,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)

@@ -29,7 +29,7 @@ tags:
   - topic/network-and-system-administration
   - skill/office-365-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Microsoft%20365%20for%20Administrators-%20Supporting%20Users.md)
@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Get Started]]** (4 videos)
-- **[[#2. 1. Getting Users Started]]** (6 videos)
-- **[[#3. 2. Productivity]]** (8 videos)
-- **[[#4. 3. Communications]]** (3 videos)
-- **[[#5. 4. Getting Things Done]]** (6 videos)
-- **[[#6. 5. Collaboration]]** (4 videos)
-- **[[#7. 6. Media Rich Apps]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Get Started]]** (4 videos)
+- **[[#1. Getting Users Started]]** (6 videos)
+- **[[#2. Productivity]]** (8 videos)
+- **[[#3. Communications]]** (3 videos)
+- **[[#4. Getting Things Done]]** (6 videos)
+- **[[#5. Collaboration]]** (4 videos)
+- **[[#6. Media Rich Apps]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Get Started
+### Get Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administrators support Office 365 users
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
@@ -323,7 +325,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Getting Users Started
+### 1. Getting Users Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training basics: Office 365 portal overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
@@ -763,7 +767,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Productivity
+### 2. Productivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
@@ -1692,7 +1698,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 4. 3. Communications
+### 3. Communications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
@@ -1955,7 +1963,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Getting Things Done
+### 4. Getting Things Done
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visio
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
@@ -2607,7 +2617,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Collaboration
+### 5. Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
@@ -3014,7 +3026,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Media Rich Apps
+### 6. Media Rich Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Publisher
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
@@ -3306,7 +3320,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)

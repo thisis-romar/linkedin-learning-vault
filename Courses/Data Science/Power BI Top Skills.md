@@ -28,7 +28,7 @@ tags:
   - topic/data-science
   - skill/microsoft-power-bi
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Top%20Skills.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Start Strong with Power BI Foundations]]** (4 videos)
-- **[[#3. 2. Connect, Clean, and Transform Data]]** (5 videos)
-- **[[#4. 3. Create Visualizations in Power BI]]** (7 videos)
-- **[[#5. 4. Share Your Insights]]** (2 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Start Strong with Power BI Foundations]]** (4 videos)
+- **[[#2. Connect, Clean, and Transform Data]]** (5 videos)
+- **[[#3. Create Visualizations in Power BI]]** (7 videos)
+- **[[#4. Share Your Insights]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock your data’s potential with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [eddie] (1)
 
 
-### 2. 1. Start Strong with Power BI Foundations
+### 1. Start Strong with Power BI Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify why Power BI matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
@@ -352,7 +356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Connect, Clean, and Transform Data
+### 2. Connect, Clean, and Transform Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create objective statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
@@ -734,7 +740,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Create Visualizations in Power BI
+### 3. Create Visualizations in Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your first visual in the report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
@@ -1290,7 +1298,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Share Your Insights
+### 4. Share Your Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Publish your Power BI report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
@@ -1427,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the next step with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)

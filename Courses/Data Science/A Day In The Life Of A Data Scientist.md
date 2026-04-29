@@ -28,7 +28,7 @@ tags:
   - skill/career-management
   - skill/data-science
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/A%20Day%20In%20The%20Life%20Of%20A%20Data%20Scientist.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Kickstart the Day with Clarity]]** (3 videos)
-- **[[#3. 2. Explore and Challenge the Data]]** (3 videos)
-- **[[#4. 3. Interpret Results with Confidence]]** (3 videos)
-- **[[#5. 4. Collaborate beyond the Dataset]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Kickstart the Day with Clarity]]** (3 videos)
+- **[[#2. Explore and Challenge the Data]]** (3 videos)
+- **[[#3. Interpret Results with Confidence]]** (3 videos)
+- **[[#4. Collaborate beyond the Dataset]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Focus on data that actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Tools:** jupyter (1)
 
 
-### 2. 1. Kickstart the Day with Clarity
+### 1. Kickstart the Day with Clarity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the first hour for focus and impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
@@ -240,7 +244,9 @@ created: 2026-04-28
 > **[1:19](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980&t=79)** It's about staying useful even when the schedule breaks.
 
 
-### 3. 2. Explore and Challenge the Data
+### 2. Explore and Challenge the Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conduct exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
@@ -406,7 +412,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 4. 3. Interpret Results with Confidence
+### 3. Interpret Results with Confidence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decide when analysis is ready
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
@@ -560,7 +568,9 @@ created: 2026-04-28
 > **Code Keywords:** finally, (1)
 
 
-### 5. 4. Collaborate beyond the Dataset
+### 4. Collaborate beyond the Dataset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicate effectively across functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
@@ -724,7 +734,9 @@ created: 2026-04-28
 > **[1:08](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=68)** And so that's what turns a good presentation into a decision-making moment.
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply habits for long-term growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)

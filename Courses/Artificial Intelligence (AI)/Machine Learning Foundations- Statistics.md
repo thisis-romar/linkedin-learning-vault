@@ -37,7 +37,7 @@ tags:
   - skill/statistical-analysis
   - skill/artificial-intelligence-ai
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20Foundations-%20Statistics.md)
@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Statistics]]** (3 videos)
-- **[[#3. 2. The Summary Statistics]]** (8 videos)
-- **[[#4. 3. From Quantiles to Correlation]]** (6 videos)
-- **[[#5. 4. Random Variables and Probability Distribution]]** (5 videos)
-- **[[#6. 5. Sampling and Replacement]]** (3 videos)
-- **[[#7. 6. Linear Regression]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Statistics]]** (3 videos)
+- **[[#2. The Summary Statistics]]** (8 videos)
+- **[[#3. From Quantiles to Correlation]]** (6 videos)
+- **[[#4. Random Variables and Probability Distribution]]** (5 videos)
+- **[[#5. Sampling and Replacement]]** (3 videos)
+- **[[#6. Linear Regression]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundations of statistics for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Statistics
+### 1. Introduction to Statistics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
@@ -295,7 +299,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. The Summary Statistics
+### 2. The Summary Statistics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The mean
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
@@ -825,7 +831,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. From Quantiles to Correlation
+### 3. From Quantiles to Correlation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The quantiles and box plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
@@ -1214,7 +1222,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Random Variables and Probability Distribution
+### 4. Random Variables and Probability Distribution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
@@ -1459,7 +1469,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Sampling and Replacement
+### 5. Sampling and Replacement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selection with replacement
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
@@ -1622,7 +1634,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Linear Regression
+### 6. Linear Regression
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Independent and dependent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
@@ -1850,7 +1864,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)

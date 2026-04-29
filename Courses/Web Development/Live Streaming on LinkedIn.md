@@ -28,7 +28,7 @@ tags:
   - skill/live-streaming
   - skill/linkedin
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Live%20Streaming%20on%20LinkedIn.md)

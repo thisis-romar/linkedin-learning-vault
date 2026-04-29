@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/html
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/HTML-%20Tables.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Table Basics]]** (10 videos)
-- **[[#3. 2. Styling HTML Tables]]** (6 videos)
-- **[[#4. 3. Making Tables Responsive]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Table Basics]]** (10 videos)
+- **[[#2. Styling HTML Tables]]** (6 videos)
+- **[[#3. Making Tables Responsive]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create semantic HTML tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
@@ -152,7 +154,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Table Basics
+### 1. Table Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Display data semantically
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
@@ -984,7 +988,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Styling HTML Tables
+### 2. Styling HTML Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Style table borders and basic styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
@@ -1430,7 +1436,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Making Tables Responsive
+### 3. Making Tables Responsive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsive tables with side scrolling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
@@ -1767,7 +1775,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)

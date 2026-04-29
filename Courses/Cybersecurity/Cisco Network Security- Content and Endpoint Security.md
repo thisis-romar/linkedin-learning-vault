@@ -29,7 +29,7 @@ tags:
   - skill/endpoint-security
   - skill/cisco-networking
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Cisco%20Network%20Security-%20Content%20and%20Endpoint%20Security.md)
@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Mitigating Enpoint Threats]]** (4 videos)
-- **[[#3. 2. Web Security]]** (5 videos)
-- **[[#4. 3. Email Security]]** (6 videos)
-- **[[#5. 4. Best Practice]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Mitigating Enpoint Threats]]** (4 videos)
+- **[[#2. Web Security]]** (5 videos)
+- **[[#3. Email Security]]** (6 videos)
+- **[[#4. Best Practice]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mitigate endpoint threats and provide security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Mitigating Enpoint Threats
+### 1. Mitigating Enpoint Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Incorporating safeguards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
@@ -360,7 +364,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Web Security
+### 2. Web Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PCI DSS controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
@@ -703,7 +709,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Email Security
+### 3. Email Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Email malware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
@@ -1113,7 +1121,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Best Practice
+### 4. Best Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Malware protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
@@ -1475,7 +1485,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)

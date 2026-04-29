@@ -36,7 +36,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Introduction%20To%20Ai%20Native%20Vector%20Databases.md)
@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Data: What Data Do Vector Databases Store and How Is It Stored?]]** (6 videos)
-- **[[#3. 2. Natural Querying: How Do You Search for Data in a Vector Database?]]** (6 videos)
-- **[[#4. 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?]]** (5 videos)
-- **[[#5. 4. Scalability: What Does a Vector Database Need to Do?]]** (5 videos)
-- **[[#6. 5. Demonstrate Vector DBs and Use Cases]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Data: What Data Do Vector Databases Store and How Is It Stored?]]** (6 videos)
+- **[[#2. Natural Querying: How Do You Search for Data in a Vector Database?]]** (6 videos)
+- **[[#3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?]]** (5 videos)
+- **[[#4. Scalability: What Does a Vector Database Need to Do?]]** (5 videos)
+- **[[#5. Demonstrate Vector DBs and Use Cases]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning AI-native vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Definitions:** known as (1)
 
 
-### 2. 1. Data: What Data Do Vector Databases Store and How Is It Stored?
+### 1. Data: What Data Do Vector Databases Store and How Is It Stored?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structured versus unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
@@ -896,7 +900,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll up (1), go to (1)
 
 
-### 3. 2. Natural Querying: How Do You Search for Data in a Vector Database?
+### 2. Natural Querying: How Do You Search for Data in a Vector Database?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Frame the query as a question or search
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
@@ -1899,7 +1905,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 4. 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
+### 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning models and object classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
@@ -2777,7 +2785,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 5. 4. Scalability: What Does a Vector Database Need to Do?
+### 4. Scalability: What Does a Vector Database Need to Do?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scalability: When to use a vector DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
@@ -3391,7 +3401,9 @@ created: 2026-04-28
 > **Documentation:** the readme (1)
 
 
-### 6. 5. Demonstrate Vector DBs and Use Cases
+### 5. Demonstrate Vector DBs and Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vector DB1: E-commerce RecSys
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
@@ -4194,7 +4206,9 @@ created: 2026-04-28
 > **Env Vars:** rag (2)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your AI-native vector databases learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)

@@ -30,7 +30,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/generative-ai-tools
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Strengthen%20Your%20Decision-Making%20with%20Generative%20AI.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Determine Your Decision]]** (6 videos)
-- **[[#3. 2. Harness AI to Refine Your Decision]]** (4 videos)
-- **[[#4. 3. Use Generative AI to Continuously Improve Decisions]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Determine Your Decision]]** (6 videos)
+- **[[#2. Harness AI to Refine Your Decision]]** (4 videos)
+- **[[#3. Use Generative AI to Continuously Improve Decisions]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - yes (1)
 
 
-### 2. 1. Determine Your Decision
+### 1. Determine Your Decision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the DREAMS framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
@@ -517,7 +521,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Harness AI to Refine Your Decision
+### 2. Harness AI to Refine Your Decision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge decision biases using GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
@@ -834,7 +840,9 @@ created: 2026-04-28
 > **Speakers:** - who (1)
 
 
-### 4. 3. Use Generative AI to Continuously Improve Decisions
+### 3. Use Generative AI to Continuously Improve Decisions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Futurecast with GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
@@ -1050,7 +1058,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Achieve continuously great outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)

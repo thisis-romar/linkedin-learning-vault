@@ -28,7 +28,7 @@ tags:
   - skill/career-management
   - skill/executive-leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Making%20The%20Move%20To%20Executive%20Leadership.md)
@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Personal Leadership Skills]]** (6 videos)
-- **[[#3. 2. Team Leadership Skills]]** (3 videos)
-- **[[#4. 3. Leadership for Organizational Impact]]** (4 videos)
-- **[[#5. 4. Managing the Executive Promotion Process]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Personal Leadership Skills]]** (6 videos)
+- **[[#2. Team Leadership Skills]]** (3 videos)
+- **[[#3. Leadership for Organizational Impact]]** (4 videos)
+- **[[#4. Managing the Executive Promotion Process]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three circles of executive performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - whether (1)
 
 
-### 2. 1. Personal Leadership Skills
+### 1. Personal Leadership Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaled, deep leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
@@ -522,7 +526,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 3. 2. Team Leadership Skills
+### 2. Team Leadership Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Executing with little oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
@@ -747,7 +753,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Leadership for Organizational Impact
+### 3. Leadership for Organizational Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing strategic vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
@@ -1032,7 +1040,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 5. 4. Managing the Executive Promotion Process
+### 4. Managing the Executive Promotion Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to: Get unstuck in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
@@ -1391,7 +1401,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From action to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)

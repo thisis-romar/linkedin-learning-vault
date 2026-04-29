@@ -28,7 +28,7 @@ tags:
   - topic/web-development
   - skill/node-js
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Node.js.md)
@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Asynchronous Patterns]]** (9 videos)
-- **[[#3. 2. Advanced Streams]]** (8 videos)
-- **[[#4. 3. HTTP Streaming]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Asynchronous Patterns]]** (9 videos)
+- **[[#2. Advanced Streams]]** (8 videos)
+- **[[#3. HTTP Streaming]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
@@ -196,7 +198,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Asynchronous Patterns
+### 1. Asynchronous Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Callback pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
@@ -1322,7 +1326,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 3. 2. Advanced Streams
+### 2. Advanced Streams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why streams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
@@ -2345,7 +2351,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1)
 
 
-### 4. 3. HTTP Streaming
+### 3. HTTP Streaming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Streaming to the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
@@ -3040,7 +3048,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)

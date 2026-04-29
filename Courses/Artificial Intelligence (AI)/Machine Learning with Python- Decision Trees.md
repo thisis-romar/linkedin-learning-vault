@@ -41,7 +41,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/decision-trees
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Machine%20Learning%20with%20Python-%20Decision%20Trees.md)
@@ -59,13 +59,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Decision Trees]]** (6 videos)
-- **[[#3. 2. Working with Classification Trees]]** (3 videos)
-- **[[#4. 3. Working with Regression Trees]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Decision Trees]]** (6 videos)
+- **[[#2. Working with Classification Trees]]** (3 videos)
+- **[[#3. Working with Regression Trees]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making decisions with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980)
@@ -221,7 +223,9 @@ created: 2026-04-28
 > **Env Vars:** csv (1)
 
 
-### 2. 1. Decision Trees
+### 1. Decision Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980)
@@ -809,7 +813,9 @@ created: 2026-04-28
 > **Speakers:** - [man] (1)
 
 
-### 3. 2. Working with Classification Trees
+### 2. Working with Classification Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to build a classification tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980)
@@ -1135,7 +1141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Regression Trees
+### 3. Working with Regression Trees
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to build a regression tree in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980)
@@ -1514,7 +1522,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980)

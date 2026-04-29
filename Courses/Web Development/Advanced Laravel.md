@@ -29,7 +29,7 @@ tags:
   - topic/web-development
   - skill/laravel
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Advanced%20Laravel.md)
@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Starting Your Project]]** (3 videos)
-- **[[#3. 2. Authorization]]** (5 videos)
-- **[[#4. 3. Advanced Eloquent Features]]** (5 videos)
-- **[[#5. 4. Do More with Laravel]]** (3 videos)
-- **[[#6. 5. Notifications, Queuing, and Scheduling]]** (4 videos)
-- **[[#7. 6. Testing]]** (4 videos)
-- **[[#8. 7. Understand How Laravel Works]]** (4 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Starting Your Project]]** (3 videos)
+- **[[#2. Authorization]]** (5 videos)
+- **[[#3. Advanced Eloquent Features]]** (5 videos)
+- **[[#4. Do More with Laravel]]** (3 videos)
+- **[[#5. Notifications, Queuing, and Scheduling]]** (4 videos)
+- **[[#6. Testing]]** (4 videos)
+- **[[#7. Understand How Laravel Works]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beyond the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
@@ -287,7 +289,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Starting Your Project
+### 1. Starting Your Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
@@ -642,7 +646,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 3. 2. Authorization
+### 2. Authorization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create user roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
@@ -1439,7 +1445,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Eloquent Features
+### 3. Advanced Eloquent Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Seeding and factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
@@ -2569,7 +2577,9 @@ created: 2026-04-28
 > **Speakers:** - [shruti] (1)
 
 
-### 5. 4. Do More with Laravel
+### 4. Do More with Laravel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
@@ -2990,7 +3000,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Notifications, Queuing, and Scheduling
+### 5. Notifications, Queuing, and Scheduling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Send emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
@@ -3743,7 +3755,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 7. 6. Testing
+### 6. Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
@@ -4350,7 +4364,9 @@ created: 2026-04-28
 > **Speakers:** - test (1)
 
 
-### 8. 7. Understand How Laravel Works
+### 7. Understand How Laravel Works
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Request lifecycle overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
@@ -4681,7 +4697,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Quick summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)

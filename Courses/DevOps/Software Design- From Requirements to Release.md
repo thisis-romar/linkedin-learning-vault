@@ -30,7 +30,7 @@ tags:
   - skill/software-development-life-cycle-sdlc
   - skill/software-design
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Software%20Design-%20From%20Requirements%20to%20Release.md)
@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Sprint 1: Project Kickoff]]** (9 videos)
-- **[[#3. 2. Sprint 2: Beta]]** (6 videos)
-- **[[#4. 3. Sprint 3: Release 1.0]]** (6 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Sprint 1: Project Kickoff]]** (9 videos)
+- **[[#2. Sprint 2: Beta]]** (6 videos)
+- **[[#3. Sprint 3: Release 1.0]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going from requirements to release
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
@@ -197,7 +199,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Sprint 1: Project Kickoff
+### 1. Sprint 1: Project Kickoff
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define problem and vision statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
@@ -1124,7 +1128,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Sprint 2: Beta
+### 2. Sprint 2: Beta
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
@@ -1685,7 +1691,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Sprint 3: Release 1.0
+### 3. Sprint 3: Release 1.0
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
@@ -2309,7 +2317,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)

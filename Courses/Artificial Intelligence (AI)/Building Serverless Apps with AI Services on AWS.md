@@ -33,7 +33,7 @@ tags:
   - skill/serverless-computing
   - skill/amazon-web-services-aws
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Building%20Serverless%20Apps%20with%20AI%20Services%20on%20AWS.md)
@@ -51,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Introduction to AI]]** (5 videos)
-- **[[#3. 2. Getting started with Serverless]]** (3 videos)
-- **[[#4. 3. Infrastructure as code]]** (4 videos)
-- **[[#5. 4. Introduction to Step Functions]]** (9 videos)
-- **[[#6. 5. Building a Workflow with AI]]** (8 videos)
-- **[[#7. 6. Build a Chatbot with GenAI]]** (9 videos)
-- **[[#8. Conclusion]]** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to AI]]** (5 videos)
+- **[[#2. Getting started with Serverless]]** (3 videos)
+- **[[#3. Infrastructure as code]]** (4 videos)
+- **[[#4. Introduction to Step Functions]]** (9 videos)
+- **[[#5. Building a Workflow with AI]]** (8 videos)
+- **[[#6. Build a Chatbot with GenAI]]** (9 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Serverless apps with AI services on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to AI
+### 1. Introduction to AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
@@ -502,7 +506,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Getting started with Serverless
+### 2. Getting started with Serverless
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is serverless?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
@@ -675,7 +681,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Infrastructure as code
+### 3. Infrastructure as code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The important role of infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
@@ -981,7 +989,9 @@ created: 2026-04-28
 > **Definitions:** is a  (3)
 
 
-### 5. 4. Introduction to Step Functions
+### 4. Introduction to Step Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Step Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
@@ -2192,7 +2202,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Building a Workflow with AI
+### 5. Building a Workflow with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modifying the existing state machine to use Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
@@ -3253,7 +3265,9 @@ created: 2026-04-28
 > **Best Practices:** always make sure (1)
 
 
-### 7. 6. Build a Chatbot with GenAI
+### 6. Build a Chatbot with GenAI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an Amazon Bedrock agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
@@ -4209,7 +4223,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What we built
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)

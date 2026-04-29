@@ -36,7 +36,7 @@ tags:
   - skill/financial-statement-analysis
   - skill/corporate-finance
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Corporate%20Financial%20Statement%20Analysis%20(2023).md)

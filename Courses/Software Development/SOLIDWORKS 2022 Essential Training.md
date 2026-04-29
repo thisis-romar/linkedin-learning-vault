@@ -26,7 +26,7 @@ tags:
   - topic/software-development
   - skill/solidworks
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/SOLIDWORKS%202022%20Essential%20Training.md)
@@ -44,28 +44,30 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction to SOLIDWORKS]]** (6 videos)
-- **[[#3. 2. SOLIDWORKS Quick Start]]** (4 videos)
-- **[[#4. 3. Basic Part Modeling]]** (12 videos)
-- **[[#5. 4. Sketch Tools]]** (12 videos)
-- **[[#6. 5. Modifying Sketches]]** (9 videos)
-- **[[#7. 6. Reference Geometry]]** (5 videos)
-- **[[#8. 7. Part Modifications]]** (7 videos)
-- **[[#9. 8. Advanced Part Modeling]]** (21 videos)
-- **[[#10. 9. Hole Wizard]]** (5 videos)
-- **[[#11. 10. Blocks]]** (3 videos)
-- **[[#12. 11. Building Assemblies]]** (9 videos)
-- **[[#13. 12. Advanced Mates]]** (7 videos)
-- **[[#14. 13. In-Context Modeling]]** (3 videos)
-- **[[#15. 14. Using Design Tables]]** (5 videos)
-- **[[#16. 15. Part Drawings]]** (4 videos)
-- **[[#17. 16. Dimensioning]]** (4 videos)
-- **[[#18. 17. Adding General Annotations]]** (6 videos)
-- **[[#19. 18. Assembly Drawings]]** (6 videos)
-- **[[#20. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to SOLIDWORKS]]** (6 videos)
+- **[[#2. SOLIDWORKS Quick Start]]** (4 videos)
+- **[[#3. Basic Part Modeling]]** (12 videos)
+- **[[#4. Sketch Tools]]** (12 videos)
+- **[[#5. Modifying Sketches]]** (9 videos)
+- **[[#6. Reference Geometry]]** (5 videos)
+- **[[#7. Part Modifications]]** (7 videos)
+- **[[#8. Advanced Part Modeling]]** (21 videos)
+- **[[#9. Hole Wizard]]** (5 videos)
+- **[[#10. Blocks]]** (3 videos)
+- **[[#11. Building Assemblies]]** (9 videos)
+- **[[#12. Advanced Mates]]** (7 videos)
+- **[[#13. In-Context Modeling]]** (3 videos)
+- **[[#14. Using Design Tables]]** (5 videos)
+- **[[#15. Part Drawings]]** (4 videos)
+- **[[#16. Dimensioning]]** (4 videos)
+- **[[#17. Adding General Annotations]]** (6 videos)
+- **[[#18. Assembly Drawings]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn 3D CAD modeling using SOLIDWORKS 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [gabriel] (1)
 
 
-### 2. 1. Introduction to SOLIDWORKS
+### 1. Introduction to SOLIDWORKS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Launching SOLIDWORKS for the first time
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980)
@@ -821,7 +825,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. SOLIDWORKS Quick Start
+### 2. SOLIDWORKS Quick Start
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your first 3D part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980)
@@ -1623,7 +1629,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Basic Part Modeling
+### 3. Basic Part Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating sketches
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980)
@@ -3362,7 +3370,9 @@ created: 2026-04-28
 > **Speakers:** - coordinate (1)
 
 
-### 5. 4. Sketch Tools
+### 4. Sketch Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Line and Centerline tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980)
@@ -4849,7 +4859,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 6. 5. Modifying Sketches
+### 5. Modifying Sketches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trimming and extending a sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980)
@@ -5890,7 +5902,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Reference Geometry
+### 6. Reference Geometry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with planes
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980)
@@ -6416,7 +6430,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Part Modifications
+### 7. Part Modifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding fillets to a part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-to-a-part?u=76281980)
@@ -7401,7 +7417,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Advanced Part Modeling
+### 8. Advanced Part Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loft tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/loft-tool?u=76281980)
@@ -9926,7 +9944,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Hole Wizard
+### 9. Hole Wizard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with the Hole Wizard
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980)
@@ -10441,7 +10461,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 11. 10. Blocks
+### 10. Blocks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using sketch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980)
@@ -10846,7 +10868,9 @@ created: 2026-04-28
 > **Speakers:** - blocks (1)
 
 
-### 12. 11. Building Assemblies
+### 11. Building Assemblies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting an assembly
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980)
@@ -11869,7 +11893,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 13. 12. Advanced Mates
+### 12. Advanced Mates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating component Mates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980)
@@ -12717,7 +12743,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 14. 13. In-Context Modeling
+### 13. In-Context Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linking sketches to other parts
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980)
@@ -13018,7 +13046,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 15. 14. Using Design Tables
+### 14. Using Design Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using design tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980)
@@ -13716,7 +13746,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 16. 15. Part Drawings
+### 15. Part Drawings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with drawing templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980)
@@ -14379,7 +14411,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 17. 16. Dimensioning
+### 16. Dimensioning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating general dimension notations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980)
@@ -14894,7 +14928,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 18. 17. Adding General Annotations
+### 17. Adding General Annotations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980)
@@ -15760,7 +15796,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 19. 18. Assembly Drawings
+### 18. Assembly Drawings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding assemblies to drawings
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980)
@@ -16478,7 +16516,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 20. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980)

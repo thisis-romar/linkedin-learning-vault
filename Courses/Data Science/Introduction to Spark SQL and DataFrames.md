@@ -30,7 +30,7 @@ tags:
   - skill/apache-spark
   - skill/sql
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Introduction%20to%20Spark%20SQL%20and%20DataFrames.md)
@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Introduction to Spark DataFrames]]** (2 videos)
-- **[[#3. 2. Installing Spark]]** (3 videos)
-- **[[#4. 3. Getting Started with Spark DataFrames]]** (8 videos)
-- **[[#5. 4. SQL for DataFrames]]** (6 videos)
-- **[[#6. 5. Data Analysis with Spark]]** (5 videos)
-- **[[#7. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Spark DataFrames]]** (2 videos)
+- **[[#2. Installing Spark]]** (3 videos)
+- **[[#3. Getting Started with Spark DataFrames]]** (8 videos)
+- **[[#4. SQL for DataFrames]]** (6 videos)
+- **[[#5. Data Analysis with Spark]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apache Spark SQL and data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Spark DataFrames
+### 1. Introduction to Spark DataFrames
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980)
@@ -245,7 +249,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Installing Spark
+### 2. Installing Spark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980)
@@ -432,7 +438,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1), is an  (1)
 
 
-### 4. 3. Getting Started with Spark DataFrames
+### 3. Getting Started with Spark DataFrames
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up a Jupyter notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980)
@@ -1157,7 +1165,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. SQL for DataFrames
+### 4. SQL for DataFrames
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Querying DataFrames with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980)
@@ -1681,7 +1691,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Analysis with Spark
+### 5. Data Analysis with Spark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploratory data analysis with DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980)
@@ -2285,7 +2297,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980)

@@ -27,7 +27,7 @@ tags:
   - skill/strengths-development
   - skill/influencing-others
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Use%20Your%20Strengths%20For%20Impact%20And%20Influence%20At%20Work.md)
@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Develop Inner Self-Mastery]]** (3 videos)
-- **[[#3. 2. What Makes You Unique?]]** (3 videos)
-- **[[#4. 3. Build Your Professional Presence]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Develop Inner Self-Mastery]]** (3 videos)
+- **[[#2. What Makes You Unique?]]** (3 videos)
+- **[[#3. Build Your Professional Presence]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of your professional strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/the-power-of-your-professional-strengths?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Develop Inner Self-Mastery
+### 1. Develop Inner Self-Mastery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage self-talk
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980)
@@ -375,7 +379,9 @@ created: 2026-04-28
 > **Speakers:** - don (1)
 
 
-### 3. 2. What Makes You Unique?
+### 2. What Makes You Unique?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gain clarity on your strengths
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/gain-clarity-on-your-strengths?u=76281980)
@@ -625,7 +631,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Build Your Professional Presence
+### 3. Build Your Professional Presence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strengthen your confidence muscle
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/strengthen-your-confidence-muscle?u=76281980)
@@ -857,7 +865,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Put your strengths into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980)

@@ -33,7 +33,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/data-ethics
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Ethical%20Data%20Collection%20for%20AI%20Implementation.md)
@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Balancing Effectiveness and Ethics]]** (4 videos)
-- **[[#3. 2. Ethical Strategies for Responsible Data Collection]]** (4 videos)
-- **[[#4. 3. Practical Concerns Blocking Responsible Data Collection]]** (4 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Balancing Effectiveness and Ethics]]** (4 videos)
+- **[[#2. Ethical Strategies for Responsible Data Collection]]** (4 videos)
+- **[[#3. Practical Concerns Blocking Responsible Data Collection]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethics comes before the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Balancing Effectiveness and Ethics
+### 1. Balancing Effectiveness and Ethics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining ethical objectives and key results
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
@@ -408,7 +412,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Ethical Strategies for Responsible Data Collection
+### 2. Ethical Strategies for Responsible Data Collection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Obtaining explicit and ongoing data collection consent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
@@ -702,7 +708,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 4. 3. Practical Concerns Blocking Responsible Data Collection
+### 3. Practical Concerns Blocking Responsible Data Collection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Violating data privacy regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
@@ -1030,7 +1038,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)

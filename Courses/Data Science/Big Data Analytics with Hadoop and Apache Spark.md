@@ -34,7 +34,7 @@ tags:
   - skill/hadoop
   - skill/apache-spark
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.md)
@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Introduction and Setup]]** (4 videos)
-- **[[#3. 2. HDFS Data Modeling for Analytics]]** (5 videos)
-- **[[#4. 3. Data Ingestion with Spark]]** (5 videos)
-- **[[#5. 4. Data Extraction with Spark]]** (5 videos)
-- **[[#6. 5. Optimizing Spark Processing]]** (6 videos)
-- **[[#7. 6. Use Case Project]]** (5 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction and Setup]]** (4 videos)
+- **[[#2. HDFS Data Modeling for Analytics]]** (5 videos)
+- **[[#3. Data Ingestion with Spark]]** (5 videos)
+- **[[#4. Data Extraction with Spark]]** (5 videos)
+- **[[#5. Optimizing Spark Processing]]** (6 videos)
+- **[[#6. Use Case Project]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The combined power of Spark and Hadoop Distributed File System (HDFS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction and Setup
+### 1. Introduction and Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apache Hadoop overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
@@ -290,7 +294,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1), navigate to (1)
 
 
-### 3. 2. HDFS Data Modeling for Analytics
+### 2. HDFS Data Modeling for Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
@@ -538,7 +544,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Ingestion with Spark
+### 3. Data Ingestion with Spark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading external files into Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
@@ -742,7 +750,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Extraction with Spark
+### 4. Data Extraction with Spark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How Spark works
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
@@ -971,7 +981,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Optimizing Spark Processing
+### 5. Optimizing Spark Processing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pushing down projections
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
@@ -1306,7 +1318,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Use Case Project
+### 6. Use Case Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
@@ -1520,7 +1534,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with big data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)

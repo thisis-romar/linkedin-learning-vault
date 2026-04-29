@@ -28,7 +28,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/nonprofit-organizations
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Leveraging%20Ai%20In%20Your%20Nonprofit%20Role%20By%20Microsoft%20And%20Nethope.md)
@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. 1. AI Foundations for Nonprofits]]** (6 videos)
-- **[[#2. 2. Mission-Driven AI Examples for Nonprofits]]** (5 videos)
-- **[[#3. 3. Working Smarter with AI in Your Nonprofit Role]]** (7 videos)
+- **[[#1. AI Foundations for Nonprofits]]** (6 videos)
+- **[[#2. Mission-Driven AI Examples for Nonprofits]]** (5 videos)
+- **[[#3. Working Smarter with AI in Your Nonprofit Role]]** (7 videos)
 
-### 1. 1. AI Foundations for Nonprofits
+### 1. AI Foundations for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training the eye for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
@@ -501,7 +503,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 2. 2. Mission-Driven AI Examples for Nonprofits
+### 2. Mission-Driven AI Examples for Nonprofits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supporting people and expanding possibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
@@ -765,7 +769,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 3. 3. Working Smarter with AI in Your Nonprofit Role
+### 3. Working Smarter with AI in Your Nonprofit Role
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expanding responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)

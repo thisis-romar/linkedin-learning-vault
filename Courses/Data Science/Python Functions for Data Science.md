@@ -30,7 +30,7 @@ tags:
   - skill/python-programming-language
   - skill/data-analysis
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Python%20Functions%20for%20Data%20Science.md)
@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Core Python Essentials]]** (4 videos)
-- **[[#3. 2. NumPy and SciPy Fundamentals]]** (7 videos)
-- **[[#4. 3. pandas for Data Manipulation]]** (6 videos)
-- **[[#5. 4. Visualization Essentials]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Core Python Essentials]]** (4 videos)
+- **[[#2. NumPy and SciPy Fundamentals]]** (7 videos)
+- **[[#3. pandas for Data Manipulation]]** (6 videos)
+- **[[#4. Visualization Essentials]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Python like a data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Core Python Essentials
+### 1. Core Python Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inspect data for validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980)
@@ -446,7 +450,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. NumPy and SciPy Fundamentals
+### 2. NumPy and SciPy Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create NumPy arrays in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980)
@@ -955,7 +961,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 4. 3. pandas for Data Manipulation
+### 3. pandas for Data Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create pandas series and dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980)
@@ -1611,7 +1619,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. Visualization Essentials
+### 4. Visualization Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create line and scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980)
@@ -2133,7 +2143,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply functions to data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980)

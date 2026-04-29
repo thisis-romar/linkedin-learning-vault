@@ -29,7 +29,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/ai-for-leadership
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/AI%20Cheat%20Sheet%20for%20Business%20Leaders.md)
@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Ten Tips on AI for Business Leaders]]** (10 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Ten Tips on AI for Business Leaders]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
@@ -165,7 +167,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Ten Tips on AI for Business Leaders
+### 1. Ten Tips on AI for Business Leaders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What we mean by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
@@ -1177,7 +1181,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)

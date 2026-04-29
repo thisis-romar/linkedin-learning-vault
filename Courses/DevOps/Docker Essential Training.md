@@ -29,7 +29,7 @@ tags:
   - skill/containerization
   - skill/docker-products
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/DevOps/Docker%20Essential%20Training.md)
@@ -47,20 +47,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Docker Explained]]** (5 videos)
-- **[[#3. 2. Installing Docker: The Hard Way]]** (7 videos)
-- **[[#4. 3. Docker Images Demystified]]** (6 videos)
-- **[[#5. 4. Exploring Dockerfiles]]** (16 videos)
-- **[[#6. 5. Advanced Docker Operations]]** (6 videos)
-- **[[#7. 6. Docker in Docker]]** (4 videos)
-- **[[#8. 7. Networking]]** (6 videos)
-- **[[#9. 8. Storing Data]]** (6 videos)
-- **[[#10. 9. The Docker Registry]]** (5 videos)
-- **[[#11. 10. Additional Docker Resources]]** (3 videos)
-- **[[#12. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Docker Explained]]** (5 videos)
+- **[[#2. Installing Docker: The Hard Way]]** (7 videos)
+- **[[#3. Docker Images Demystified]]** (6 videos)
+- **[[#4. Exploring Dockerfiles]]** (16 videos)
+- **[[#5. Advanced Docker Operations]]** (6 videos)
+- **[[#6. Docker in Docker]]** (4 videos)
+- **[[#7. Networking]]** (6 videos)
+- **[[#8. Storing Data]]** (6 videos)
+- **[[#9. The Docker Registry]]** (5 videos)
+- **[[#10. Additional Docker Resources]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving deeper into Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Docker Explained
+### 1. Docker Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Docker recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980)
@@ -559,7 +563,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Installing Docker: The Hard Way
+### 2. Installing Docker: The Hard Way
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When Docker Desktop doesn't cut it
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980)
@@ -1330,7 +1336,9 @@ created: 2026-04-28
 > **URLs:** [localhost:9443](https://localhost:9443) (2), [github.com](https://github.com) (1), [http://localhost:8080](http://localhost:8080) (1)
 
 
-### 4. 3. Docker Images Demystified
+### 3. Docker Images Demystified
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are Docker images?
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980)
@@ -2003,7 +2011,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 5. 4. Exploring Dockerfiles
+### 4. Exploring Dockerfiles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Dockerfiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-dockerfiles?u=76281980)
@@ -4437,7 +4447,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 6. 5. Advanced Docker Operations
+### 5. Advanced Docker Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending container privileges with capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980)
@@ -5389,7 +5401,9 @@ created: 2026-04-28
 > **Code Identifiers:** dothething (1)
 
 
-### 7. 6. Docker in Docker
+### 6. Docker in Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The case for Docker in Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980)
@@ -5780,7 +5794,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 8. 7. Networking
+### 7. Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to container networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980)
@@ -6786,7 +6802,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 9. 8. Storing Data
+### 8. Storing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to container storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-storage?u=76281980)
@@ -7536,7 +7554,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. The Docker Registry
+### 9. The Docker Registry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Docker registries
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980)
@@ -8237,7 +8257,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Additional Docker Resources
+### 10. Additional Docker Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980)
@@ -8488,7 +8510,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980)

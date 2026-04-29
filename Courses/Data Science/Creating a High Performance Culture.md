@@ -26,7 +26,7 @@ tags:
   - topic/data-science
   - skill/high-performance-cultures
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Creating%20a%20High%20Performance%20Culture.md)
@@ -44,16 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (1 videos)
-- **[[#2. 1. Building a High-Performance Culture]]** (4 videos)
-- **[[#3. 2. Setting Direction for a High-Performance Culture]]** (3 videos)
-- **[[#4. 3. Communicating the Culture]]** (3 videos)
-- **[[#5. 4. Organizing to Succeed]]** (2 videos)
-- **[[#6. 5. Managing Performance]]** (3 videos)
-- **[[#7. 6. Living the Culture]]** (3 videos)
-- **[[#8. Conclusion]]** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Building a High-Performance Culture]]** (4 videos)
+- **[[#2. Setting Direction for a High-Performance Culture]]** (3 videos)
+- **[[#3. Communicating the Culture]]** (3 videos)
+- **[[#4. Organizing to Succeed]]** (2 videos)
+- **[[#5. Managing Performance]]** (3 videos)
+- **[[#6. Living the Culture]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to creating a high-performance culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. Building a High-Performance Culture
+### 1. Building a High-Performance Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of high-performing cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
@@ -354,7 +358,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Setting Direction for a High-Performance Culture
+### 2. Setting Direction for a High-Performance Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a compelling vision and mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
@@ -591,7 +597,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Communicating the Culture
+### 3. Communicating the Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing your communication vehicles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
@@ -667,7 +675,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/making-culture-a-conversation-22387673?u=76281980)
 
 
-### 5. 4. Organizing to Succeed
+### 4. Organizing to Succeed
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing your team for high performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
@@ -804,7 +814,9 @@ created: 2026-04-28
 > **Speakers:** - building (1)
 
 
-### 6. 5. Managing Performance
+### 5. Managing Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting goals and measuring results
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
@@ -1035,7 +1047,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 7. 6. Living the Culture
+### 6. Living the Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking small actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
@@ -1271,7 +1285,9 @@ created: 2026-04-28
 > **Speakers:** - providing (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overcoming common obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)

@@ -35,7 +35,7 @@ tags:
   - skill/embedded-c
   - skill/c-programming-language
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/C%20Programming%20for%20Embedded%20Applications.md)
@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (3 videos)
-- **[[#2. 1. Embedded Systems]]** (7 videos)
-- **[[#3. 2. Data Types]]** (4 videos)
-- **[[#4. 3. Bit Manipulation]]** (4 videos)
-- **[[#5. 4. Qualifiers]]** (4 videos)
-- **[[#6. 5. Function Alternatives]]** (6 videos)
-- **[[#7. 6. Floating-Point Unit Alternatives]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Embedded Systems]]** (7 videos)
+- **[[#2. Data Types]]** (4 videos)
+- **[[#3. Bit Manipulation]]** (4 videos)
+- **[[#4. Qualifiers]]** (4 videos)
+- **[[#5. Function Alternatives]]** (6 videos)
+- **[[#6. Floating-Point Unit Alternatives]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started in embedded systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
@@ -163,7 +165,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Embedded Systems
+### 1. Embedded Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applications: OS vs. embedded
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
@@ -554,7 +558,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Types
+### 2. Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integral types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
@@ -975,7 +981,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Bit Manipulation
+### 3. Bit Manipulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Masking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
@@ -1318,7 +1326,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Qualifiers
+### 4. Qualifiers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The volatile qualifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
@@ -1754,7 +1764,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 6. 5. Function Alternatives
+### 5. Function Alternatives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lookup tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
@@ -2344,7 +2356,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 7. 6. Floating-Point Unit Alternatives
+### 6. Floating-Point Unit Alternatives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software implementation of float
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
@@ -2697,7 +2711,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)

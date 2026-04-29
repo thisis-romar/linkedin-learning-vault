@@ -28,7 +28,7 @@ tags:
   - topic/security
   - skill/web-application-security
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/OWASP%20Top%2010-%20-3%20Injection%20and%20-4%20Insecure%20Design.md)
@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Injection]]** (6 videos)
-- **[[#3. 2. Insecure Design]]** (6 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Injection]]** (6 videos)
+- **[[#2. Insecure Design]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Injection
+### 1. Injection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
@@ -405,7 +409,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Insecure Design
+### 2. Insecure Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is insecure design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
@@ -713,7 +719,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)

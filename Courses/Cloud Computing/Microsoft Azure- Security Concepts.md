@@ -32,7 +32,7 @@ tags:
   - skill/cybersecurity
   - skill/microsoft-azure
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Microsoft%20Azure-%20Security%20Concepts.md)
@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Security Principles in the Cloud]]** (7 videos)
-- **[[#3. 2. Security Concepts for the Azure Cloud]]** (5 videos)
-- **[[#4. 3. Secure Your Azure Resources]]** (5 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security Principles in the Cloud]]** (7 videos)
+- **[[#2. Security Concepts for the Azure Cloud]]** (5 videos)
+- **[[#3. Secure Your Azure Resources]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Azure security concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Security Principles in the Cloud
+### 1. Security Principles in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A security approach: The importance of securing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
@@ -920,7 +924,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 3. 2. Security Concepts for the Azure Cloud
+### 2. Security Concepts for the Azure Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing and securing resources in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
@@ -1494,7 +1500,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 4. 3. Secure Your Azure Resources
+### 3. Secure Your Azure Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure resources using Microsoft Defender for Cloud: General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
@@ -1954,7 +1962,9 @@ created: 2026-04-28
 > **Definitions:** is a  (3)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deepen your understanding of Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)

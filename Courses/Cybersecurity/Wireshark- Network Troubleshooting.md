@@ -31,7 +31,7 @@ tags:
   - skill/network-troubleshooting
   - skill/wireshark
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cybersecurity/Wireshark-%20Network%20Troubleshooting.md)
@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. Traffic Capture and Analysis]]** (8 videos)
-- **[[#3. Using Time as a Metric]]** (5 videos)
-- **[[#4. Wireshark Tools]]** (5 videos)
-- **[[#5. Recognizing Abnormal or Malicious Traffic]]** (7 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#Traffic Capture and Analysis]]** (8 videos)
+- **[[#Using Time as a Metric]]** (5 videos)
+- **[[#Wireshark Tools]]** (5 videos)
+- **[[#Recognizing Abnormal or Malicious Traffic]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Traffic Capture and Analysis
+### Traffic Capture and Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the most out of Wireshark
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
@@ -1021,7 +1025,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. Using Time as a Metric
+### Using Time as a Metric
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Displaying time
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
@@ -1458,7 +1464,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. Wireshark Tools
+### Wireshark Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Viewing conversations and endpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
@@ -1948,7 +1956,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Recognizing Abnormal or Malicious Traffic
+### Recognizing Abnormal or Malicious Traffic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshooting the Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
@@ -2548,7 +2558,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)

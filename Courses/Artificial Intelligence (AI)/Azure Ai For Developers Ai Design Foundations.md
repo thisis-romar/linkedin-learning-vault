@@ -31,7 +31,7 @@ tags:
   - skill/artificial-intelligence-ai
   - skill/large-language-models-llm
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Azure%20Ai%20For%20Developers%20Ai%20Design%20Foundations.md)
@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (2 videos)
-- **[[#2. 1. Understanding Large Language Models]]** (2 videos)
-- **[[#3. 2. Grounding LLMs to Data]]** (4 videos)
-- **[[#4. 3. Introduction to LLMOps]]** (3 videos)
-- **[[#5. 4. Ensuring the Safe and Responsible Operation of Your AI]]** (3 videos)
-- **[[#6. 5. Multimodal AI]]** (4 videos)
-- **[[#7. 6. Introduction to AI Agents]]** (2 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Large Language Models]]** (2 videos)
+- **[[#2. Grounding LLMs to Data]]** (4 videos)
+- **[[#3. Introduction to LLMOps]]** (3 videos)
+- **[[#4. Ensuring the Safe and Responsible Operation of Your AI]]** (3 videos)
+- **[[#5. Multimodal AI]]** (4 videos)
+- **[[#6. Introduction to AI Agents]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Large Language Models
+### 1. Understanding Large Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to large language models (LLMs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
@@ -232,7 +236,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Grounding LLMs to Data
+### 2. Grounding LLMs to Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How data grounding works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
@@ -502,7 +508,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Introduction to LLMOps
+### 3. Introduction to LLMOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Running pilots with real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
@@ -711,7 +719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Ensuring the Safe and Responsible Operation of Your AI
+### 4. Ensuring the Safe and Responsible Operation of Your AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible AI concerns and their mitigations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
@@ -893,7 +903,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Multimodal AI
+### 5. Multimodal AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to multimodal AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
@@ -1100,7 +1112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Introduction to AI Agents
+### 6. Introduction to AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an AI agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
@@ -1301,7 +1315,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)

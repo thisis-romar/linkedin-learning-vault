@@ -32,7 +32,7 @@ tags:
   - skill/spring-boot
   - skill/kubernetes
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Spring%20On%20Kubernetes%20Deploying%20And%20Managing%20Cloud%20Native%20Applications.md)
@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Cloud Native Spring]]** (9 videos)
-- **[[#3. 2. Spring Images]]** (5 videos)
-- **[[#4. 3. Deploying to Kubernetes]]** (7 videos)
-- **[[#5. 4. Additional Topics]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Cloud Native Spring]]** (9 videos)
+- **[[#2. Spring Images]]** (5 videos)
+- **[[#3. Deploying to Kubernetes]]** (7 videos)
+- **[[#4. Additional Topics]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spring to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
@@ -290,7 +292,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Native Spring
+### 1. Cloud Native Spring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud native applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
@@ -1108,7 +1112,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 3. 2. Spring Images
+### 2. Spring Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Containerized workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
@@ -1471,7 +1477,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Deploying to Kubernetes
+### 3. Deploying to Kubernetes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploying to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
@@ -2103,7 +2111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Additional Topics
+### 4. Additional Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
@@ -2369,7 +2379,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)

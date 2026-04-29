@@ -24,7 +24,7 @@ tags:
   - topic/network-and-system-administration
   - skill/linux-system-administration
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Lpic%201%20Exam%20101%20Version%205%200%20Cert%20Prep.md)
@@ -42,22 +42,24 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (6 videos)
-- **[[#2. 1. Determine and Configure Hardware]]** (7 videos)
-- **[[#3. 2. Boot the System]]** (5 videos)
-- **[[#4. 3. System Services and Logging]]** (9 videos)
-- **[[#5. 4. Use Debian Package Management]]** (4 videos)
-- **[[#6. 5. Use Red Hat Package Management]]** (4 videos)
-- **[[#7. 6. Linux as a Virtualized Guest]]** (5 videos)
-- **[[#8. 7. Working on the Command Line]]** (10 videos)
-- **[[#9. 8. Manage Processes]]** (6 videos)
-- **[[#10. 9. Pattern Matching and Editing Text]]** (11 videos)
-- **[[#11. 10. Working with Files]]** (7 videos)
-- **[[#12. 11. Permissions and Ownership]]** (14 videos)
-- **[[#13. 12. Create Partitions and Filesystems]]** (15 videos)
-- **[[#14. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Determine and Configure Hardware]]** (7 videos)
+- **[[#2. Boot the System]]** (5 videos)
+- **[[#3. System Services and Logging]]** (9 videos)
+- **[[#4. Use Debian Package Management]]** (4 videos)
+- **[[#5. Use Red Hat Package Management]]** (4 videos)
+- **[[#6. Linux as a Virtualized Guest]]** (5 videos)
+- **[[#7. Working on the Command Line]]** (10 videos)
+- **[[#8. Manage Processes]]** (6 videos)
+- **[[#9. Pattern Matching and Editing Text]]** (11 videos)
+- **[[#10. Working with Files]]** (7 videos)
+- **[[#11. Permissions and Ownership]]** (14 videos)
+- **[[#12. Create Partitions and Filesystems]]** (15 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get ready for LPIC-1
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980)
@@ -666,7 +668,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (2)
 
 
-### 2. 1. Determine and Configure Hardware
+### 1. Determine and Configure Hardware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable/disable integrated hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980)
@@ -1437,7 +1441,9 @@ created: 2026-04-28
 > **Documentation:** man page (1)
 
 
-### 3. 2. Boot the System
+### 2. Boot the System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the Linux boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980)
@@ -1939,7 +1945,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. System Services and Logging
+### 3. System Services and Logging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### About SysVinit, systemd, and Upstart
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980)
@@ -2857,7 +2865,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Use Debian Package Management
+### 4. Use Debian Package Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debian software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980)
@@ -3345,7 +3355,9 @@ created: 2026-04-28
 > **URLs:** [http://archive.canonical.com/ubuntu](http://archive.canonical.com/ubuntu) (1)
 
 
-### 6. 5. Use Red Hat Package Management
+### 5. Use Red Hat Package Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RPM software management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980)
@@ -3919,7 +3931,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 7. 6. Linux as a Virtualized Guest
+### 6. Linux as a Virtualized Guest
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compare cloud and virtualization concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980)
@@ -4538,7 +4552,9 @@ created: 2026-04-28
 > **Speakers:** - on (1)
 
 
-### 8. 7. Working on the Command Line
+### 7. Working on the Command Line
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple and compound commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980)
@@ -5945,7 +5961,9 @@ created: 2026-04-28
 > **Tools:** bash (1)
 
 
-### 9. 8. Manage Processes
+### 8. Manage Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select and sort processes for display
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980)
@@ -6632,7 +6650,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Pattern Matching and Editing Text
+### 9. Pattern Matching and Editing Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the differences between basic and extended regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-differences-between-basic-and-extended-regular-expressions?u=76281980)
@@ -7669,7 +7689,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 11. 10. Working with Files
+### 10. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File globbing and parameter expansion
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980)
@@ -8574,7 +8596,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. 11. Permissions and Ownership
+### 11. Permissions and Ownership
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980)
@@ -10036,7 +10060,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. 12. Create Partitions and Filesystems
+### 12. Create Partitions and Filesystems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hard drive partitioning strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980)
@@ -11701,7 +11727,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 14. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980)

@@ -42,7 +42,7 @@ tags:
   - skill/large-language-models-llm
   - skill/prompt-engineering
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Artificial%20Intelligence%20(AI)/Prompt%20Engineering-%20How%20to%20Talk%20to%20the%20AIs.md)

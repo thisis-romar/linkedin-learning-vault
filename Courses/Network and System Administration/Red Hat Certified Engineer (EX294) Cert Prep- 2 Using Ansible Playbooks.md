@@ -30,7 +30,7 @@ tags:
   - skill/red-hat-enterprise-linux-rhel
   - skill/ansible
 status: not-started
-created: 2026-04-28
+created: 2026-04-29
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Network%20and%20System%20Administration/Red%20Hat%20Certified%20Engineer%20(EX294)%20Cert%20Prep-%202%20Using%20Ansible%20Playbooks.md)
@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **[[#1. Introduction]]** (4 videos)
-- **[[#2. 1. Working with Playbooks]]** (9 videos)
-- **[[#3. 2. Creating Reusable Playbooks]]** (5 videos)
-- **[[#4. 3. Using Variables]]** (4 videos)
-- **[[#5. 4. Using Flow Control]]** (6 videos)
-- **[[#6. 5. Grouping Content]]** (3 videos)
-- **[[#7. 6. Using Ansible to Deploy Files]]** (3 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Working with Playbooks]]** (9 videos)
+- **[[#2. Creating Reusable Playbooks]]** (5 videos)
+- **[[#3. Using Variables]]** (4 videos)
+- **[[#4. Using Flow Control]]** (6 videos)
+- **[[#5. Grouping Content]]** (3 videos)
+- **[[#6. Using Ansible to Deploy Files]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
@@ -379,7 +381,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 2. 1. Working with Playbooks
+### 1. Working with Playbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to playbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
@@ -1223,7 +1227,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Creating Reusable Playbooks
+### 2. Creating Reusable Playbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create structured configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
@@ -1772,7 +1778,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 4. 3. Using Variables
+### 3. Using Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting inventory and playbook variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
@@ -2207,7 +2215,9 @@ created: 2026-04-28
 > **URLs:** [localnet.com](https://localnet.com) (1)
 
 
-### 5. 4. Using Flow Control
+### 4. Using Flow Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The when statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
@@ -2776,7 +2786,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 6. 5. Grouping Content
+### 5. Grouping Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
@@ -3053,7 +3065,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Using Ansible to Deploy Files
+### 6. Using Ansible to Deploy Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Jinja2 template files
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
@@ -3392,7 +3406,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)
