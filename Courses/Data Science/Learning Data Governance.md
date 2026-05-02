@@ -1095,7 +1095,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=128)** Knowledge graphs are used across industries for a vast number of solutions.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=133)** Facebook uses them to make connection recommendations.
+> **[2:13](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=133)** [[Facebook]] uses them to make connection recommendations.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-data-governance-14224082/exploring-the-role-of-knowledge-graphs?u=76281980&t=137)** Search engines use them to provide more accurate results.
 >
@@ -1141,7 +1141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knowledge Graphs]] (6), [[Data Governance]] (1), [[Data Management]] (1), [[Metadata]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (6), [[Data Governance]] (1), [[Data Management]] (1), [[Metadata]] (1), [[Facebook]] (1)
 > **Env Vars:** rdf (4), w3c (1)
 > **Definitions:** known as (2), is an  (2)
 > **Analogies:** such as (3), for example (1)

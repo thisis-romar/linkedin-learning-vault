@@ -681,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/use-cases-and-applications?u=76281980&t=19)** For example, in the chat lobby, if someone sends a message with slurs or harassment, the moderation, API can instantly block or replace it with a particular placeholder and warn user.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/use-cases-and-applications?u=76281980&t=31)** On platforms like Reddit-style forums or Facebook-like feeds, Ii can scan text or images for nudity, violence, or hate, either before or after publishing, t triggering moderation workflows.
+> **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/use-cases-and-applications?u=76281980&t=31)** On platforms like Reddit-style forums or [[Facebook]]-like feeds, Ii can scan text or images for nudity, violence, or hate, either before or after publishing, t triggering moderation workflows.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/use-cases-and-applications?u=76281980&t=45)** A messaging app could run all outgoing messages through the API.
 >
@@ -735,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Real-Time]] (1), [[E-Commerce]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Real-Time]] (1), [[Facebook]] (1), [[E-Commerce]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)

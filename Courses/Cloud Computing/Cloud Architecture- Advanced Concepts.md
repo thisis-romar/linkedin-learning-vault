@@ -2367,7 +2367,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=16)** The internet of things, or [[IoT]], are physical devices that are distributed across the physical world that perform actions used by the cloud to perform analysis or control in the physical world.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=31)** By far, the simplest example of IoT devices are your basic smart home devices, your smart thermostat, your Wi-Fi enabled light bulbs, doorbell cameras, and Amazon Alexa enabled assistants are all examples of IoT devices.
+> **[0:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=31)** By far, the simplest example of IoT devices are your basic smart home devices, your smart thermostat, your [[Wi-Fi]] enabled light bulbs, doorbell cameras, and Amazon Alexa enabled assistants are all examples of IoT devices.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=49)** These internet-enabled remote devices allow cloud systems and applications in the cloud to access, monitor, and change our physical world.
 >
@@ -2489,7 +2489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (19), [[IoT|Internet of things]] (3), [[Data Management]] (2), [[System Architecture]] (1), [[Data Storage]] (1)
+> **Frameworks & Libraries:** [[IoT]] (19), [[IoT|Internet of things]] (3), [[Wi-Fi]] (2), [[Data Management]] (2), [[System Architecture]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

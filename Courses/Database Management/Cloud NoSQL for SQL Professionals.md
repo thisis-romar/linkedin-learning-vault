@@ -330,11 +330,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=22)** Many of the [[Microsoft Products|products]] that we see today is [[NoSQL]] [[Databases]] were developed by people who worked at Google at one time, or based on technologies that were designed to address these [[Scalability]] challenges because of the amount of data that Google was collecting, not only to index the Web, which in some ways could be argued was transactional, but increasingly behaviorally, through their [[Android]] ecosystem and through their applications such as maps, and so on.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=54)** Again, along with Google, the other big social players like Facebook, Twitter, and [[LinkedIn]], joined in in this collection of massive amounts of behavioral data and then turning that into business value, either by monetizing that data, or by using that data to increase stickiness of their sites and so on and so forth.
+> **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=54)** Again, along with Google, the other big social players like [[Facebook]], Twitter, and [[LinkedIn]], joined in in this collection of massive amounts of behavioral data and then turning that into business value, either by monetizing that data, or by using that data to increase stickiness of their sites and so on and so forth.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=78)** Additionally, over the past few years, the type of data that's being collected as behavioral data, has grown exponentially in volume, because it's, in addition to text, it's picture and video based.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=90)** Particularly, as of this recording, newer services like TikTok, which is similar to Snapchat, for the younger generation, generally, Instagram, and so on, these types of services not only collect the text data of where you are, what you're doing, what you're looking at, but they collect it in the form of picture or video, which is of course, a much larger scale.
+> **[1:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=90)** Particularly, as of this recording, newer services like TikTok, which is similar to Snapchat, for the younger generation, generally, [[Instagram]], and so on, these types of services not only collect the text data of where you are, what you're doing, what you're looking at, but they collect it in the form of picture or video, which is of course, a much larger scale.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=115)** Speaking of scale, it has been estimated that Google is working with 20 petabytes per day in 2019.
 >
@@ -370,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=46)** Non-relational or NoSQL databases were created to address specifically this problem.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=53)** Many many years ago buy vendors such as [[Google]] and Facebook as well as other groups of developers worldwide.
+> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=53)** Many many years ago buy vendors such as [[Google]] and [[Facebook]] as well as other groups of developers worldwide.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=59)** NoSQL databases live in the space between files and relational tables.
 >
@@ -406,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (5), [[Database Systems]] (1), [[Google]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (5), [[Database Systems]] (1), [[Google]] (1), [[Facebook]] (1)
 > **Env Vars:** json (1), xml (1)
 > **Versions:** 38.6 (1)
 > **Analogies:** such as (1)
@@ -1210,7 +1210,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=112)** But it really represents visually the difference in the storage of a columnstore and a rowstore.
 >
-> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=120)** So some examples of columnar NoSQL [[Databases]] are, as I mentioned, Cassandra, which was developed at Facebook and then open-sourced and took a kind of familiar route, kind of like [[Redis]] and Mongo and some of the other big open-source NoSQL databases.
+> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=120)** So some examples of columnar NoSQL [[Databases]] are, as I mentioned, Cassandra, which was developed at [[Facebook]] and then open-sourced and took a kind of familiar route, kind of like [[Redis]] and Mongo and some of the other big open-source NoSQL databases.
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=134)** There's a free version and there's the commercial version.
 >

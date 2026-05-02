@@ -1240,7 +1240,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=15)** Strategies are pluggable authentication modules that can be installed separately.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=20)** Through these strategies, Passport covers a lot of back ends or use cases from local authentication that is mostly used to authenticate against the local database to strategies for a variety of third-party systems, including single sign-on providers and logins via social media concepts, like Facebook, or other exotic systems Shoplet.
+> **[0:20](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=20)** Through these strategies, Passport covers a lot of back ends or use cases from local authentication that is mostly used to authenticate against the local database to strategies for a variety of third-party systems, including single sign-on providers and logins via social media concepts, like [[Facebook]], or other exotic systems Shoplet.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=42)** Right now, there are over 500 strategies available.
 >
@@ -1260,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[Facebook]] (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)

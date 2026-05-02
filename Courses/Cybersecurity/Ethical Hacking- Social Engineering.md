@@ -848,7 +848,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=98)** Many people want to help, so they offer some type of cash which goes to the pockets of the hackers.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=105)** A likejacking attack is a Facebook-tailored version of an attack called clickjacking.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=105)** A likejacking attack is a [[Facebook]]-tailored version of an attack called clickjacking.
 >
 > **[1:52](https://www.linkedin.com/learning/ethical-hacking-social-engineering/manipulating-with-social-media-19095917?u=76281980&t=112)** Likejacking gets users to like a webpage that has information on a celebrity, politician, or news item.
 >
@@ -890,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Facebook]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -963,7 +963,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=166)** However, only about half of the users take advantage of the methods the sites use to enact [[Privacy]] settings and protect and limit how much and with whom they share the information.
 >
-> **[2:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=178)** I'm on Facebook's website, and I will scroll down here to the bottom, and here we can see Privacy.
+> **[2:58](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=178)** I'm on [[Facebook]]'s website, and I will scroll down here to the bottom, and here we can see Privacy.
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disclosing-private-information?u=76281980&t=184)** Learn about your privacy in Facebook.
 >
@@ -985,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), [[Algorithms]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Facebook]] (2), [[Algorithms]] (1), [[Data Privacy]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** for example (2)
@@ -1226,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=98)** Social engineers gather information from many sources.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=102)** A popular information gathering technique is using social media, such as Facebook, [[LinkedIn]], or Twitter.
+> **[1:42](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=102)** A popular information gathering technique is using social media, such as [[Facebook]], [[LinkedIn]], or Twitter.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-social-engineering/steal-an-identity?u=76281980&t=111)** Social media stores information and breadcrumbs about date and place of birth, where you've been, schools attended, and where you work.
 >
@@ -1288,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Privacy]] (5), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (4)
 > **Warnings:** be aware (2), keep in mind (1)

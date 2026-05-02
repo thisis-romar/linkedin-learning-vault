@@ -1051,7 +1051,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=94)** The scientists did this by tracking levels of cooperation elicited from a game where they shared and traded sticks of honey.
 >
-> **[1:42](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=102)** Now ancient humans may not have had the luxury of updating their Facebook status to let their family and friends know what they're up to.
+> **[1:42](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=102)** Now ancient humans may not have had the luxury of updating their [[Facebook]] status to let their family and friends know what they're up to.
 >
 > **[1:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=109)** But social networks were nevertheless an essential component of their lives.
 >
@@ -1067,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (4), [[Data Science]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Data Science]] (4), [[Algorithms]] (1), [[Facebook]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
@@ -1231,7 +1231,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=62)** There's certainly other channels where data science conversations are going on to varying degrees.
 >
-> **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=68)** Places like Facebook, Instagram, Snapchat, WhatsApp, Reddit, but I think that starting with LinkedIn is really the best option.
+> **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=68)** Places like [[Facebook]], [[Instagram]], Snapchat, WhatsApp, Reddit, but I think that starting with LinkedIn is really the best option.
 >
 > **[1:18](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=78)** Because of its exemplary brand, its robust support, and wide-ranging functionality, as well as its commitment to connecting skills with opportunity at scale, it's the best choice for expertise sharing, [[Relationship Building]], and connecting in order to build out your mesh.
 

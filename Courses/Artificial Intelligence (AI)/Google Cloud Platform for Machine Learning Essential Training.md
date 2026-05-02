@@ -212,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=49)** So, you know, these are model summaries, so you can start by looking at them.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=53)** Many folks have probably heard of the model [[LLaMA]] 2, which is a model that was created at Facebook or Meta, and you can see that there's information about the model.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=53)** Many folks have probably heard of the model [[LLaMA]] 2, which is a model that was created at [[Facebook]] or Meta, and you can see that there's information about the model.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=66)** And you can see then use cases for the model and documentation and license.
 >

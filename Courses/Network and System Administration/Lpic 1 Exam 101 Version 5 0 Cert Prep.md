@@ -1328,7 +1328,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=43)** These scripts are for all network interface configuration including dynamic and manual configs.
 >
-> **[0:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=48)** A dynamic config may have only a few lines in it specifying the name of the device and a boot protocol of dhcp.
+> **[0:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=48)** A dynamic config may have only a few lines in it specifying the name of the device and a boot protocol of [[DHCP]].
 >
 > **[0:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=55)** This example specifies that it should be a name of that boot and uses dhcp for configuration.
 >
@@ -1398,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Linux]] (3)
 > **Env Vars:** dns (4), ipaddr (1), ipv6addr (1), hwaddr (1), macaddr (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
@@ -1502,7 +1502,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=274)** It's now asking me what type of connection I want to edit.
 >
-> **[4:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=277)** I can choose generic, ethernet, WiFi, WiMAX, Bluetooth, and so on.
+> **[4:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=277)** I can choose generic, ethernet, [[Wi-Fi|WiFi]], WiMAX, Bluetooth, and so on.
 >
 > **[4:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=282)** It's very powerful.
 >
@@ -1522,7 +1522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (10), nmtui (5), tui (1), wpa (1), nmcui (1)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)

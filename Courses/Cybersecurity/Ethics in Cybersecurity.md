@@ -803,7 +803,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=75)** In an interview, Manning said that she went to WikiLeaks after multiple newspapers refused to publish this information.
 >
-> **[1:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=83)** More recently, Frances Haugen publicly disclosed tens of thousands of company internal documents that she had access to when she worked at Facebook.
+> **[1:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=83)** More recently, Frances Haugen publicly disclosed tens of thousands of company internal documents that she had access to when she worked at [[Facebook]].
 >
 > **[1:35](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=95)** Haugen shared these documents with the Securities and Exchange Commission because she felt that Facebook was knowingly making decisions that harm the general public, and her attempts to address those matters internally weren't going anywhere.
 >
@@ -845,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Privacy]] (3), [[Ethics]] (1), [[Data Mining]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Cybersecurity]] (3), [[Privacy]] (3), [[Ethics]] (1), [[Data Mining]] (1)
 > **Env Vars:** nsa (1), prism (1)
 > **Definitions:** known as (1)
 

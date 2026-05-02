@@ -1006,11 +1006,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=145)** And as I mentioned there were any number of other troubleshooters.
 >
-> **[2:28](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=148)** So if you're having a problem with a specific Windows component, such as Bluetooth or wifi, or your network adapter or something like that, then running a troubleshoot is a great place to start in resolving that problem.
+> **[2:28](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=148)** So if you're having a problem with a specific Windows component, such as Bluetooth or [[Wi-Fi|wifi]], or your network adapter or something like that, then running a troubleshoot is a great place to start in resolving that problem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (3), [[Microsoft]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (3), [[Microsoft]] (1), [[Hardware]] (1), [[Wi-Fi|Wifi]] (1)
 > **UI Navigation:** click on (5), go to (1), open the (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (2)

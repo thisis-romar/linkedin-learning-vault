@@ -491,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=54)** Even [[Microsoft Products|products]] that seem to have universal appeal typically start from a narrow target.
 >
-> **[1:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=60)** Take Facebook, for example.
+> **[1:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=60)** Take [[Facebook]], for example.
 >
 > **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=62)** Before it reached the masses, it was targeted at college students in the United States and was designed specifically to get them hooked, and the [[Representational State Transfer (REST)|rest]] is history.
 >
@@ -565,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Product Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Product Strategy]] (1), [[Facebook]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1)
 > **Env Vars:** bmw (7), crm (2)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** make (2)
@@ -619,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=106)** Sometimes however, they may be hidden.
 >
-> **[1:50](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=110)** Let's take Facebook for example.
+> **[1:50](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=110)** Let's take [[Facebook]] for example.
 >
 > **[1:52](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=112)** Back in 2004 when it got started, was it clear that people needed another social network to connect with friends?
 >
@@ -667,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Products|Products]] (1), [[Product Design]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Zoom]] (1), [[Microsoft Products|Products]] (1), [[Product Design]] (1)
 > **Env Vars:** bmw (2), crm (2)
 > **Code Identifiers:** ipod (1)
 > **Definitions:** in other words (1)
@@ -706,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980&t=92)** You'll learn how they would categorize your product and what they would compare it to.
 >
-> **[1:37](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980&t=97)** They might say something like, "Oh, so it's like Facebook for X, or Uber for Y."
+> **[1:37](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980&t=97)** They might say something like, "Oh, so it's like [[Facebook]] for X, or Uber for Y."
 >
 > **[1:43](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980&t=103)** That would shed light on how they perceive your product.
 >
@@ -758,6 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Env Vars:** crm (4), bmw (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)

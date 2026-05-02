@@ -554,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=104)** When you click on the icon, you can immediately see it appearing in your working area.
 >
-> **[1:48](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=108)** Let's also add another icon for Facebook.
+> **[1:48](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=108)** Let's also add another icon for [[Facebook]].
 >
 > **[1:52](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=112)** And a third one for Twitter.
 >
@@ -610,7 +610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[LinkedIn]] (2), [[User Interface Design]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[LinkedIn]] (2), [[Facebook]] (2), [[User Interface Design]] (1)
 > **UI Navigation:** click on (6), go to (4), navigate to (2), select the (1), dropdown (1)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** figma (2)
@@ -1272,7 +1272,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=320)** The distance between the icon and the header should also be 20 pixels.
 >
-> **[5:24](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=324)** That way we'll also add Facebook icon that we are also going to position exactly next to our LinkedIn icon.
+> **[5:24](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=324)** That way we'll also add [[Facebook]] icon that we are also going to position exactly next to our LinkedIn icon.
 >
 > **[5:30](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=330)** Make sure that the distance is 12 pixels.
 >
@@ -1296,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (12), find (1)
 > **UI Navigation:** go to (2), select the (1), navigate to (1)
 > **Cross-References:** go back to (2), in the last (1)

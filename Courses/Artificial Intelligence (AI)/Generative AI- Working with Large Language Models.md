@@ -225,7 +225,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=62)** This made headlines because the Open AI team didn't want to release the details of the model because of ethical concerns.
 >
-> **[1:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=69)** Now, later that year, Facebook's AI research team released BART.
+> **[1:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=69)** Now, later that year, [[Facebook]]'s AI research team released BART.
 >
 > **[1:13](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=73)** Google released T5.
 >
@@ -261,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1), [[Facebook]] (1), [[Hugging Face]] (1)
 > **Env Vars:** gpt (11), bert (7), nlp (1), bart (1)
 > **Definitions:** is a  (3)
 > **Versions:** 1.5 (1)
@@ -347,7 +347,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=219)** So to put that in context, when BERT is trained on 250 billion tokens, that's approximately 1.8 million 300-page novels.
 >
-> **[3:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=231)** Looking again at pretrained models, RoBERTa was developed by Facebook in 2019.
+> **[3:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=231)** Looking again at pretrained models, RoBERTa was developed by [[Facebook]] in 2019.
 >
 > **[3:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=237)** The number of parameters was 125 million, and it has a very similar architecture to BERT.
 >
@@ -395,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (8), [[Google]] (3), [[Hardware]] (2), [[Microsoft Word|Word]] (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (8), [[Google]] (3), [[Hardware]] (2), [[Microsoft Word|Word]] (2), [[Facebook]] (2)
 > **Env Vars:** bert (14), v100 (2), nlp (2), gpt (1), gpu (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
@@ -426,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=44)** So encoder-decoder models are good for generative tasks such as translation or summarization.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=51)** Examples of such encoder-decoder models are Facebook's BART model and [[Google]]'s T5.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=51)** Examples of such encoder-decoder models are [[Facebook]]'s BART model and [[Google]]'s T5.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=57)** Encoder-only models are good for tasks that require understanding of the input, such as sentence classification and named entity recognition.
 >
@@ -442,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Google]] (1)
 > **Env Vars:** gpt (4), nlp (2), bert (2), bart (1), gbt (1)
 > **Analogies:** such as (4)
 > **Definitions:** known as (2)
@@ -680,7 +680,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=36)** Now if we go ahead and enter FedEx, and you can see that the model correctly responds with delivery.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=45)** Now let's enter Facebook and select submit.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=45)** Now let's enter [[Facebook]] and select submit.
 >
 > **[0:49](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=49)** Now that looks like a reasonable category.
 >
@@ -806,7 +806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Facebook]] (3)
 > **Env Vars:** gpt (14), api (1)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** python (4), find (1), make (1)
@@ -1607,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=6)** Now although OpenAI made GPT-3 available via an API, no access was given to the actual weights of the model making it difficult for smaller research organizations and institutions to study these models.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=20)** The Meta, or Facebook, AI team then released OPT, or Open Pre-trained Transformers.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=20)** The Meta, or [[Facebook]], AI team then released OPT, or Open Pre-trained Transformers.
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=27)** This was a couple of decoder-only pre-trained transformers ranging from 125 million to 66 billion parameters, which they shared with everyone.
 >
@@ -1643,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Hardware]] (2), [[Ethics]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Hugging Face]] (2), [[Hardware]] (2), [[Ethics]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bloom (5), gpt (2), api (1), opt (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)

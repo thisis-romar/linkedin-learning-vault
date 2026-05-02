@@ -1105,7 +1105,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=159)** Wireless networks are pervasive in today's world and provides an attractive attack vector.
 >
-> **[2:45](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=165)** The 802.11 standard or Wi-Fi is characteristically insecure.
+> **[2:45](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=165)** The 802.11 standard or [[Wi-Fi]] is characteristically insecure.
 >
 > **[2:52](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/data-loss-prevention?u=76281980&t=172)** Educate clients not to join open access points such as the ones you find in coffee shops and airports.
 >
@@ -1139,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Storage]] (2), [[Phishing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (4), [[Cloud Storage]] (2), [[Phishing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1)
 > **Analogies:** such as (4)
 > **Warnings:** caution (2), be aware (1)
 > **CLI Commands:** find (1)
@@ -1955,7 +1955,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=70)** Have a separate device for company access, and don't allow family members to use work devices as accidental malware downloads may occur.
 >
-> **[1:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=81)** For wi-fi protection, use a strong password on the access point and don't broadcast the SSID.
+> **[1:21](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=81)** For [[Wi-Fi]] protection, use a strong password on the access point and don't broadcast the SSID.
 >
 > **[1:29](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/small-office-home-office-soho?u=76281980&t=89)** Use encryption.
 >
@@ -1969,7 +1969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12), [[Wi-Fi]] (1)
 > **Env Vars:** wan (1), ssid (1), wpa2 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

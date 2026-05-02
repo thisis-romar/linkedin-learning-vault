@@ -3100,7 +3100,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=282)** This is common, we frequently see different navigational methods employed within a product, where each method has been selected to best fit the needs of the content and functionality.
 >
-> **[4:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=294)** For example, Facebook and Twitter both have streams and sections.
+> **[4:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=294)** For example, [[Facebook]] and Twitter both have streams and sections.
 >
 > **[4:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=299)** And in some sections like security and settings, there is a hierarchical structure.
 >
@@ -3120,7 +3120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Algorithms]] (1), [[Facebook]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (6), for example (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -3685,7 +3685,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=140)** Some digital sounds may be selected and used in a product because they correspond to something familiar from the physical world.
 >
-> **[2:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=147)** These auditory icons are recognizable and may even be sampled from actual physical objects, such as the sounds of crumpling paper when you empty the trash can on a Mac, or a telephone ring when you get a Wi-Fi call on your computer.
+> **[2:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=147)** These auditory icons are recognizable and may even be sampled from actual physical objects, such as the sounds of crumpling paper when you empty the trash can on a Mac, or a telephone ring when you get a [[Wi-Fi]] call on your computer.
 >
 > **[2:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=163)** This is analogous to the way some graphical icons resemble the physical thing they represent, like a printer or telephone or a pen.
 >
@@ -3707,7 +3707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1), [[Wi-Fi]] (1)
 > **Analogies:** such as (3), analogous to (1), for example (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** setup (1)

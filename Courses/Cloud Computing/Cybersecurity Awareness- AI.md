@@ -518,7 +518,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=147)** The Health Insurance Portability and [[Accountability]] Act protects patient data in healthcare.
 >
-> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=153)** The Payment Card Industry [[Data Security]] Standard keeps financial transactions secure.
+> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=153)** The [[PCI DSS|Payment Card Industry Data Security Standard]] keeps financial transactions secure.
 >
 > **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=159)** While these weren't created for AI specifically, they still apply to AI systems handling sensitive data.
 >
@@ -550,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (2), [[Accountability]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (2), [[Accountability]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - all (1)

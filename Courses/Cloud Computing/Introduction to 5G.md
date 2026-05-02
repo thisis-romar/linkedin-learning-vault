@@ -349,7 +349,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=274)** We decoupled the control plane from the user plane.
 >
-> **[4:36](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=276)** That is what SDN does.
+> **[4:36](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=276)** That is what [[SDN]] does.
 >
 > **[4:38](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=278)** And that allows us to do network slicing, which will I explain further down the road.
 >
@@ -389,7 +389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[5G]] (4), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[5G]] (4), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SDN]] (1)
 > **Env Vars:** vnf (4), mimo (2), ran (1), sdn (1)
 > **Definitions:** means that (2), is a  (2)
 > **Versions:** 3.5 (2)
@@ -532,7 +532,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=335)** Well actually today we know there were other systems out there which in theory should have been better.
 >
-> **[5:41](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=341)** What else can I talk to you about, WiFi!
+> **[5:41](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=341)** What else can I talk to you about, [[Wi-Fi|WiFi]]!
 >
 > **[5:43](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=343)** You know I worked for a big operator for a while and I can tell you that WiFi was something the operators did not like for a very long time, and a lot of the engineers sometimes went in to look on what WiFi standard was doing, and maybe even slowing it down.
 >
@@ -568,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[5G]] (8), [[Wi-Fi|Wifi]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** itu (6), tsg (4), iut (3), ran (2), ngmn (2)
 > **Definitions:** is a  (4), is an  (3), stands for (1)
 > **Speakers:** - [presentor (1), - now (1)
@@ -610,11 +610,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=58)** Well, I would like you to get a very solid understanding of the 5G technologies, the spectrum.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=64)** You know, what type of interface we're using, as well as the access and core network, and finally, we will spend a bit of time on this authorization of the 5G architecture, so I would like you to understand in great details, what is SDN, NFV, and slicing?
+> **[1:04](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=64)** You know, what type of interface we're using, as well as the access and core network, and finally, we will spend a bit of time on this authorization of the 5G architecture, so I would like you to understand in great details, what is [[SDN]], NFV, and slicing?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (5)
+> **Frameworks & Libraries:** [[5G]] (5), [[SDN]] (1)
 > **Env Vars:** sdn (1), nfv (1)
 > **Speakers:** - congratulations (1)
 
@@ -1014,11 +1014,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=137)** And that allows us to do something now, which is truly amazing, and that has entirely software-ized my 5G system.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=146)** Look on the lower side, we have the actual access radios, we have 5G, we have 4G, we do have WiFi, anything you want to plug in.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=146)** Look on the lower side, we have the actual access radios, we have 5G, we have 4G, we do have [[Wi-Fi|WiFi]], anything you want to plug in.
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=156)** Then we have the fully virtualized infrastructure, we have the hardware, the software decoupled and it allows us to do network function virtualization with the VNFs, which is shown on the top left.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=168)** We then have SDN.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=168)** We then have [[SDN]].
 >
 > **[2:50](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=170)** SDN is all about decoupling control plane and user plane.
 >
@@ -1138,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (16), [[IoT]] (4), [[Hardware]] (3), [[Data Management]] (1)
+> **Frameworks & Libraries:** [[5G]] (16), [[IoT]] (4), [[Hardware]] (3), [[SDN]] (3), [[Data Management]] (1)
 > **Env Vars:** iot (4), sdn (3), ran (2), gnb (2), mmtc (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1196,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=34)** Remember we are increasing the density of the infrastructure.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=37)** And even today when you switch on your wi-fi, you see 20 wi-fi access points.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=37)** And even today when you switch on your [[Wi-Fi]], you see 20 wi-fi access points.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=43)** So we will have the same in cellular.
 >
@@ -1240,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (2)
+> **Frameworks & Libraries:** [[5G]] (2), [[Wi-Fi]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - let (1)
 

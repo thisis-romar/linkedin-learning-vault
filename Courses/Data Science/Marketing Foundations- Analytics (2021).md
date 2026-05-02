@@ -299,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980&t=45)** Strategy is singular, meaning it is set at a high level and usually verbalized as digital marketing, inbound marketing, or content marketing.
 >
-> **[0:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980&t=56)** There is no Facebook strategy, YouTube strategy or SEO strategy.
+> **[0:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980&t=56)** There is no [[Facebook]] strategy, YouTube strategy or SEO strategy.
 >
 > **[1:02](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980&t=62)** These are tactics.
 >
@@ -365,6 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Env Vars:** kpi (3), seo (2), ceo (1), pdf (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), for example (1)
@@ -619,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=37)** The platform is a software, technology, or environment.
 >
-> **[0:41](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=41)** Platforms include Facebook, Instagram, YouTube, or even a blog.
+> **[0:41](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=41)** Platforms include [[Facebook]], [[Instagram]], YouTube, or even a blog.
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=48)** These platforms enable us to reach a specific audience with a targeted message, and that will invoke an intended outcome.
 >
@@ -673,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Facebook]] (1), [[Instagram]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - marketers (1)

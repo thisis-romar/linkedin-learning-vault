@@ -200,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=0)** - [Instructor] [[React.js|React]] is a [[JavaScript]] library that you can use to create user interfaces.
 >
-> **[0:05](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=5)** It was created at Facebook and open sourced in March of 2013.
+> **[0:05](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=5)** It was created at [[Facebook]] and open sourced in March of 2013.
 >
 > **[0:09](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980&t=9)** Since then, react has expanded beyond the web with [[React Native]], a tool that allows you to create native mobile applications using React.
 >
@@ -216,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), [[JavaScript]] (1), [[React Native]] (1), [[GitHub]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[JavaScript]] (1), [[Facebook]] (1), [[React Native]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
@@ -307,11 +307,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=100)** React is abstracting a lot of that back to the language layer, so that when we compile, it'll automatically be optimized for production so that we can focus on just writing our components and letting React do the heavy lifting of transforming our code into something that's as fast as possible.
 >
-> **[1:59](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=119)** So the React Compiler is already in production and has been at Instagram, and we'll see this more and more as we adopt React 19 in our projects.
+> **[1:59](https://www.linkedin.com/learning/react-essential-training/understanding-the-react-compiler?u=76281980&t=119)** So the React Compiler is already in production and has been at [[Instagram]], and we'll see this more and more as we adopt React 19 in our projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (14), [[Git]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (14), [[Git]] (1), [[JavaScript]] (1), [[Instagram]] (1)
 > **Code Identifiers:** usememo (1), usecallback (1)
 > **Env Vars:** jsx (1), xml (1)
 > **Versions:** react 19 (2)

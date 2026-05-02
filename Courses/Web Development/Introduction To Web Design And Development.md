@@ -1097,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=56)** More recently, JavaScript frameworks have become wildly popular.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=61)** Facebook's [[React.js|React]], Open-source [[Vue.js|Vue]] and [[Google]]'s [[Angular]] are the three most encountered frameworks for [[Front-End Development]].
+> **[1:01](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=61)** [[Facebook]]'s [[React.js|React]], Open-source [[Vue.js|Vue]] and [[Google]]'s [[Angular]] are the three most encountered frameworks for [[Front-End Development]].
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-a-framework?u=76281980&t=71)** Frameworks in general are often used for two major reasons in programming.
 >
@@ -1139,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (3), [[Windows]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (3), [[Windows]] (1), [[Facebook]] (1), [[React.js|React]] (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** make (2)
 > **URLs:** [getbootstrap.com](https://getbootstrap.com) (1)

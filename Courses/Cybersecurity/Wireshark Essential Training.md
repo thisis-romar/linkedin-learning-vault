@@ -240,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=100)** They can then study the behavior of the protocol.
 >
-> **[1:44](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=104)** We'll all familiar with the four packet exchange in the DHCP process, but if we drop it into Wireshark we can actually see the exchange of the discover, offer, request and acknowledge.
+> **[1:44](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=104)** We'll all familiar with the four packet exchange in the [[DHCP]] process, but if we drop it into Wireshark we can actually see the exchange of the discover, offer, request and acknowledge.
 >
 > **[2:00](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980&t=120)** And then we can drill down in each individual packet to see what is happening.
 >
@@ -272,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (10), [[Intrusion Detection]] (1), [[Google]] (1), [[Regulatory Compliance]] (1), [[Endpoint Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (10), [[Intrusion Detection]] (1), [[Google]] (1), [[DHCP]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** dhcp (1), udp (1), tcp (1), ssdp (1), dns (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
@@ -597,7 +597,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=109)** If you don't have the correct capture engine, you won't be able to capture the traffic.
 >
-> **[1:54](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=114)** Keep in mind that traffic enters the network interface card one frame at a time.
+> **[1:54](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=114)** Keep in mind that traffic enters the [[NIC|network interface card]] one frame at a time.
 >
 > **[2:01](https://www.linkedin.com/learning/wireshark-essential-training/tap-into-the-data-stream-13886505?u=76281980&t=121)** Packet analysis software converts those bits into readable form for analysis.
 >
@@ -697,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (8), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[Windows]] (1), [[Linux]] (1), [[NIC|Network interface card]] (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3)
@@ -777,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=187)** And now I'll go to an open ftp site just so we can see what we get when we capture that traffic.
 >
-> **[3:14](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=194)** And I'll double click on my wifi and begin capturing, and I'll select one of the captures.
+> **[3:14](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=194)** And I'll double click on my [[Wi-Fi|wifi]] and begin capturing, and I'll select one of the captures.
 >
 > **[3:23](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980&t=203)** And in here, this is a huge capture filter, and then I'll stop that.
 >
@@ -799,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Wi-Fi|Wifi]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Ports:** port 21 (2)
 > **Env Vars:** ftp (1), tcp (1)
@@ -894,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=13)** The seven-layer OSI model standardizes the functions of [[Data Transformation]] by breaking it down into layers.
 >
-> **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=22)** And it outlines how that network interface card encapsulates the data as it's prepared for transit on the network.
+> **[0:22](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=22)** And it outlines how that [[NIC|network interface card]] encapsulates the data as it's prepared for transit on the network.
 >
 > **[0:29](https://www.linkedin.com/learning/wireshark-essential-training/grasping-the-osi-model?u=76281980&t=29)** I'll take a look at the OSI model at a high level.
 >
@@ -984,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), [[Data Transformation]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Data Transformation]] (1), [[NIC|Network interface card]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** osi (5), mac (3), http (1), ftp (1), smtp (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** such as (3)
@@ -1310,7 +1310,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=370)** And now you see it says it's incorrect and it should be this number.
 >
-> **[6:14](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=374)** And as you see, there's a little note that says, TCP checksum offload, what happens is it offloads to the NIC card and it comes up in correct.
+> **[6:14](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=374)** And as you see, there's a little note that says, TCP checksum offload, what happens is it offloads to the [[NIC]] card and it comes up in correct.
 >
 > **[6:24](https://www.linkedin.com/learning/wireshark-essential-training/explaining-transmission-control-protocol?u=76281980&t=384)** Down below, you see the red dot and the expert system and that's saying that there's possibly something wrong with this stream, but there isn't.
 >
@@ -1338,7 +1338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (7), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (7), [[Metadata]] (1), [[NIC]] (1)
 > **Env Vars:** tcp (16), http (5), osi (1), nic (1)
 > **UI Navigation:** go to (8), scroll down (1), scroll up (1)
 > **CLI Commands:** find (2)
@@ -2398,9 +2398,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=0)** - [Narrator] Dynamic host configuration protocol works at the application layer of the OSI model.
+> **[0:00](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=0)** - [Narrator] [[DHCP|Dynamic host configuration protocol]] works at the application layer of the OSI model.
 >
-> **[0:07](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=7)** DHCP dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
+> **[0:07](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=7)** [[DHCP]] dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:13](https://www.linkedin.com/learning/wireshark-essential-training/exploring-dhcp?u=76281980&t=13)** DHCP uses UDP for transport, and the client will use port 68, and the server will use port 67.
 >
@@ -2506,7 +2506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (8), [[DHCP|Dynamic host configuration protocol]] (2), [[Local Area Network (LAN)|Local area network]] (2), [[Wireshark]] (1)
 > **Env Vars:** dhcp (8), dora (6), mac (2), osi (1), udp (1)
 > **Ports:** port 68 (1), port 67 (1)
 > **Versions:** 0.0.0 (1), 87.5 (1)
@@ -2910,7 +2910,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=219)** Next, using the link in the document, you are to obtain a file and open it in Wireshark.
 >
-> **[3:46](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=226)** Now this capture is the DHCP DORA process where we can see the four-step process, discover, offer, request, and acknowledge.
+> **[3:46](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=226)** Now this capture is the [[DHCP]] DORA process where we can see the four-step process, discover, offer, request, and acknowledge.
 >
 > **[3:58](https://www.linkedin.com/learning/wireshark-essential-training/solution-examining-a-packet-capture-24580246?u=76281980&t=238)** And we'll just pull this up so we can examine just all of these in general.
 >
@@ -2964,7 +2964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3)
+> **Frameworks & Libraries:** [[DHCP]] (5), [[Wireshark]] (3)
 > **Env Vars:** dns (5), dhcp (5), udp (2), http (1), dora (1)
 > **UI Navigation:** go to (9), scroll down (2), open the (1), scroll up (1)
 > **Definitions:** is a  (3), means that (1)

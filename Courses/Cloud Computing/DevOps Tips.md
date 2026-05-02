@@ -1165,7 +1165,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=1)** - [Instructor] When it comes to getting updates on the latest [[DevOps]] news, email and social outlets like Facebook and Twitter are just as popular as ever.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=1)** - [Instructor] When it comes to getting updates on the latest [[DevOps]] news, email and social outlets like [[Facebook]] and Twitter are just as popular as ever.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=9)** But I do find that these methods can lose their effect over time.
 >
@@ -1209,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Facebook]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** rss (2), aws (1)
 > **Speakers:** - [instructor] (1)

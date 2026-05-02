@@ -2077,7 +2077,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=132)** So if I click under Authentication, this is where we can add an identity provider.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=138)** So if you want to allow users from other identity services to be able to access your app, this is where you're going to add, for example Facebook or [[Google]], as an identity provider, and then a user that has a Facebook account through the trusted mechanisms of [[Microsoft Azure|Azure]] will be able to access and authenticate successfully to your application.
+> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=138)** So if you want to allow users from other identity services to be able to access your app, this is where you're going to add, for example [[Facebook]] or [[Google]], as an identity provider, and then a user that has a Facebook account through the trusted mechanisms of [[Microsoft Azure|Azure]] will be able to access and authenticate successfully to your application.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=161)** So identity providers require an advanced set of configuration at the organization level, specifically here for your subscription, to allow those identity provider to be added in and therefore for you to provide the necessary set of permissions for users that are authenticated through that identity provider.
 >
@@ -2153,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Facebook]] (2), [[Google]] (1)
 > **Env Vars:** url (3), ftp (2), https (2), tls (1), ssl (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -2479,7 +2479,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=172)** And again, each one of those icons represents a resource.
 >
-> **[2:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=175)** So those resources, again, this is the public IP address, and this here is a network interface card, a NIC.
+> **[2:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=175)** So those resources, again, this is the public IP address, and this here is a [[NIC|network interface card]], a [[NIC]].
 >
 > **[3:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=183)** So this virtual NIC is associated with VM1.
 >
@@ -2557,7 +2557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (5), [[Microsoft Azure|Azure]] (4)
+> **Frameworks & Libraries:** [[Network Security]] (5), [[Microsoft Azure|Azure]] (4), [[NIC]] (2), [[NIC|Network interface card]] (1)
 > **Env Vars:** vm1 (9), nsg (5), tcp (2), rg1 (2), nic (2)
 > **Definitions:** is a  (3), is called (2), basically means (1), is an  (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2903,7 +2903,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=179)** Where I see here any identity provider that I've configured.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=181)** And this is where you would configure your organization to trust, for example, Facebook identity or [[Google]] identities.
+> **[3:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=181)** And this is where you would configure your organization to trust, for example, [[Facebook]] identity or [[Google]] identities.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=189)** So, Microsoft Entra is a new name.
 >

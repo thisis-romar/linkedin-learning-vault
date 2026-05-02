@@ -392,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=116)** I'll argue that for a lot of professionals, [[LinkedIn]] is your gold standard platform when you're trying to build thought leadership.
 >
-> **[2:04](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=124)** That's probably where your professional network is, but you may be in a field more prone to using Instagram or Quora or Twitter.
+> **[2:04](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=124)** That's probably where your professional network is, but you may be in a field more prone to using [[Instagram]] or Quora or Twitter.
 >
 > **[2:13](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980&t=133)** Or, yes, you may want to start a blog that you can use as sort of a thought leadership home base, but it's absolutely not necessary.
 >
@@ -412,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (3), [[LinkedIn]] (1), [[Instagram]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
@@ -444,7 +444,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=80)** Which platforms will be most relevant to your industry, your role, and who you're trying to reach?
 >
-> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=86)** Among the most common social media platforms for prerecorded and live content are [[LinkedIn]], Instagram, Facebook and YouTube.
+> **[1:26](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=86)** Among the most common social media platforms for prerecorded and live content are [[LinkedIn]], [[Instagram]], [[Facebook]] and YouTube.
 >
 > **[1:38](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/create-audio-or-video-content?u=76281980&t=98)** Oh, and a quick heads up, if you do want to use LinkedIn for live video, you need to apply for that privilege.
 >
@@ -482,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Thought Leadership]] (1), [[Instagram]] (1), [[Facebook]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **URLs:** [jobjenny.com](https://jobjenny.com) (1)

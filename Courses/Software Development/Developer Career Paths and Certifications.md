@@ -376,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=28)** And the average cost of tuition in 2019 to 2020 was $41,426 at private colleges.
 >
-> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=38)** Companies like Uber, Facebook, [[Microsoft]], Apple and Twitter, were all started by founders without college degrees, therefore more and more companies, including alphabet ,which is [[Google]]'s parent company IBM and others no longer require college degrees.
+> **[0:38](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=38)** Companies like Uber, [[Facebook]], [[Microsoft]], Apple and Twitter, were all started by founders without college degrees, therefore more and more companies, including alphabet ,which is [[Google]]'s parent company IBM and others no longer require college degrees.
 >
 > **[0:56](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980&t=56)** And stack Overflow's annual survey, 75% of developers completed the equivalent of a bachelor's degree.
 >
@@ -406,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ibm (1), gpa (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - my (1)

@@ -2353,7 +2353,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=19)** If wired, connect to the network cable to the printer just as you would any network device.
 >
-> **[0:24](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=24)** For wireless access, use the printer's control panel to discover and connect with the wifi network.
+> **[0:24](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=24)** For wireless access, use the printer's control panel to discover and connect with the [[Wi-Fi|wifi]] network.
 >
 > **[0:32](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=32)** Aside from the [[Hardware]] connection, printer configuration in [[Windows]] is automatic.
 >
@@ -2419,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft]] (2), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft]] (2), [[Wi-Fi|Wifi]] (1), [[Hardware]] (1)
 > **Env Vars:** pdf (2), usb (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
@@ -2439,7 +2439,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=3)** Generally speaking, a desktop computer has a wired connection, laptops and mobile devices use wireless, though the current trend is for [[Wireless Networking]] for all devices as it involves less infrastructure.
 >
-> **[0:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=17)** The [[Hardware]] required to connect a network wired or wirelessly is a network adapter called N-I-C or NIC for network interface controller.
+> **[0:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=17)** The [[Hardware]] required to connect a network wired or wirelessly is a network adapter called N-I-C or [[NIC]] for [[NIC|network interface controller]].
 >
 > **[0:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=27)** This controller features a unique ID called the MAC address.
 >
@@ -2489,7 +2489,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=170)** To gain technical information about the PCs network adapter and the network itself, open the settings app, press the Windows + I keyboard shortcut, choose Network & Internet, and choose the computer's network connection.
 >
-> **[3:04](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=184)** Wi-Fi for a wireless connection or ethernet for wired.
+> **[3:04](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=184)** [[Wi-Fi]] for a wireless connection or ethernet for wired.
 >
 > **[3:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=188)** Some computers may have both.
 >
@@ -2511,7 +2511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (2), [[Windows]] (2), [[Hardware]] (1), [[Network Security]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (2), [[Windows]] (2), [[Wi-Fi]] (2), [[Hardware]] (1), [[NIC]] (1)
 > **Env Vars:** mac (3), nic (1), cat5 (1), cat6 (1)
 > **Definitions:** is a  (2), known as (2), stands for (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -2535,7 +2535,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=26)** Connecting to a wireless network is a software operation and it requires you to know at least two tidbits of information.
 >
-> **[0:34](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=34)** The Wi-Fi network's name and the network password.
+> **[0:34](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=34)** The [[Wi-Fi]] network's name and the network password.
 >
 > **[0:38](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=38)** In [[Windows]], you start your Wi-Fi connection journey on the task bar with the action center.
 >
@@ -2593,7 +2593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (14), [[Windows]] (7), [[Windows 10]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2772,7 +2772,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=69)** Be aware that just because a peripheral is wireless doesn't mean that it's Bluetooth.
 >
-> **[1:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=74)** For example, a wireless printer uses Wi-Fi to connect to the network, not Bluetooth.
+> **[1:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=74)** For example, a wireless printer uses [[Wi-Fi]] to connect to the network, not Bluetooth.
 >
 > **[1:20](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=80)** Some pointing devices and keyboards are wireless but they use their own standard.
 >
@@ -2796,7 +2796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (1), [[Windows]] (1), [[Windows 10]] (1)
 > **Env Vars:** usb (3)
 > **Definitions:** is a  (1), known as (1)
 > **UI Navigation:** open the (1)

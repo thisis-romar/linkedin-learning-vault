@@ -172,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=4)** For example, the photos of your child on your phone.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=7)** Sometimes you don't want something to be stored for a long time, such as an Instagram story or a Snapchat message.
+> **[0:07](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=7)** Sometimes you don't want something to be stored for a long time, such as an [[Instagram]] story or a Snapchat message.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=14)** Let's start by discussing what memory is when we don't think about computers.
 >
@@ -254,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Instagram]] (1)
 > **Env Vars:** ram (15), rom (4), cpu (2)
 > **Analogies:** for example (4), such as (3), just like (1)
 > **Definitions:** is an  (1), stands for (1)

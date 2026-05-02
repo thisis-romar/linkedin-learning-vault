@@ -3037,7 +3037,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=63)** Managing password hashes in your database and making sure you're practicing proper security in case of a data breach has always been a struggle but AWSS has a few services to help you manage your user authentication for you.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=77)** One of those services is Cognito and it can help you implement sign-in integrations with other providers so your users can sign in with [[Google]] or their Facebook logins.
+> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=77)** One of those services is Cognito and it can help you implement sign-in integrations with other providers so your users can sign in with [[Google]] or their [[Facebook]] logins.
 >
 > **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=88)** Let's take a look at how this works.
 >
@@ -3115,7 +3115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Amazon EC2|Ec2]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Facebook]] (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (7), mfa (2), ses (2), iam (2), ec2 (1)
 > **CLI Commands:** aws (7), make (1)
 > **UI Navigation:** click on (2), scroll down (1)

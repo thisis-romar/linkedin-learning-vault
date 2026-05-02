@@ -1979,10 +1979,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980&t=31)** The knowledge you've gained in this course will come in handy whenever you're building programs with C#.
 >
-> **[0:37](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980&t=37)** Feel free to follow me on Instagram at blondiebytes and good luck, happy coding!
+> **[0:37](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980&t=37)** Feel free to follow me on [[Instagram]] at blondiebytes and good luck, happy coding!
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
 > **Tools:** visual studio (1)

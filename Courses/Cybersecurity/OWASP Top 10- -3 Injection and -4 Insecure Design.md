@@ -225,13 +225,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=88)** They paid hundreds of millions of dollars to compensate for fraudulent payments and even lost their PCI compliance status for several months.
 >
-> **[1:36](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=96)** PCI, or the Payment Card Industry [[Data Security]] standard is required by credit card providers like visa and MasterCard in order to process payments.
+> **[1:36](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=96)** PCI, or the [[PCI DSS|Payment Card Industry data security standard]] is required by credit card providers like visa and MasterCard in order to process payments.
 >
 > **[1:47](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/example-1-2008-heartland-data-breach?u=76281980&t=107)** The hacker behind the attack, Albert Gonzalez was eventually indicted for the breach and sentenced to 20 years in United States federal prison.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** sql (2), pci (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

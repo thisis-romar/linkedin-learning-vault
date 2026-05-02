@@ -243,7 +243,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=151)** An identical process occurs in Silicon Valley. After killing off Inktomi, Ask Jeeves and other search engines, [[Google]] grew rapidly to become the giant in internet search.
 >
-> **[2:47](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=167)** Similarly, after killing off of Friendster, Myspace, and other social media upstarts, Facebook became the social media giant that we know today.
+> **[2:47](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=167)** Similarly, after killing off of Friendster, Myspace, and other social media upstarts, [[Facebook]] became the social media giant that we know today.
 >
 > **[3:00](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-core-logic-of-innovation?u=76281980&t=180)** This three step process, creation of variety, brutal selection from among the many options and scaling up of the best ideas is the core logic behind all innovation.
 >
@@ -273,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Facebook]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
@@ -432,13 +432,13 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=298)** Google's, YouTube and [[Android]] businesses started out as acquisitions.
 >
-> **[5:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=303)** The same is true for Meta's, WhatsApp and Instagram businesses.
+> **[5:03](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=303)** The same is true for Meta's, WhatsApp and [[Instagram]] businesses.
 >
 > **[5:09](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980&t=309)** There is no shame in learning from others, only in having one's head buried in sand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Microsoft Products|Products]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Microsoft Products|Products]] (1), [[Android]] (1), [[Instagram]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** find (1)

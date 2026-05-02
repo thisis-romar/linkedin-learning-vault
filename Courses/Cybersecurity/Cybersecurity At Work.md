@@ -379,7 +379,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=0)** - There are many times when you might need to use a public wifi network in order to get your job done.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=0)** - There are many times when you might need to use a public [[Wi-Fi|wifi]] network in order to get your job done.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980&t=7)** You might be working at a coffee shop, a conference center, a coworking space, or an airport.
 >
@@ -431,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (18), [[Wireless Networking]] (1), [[Banking]] (1)
 > **Env Vars:** vpn (2), wpa2 (1), https (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -453,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=16)** First, it's important to understand that if you're on a shared network any other device on that network could listen in.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=25)** Shared networks are not secure and it's risky to join a wifi network that you don't personally operate.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=25)** Shared networks are not secure and it's risky to join a [[Wi-Fi|wifi]] network that you don't personally operate.
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/home-wi-fi?u=76281980&t=31)** Here's how to securely set up your own wifi.
 >
@@ -495,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (9), [[Microsoft Office|Office]] (1)
 > **Env Vars:** mac (2), wpa (1), wpa3 (1), ssid (1), vpn (1)
 > **Prerequisites:** set up (2), you'll need (2)
 > **Speakers:** - working (1)
@@ -504,7 +504,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=0)** - If you're using a public wifi network, connecting to a VPN will help to secure your internet communications.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=0)** - If you're using a public [[Wi-Fi|wifi]] network, connecting to a VPN will help to secure your internet communications.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/vpn?u=76281980&t=8)** A VPN or [[Virtual Private Network (VPN)|virtual private network]] works by creating a secure virtual tunnel for internet traffic to pass through.
 >
@@ -526,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (3), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** vpn (8)
 > **UI Navigation:** select the (1)
 > **Speakers:** - if (1)
@@ -912,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=51)** It's tough work.
 >
-> **[0:53](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=53)** I wish I could just scroll on Instagram all day.
+> **[0:53](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=53)** I wish I could just scroll on [[Instagram]] all day.
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/the-anatomy-of-a-cyber-attack?u=76281980&t=56)** - I'm not just mindlessly scrolling.
 >
@@ -988,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Cybersecurity]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Instagram]] (1), [[Cybersecurity]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - oh (5), - that (3), - i (2), - and (2), - we (1)
 > **Env Vars:** cve (1), mfa (1)
 > **Definitions:** is a  (2)
@@ -1033,13 +1033,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=111)** And each of us has a responsibility to look out.
 >
-> **[1:54](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=114)** If an unknown person gains unfettered access to a building, they could do anything like set up a new wifi access point that collects passwords from anyone who connects to their network.
+> **[1:54](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=114)** If an unknown person gains unfettered access to a building, they could do anything like set up a new [[Wi-Fi|wifi]] access point that collects passwords from anyone who connects to their network.
 >
 > **[2:07](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980&t=127)** While online activity often comes to mind when thinking about cybersecurity, physical security is the first step to protecting digital information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1), [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** cia (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)

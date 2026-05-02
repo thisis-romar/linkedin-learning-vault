@@ -384,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=25)** To choose a specific size, click on the Size Presets and you get this amazing pop down and a world of choice opens up to you.
 >
-> **[0:34](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=34)** You get everything from smartphones to TV and even artboards you can use where you can present your ideas on Dribble, Twitter, or even Instagram.
+> **[0:34](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=34)** You get everything from smartphones to TV and even artboards you can use where you can present your ideas on Dribble, Twitter, or even [[Instagram]].
 >
 > **[0:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=45)** For me, a major oversight is the non-inclusion of [[Android]] devices.
 >
@@ -446,7 +446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[Android]] (2)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Android]] (2), [[Instagram]] (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tom] (1)

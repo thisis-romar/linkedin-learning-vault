@@ -435,7 +435,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=0)** - [Instructor] So now let's dive a bit deeper into the great depths of [[Cloud Computing]] networking, including DNS, or [[Domain Name System (DNS)|domain name system]], DHCP, or Dynamic Host Configuration Protocol, and VPN, which as you may recall, stands for [[Virtual Private Network (VPN)|virtual private network]].
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=0)** - [Instructor] So now let's dive a bit deeper into the great depths of [[Cloud Computing]] networking, including DNS, or [[Domain Name System (DNS)|domain name system]], [[DHCP]], or [[DHCP|Dynamic Host Configuration Protocol]], and VPN, which as you may recall, stands for [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=18)** Here's a brief overview of each within the context of cloud computing networking, DNS is responsible for translating domain names into IP addresses.
 >
@@ -477,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[LinkedIn]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[DHCP]] (3), [[LinkedIn]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** dns (5), dhcp (3), vpn (2)
 > **Definitions:** means that (2), stands for (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
@@ -543,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=0)** - [Instructor] Same deal here as with DNS.
 >
-> **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=2)** Let's look at the specific steps to set up DHCP as related to cloud networking.
+> **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=2)** Let's look at the specific steps to set up [[DHCP]] as related to cloud networking.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=9)** Understand the DHCP options and capabilities provided by your specific cloud provider, such as AWS and [[Google]].
 >
@@ -587,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Virtual Machines]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (10), [[Google]] (1), [[Virtual Machines]] (1), [[Routing]] (1)
 > **Env Vars:** dhcp (10), dns (2), vpc (2), aws (1), ntp (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **CLI Commands:** find (2), aws (1)

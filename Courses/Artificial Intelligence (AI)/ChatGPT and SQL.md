@@ -574,9 +574,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=19)** It took Netflix 3.5 years to get to 1 million users.
 >
-> **[0:23](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=23)** It took Twitter two years. It took Facebook 10 months.
+> **[0:23](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=23)** It took Twitter two years. It took [[Facebook]] 10 months.
 >
-> **[0:27](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=27)** Instagram took 2.5 months, which is pretty good.
+> **[0:27](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=27)** [[Instagram]] took 2.5 months, which is pretty good.
 >
 > **[0:30](https://www.linkedin.com/learning/chatgpt-and-sql/generative-ai-tools?u=76281980&t=30)** But ChatGPT took a mere five days.
 >
@@ -614,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Gemini]] (6), [[Google]] (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Gemini]] (6), [[Google]] (4), [[Facebook]] (1), [[Instagram]] (1)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Definitions:** known as (2)
 > **Env Vars:** gpt (1)

@@ -1144,9 +1144,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=14)** This might be a little confusing.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=15)** So you can think of a CTE or a common table expression like a sub query, where you define a dataset within another query, and then you can reference it from another part of the query, the outer query.
+> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=15)** So you can think of a [[CTE]] or a [[CTE|common table expression]] like a sub query, where you define a dataset within another query, and then you can reference it from another part of the query, the outer query.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=27)** Now CTEs are exactly like that.
+> **[0:27](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=27)** Now [[CTE|CTEs]] are exactly like that.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=29)** But they're also self-referencing, meaning you can do things like traverse hierarchies in your data within a single query.
 >
@@ -1278,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[CTE]] (15), [[CTE|Ctes]] (3), [[SQL]] (3), [[CTE|Common table expression]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** cte (15), sql (3), select (2), ceo (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** similar to (2), such as (1), just like (1)
@@ -1308,7 +1308,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=65)** These are the ones that I typically go for to understand a company's true performance.
 >
-> **[1:09](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=69)** In this demo, I'm going to use a common table expression to find the previous year sales.
+> **[1:09](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=69)** In this demo, I'm going to use a [[CTE|common table expression]] to find the previous year sales.
 >
 > **[1:14](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=74)** Then I'm going to build upon that by calculating the growth percent for the current year over the previous year.
 >
@@ -1324,7 +1324,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=114)** Then I'm joining to the internet sales table, which just gives me the current year sales.
 >
-> **[1:58](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=118)** Then I'm joining to my CTE and in the CTE, I have a little trick here at my sleeve where I'm subtracting a year and joining back to it.
+> **[1:58](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=118)** Then I'm joining to my [[CTE]] and in the CTE, I have a little trick here at my sleeve where I'm subtracting a year and joining back to it.
 >
 > **[2:08](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=128)** So essentially I'm going to get the same month, but from the previous year, pretty simple, right?
 >
@@ -1348,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[CTE]] (4), [[CTE|Common table expression]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (4), nasa (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1)

@@ -1410,7 +1410,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=221)** What if we also added a few parallel steps?
 >
-> **[3:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=224)** Maybe generating an invoice when the text to the customer is sent, posting the photo to the bakery's Instagram account and decreasing stock from their inventory management system.
+> **[3:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=224)** Maybe generating an invoice when the text to the customer is sent, posting the photo to the bakery's [[Instagram]] account and decreasing stock from their inventory management system.
 >
 > **[3:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=235)** With durable functions, running multiple steps at once and keeping track of those steps is much easier to do.
 >
@@ -1424,7 +1424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Instagram]] (1)
 > **Env Vars:** rest (2), api (2)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **CLI Commands:** make (1), snap (1)
@@ -1708,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=7)** In other words, if you need to process a lot of data within a relatively short amount of time, you'll probably use Azure Batch.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=16)** Instagram and [[Google]] are great examples of the sheer volume of data Azure Batch was built to handle.
+> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=16)** [[Instagram]] and [[Google]] are great examples of the sheer volume of data Azure Batch was built to handle.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=22)** During every minute of every single day, Instagram users upload around 49,000 photos and 3.8 million Google searches are performed.
 >
@@ -1780,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[CLI]] (3), [[Google]] (2), [[Virtual Machines]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[CLI]] (3), [[Instagram]] (2), [[Google]] (2), [[Virtual Machines]] (1)
 > **CLI Commands:** cat (5), make (1)
 > **Env Vars:** cli (3)
 > **Tools:** azure portal (2)
@@ -2098,7 +2098,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=169)** Identity providers are third-party services that manage user identities and authentication flows for the applications that use them.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=178)** Azure supports five identity providers by default, [[Microsoft Entra ID|Azure Active Directory]], a generic [[Microsoft]] account, or accounts from Facebook, [[Google]], or Twitter.
+> **[2:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=178)** Azure supports five identity providers by default, [[Microsoft Entra ID|Azure Active Directory]], a generic [[Microsoft]] account, or accounts from [[Facebook]], [[Google]], or Twitter.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=189)** When you enable one of these identity providers, you'll be able to use the provider's sign-in and point to authenticate users on your application.
 >
@@ -2126,7 +2126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Tokens]] (4), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Tokens]] (4), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Facebook]] (1)
 > **Definitions:** in other words (1), means that (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)

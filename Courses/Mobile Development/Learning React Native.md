@@ -267,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=1)** - [Instructor] [[React.js|React]] is an open-source [[JavaScript]] library that is used to create user interfaces, or UI.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=6)** It was started at Facebook.
+> **[0:06](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=6)** It was started at [[Facebook]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980&t=7)** React was designed to solve some of the challenges and complexity that Facebook engineers faced when dealing with large-scale data-driven websites.
 >
@@ -307,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (2), [[Jetpack Compose|Compose]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[JavaScript]] (2), [[Facebook]] (2), [[Jetpack Compose|Compose]] (2), [[Android]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** osx (1)

@@ -91,7 +91,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=1)** - [Ryan] [[Django]] is in the back end of many high-traffic websites, such as Instagram, Pinterest, and Disqus.
+> **[0:01](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=1)** - [Ryan] [[Django]] is in the back end of many high-traffic websites, such as [[Instagram]], Pinterest, and Disqus.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/tackling-projects-with-django?u=76281980&t=6)** And is the framework of choice for open source foundations, like Mozilla, OpenStack, and the Open Knowledge Foundation.
 >
@@ -117,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (5), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (5), [[Instagram]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
@@ -203,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=65)** We're going to be doing a lot with posts.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=67)** It's basically like a Twitter or a Facebook post.
+> **[1:07](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=67)** It's basically like a Twitter or a [[Facebook]] post.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-django-project-build-high-traffic-websites-with-django/project-overview?u=76281980&t=70)** You have some content, a user that made it, and a date, et cetera.
 >
@@ -253,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Graphic Design]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Facebook]] (1), [[Graphic Design]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** go back to (2)

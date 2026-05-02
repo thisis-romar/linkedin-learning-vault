@@ -279,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=45)** On [[Microsoft]] [[Windows]], ipconfig is such a program.
 >
-> **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=51)** We'll be using it frequently to check the properties of a network interface card you see here.
+> **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=51)** We'll be using it frequently to check the properties of a [[NIC|network interface card]] you see here.
 >
 > **[0:58](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=58)** The most basic information ipconfig provides is the Internet protocol, or IP address, that uniquely identifies a network device.
 >
@@ -909,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=5)** The default rules for host firewalls are blocking all the incoming or ingress packets, allowing all the outgoing or egress packets, and then disabling forwarding.
 >
-> **[0:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=21)** Forwarding is for redirecting a packet coming to a particular network interface card, or NIC, to another NIC.
+> **[0:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=21)** Forwarding is for redirecting a packet coming to a particular [[NIC|network interface card]], or [[NIC]], to another NIC.
 >
 > **[0:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=30)** Your computer usually has only a single network interface card.
 >
@@ -1017,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (3), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (3), [[NIC|Network interface card]] (2), [[NIC]] (2), [[Linux]] (1)
 > **Env Vars:** drop (3), nic (2), forward (2), input (1), cli (1)
 > **Versions:** 192.168.35 (2), 192.168 (2), 35.134 (1), 35.128 (1)
 > **CLI Commands:** sudo (4), make (1)
@@ -1128,7 +1128,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=4)** Here is what you need.
 >
-> **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=5)** [[Hardware]] wise, a second network interface card, or NIC, is necessary.
+> **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=5)** [[Hardware]] wise, a second [[NIC|network interface card]], or [[NIC]], is necessary.
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=11)** In terms of software, you could be using any [[Linux]] distribution.
 >
@@ -1174,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Hardware]] (1), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[NIC]] (4), [[NIC|Network interface card]] (3), [[Hardware]] (1), [[Linux]] (1)
 > **Env Vars:** nic (4), nat (2), lan (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Definitions:** we call this (1)
@@ -1187,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=0)** - [Instructor] Let's set up an [[Ubuntu]] host as a router.
 >
-> **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=4)** I'm assuming that you already have a second network interface card, or NIC, installed on your host, either physically or virtually.
+> **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=4)** I'm assuming that you already have a second [[NIC|network interface card]], or [[NIC]], installed on your host, either physically or virtually.
 >
 > **[0:14](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=14)** Please note that this is our Ubuntu router VM.
 >
@@ -1231,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Local Area Network (LAN)|Local area network]] (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Local Area Network (LAN)|Local area network]] (2), [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Versions:** 192.168.35 (4), 192.168.70 (4), 255.255.255 (1)
 > **Definitions:** is a  (2), means that (1), refers to (1)
 > **Env Vars:** nic (1), lan (1)
@@ -1449,7 +1449,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=283)** Here -t stands for table, and the Netfilter table we are using here is NAT, or nat, or network address translation.
 >
-> **[4:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=297)** This rule changes the source IP of all the outgoing packets into the IP address of the external network interface card of the Ubuntu-router host.
+> **[4:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=297)** This rule changes the source IP of all the outgoing packets into the IP address of the external [[NIC|network interface card]] of the Ubuntu-router host.
 >
 > **[5:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=309)** The [[Microsoft Word|word]] MASQUERADE refers to this process of changing the source IP of all the outgoing packets so that they all appear to be coming from a single host when in fact they are from multiple internal hosts with different IPs.
 >
@@ -1477,7 +1477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[NIC|Network interface card]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** forward (6), accept (5), established (3), related (3), masquerade (3)
 > **Speakers:** - o (2), - a (2), - [instructor] (1), - i (1), - m (1)
 > **CLI Commands:** make (2), cd (1), chmod (1), ls (1), sudo (1)
@@ -1548,7 +1548,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=82)** Here is a big picture view.
 >
-> **[1:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=84)** A packet arrives whose destination port is 80 from the internet at the external network interface card of our Ubuntu router host ens 32.
+> **[1:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=84)** A packet arrives whose destination port is 80 from the internet at the external [[NIC|network interface card]] of our Ubuntu router host ens 32.
 >
 > **[1:37](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=97)** The network interface card has the IP address of 192.168.70.128.
 >
@@ -1560,7 +1560,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=132)** The local host has only one network interface card and the IP address of that network interface card is 192.168.35.128.
 >
-> **[2:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=146)** The Ubuntu local host network interface card or NIC ens 33 has its port 80 open to receive all the hyper text transfer protocol or HTTP traffic.
+> **[2:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=146)** The Ubuntu local host network interface card or [[NIC]] ens 33 has its port 80 open to receive all the hyper text transfer protocol or HTTP traffic.
 >
 > **[2:39](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=159)** Now the key here is that the original packet destination IP has to be changed from 192.168.70.128 to 192.168.35.128 to arrive at the Ubuntu local host eventually.
 >
@@ -1570,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (10)
+> **Frameworks & Libraries:** [[Ubuntu]] (10), [[NIC|Network interface card]] (6), [[NIC]] (1)
 > **Versions:** 192.168.35 (3), 192.168.70 (2)
 > **Prerequisites:** set up (3), prerequisite (1)
 > **Ports:** port 80 (3)
@@ -1817,7 +1817,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=103)** To create a one-legged DMZ, we need to build on a network firewall host by connecting a DMZ subnet to it.
 >
-> **[1:53](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=113)** We also need one more network interface card, that is a third network interface card and a switch to connect multiple hosts in the new subnet to the third network interface card.
+> **[1:53](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=113)** We also need one more [[NIC|network interface card]], that is a third network interface card and a switch to connect multiple hosts in the new subnet to the third network interface card.
 >
 > **[2:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=128)** The diagram here shows that you could introduce a DMZ to an existing network file host by adding another switch and the third network interface card.
 >
@@ -1827,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Servers]] (1)
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (5), [[Web Servers]] (1)
 > **Env Vars:** dmz (12)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -2354,7 +2354,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=151)** Choose a proper network interface here.
 >
-> **[2:37](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=157)** In our case, I'm going to choose ens32, the external network interface card of the host.
+> **[2:37](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=157)** In our case, I'm going to choose ens32, the external [[NIC|network interface card]] of the host.
 >
 > **[2:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=165)** And then I'm going to click on the shark fin button.
 >
@@ -2388,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (9), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (9), [[NIC|Network interface card]] (1), [[LinkedIn]] (1)
 > **Env Vars:** tcp (6), syn (4), ack (4)
 > **CLI Commands:** sudo (2), apt (1), find (1)
 > **Definitions:** is a  (2)
@@ -2939,7 +2939,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=72)** which tells where the Snort log messages are going to be stored.
 >
-> **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=77)** And finally, we have to say which network interface card Snort is going to be listening to by typing -i ens32.
+> **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=77)** And finally, we have to say which [[NIC|network interface card]] Snort is going to be listening to by typing -i ens32.
 >
 > **[1:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=93)** We'll be listening to the external network interface card of the [[Ubuntu]] router host, which has the IP of 192.168.70.128.
 >
@@ -2963,7 +2963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[NIC|Network interface card]] (2)
 > **Env Vars:** ids (1), sid (1)
 > **Versions:** 192.168.70 (2)
 > **CLI Commands:** sudo (1)
@@ -3280,7 +3280,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=106)** Type sudo snort -s, and then use the configuration file option, which is -c /etc/snort/snort.conf.
 >
-> **[2:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=124)** We'll be monitoring the external network interface card of the [[Ubuntu]] router host, which is ens32.
+> **[2:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=124)** We'll be monitoring the external [[NIC|network interface card]] of the [[Ubuntu]] router host, which is ens32.
 >
 > **[2:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=133)** Therefore, type -i ens32.
 >
@@ -3296,7 +3296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** sudo (2), cd (1), ls (1)
 > **Env Vars:** log_auth (1), log_alert (1)
 > **Code Identifiers:** alert_syslog (1)

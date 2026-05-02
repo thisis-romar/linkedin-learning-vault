@@ -953,7 +953,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980&t=223)** For the subquery solution, remember that the predicates must be added to both the parent query and the subquery.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980&t=231)** I find this duplicity ugly and error prone, and there's an easy way around it with a CTE.
+> **[3:51](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980&t=231)** I find this duplicity ugly and error prone, and there's an easy way around it with a [[CTE]].
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980&t=238)** So, let's do that, and execute much better.
 >
@@ -1009,6 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous chapter (1), coming up (1)
 > **Definitions:** is a  (2)
@@ -1273,7 +1274,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=201)** As I'm not aware of any database that has implemented this feature yet.
 >
-> **[3:26](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=206)** We can circumvent this limitation with a common table expression, CTE, referencing the alias for this species average heart rate in the following query.
+> **[3:26](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=206)** We can circumvent this limitation with a [[CTE|common table expression]], [[CTE]], referencing the alias for this species average heart rate in the following query.
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=218)** If instead of showing this Boolean attribute, we need to use it as a filter and show only animals that are consistently at or above their species average, we might be tempted to try and copy it into the where clause.
 >
@@ -1291,7 +1292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[CTE]] (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **Env Vars:** sql (2), cte (2), json (1), xml (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1378,9 +1379,9 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=292)** However, this monstrous expression isn't the prettiest manifestation of [[SQL]] and if you find it confusing and hard to read, you're not alone.
 >
-> **[5:02](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=302)** Therefore, I recommend separating the grouped query from the window function with a common table expression to improve its readability.
+> **[5:02](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=302)** Therefore, I recommend separating the grouped query from the window function with a [[CTE|common table expression]] to improve its readability.
 >
-> **[5:11](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=311)** First, define the group query in a CTE, then add the window function percent calculation using the aliases just defined in the CT.
+> **[5:11](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=311)** First, define the group query in a [[CTE]], then add the window function percent calculation using the aliases just defined in the CT.
 >
 > **[5:21](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=321)** This is slightly longer but much clearer for you and whoever needs to read your code in the future.
 >
@@ -1388,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE|Common table expression]] (1), [[CTE]] (1)
 > **Env Vars:** count (6), sum (4), sql (1), cte (1)
 > **CLI Commands:** make (4), find (1)
 > **Warnings:** pitfall (1)
@@ -1456,7 +1457,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980&t=20)** I always like to have the results of the previous step in front of me as I'm working on the next one.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980&t=26)** That's why after every CTE, I add a select star from it and comment it out as I go.
+> **[0:26](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980&t=26)** That's why after every [[CTE]], I add a select star from it and comment it out as I go.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980&t=33)** I often find that I need to go back to previous ones for debugging.
 >
@@ -1502,6 +1503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cte (2)
 > **Definitions:** is a  (2)
@@ -1588,7 +1590,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980&t=95)** First, let's try a sub query approach and see how that works.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980&t=99)** Let's wrap the previous query in a CTE, calling it animal checkups.
+> **[1:39](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980&t=99)** Let's wrap the previous query in a [[CTE]], calling it animal checkups.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980&t=105)** Now let's add a correlated sub query from a second instance of the CTE that counts how many animals of the same species had more checkups than itself.
 >
@@ -1666,6 +1668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (6)
 > **Env Vars:** cte (6)
 > **CLI Commands:** find (3), cat (1)
 > **Definitions:** is called (1)
@@ -1808,7 +1811,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=210)** Now, the reason I'm doing this is because there are fewer rabbits, which is going to make our visual reference a little easier.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=219)** Like before, let's wrap the group query in a CTE for convenience and select from the CTE, let's add both percent rank and cumulative distribution window functions, partitioned by species and ordered by the average wait and execute.
+> **[3:39](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=219)** Like before, let's wrap the group query in a [[CTE]] for convenience and select from the CTE, let's add both percent rank and cumulative distribution window functions, partitioned by species and ordered by the average wait and execute.
 >
 > **[3:57](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=237)** The order by for the window function is an opposite sort of direction to the one used for presentation order but of course it doesn't affect the results.
 >
@@ -1824,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[CTE]] (2), [[SQL]] (1)
 > **Env Vars:** cte (2), ncc (1), sql (1)
 > **Versions:** 0.0 (1), 1.0 (1), 3.13 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1846,7 +1849,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980&t=33)** I recommend that you use a similar approach to the one I demonstrated with a previous solution.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980&t=39)** Break down your solution into small, digestible chunks using as many CTEs as you feel comfortable with.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980&t=39)** Break down your solution into small, digestible chunks using as many [[CTE|CTEs]] as you feel comfortable with.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980&t=47)** After each one, execute a select star, preferably by an order by to keep row order consistent for visual reference, and once you're happy with it, proceed to the next step.
 >
@@ -1856,6 +1859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Ctes]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1870,9 +1874,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=8)** I chose to use an aggregate window function partitioned by species and subtracted from the current temperature.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=16)** Well, I could've separated this into two CTEs to avoid repeating the function.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=16)** Well, I could've separated this into two [[CTE|CTEs]] to avoid repeating the function.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=21)** I believe that by now you should be comfortable enough with a bit more logic in each CTE.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=21)** I believe that by now you should be comfortable enough with a bit more logic in each [[CTE]].
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980&t=27)** A reasonable alternative is to first calculate all the averages per species with a grouped query, and join it to routine checkups.
 >
@@ -1924,6 +1928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Ctes]] (1), [[CTE]] (1)
 > **Env Vars:** ntile (3), cte (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** make sure to (1)
@@ -2181,7 +2186,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=411)** And the error message is somewhat misleading.
 >
-> **[6:55](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=415)** Other [[Databases]] have no problem with it, and the workaround is simple, just wrap it in a CTE and sort in the following query.
+> **[6:55](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=415)** Other [[Databases]] have no problem with it, and the workaround is simple, just wrap it in a [[CTE]] and sort in the following query.
 >
 > **[7:05](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=425)** I would also add nulls last, so we don't have to scroll down to see our first real result.
 >
@@ -2195,7 +2200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[CTE]] (2), [[Fetch]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cte (2)
 > **Warnings:** note that (2)

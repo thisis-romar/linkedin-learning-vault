@@ -157,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980&t=55)** For a wired connection, you'll use a cable called an ethernet cable to connect your computer to your network device, often called a router.
 >
-> **[1:03](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980&t=63)** Most laptop computers also have the ability to connect to wifi networks, which is a wireless form of connection, so you can choose between a wired and wireless connection from most laptops.
+> **[1:03](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980&t=63)** Most laptop computers also have the ability to connect to [[Wi-Fi|wifi]] networks, which is a wireless form of connection, so you can choose between a wired and wireless connection from most laptops.
 >
 > **[1:13](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980&t=73)** When using portable devices like mobile phones and tablets, you'll also typically connect to your network via wifi.
 >
@@ -183,6 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (8)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** isp (2)
@@ -193,7 +194,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=0)** - [Instructor] Wi-Fi networks allow you to get online without the use of a wired ethernet connection in places like your home or [[Microsoft Office|office]], or in hotels, restaurants, shopping malls, and so on.
+> **[0:00](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=0)** - [Instructor] [[Wi-Fi]] networks allow you to get online without the use of a wired ethernet connection in places like your home or [[Microsoft Office|office]], or in hotels, restaurants, shopping malls, and so on.
 >
 > **[0:11](https://www.linkedin.com/learning/working-and-collaborating-online/connect-a-windows-10-device-to-the-internet-using-wi-fi?u=76281980&t=11)** Let's take a look at how to connect to a Wi-Fi network on a [[Windows 10]] computer.
 >
@@ -265,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Windows 10]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (13), [[Microsoft Office|Office]] (3), [[Windows 10]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -537,7 +538,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=150)** If you don't see any indication of site security, don't enter any information and consider making your purchase on a different website that carries the same products.
 >
-> **[2:38](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=158)** Additionally, it's not a good idea to make purchases while using a public Wi-Fi network.
+> **[2:38](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=158)** Additionally, it's not a good idea to make purchases while using a public [[Wi-Fi]] network.
 >
 > **[2:42](https://www.linkedin.com/learning/working-and-collaborating-online/safely-shop-online?u=76281980&t=162)** If possible, wait until you're on your home network to make your purchases.
 >
@@ -555,7 +556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[E-Commerce]] (1), [[Wi-Fi]] (1)
 > **CLI Commands:** make (9), find (3)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** required to (2)

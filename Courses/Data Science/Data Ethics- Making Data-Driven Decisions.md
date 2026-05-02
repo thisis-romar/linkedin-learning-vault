@@ -693,7 +693,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=110)** Think of it this way.
 >
-> **[1:51](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=111)** We know that companies like Facebook and [[Google]] put people into many different advertising groups.
+> **[1:51](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=111)** We know that companies like [[Facebook]] and [[Google]] put people into many different advertising groups.
 >
 > **[1:56](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=116)** They call these affinity groups.
 >
@@ -725,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Data Ethics]] (1), [[Privacy]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Data Ethics]] (1), [[Privacy]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)

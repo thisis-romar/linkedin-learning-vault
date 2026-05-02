@@ -106,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=15)** First, you're going to learn how wireless networks allow us to send data using radio waves.
 >
-> **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=20)** Then, we'll examine a collection of network services, including DNS, NTP, NAT, and DHCP is just a few examples.
+> **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=20)** Then, we'll examine a collection of network services, including DNS, NTP, NAT, and [[DHCP]] is just a few examples.
 >
 > **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980&t=27)** Next, you'll be introduced to [[Network Security]] concepts, and you're going to see what sort of threats that we might need to defend against today.
 >
@@ -122,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[DHCP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1), ccie (1)
 > **Speakers:** - [kevin] (1)
 
@@ -144,13 +144,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=37)** As a couple of examples, you'll learn how DNS or [[Domain Name System (DNS)|domain name system]] can take a relatively easy to remember name and convert that into a not so easy to remember IP address.
 >
-> **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=48)** You'll learn how a device can dynamically obtain its IP address information using DHCP or Dynamic Host Configuration Protocol.
+> **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=48)** You'll learn how a device can dynamically obtain its IP address information using [[DHCP]] or [[DHCP|Dynamic Host Configuration Protocol]].
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=57)** Next, we'll examine [[Network Security]], beginning with a look at some of the major security threats to our networks today.
 >
 > **[1:03](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=63)** Then we'll focus on how to better protect our Cisco routers and switches using access control lists or ACLs and the port security feature.
 >
-> **[1:11](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=71)** And finally, in this course, you'll see how to virtualize network components such as network servers and routers and we'll discuss how software-defined in networking or SDN is dramatically shifting the landscape of what it means to be a network engineer.
+> **[1:11](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=71)** And finally, in this course, you'll see how to virtualize network components such as network servers and routers and we'll discuss how software-defined in networking or [[SDN]] is dramatically shifting the landscape of what it means to be a network engineer.
 >
 > **[1:26](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/what-you-can-learn?u=76281980&t=86)** And while it's great if you happen to have access to physical gear to practice on, that's not your only option.
 >
@@ -160,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[DHCP]] (1), [[DHCP|Dynamic host configuration protocol]] (1), [[Network Security]] (1)
 > **Env Vars:** dns (1), dhcp (1), sdn (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -204,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=117)** Here's how it works.
 >
-> **[1:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=118)** You go to devnetsandbox.[cisco.com](https://cisco.com) and you'll log in with an existing account like a Google or Facebook account or you could create your own free Cisco account.
+> **[1:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=118)** You go to devnetsandbox.[cisco.com](https://cisco.com) and you'll log in with an existing account like a Google or [[Facebook]] account or you could create your own free Cisco account.
 >
 > **[2:08](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/how-to-get-hands-on-practice?u=76281980&t=128)** Then you can reserve a pod of gear at a certain date and time for a certain duration, and at the time of this recording, one of those equipment pods gives you access to free Cisco Modeling Labs and you can reserve it for a four-hour block of time.
 >
@@ -216,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2), [[Facebook]] (1)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Code Identifiers:** ios (2)
@@ -244,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=30)** So the PC is going to send out a request to a DNS server and it's going to ask that DNS server, "Can you tell me the IP address "of this DNS name, [kineticoinc.com](https://kineticoinc.com)?"
 >
-> **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=42)** And here our DNS server has an IP address of 192.0.2.10, perhaps that PC learned that information via DHCP.
+> **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=42)** And here our DNS server has an IP address of 192.0.2.10, perhaps that PC learned that information via [[DHCP]].
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980&t=51)** Maybe it was configured.
 >
@@ -280,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Domain Name System (DNS)|Domain name system]] (2), [[Web Servers]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Domain Name System (DNS)|Domain name system]] (2), [[DHCP]] (1), [[Web Servers]] (1)
 > **Env Vars:** dns (12), dhcp (1)
 > **URLs:** [kineticoinc.com](https://kineticoinc.com) (10), [cisco.com](https://cisco.com) (1), [amazon.com](https://amazon.com) (1)
 > **Versions:** 203.0.113 (2), 192.0.2 (1)
@@ -1126,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=23)** However, manual configuration just does not scale.
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=27)** What we can do instead is use a protocol called DHCP, the Dynamic Host Configuration Protocol.
+> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=27)** What we can do instead is use a protocol called [[DHCP]], the [[DHCP|Dynamic Host Configuration Protocol]].
 >
 > **[0:34](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dynamic-host-configuration-protocol-dhcp-overview?u=76281980&t=34)** In this example, PC1 is trying to get IP address information.
 >
@@ -1204,7 +1204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (18), [[DHCP|Dynamic host configuration protocol]] (2), [[IP Addressing]] (1)
 > **Env Vars:** dhcp (18), pc2 (7), pc1 (5), dns (2)
 > **Versions:** 192.168.1 (2), 172.16.1 (1)
 > **Prerequisites:** configure (3)
@@ -1215,7 +1215,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=0)** - [Instructor] In our previous video, we took a look at the four step process of DHCP handing out IP address information to a DHCP client.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=0)** - [Instructor] In our previous video, we took a look at the four step process of [[DHCP]] handing out IP address information to a DHCP client.
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-options?u=76281980&t=8)** Now in this video we want to take a look at some of the DHCP options, and talk more about how DHCP information is handed out.
 >
@@ -1275,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[DHCP]] (13), [[Microsoft Office|Office]] (2)
 > **Env Vars:** dhcp (13), mac (3), ttl (3), dns (1), tftp (1)
 > **Versions:** version 6 (2), 192.168.1 (1), 1.25 (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -1288,7 +1288,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-configuration?u=76281980&t=0)** - [Instructor] In this video, we want to configure DHCP, the dynamic host configuration protocol on a Cisco router.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-configuration?u=76281980&t=0)** - [Instructor] In this video, we want to configure [[DHCP]], the [[DHCP|dynamic host configuration protocol]] on a Cisco router.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/dhcp-configuration?u=76281980&t=6)** In fact, we want to do three different DHCP configurations.
 >
@@ -1414,6 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (25), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** dhcp (21), rr1 (3), dns (1)
 > **Versions:** 192.168.1 (13), 172.16.1 (3), 192.168.199 (1)
 > **Prerequisites:** set up (5), configure (4)
@@ -2365,7 +2366,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=0)** - [Instructor] In this video, we want to consider a few different types of wireless local area networks.
 >
-> **[0:05](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=5)** First up is an ad hoc wireless LAN.
+> **[0:05](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=5)** First up is an ad hoc [[Wi-Fi|wireless LAN]].
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980&t=7)** This is where we're not using any sort of a network infrastructure.
 >
@@ -2423,7 +2424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (7)
+> **Frameworks & Libraries:** [[Wi-Fi|Wireless lan]] (7), [[Mesh]] (7)
 > **Env Vars:** lan (7), capwap (2), ap1 (1), ap2 (1), ap3 (1)
 > **Definitions:** is an  (2), is a  (1), stands for (1)
 > **Prerequisites:** configure (4)
@@ -2535,7 +2536,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980&t=4)** And in this video we want to take a look at the specific bands or frequencies that are going to be used by those radio waves.
 >
-> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980&t=11)** We have three main frequency bands that are used: the 2.4 gigahertz band, the 5 gigahertz band, and a newly added band introduced with Wi-Fi 6E is the 6 gigahertz band.
+> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980&t=11)** We have three main frequency bands that are used: the 2.4 gigahertz band, the 5 gigahertz band, and a newly added band introduced with [[Wi-Fi]] 6E is the 6 gigahertz band.
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-frequencies-and-channels-24998889?u=76281980&t=23)** Let's consider each of these, beginning with the 2.4 gigahertz band.
 >
@@ -2623,6 +2624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (7)
 > **Versions:** 2.4 (4), 802.11 (1)
 > **Env Vars:** ieee (4)
 > **Analogies:** for example (1), imagine (1)
@@ -2634,7 +2636,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=1)** - [Instructor] In this video, we want to consider some different wireless LAN standards.
+> **[0:01](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=1)** - [Instructor] In this video, we want to consider some different [[Wi-Fi|wireless LAN]] standards.
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=4)** And for completion sake, here's a listing of some of the more popular earlier standards up at the top of the table.
 >
@@ -2680,7 +2682,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=121)** Then in 2019, 802.11ax came out.
 >
-> **[2:05](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=125)** That's also known as Wi-Fi 6.
+> **[2:05](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=125)** That's also known as [[Wi-Fi]] 6.
 >
 > **[2:07](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-standards-25202624?u=76281980&t=127)** And like .11n, .11ax could support both the 2.4 and 5 gig bands.
 >
@@ -2722,7 +2724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (8), [[Wi-Fi|Wireless lan]] (1), [[5G]] (1)
 > **Env Vars:** ieee (7), ofdm (5), ofdma (2), lan (1), dsss (1)
 > **Versions:** 2.4 (4), 802.11 (1), 1.3 (1), 9.6 (1)
 > **CLI Commands:** make (2)
@@ -2735,7 +2737,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=0)** - [Instructor] In this video let's discuss some of the transmission methods used in modern wireless LAN standards.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=0)** - [Instructor] In this video let's discuss some of the transmission methods used in modern [[Wi-Fi|wireless LAN]] standards.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=6)** Specifically we want to consider OFDM and OFDMA.
 >
@@ -2785,7 +2787,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=265)** Even back in 2009 .11n used 64-QAM, there were 64 targets that we could pinpoint by doing that phase and amplitude adjustment, and by hitting one of those targets we could represent six bits in the subchannel.
 >
-> **[4:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=277)** .11ac gave us 256 targets, and if we hit one of those, that could represent eight bits, and now with WiFi 6 or .11ax there are 1,024 targets we could hit, and if we hit one of those, again, by adjusting the phase and the amplitude of the Q signal compared to the I signal, we can represent 10 bits in a single subchannel, that's one reason we get such incredible throughput with WiFi 6, and what we've talked about so far in this video is OFDM, orthogonal frequency-division multiplexing, and while all of those things are true for WiFi 6, WiFi 6 is technically not using OFDM, it's using OFDMA, specifically OFDMA means orthogonal frequency-division multiple access, and what multiple access is implying is that instead of a couple of wireless devices trying to access the airwaves at the same time
+> **[4:37](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=277)** .11ac gave us 256 targets, and if we hit one of those, that could represent eight bits, and now with [[Wi-Fi|WiFi]] 6 or .11ax there are 1,024 targets we could hit, and if we hit one of those, again, by adjusting the phase and the amplitude of the Q signal compared to the I signal, we can represent 10 bits in a single subchannel, that's one reason we get such incredible throughput with WiFi 6, and what we've talked about so far in this video is OFDM, orthogonal frequency-division multiplexing, and while all of those things are true for WiFi 6, WiFi 6 is technically not using OFDM, it's using OFDMA, specifically OFDMA means orthogonal frequency-division multiple access, and what multiple access is implying is that instead of a couple of wireless devices trying to access the airwaves at the same time
 >
 > **[5:28](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-transmission-methods?u=76281980&t=328)** and possibly colliding, what WiFi 6 does is give each in station their slice in time when they're allowed to communicate, this is called their target wait time.
 >
@@ -2793,7 +2795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (5), [[Wi-Fi|Wireless lan]] (2), [[Forms]] (2)
 > **Env Vars:** ofdm (6), ofdma (4), qam (3), lan (2), fdm (2)
 > **Definitions:** is called (2), means that (1)
 > **CLI Commands:** make (2)
@@ -2873,14 +2875,15 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=205)** But with .11ax, where we're doing OFDMA and every device has their own slice in time when they can communicate, there's no contention for bandwidth, we can have multiple downstream and multiple upstreams spatial streams.
 >
-> **[3:39](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=219)** In fact, we can have 4 upstream and downstream spatial streams in the 2.4 gig band, 8 upstream and downstream spacial streams in the 5 gig band, and another 8 upstream and downstream spatial streams, if we use the six gig band that we get with Wi-Fi 6E.
+> **[3:39](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=219)** In fact, we can have 4 upstream and downstream spatial streams in the 2.4 gig band, 8 upstream and downstream spacial streams in the 5 gig band, and another 8 upstream and downstream spatial streams, if we use the six gig band that we get with [[Wi-Fi]] 6E.
 >
-> **[3:55](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=235)** And that's a look at a few wireless LAN optimization features.
+> **[3:55](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=235)** And that's a look at a few [[Wi-Fi|wireless LAN]] optimization features.
 >
 > **[3:58](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-optimization-and-features?u=76281980&t=238)** Specifically, we discussed channel bonding, beamforming, and MU-MIMO.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (1)
 > **Env Vars:** mimo (3), qam (1), ofdma (1), lan (1)
 > **Cross-References:** we discussed (2), previous video (1)
 > **Definitions:** is called (2)
@@ -3005,7 +3008,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=92)** And we might be selecting one or both of these encryption options as we're setting up our wireless access points.
 >
-> **[1:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=98)** One standard that might be supported on your Wireless Access Point is called WPA, Wi-Fi Protected Access.
+> **[1:38](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=98)** One standard that might be supported on your Wireless Access Point is called WPA, [[Wi-Fi]] Protected Access.
 >
 > **[1:44](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=104)** It used TKIP, which gave us better encryption than the way WEP did things.
 >
@@ -3021,7 +3024,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=141)** Instead, we might use WPA2.
 >
-> **[2:24](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=144)** In fact, back in 2006, in order for a wireless device to receive a wifi certification, it had to support WPA2.
+> **[2:24](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=144)** In fact, back in 2006, in order for a wireless device to receive a [[Wi-Fi|wifi]] certification, it had to support WPA2.
 >
 > **[2:31](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/wlan-security-standards?u=76281980&t=151)** And one of the requirements of WPA2 is that it had to have support for AES.
 >
@@ -3067,7 +3070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (3), [[Privacy]] (2), [[Hardware]] (2), [[Wi-Fi]] (1)
 > **Env Vars:** wep (11), tkip (8), aes (8), wpa2 (7), wpa3 (6)
 > **Prerequisites:** initialization (4), configure (1), set up (1), setup (1)
 > **Definitions:** stands for (2), is called (1), is a  (1), means that (1)
@@ -3079,7 +3082,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/configuring-a-cisco-wireless-lan-controller-wlc?u=76281980&t=0)** - [Instructor] Now that we've talked about the theory of wireless LANs, in this video, I want to show you how we can configure, a basic wireless LAN, on a Cisco wireless LAN controller.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/configuring-a-cisco-wireless-lan-controller-wlc?u=76281980&t=0)** - [Instructor] Now that we've talked about the theory of wireless LANs, in this video, I want to show you how we can configure, a basic [[Wi-Fi|wireless LAN]], on a Cisco wireless LAN controller.
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/configuring-a-cisco-wireless-lan-controller-wlc?u=76281980&t=9)** Specifically, we want to create a wireless network, with a name, or an SSID, that's a service set identifier of CCNA.
 >
@@ -3133,6 +3136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wireless lan]] (5)
 > **Env Vars:** wpa2 (6), lan (5), ccna (4), ssid (3), aes (3)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** checkbox (1), click on (1)
@@ -3140,7 +3144,6 @@ created: 2026-05-02
 > **Versions:** 802.1 (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
-> **Speakers:** - [instructor] (1)
 
 
 ### 4. Network Virtualization
@@ -3249,7 +3252,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=0)** - [Instructor] One of the biggest trends in networking that is going to radically reshape how we do our jobs is software-defined networking, SDN.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=0)** - [Instructor] One of the biggest trends in networking that is going to radically reshape how we do our jobs is [[SDN|software-defined networking]], [[SDN]].
 >
 > **[0:08](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-software-defined-networking-sdn?u=76281980&t=8)** Here, instead of us going to individual devices and configuring those devices, we can use an application to express our intent.
 >
@@ -3303,7 +3306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[JSON]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[SDN]] (8), [[SDN|Software-defined networking]] (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** sdn (8), dna (4), rest (2), http (2), api (1)
 > **Definitions:** stands for (3), is called (2)
 > **CLI Commands:** python (2)
@@ -3315,7 +3318,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=0)** - [Instructor] Now that we understand a bit about SDN, Software-Defined Networks, in this video we want to talk about Software-Defined Wide Area Networks or SD-WANs.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=0)** - [Instructor] Now that we understand a bit about [[SDN]], Software-Defined Networks, in this video we want to talk about Software-Defined Wide Area Networks or SD-WANs.
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/software-defined-wide-area-networks-sd-wans?u=76281980&t=10)** First, consider traditional WAN connections.
 >
@@ -3365,7 +3368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Routing]] (2), [[SDN]] (1)
 > **Env Vars:** wan (13), br1 (4), br2 (2), npls (2), sdn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -3442,7 +3445,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on finishing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=3)** And this course covered a collection of network services such as DNS, NTP, NAT, AND DHCP.
+> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=3)** And this course covered a collection of network services such as DNS, NTP, NAT, AND [[DHCP]].
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980&t=9)** You were also introduced to [[Network Security]], including some common threats out there today.
 >
@@ -3466,7 +3469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[DHCP]] (1), [[Network Security]] (1)
 > **Env Vars:** dns (1), ntp (1), nat (1), dhcp (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)

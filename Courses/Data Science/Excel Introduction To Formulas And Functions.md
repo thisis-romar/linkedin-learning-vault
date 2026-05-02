@@ -160,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=51)** And it accepts inputs, also called arguments, to create its result.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=56)** For example, you might have to formula equal SUM, D3:D5, F3:F5.
+> **[0:56](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=56)** For example, you might have to formula equal SUM, [[D3.js|D3]]:D5, F3:F5.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=65)** So let's break this down bit by bit.
 >
@@ -220,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[D3.js|D3]] (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (4)
 > **Env Vars:** sum (3)
@@ -247,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=36)** I'm on the Summary worksheet of this workbook and you can see that I have inquiries from potential customers broken down by month.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=46)** If I want to find the sum of those values then I can click in cell D3, type an equal sign, and then start typing the name of the function I want to use, which is SUM.
+> **[0:46](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=46)** If I want to find the sum of those values then I can click in cell [[D3.js|D3]], type an equal sign, and then start typing the name of the function I want to use, which is SUM.
 >
 > **[0:57](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=57)** So I'll type S-U and you can see that I have a formula autocomplete list.
 >
@@ -385,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (5), [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **Env Vars:** sum (8), b15 (3), average (1), hyperlink (1), b14 (1)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** go to (2), scroll down (2), open the (1), select the (1)
@@ -876,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=35)** And I have $1,602,000 for 2022 and $1,945,000 for the year 2023.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=47)** And I have a formula in cell D3 that finds the total but I immediately spot an error.
+> **[0:47](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=47)** And I have a formula in cell [[D3.js|D3]] that finds the total but I immediately spot an error.
 >
 > **[0:54](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=54)** Both of the numbers B3 and B4 end with three zeros and my total in D3 has a 45 at the end.
 >
@@ -918,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[D3.js|D3]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** double-click (2), click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -2217,7 +2217,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=42)** What I want to do is determine which cells are used in which formulas and also in which direction, whether it's providing a value or taking a value.
 >
-> **[0:52](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=52)** I'll start by clicking cell D3 and if I read the formula, it shows me that I'm taking the sum of cells from B4 to B15.
+> **[0:52](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=52)** I'll start by clicking cell [[D3.js|D3]] and if I read the formula, it shows me that I'm taking the sum of cells from B4 to B15.
 >
 > **[1:01](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=61)** So, the sum of inquiries as the label indicates.
 >
@@ -2257,7 +2257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), double-click (1)
 > **Env Vars:** b15 (2), b14 (1)
 > **CLI Commands:** find (1)

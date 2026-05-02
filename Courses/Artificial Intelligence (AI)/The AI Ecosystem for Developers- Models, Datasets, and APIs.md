@@ -277,7 +277,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=287)** Some of the most popular AI frameworks include [[TensorFlow]], developed by [[Google]] for building and training machine learning models.
 >
-> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=297)** [[PyTorch]], created by Facebook's AI research lab for flexibility and deep learning.
+> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=297)** [[PyTorch]], created by [[Facebook]]'s AI research lab for flexibility and deep learning.
 >
 > **[5:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=304)** Scikit-learn for classical machine learning algorithms.
 >

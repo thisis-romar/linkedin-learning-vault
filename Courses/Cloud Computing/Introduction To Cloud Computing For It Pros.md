@@ -904,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=76)** If you have a website, your files and data can be stored on a provider such as GoDaddy or Wix.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=82)** Social networking continues to be all the rage and providers like Facebook and Instagram, now known as Meta and [[LinkedIn]], let members post pictures and other content that's all stored on company servers.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=82)** Social networking continues to be all the rage and providers like [[Facebook]] and [[Instagram]], now known as Meta and [[LinkedIn]], let members post pictures and other content that's all stored on company servers.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/storage-providers?u=76281980&t=95)** And for all types of digital data, you can use providers like [Box.com](https://Box.com) and iDrive who let users upload and store virtually any type of data that they require.
 >

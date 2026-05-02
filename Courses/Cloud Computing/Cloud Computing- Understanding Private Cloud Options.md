@@ -1294,7 +1294,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=145)** OpenStack's Networking component Neutron supports different network technologies, enabling users to build and manage network infrastructure within the cloud environment.
 >
-> **[2:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=155)** It includes compatibility with software-defined networking or SDN solutions like OpenDaylight or VMware NSX.
+> **[2:35](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=155)** It includes compatibility with [[SDN|software-defined networking]] or [[SDN]] solutions like OpenDaylight or VMware NSX.
 >
 > **[2:44](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980&t=164)** Network function virtualization or NFV technologies for network service orchestration and virtualized network functions.
 >
@@ -1344,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=24)** OpenStack provides multiple storage options to meet different performance and [[Scalability]] requirements.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=30)** The networking component, Neutron, supports software-defined networking, or SDN, and network function virtualization, or NFV.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=30)** The networking component, Neutron, supports [[SDN|software-defined networking]], or [[SDN]], and network function virtualization, or NFV.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-flexibility?u=76281980&t=38)** This enables organizations to adopt various network management techniques.
 >
@@ -1358,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Scalability]] (2), [[Private Clouds]] (1), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Scalability]] (2), [[SDN|Software-defined networking]] (1), [[SDN]] (1), [[Private Clouds]] (1)
 > **Env Vars:** kvm (1), sdn (1), nfv (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Speakers:** - [instructor] (1)

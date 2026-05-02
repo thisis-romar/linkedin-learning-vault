@@ -2027,7 +2027,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=92)** You can ask a question, or start a discussion.
 >
-> **[1:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=95)** There are also plenty of JIRA themed groups on [[LinkedIn]] and Facebook.
+> **[1:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=95)** There are also plenty of JIRA themed groups on [[LinkedIn]] and [[Facebook]].
 >
 > **[1:40](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=100)** Next, studying for Atlassian certification is a great way to learn more about the applications.
 >

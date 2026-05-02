@@ -4033,7 +4033,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=153)** A sign in method is basically just a way that we're going to allow our users to sign in.
 >
-> **[2:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=157)** For example with their email address and password, with their Google account, with their Facebook account and so on.
+> **[2:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=157)** For example with their email address and password, with their Google account, with their [[Facebook]] account and so on.
 >
 > **[2:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=162)** And for this application we're just going to have users sign in with their Gmail account.
 >
@@ -4045,7 +4045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (11), [[Google]] (6)
+> **Frameworks & Libraries:** [[Firebase]] (11), [[Google]] (6), [[Facebook]] (1)
 > **UI Navigation:** click on (8), go to (1), checkbox (1)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** set up (1), setup (1)

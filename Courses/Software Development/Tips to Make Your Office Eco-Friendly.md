@@ -439,7 +439,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=156)** See?
 >
-> **[2:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=157)** We don't need Instagram filters and a ring light to be climate influencers.
+> **[2:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=157)** We don't need [[Instagram]] filters and a ring light to be climate influencers.
 >
 > **[2:41](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=161)** We just need to recognize that the impacts of what we do extends so far beyond ourselves, and with that comes the responsibility to make good choices that we actually want to catch on, like an internet cat meme.
 >
@@ -461,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Sustainability]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -569,7 +569,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=0)** - If the rise of Instagram influencers and reality television stars has taught us anything, it is that good lighting can work miracles.
+> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=0)** - If the rise of [[Instagram]] influencers and reality television stars has taught us anything, it is that good lighting can work miracles.
 >
 > **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=9)** And while you're probably not looking to stage your [[Microsoft Office|office]] for the perfect selfie, eco-friendly lighting can not only beautify your space and save big bucks, it can also boost morale.
 >
@@ -651,7 +651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Instagram]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** led (2)
 > **Definitions:** is a  (2)
@@ -920,7 +920,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=96)** Chances are there are quite a few, and many offer delivery and some really stylish pieces if you're into that matchy-matchy office look.
 >
-> **[1:44](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=104)** And if you're a bit more adventurous, searching through Facebook Marketplace, Craigslist, and even your local thrift shops can yield some perfectly functional finds, many from top name brands at a fraction of the price.
+> **[1:44](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=104)** And if you're a bit more adventurous, searching through [[Facebook]] Marketplace, Craigslist, and even your local thrift shops can yield some perfectly functional finds, many from top name brands at a fraction of the price.
 >
 > **[1:56](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=116)** I found standing desks, ergonomic chairs, and Italian made marble conference tables so pristine they'll make you weep for so cheap secondhand, and the result is a cool, collected looking office that is perfectly on trend.
 >
@@ -968,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (10), [[Google]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (10), [[Google]] (1), [[Facebook]] (1), [[Electronics]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), cat (1)
 > **Prerequisites:** setup (1)
@@ -1306,7 +1306,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=30)** I hope you leave this course feeling energized and empowered to make your workplace, and every space, a little greener.
 >
-> **[0:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=38)** And if you'd like to connect with my work, you can find me on Instagram at Ashlee Piper or via my website at [ashleepiper.com](https://ashleepiper.com).
+> **[0:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=38)** And if you'd like to connect with my work, you can find me on [[Instagram]] at Ashlee Piper or via my website at [ashleepiper.com](https://ashleepiper.com).
 >
 > **[0:45](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=45)** And if you're craving even more eco-friendly living guidance and awesome jokes, you can check out my book, "Give a (bleep): Do Good, Live Better, Save the Planet."
 >
@@ -1314,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [ashleepiper.com](https://ashleepiper.com) (1)
 > **Definitions:** is an  (1)

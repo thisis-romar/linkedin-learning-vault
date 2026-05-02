@@ -1943,7 +1943,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=175)** A positive number moves you to the right and a negative number moves you to the left.
 >
-> **[3:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=180)** So if you were to start at C3 and columns is a positive one, you're going from C3 over to D3.
+> **[3:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=180)** So if you were to start at C3 and columns is a positive one, you're going from C3 over to [[D3.js|D3]].
 >
 > **[3:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=189)** If it's a negative one, you're going from C3 backwards to B3.
 >
@@ -2005,7 +2005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[D3.js|D3]] (2)
 > **Env Vars:** offset (15), index (1), match (1), xlookup (1), sum (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)

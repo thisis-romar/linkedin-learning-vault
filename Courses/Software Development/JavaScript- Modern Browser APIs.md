@@ -1630,7 +1630,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980&t=262)** So first we can check to see what the type of the connection is by checking the effective type field.
 >
-> **[4:28](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980&t=268)** And this will be a string like 4G or 3G or Wi-Fi and so on.
+> **[4:28](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980&t=268)** And this will be a string like 4G or 3G or [[Wi-Fi]] and so on.
 >
 > **[4:33](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980&t=273)** So I'll add some code for this and I'll get the connection type, which is going to be navigator.connection.
 >
@@ -1680,6 +1680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (1)
 > **Code Identifiers:** conntype (3), netstate (1), isonline (1), statuselem (1), onlinestate (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** api (4), css (1)
@@ -1687,7 +1688,6 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
-> **Best Practices:** don't forget (1)
 
 #### [Using page visibility](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-page-visibility?u=76281980)
 

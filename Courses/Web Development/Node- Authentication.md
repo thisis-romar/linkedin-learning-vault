@@ -1712,7 +1712,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=27)** Through these strategies, Passport covers a variety of backends or use cases from local authentication that is mostly used to authenticate against the local database, to strategies for many third party systems.
 >
-> **[0:40](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=40)** including things and non-providers and log-ins for social media accounts like, Facebook or GitHub, or even rather exotic systems like Shibboleth.
+> **[0:40](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=40)** including things and non-providers and log-ins for social media accounts like, [[Facebook]] or GitHub, or even rather exotic systems like Shibboleth.
 >
 > **[0:49](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=49)** Once a user successfully authenticated passport also takes care of things like storing the user in the session and also restoring it for every request.
 >
@@ -1736,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Node.js]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Node.js]] (1), [[Facebook]] (1), [[Fetch]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Tools:** github (2)
 > **File Paths:** node.js (1)
@@ -2849,7 +2849,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=0)** - [Instructor] Social login is a form of single sign-on using existing information from a social networking service to log into another service without providing username and password for it.
 >
-> **[0:10](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=10)** I'm sure you've already used your [[Google]], Twitter, Facebook, or [[LinkedIn]] account to sign in to some other application and also hi that behind the scenes, you were using OAuth 2.0 for this.
+> **[0:10](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=10)** I'm sure you've already used your [[Google]], Twitter, [[Facebook]], or [[LinkedIn]] account to sign in to some other application and also hi that behind the scenes, you were using OAuth 2.0 for this.
 >
 > **[0:22](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=22)** Technically, this means you were giving the app you were using access to the API of the service on your behalf.
 >
@@ -2943,7 +2943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (22), [[Google]] (1), [[LinkedIn]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (22), [[Google]] (1), [[Facebook]] (1), [[LinkedIn]] (1), [[Fetch]] (1)
 > **Tools:** github (22)
 > **Code Identifiers:** access_token (3), client_id (2), redirect_uri (2), client_secret (1)
 > **Env Vars:** url (4), api (2), uml (1), post (1)
@@ -3209,7 +3209,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=51)** For that, I open server, models, UserModel and there somewhere down there after the verification token, I now add a structure for the profile ID.
 >
-> **[1:05](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=65)** And I want this to be an array because I want to be able to maybe store later a Facebook ID or a [[Google]] ID or whatever.
+> **[1:05](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=65)** And I want this to be an array because I want to be able to maybe store later a [[Facebook]] ID or a [[Google]] ID or whatever.
 >
 > **[1:16](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=76)** So this should be agnostic to the provider of the OAuth.
 >
@@ -3463,7 +3463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (19), [[MongoDB]] (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (19), [[MongoDB]] (4), [[Facebook]] (1), [[Google]] (1)
 > **Code Identifiers:** profileid (7), tempoauthprofile (6), returnto (3), createsocialuser (2), oauthprofile (2)
 > **Tools:** github (19)
 > **CLI Commands:** find (5), make (3)
@@ -3708,7 +3708,7 @@ created: 2026-05-02
 >
 > **[12:07](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=727)** And if you look into the database, so in models, user model, again, you see that we are agnostic to which OAuth provider we use.
 >
-> **[12:19](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=739)** So this could be as well, Facebook or [[Google]] or something else.
+> **[12:19](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=739)** So this could be as well, [[Facebook]] or [[Google]] or something else.
 >
 > **[12:22](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=742)** So with this structure, you can really authenticate against any OAuth provider that is out there.
 >
@@ -3728,7 +3728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (28), [[Google]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (28), [[Facebook]] (1), [[Google]] (1)
 > **Tools:** github (28)
 > **UI Navigation:** click on (8), scroll down (3), go to (2), scroll up (1), in the menu (1)
 > **CLI Commands:** make (2), node (1)

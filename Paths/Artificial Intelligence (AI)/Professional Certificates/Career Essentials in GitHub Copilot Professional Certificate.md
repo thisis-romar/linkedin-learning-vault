@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/artificial-intelligence

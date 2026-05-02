@@ -797,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=29)** That's where the user pool comes in.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=32)** But you can use some other services like Amazon, where you put in the app ID or Apple, Facebook.
+> **[0:32](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=32)** But you can use some other services like Amazon, where you put in the app ID or Apple, [[Facebook]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=39)** All of these services have different routes, but typically you would go there, create the Facebook app or the [[Google]] app, and you would get the client ID and follow the steps for creating that.
 >
@@ -811,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Google]] (1)
 > **Env Vars:** saml (1), iam (1)
 > **Speakers:** - [instructor] (1)
 

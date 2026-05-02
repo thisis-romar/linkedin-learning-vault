@@ -1183,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=18)** Calling a staged version would be a better option but often you don't have it offered.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=24)** For example, you're calling a live service like YouTube, [[Google]], Facebook or Twitter API.
+> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=24)** For example, you're calling a live service like YouTube, [[Google]], [[Facebook]] or Twitter API.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=32)** APIs such as these have rate limits.
 >
@@ -1233,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Integration Testing]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Integration Testing]] (1), [[Google]] (1), [[Facebook]] (1)
 > **Env Vars:** api (5), http (3), uri (2)
 > **Exercise Files:** template (6)
 > **Analogies:** imagine (1), for example (1), such as (1)

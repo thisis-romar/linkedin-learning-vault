@@ -378,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=9)** In one of my [[Market Research]] studies, I met a teenage girl, Megs.
 >
-> **[0:13](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=13)** One day, she was scrolling through Instagram and she came across a photo of a pet hedgehog.
+> **[0:13](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=13)** One day, she was scrolling through [[Instagram]] and she came across a photo of a pet hedgehog.
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-storytelling/action-sequence-21040234?u=76281980&t=18)** She instantly fell in love, and she rushed to ask her mother to buy one for her.
 >
@@ -458,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (3), [[Market Research]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1106,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=86)** This is just a part of their journey.
 >
-> **[1:28](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=88)** When they're first learning about you, your brand, your [[Microsoft Products|products]], they may check out your [[LinkedIn]] or Instagram.
+> **[1:28](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=88)** When they're first learning about you, your brand, your [[Microsoft Products|products]], they may check out your [[LinkedIn]] or [[Instagram]].
 >
 > **[1:33](https://www.linkedin.com/learning/ux-foundations-storytelling/where-to-tell-your-story-evaluating-possible-platforms-24080441?u=76281980&t=93)** As they develop a greater relationship with your brand or product though, they may opt for more.
 >
@@ -1120,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Instagram]] (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)

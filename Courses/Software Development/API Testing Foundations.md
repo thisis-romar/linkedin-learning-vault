@@ -365,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=178)** So the QL in this name stands for Query Language and it allows you to access data on a service in a more fine-grained manner than you can with a REST or a SOAP API.
 >
-> **[3:09](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=189)** So this was first defined by Meta, or Facebook at the time, in 2015 and it's been steadily growing in popularity since.
+> **[3:09](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=189)** So this was first defined by Meta, or [[Facebook]] at the time, in 2015 and it's been steadily growing in popularity since.
 >
 > **[3:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=197)** So let's take a look at another service that gives us information about different countries but this time, it's going to be using GraphQL.
 >
@@ -403,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[GraphQL]] (5), [[API Development]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[GraphQL]] (5), [[API Development]] (1), [[Facebook]] (1)
 > **Env Vars:** api (13), soap (11), rest (5), xml (3), url (2)
 > **CLI Commands:** make (5)
 > **Definitions:** stands for (2), is called (1), is an  (1)

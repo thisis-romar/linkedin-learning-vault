@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=79)** A router good practice includes, securing the control plane, and configuring privilege levels, along with ensuring routing update authentication.
 >
-> **[1:30](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=90)** With a switch, good practice includes, implement DHCP snooping and port security, along with activating BPDU guard, root guard, and loop guard.
+> **[1:30](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=90)** With a switch, good practice includes, implement [[DHCP]] snooping and port security, along with activating BPDU guard, root guard, and loop guard.
 >
 > **[1:42](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980&t=102)** Malicious activity against a switch or router can modify system integrity and disrupt communications.
 >
@@ -219,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[DHCP]] (1)
 > **Env Vars:** cam (1), dhcp (1), bpdu (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (2)
@@ -900,7 +900,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=90)** One here we can see Cisco discovery protocol, sending CDP packet, flooding the CDP table, and setting up a virtual device.
 >
-> **[1:41](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=101)** With DHCP, here you can see that there are a number of different things that can be done.
+> **[1:41](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=101)** With [[DHCP]], here you can see that there are a number of different things that can be done.
 >
 > **[1:46](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=106)** Sending RAW packet, sending DISCOVER packet, creating DHCP rogue server, and sending a RELEASE packet which would take someone's IP address away.
 >
@@ -938,7 +938,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=242)** ARP spoofing or ARP cache poisoning is a technique used in a man in the middle attack.
 >
-> **[4:09](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=249)** With MAC spoofing, we change the MAC address on the NIC card and allow an attacker to intercept traffic to launch a man in the middle attack.
+> **[4:09](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=249)** With MAC spoofing, we change the MAC address on the [[NIC]] card and allow an attacker to intercept traffic to launch a man in the middle attack.
 >
 > **[4:19](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980&t=259)** A Macof attack is launched against a switch and the attacker floods the CAM table so that the switch is unable to deliver the data.
 >
@@ -954,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (4), [[Penetration Testing]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (4), [[DHCP]] (4), [[Penetration Testing]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[NIC]] (1)
 > **Env Vars:** dhcp (4), arp (3), mac (3), ccna (2), cdp (2)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **UI Navigation:** go to (2)
@@ -1084,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=49)** I'm in [[Wireshark]], and in this packet capture, we see the tail end of a normal boot-up process.
 >
-> **[0:57](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=57)** I'll filter the traffic for bootp, and this displays the DHCP traffic.
+> **[0:57](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=57)** I'll filter the traffic for bootp, and this displays the [[DHCP]] traffic.
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/arp-spoofing?u=76281980&t=68)** In frame two, you see the DHCP acknowledgement, which gives the host their IP address.
 >
@@ -1142,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Windows]] (1), [[Wireshark]] (1)
 > **Env Vars:** arp (25), mac (5), dhcp (3), arf (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (1), such as (1)
@@ -1154,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=0)** - [Instructor] On a [[Local Area Network (LAN)|local area network]], a device is identified by its MAC address.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=6)** MAC spoofing changes or spoofs the MAC address on a network interface card to someone else's MAC address to allow an attacker to intercept traffic to launch a man-in-the-middle attack.
+> **[0:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=6)** MAC spoofing changes or spoofs the MAC address on a [[NIC|network interface card]] to someone else's MAC address to allow an attacker to intercept traffic to launch a man-in-the-middle attack.
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=20)** Now here you see a small network with several devices.
 >
@@ -1204,13 +1204,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=215)** And that's how you can change a MAC address on a Windows machine.
 >
-> **[3:40](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=220)** Now you see how easy it is to change the MAC address, so you should defend against MAC address spoofing by using different techniques, one being Source Guard, and Dynamic APR Inspection, and they both work with DHCP spoofing.
+> **[3:40](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=220)** Now you see how easy it is to change the MAC address, so you should defend against MAC address spoofing by using different techniques, one being Source Guard, and Dynamic APR Inspection, and they both work with [[DHCP]] spoofing.
 >
 > **[3:57](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/mac-spoofing?u=76281980&t=237)** So, defend your network and protect against MAC address spoofing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[NIC|Network interface card]] (1), [[Microsoft Products|Products]] (1), [[DHCP]] (1)
 > **Env Vars:** mac (20), apr (1), dhcp (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (2)
@@ -1301,13 +1301,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=0)** - [Presenter] Dynamic Host Configuration Protocol dynamically assigns IP addresses.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=0)** - [Presenter] [[DHCP|Dynamic Host Configuration Protocol]] dynamically assigns IP addresses.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=6)** The four step process is discover, offer, request, and acknowledgment.
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=12)** When a host joins the network it doesn't have an IP address.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=17)** So it begins the DHCP process by broadcasting a discover packet to the network.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=17)** So it begins the [[DHCP]] process by broadcasting a discover packet to the network.
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dhcp-spoofing?u=76281980&t=24)** Because DHCP doesn't have a native authentication process, the client can be a victim of DHCP spoofing.
 >
@@ -1347,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (14), [[Active Directory]] (2), [[DHCP|Dynamic host configuration protocol]] (1), [[Windows]] (1)
 > **Env Vars:** dhcp (14), arp (4), vlan (2), dns (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
@@ -1361,7 +1361,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980&t=0)** - [Instructor] On a network, DHCP clients should only accept IP addresses from authorized DHCP servers.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980&t=0)** - [Instructor] On a network, [[DHCP]] clients should only accept IP addresses from authorized DHCP servers.
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980&t=9)** DHCP snooping prevents unauthorized, untrusted DHCP servers from offering IP addresses.
 >
@@ -1429,6 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (31)
 > **Env Vars:** dhcp (31), mac (2), arp (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1455,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=71)** Dynamic ARP Inspection rejects invalid and malicious ARP packets.
 >
-> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=76)** Dynamic ARP Inspection relies on DHCP snooping.
+> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=76)** Dynamic ARP Inspection relies on [[DHCP]] snooping.
 >
 > **[1:22](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/dynamic-arp-inspection?u=76281980&t=82)** Together, they prevent ARP cache poisoning.
 >
@@ -1463,7 +1464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Wireshark]] (1)
 > **Env Vars:** arp (9), mac (3), dhcp (2)
 > **Versions:** 192.168.47 (1), 47.2 (1)
 > **Speakers:** - [instructor] (1)
@@ -1561,7 +1562,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980&t=75)** Mac spoofing is used in a man in the middle attack.
 >
-> **[1:19](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980&t=79)** Source Guard on a switch port filters traffic based on the DHCP snooping and helps prevent IP spoofing attacks.
+> **[1:19](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980&t=79)** Source Guard on a switch port filters traffic based on the [[DHCP]] snooping and helps prevent IP spoofing attacks.
 >
 > **[1:28](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/bpdu-guard-root-guard-and-loop-guard?u=76281980&t=88)** Source Guard filters trusted IP and Mac address bindings.
 >
@@ -1579,6 +1580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** bpdu (6), dhcp (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -1754,7 +1756,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=21)** I discussed configuring privilege levels, role-based command line interface access, and routing update authentication.
 >
-> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=30)** Then I reviewed layer two attacks such as a Macof attack, VLAN hopping, and DHCP spoofing, and then discussed how to secure Cisco switches.
+> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=30)** Then I reviewed layer two attacks such as a Macof attack, VLAN hopping, and [[DHCP]] spoofing, and then discussed how to secure Cisco switches.
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980&t=43)** I covered mitigation procedures such as dynamic ARP inspection and BPDU guard, and then wrapped up with a discussion on VLAN security and looked at the security implications of a private VLAN and a native VLAN.
 >
@@ -1774,7 +1776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[DHCP]] (1), [[Ethical Hacking]] (1)
 > **Env Vars:** vlan (4), dhcp (1), arp (1), bpdu (1)
 > **Analogies:** such as (2)
 > **Tools:** command line (1)

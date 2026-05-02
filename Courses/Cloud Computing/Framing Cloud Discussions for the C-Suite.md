@@ -992,7 +992,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=0)** - [Instructor] You're meeting with Dustin and the entire C-suite.
 >
-> **[0:03](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=3)** Dustin has just gotten out of a meeting with marketing and Explore California has just signed deals with two top influencers on Instagram.
+> **[0:03](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=3)** Dustin has just gotten out of a meeting with marketing and Explore California has just signed deals with two top influencers on [[Instagram]].
 >
 > **[0:12](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=12)** The meeting is supposed to be about the cloud migration in general, but Dustin throws you a very specific curve ball right in the top of the meeting.
 >
@@ -1070,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scalability]] (4), [[Cloud Infrastructure]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (4), [[Cloud Infrastructure]] (2), [[Instagram]] (1)
 > **Env Vars:** cfo (1), cto (1), ceo (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)

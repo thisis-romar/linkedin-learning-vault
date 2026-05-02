@@ -3922,7 +3922,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=25)** Put another way, they can use another site's credentials instead of credentials, like a email and password that they've created specifically for our site.
 >
-> **[0:36](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=36)** Now, probably the most well-known case of this is the login with [[Google]], or login with Facebook, or login with [[GitHub]] buttons that you see on many sites.
+> **[0:36](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=36)** Now, probably the most well-known case of this is the login with [[Google]], or login with [[Facebook]], or login with [[GitHub]] buttons that you see on many sites.
 >
 > **[0:45](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=45)** In this course, we're going to just be seeing how to add a login with Google Button to our site, but the concepts that we'll be covering here will be very similar for all OAuth providers.
 >
@@ -3986,7 +3986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[LinkedIn]] (2), [[JSON]] (1), [[Tokens]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Facebook]] (3), [[LinkedIn]] (2), [[JSON]] (1), [[Tokens]] (1)
 > **Env Vars:** url (5), json (1)
 > **Analogies:** for example (3), such as (1)
 > **Versions:** 2.0 (1), 1.0 (1)
@@ -5087,7 +5087,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=71)** Now, the second thing here is that Auth0 provides support for a wide variety of different providers.
 >
-> **[1:20](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=80)** So, you know, if you want to allow users to log into your site through social media logins like Facebook, [[Google]], and so on, if you want to do password lists authentication, where basically temporary password is sent to the user's email address, or if you want to do things like enterprise login, you can do those with Auth0.
+> **[1:20](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=80)** So, you know, if you want to allow users to log into your site through social media logins like [[Facebook]], [[Google]], and so on, if you want to do password lists authentication, where basically temporary password is sent to the user's email address, or if you want to do things like enterprise login, you can do those with Auth0.
 >
 > **[1:41](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=101)** It makes it very easy to do.
 >
@@ -5111,7 +5111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (1), [[Facebook]] (1), [[Google]] (1)
 > **CLI Commands:** node (1), make (1)
 > **File Paths:** node.js (1)
 > **Prerequisites:** getting started (1)
@@ -5139,7 +5139,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=52)** Firebase authentication also has extensive support for a lot of different providers.
 >
-> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=58)** So obviously this includes the most common ones, like Google, Facebook, Twitter, [[GitHub]].
+> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=58)** So obviously this includes the most common ones, like Google, [[Facebook]], Twitter, [[GitHub]].
 >
 > **[1:03](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=63)** But it also includes things like phone authentication.
 >
@@ -5165,7 +5165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[Facebook]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -5349,7 +5349,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=42)** Colloquially, these are all names for the same basic idea, so let's talk about that here.
 >
-> **[0:48](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=48)** If you go to sites like [[Google]] or Facebook or [[LinkedIn]], and obviously, many others as well, you'll see that, up in the left hand corner of the page, the browser displays this little lock icon, and if you look at the full URL, you'll see that it begins with HTTPS instead of just HTTP, and that's because these sites use SSL, which stands for Secure Sockets Layer, and TLS, which stands for Transport Layer Security, to ensure that their users' communications remain secure, and you don't have to remember what these stand for exactly.
+> **[0:48](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=48)** If you go to sites like [[Google]] or [[Facebook]] or [[LinkedIn]], and obviously, many others as well, you'll see that, up in the left hand corner of the page, the browser displays this little lock icon, and if you look at the full URL, you'll see that it begins with HTTPS instead of just HTTP, and that's because these sites use SSL, which stands for Secure Sockets Layer, and TLS, which stands for Transport Layer Security, to ensure that their users' communications remain secure, and you don't have to remember what these stand for exactly.
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=83)** It's only important that you understand the basic concepts that we're covering here.
 >
@@ -5375,7 +5375,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=227)** You see, without HTTPS, it's actually fairly easy for hackers to read these kinds of communications.
 >
-> **[3:53](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=233)** One example of this is that, in public places like airports, for example, a hacker can simply set up their own Wi-Fi hotspot, and they can call it whatever they want, usually something like "free airport Wi-Fi," and then when they connect to this, the hacker will be able to see all the communications that users have with the sites they visit.
+> **[3:53](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=233)** One example of this is that, in public places like airports, for example, a hacker can simply set up their own [[Wi-Fi]] hotspot, and they can call it whatever they want, usually something like "free airport Wi-Fi," and then when they connect to this, the hacker will be able to see all the communications that users have with the sites they visit.
 >
 > **[4:14](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=254)** Now, this is only a problem if the sites that the users are accessing through this malicious hotspot aren't using HTTPS, because what HTTPS does is it encrypts all the communications between the user and the site, so even if a hacker can see those raw requests, they won't actually be able to read them once they're encrypted.
 >
@@ -5391,7 +5391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Google]] (2), [[John the Ripper|John]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Google]] (2), [[John the Ripper|John]] (2), [[Wi-Fi]] (2), [[Facebook]] (1)
 > **Env Vars:** https (12), ssl (6), tls (5), url (2), httpss (1)
 > **Definitions:** in other words (3), stands for (2), means that (1), is a  (1)
 > **CLI Commands:** make (5), ls (1)

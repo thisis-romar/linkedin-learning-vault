@@ -3660,7 +3660,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=63)** So the guards are trained on the relevant regulations, and shortcomings are identified and remediated before the inspectors arrive.
 >
-> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=72)** So with a computer system, it's very similar in that you have to comply with rules like HIPAA or PCI DSS.
+> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=72)** So with a computer system, it's very similar in that you have to comply with rules like HIPAA or [[PCI DSS]].
 >
 > **[1:20](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=80)** Non-compliance would result in fines, or even a loss of public trust.
 >
@@ -3680,7 +3680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (1), [[Accountability]] (1)
 > **Env Vars:** hipaa (1), pci (1), dss (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -9059,7 +9059,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=448)** So if we go back to Hugging Face real quick, and we look at models, and let's take a look at Summarization, you can take a look, this is similar to what potentially people have been doing here, right?
 >
-> **[7:38](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=458)** In this particular model here, you can see that in fact, it's based on the original Facebook model, but it's been Fine-Tuned, and it's been pushed into this particular directory, right?
+> **[7:38](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=458)** In this particular model here, you can see that in fact, it's based on the original [[Facebook]] model, but it's been Fine-Tuned, and it's been pushed into this particular directory, right?
 >
 > **[7:52](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=472)** So you can do the same thing yourself by doing Fine-Tuning.
 >

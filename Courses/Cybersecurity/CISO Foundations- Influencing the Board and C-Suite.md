@@ -530,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=94)** Although it might not necessarily translate to I just saved my company 10 million, such investments are still needed for an organization to thrive.
 >
-> **[1:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=105)** [[Regulatory Compliance]], such as the European General Data Protection Regulation, known as GDPR, and Payment Card Industry [[Data Security]] Standard, PCI DSS compliance where applicable to a company is another approach to building a credible cyber program.
+> **[1:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=105)** [[Regulatory Compliance]], such as the European General Data Protection Regulation, known as GDPR, and [[PCI DSS|Payment Card Industry Data Security Standard]], [[PCI DSS]] compliance where applicable to a company is another approach to building a credible cyber program.
 >
 > **[2:04](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=124)** The CFO's dollars and cents attitude is handy for analyzing cyber risk using a quantitative rather than qualitative approach, ensuring that business and risk values are quantified equally.
 >
@@ -566,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Regulatory Compliance]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Regulatory Compliance]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[PCI DSS]] (1)
 > **Env Vars:** cfo (5), fair (3), ciso (2), rov (1), roo (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)

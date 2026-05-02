@@ -1613,11 +1613,11 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=230)** We've got full access to the account even though we haven't entered any credentials we've successfully hijacked in HTTP session through intercepting and reusing cookies.
 >
-> **[4:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=241)** The moral to this story is be careful what you do on a public wifi network, cafes, hotels and other hotspots may well be one step away from a hijack.
+> **[4:01](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/hijacking-sessions-with-cookies-14032789?u=76281980&t=241)** The moral to this story is be careful what you do on a public [[Wi-Fi|wifi]] network, cafes, hotels and other hotspots may well be one step away from a hijack.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), [[Banking]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Banking]] (2), [[Windows 10]] (1), [[Wi-Fi|Wifi]] (1)
 > **UI Navigation:** select the (1), open the (1), go to (1), click on (1)
 > **Env Vars:** http (2)
 > **Prerequisites:** install (2)

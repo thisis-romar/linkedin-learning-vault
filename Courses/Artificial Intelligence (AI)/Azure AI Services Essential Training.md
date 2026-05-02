@@ -3059,7 +3059,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=12)** GPT-3.5 is what I'll use because it's cheap to use and it's good enough for our purpose, but you're welcome to try any other model I'm about to talk about in this video here, starting with Meta.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=25)** Meta is the company that is the owner of say, Facebook, Instagram, WhatsApp, et cetera, and they have contributed a lot to the AI space.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=25)** Meta is the company that is the owner of say, [[Facebook]], [[Instagram]], WhatsApp, et cetera, and they have contributed a lot to the AI space.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=33)** On the [[Natural Language Processing (NLP)|natural language processing]] side, they have built a series of models versions called as [[LLaMA]].
 >
@@ -3189,7 +3189,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=54)** But there are a bunch of catalogs you can pick over here.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=58)** So there are a lot of solutions you can pick, not just from [[Microsoft]], but from Facebook or basically anybody that's publishing these AI models.
+> **[0:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=58)** So there are a lot of solutions you can pick, not just from [[Microsoft]], but from [[Facebook]] or basically anybody that's publishing these AI models.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=67)** You can compare various model benchmarks so you can pick the right model for yourself.
 >
@@ -3461,7 +3461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Azure AI Studio]] (2), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Azure AI Studio]] (2), [[Microsoft]] (1), [[Facebook]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** pdf (11), cpu (2), dns (1), lrs (1), cors (1)
 > **UI Navigation:** click on (11), scroll down (5), go to (1)
 > **CLI Commands:** make (2), find (1), python (1)

@@ -1145,7 +1145,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=121)** Google Trends is also great for survey data.
 >
-> **[2:04](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=124)** And further, in today's day and age with Facebook, and [[LinkedIn]], and a variety of other tools out there, you can actually gather customer comments and social media data online, although this can require textual analysis in some cases.
+> **[2:04](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=124)** And further, in today's day and age with [[Facebook]], and [[LinkedIn]], and a variety of other tools out there, you can actually gather customer comments and social media data online, although this can require textual analysis in some cases.
 >
 > **[2:18](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=138)** Let's take a look at how we could gather data from, say, the US Census Bureau, though.
 >
@@ -1227,7 +1227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Statistics]] (2), [[Forecasting]] (1), [[LinkedIn]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Statistics]] (2), [[Forecasting]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **Analogies:** for example (7), for instance (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is a  (2)
@@ -1275,7 +1275,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980&t=74)** Unfortunately, there's no way to go between the two types of codes.
 >
-> **[1:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980&t=79)** These are codes used by the US government for classifying firms, but if you have a company that was started after the year 2000, let's say Facebook, there's no way to go and match that with an SIC code from the 1990s.
+> **[1:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980&t=79)** These are codes used by the US government for classifying firms, but if you have a company that was started after the year 2000, let's say [[Facebook]], there's no way to go and match that with an SIC code from the 1990s.
 >
 > **[1:35](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980&t=95)** That data availability can present a big problem.
 >
@@ -1407,6 +1407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Analogies:** for example (12), for instance (1)
 > **Env Vars:** sic (3), naics (2), gdp (1), zip (1)
 > **CLI Commands:** find (1)

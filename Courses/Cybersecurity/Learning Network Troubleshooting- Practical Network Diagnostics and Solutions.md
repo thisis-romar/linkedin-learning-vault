@@ -91,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=15)** Troubleshooting your network is more than just figuring out issues with TCP/IP.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=19)** In my course, Learning [[Network Troubleshooting]], you'll learn how to troubleshoot and fix wired and wifi network issues, VPN problems for road warriors, and triaging the most important issues when hit with a storm of networking problems.
+> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=19)** In my course, Learning [[Network Troubleshooting]], you'll learn how to troubleshoot and fix wired and [[Wi-Fi|wifi]] network issues, VPN problems for road warriors, and triaging the most important issues when hit with a storm of networking problems.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980&t=33)** You'll also learn how to use command line, [[Powershell]], and [[Linux]] troubleshooting tools.
 >
@@ -105,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Troubleshooting]] (3), [[Powershell]] (1), [[Linux]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Network Troubleshooting]] (3), [[Wi-Fi|Wifi]] (1), [[Powershell]] (1), [[Linux]] (1), [[Microsoft]] (1)
 > **Env Vars:** tcp (1), vpn (1)
 > **Tools:** command line (1), powershell (1)
 > **CLI Commands:** make (1)
@@ -170,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=133)** The bandwidth for wireless is very narrow and easily stepped on by other devices.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=138)** A centralized wireless management system is the best way to see the severity of a Wi-Fi issue quickly and efficiently through.
+> **[2:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=138)** A centralized wireless management system is the best way to see the severity of a [[Wi-Fi]] issue quickly and efficiently through.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980&t=145)** Network slowness is more common and more frustrating than a network outage can be because at first there's no way to find the issue.
 >
@@ -194,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** dns (1)
 > **Definitions:** is an  (1)
@@ -221,7 +221,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=45)** How are we connected?
 >
-> **[0:47](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=47)** For email, we can connect internally through our LAN, we can connect wirelessly through Wi-Fi, or we can connect through VPN.
+> **[0:47](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=47)** For email, we can connect internally through our LAN, we can connect wirelessly through [[Wi-Fi]], or we can connect through VPN.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=56)** We can also connect through MAPI in Microsoft Outlook.
 >
@@ -255,7 +255,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=141)** We should also look at IP exhaustion.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=143)** Many times we have a certain amount of IP addresses in our DHCP scope and those IPs become exhausted and we need to add additional IPs to our scope or set up an additional scope.
+> **[2:23](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=143)** Many times we have a certain amount of IP addresses in our [[DHCP]] scope and those IPs become exhausted and we need to add additional IPs to our scope or set up an additional scope.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/fixing-corporate-resource-issues?u=76281980&t=154)** It could be a computer firewall issue.
 >
@@ -303,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft Outlook]] (2), [[Microsoft]] (1), [[Active Directory]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft Outlook]] (2), [[Microsoft]] (1), [[Wi-Fi]] (1), [[Active Directory]] (1)
 > **Env Vars:** dns (6), vpn (4), isp (3), lan (2), mapi (2)
 > **CLI Commands:** make (4), find (2), aws (1)
 > **Prerequisites:** set up (4), setup (1), you'll need (1)
@@ -635,11 +635,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=0)** - Wifi connections are becoming the dominant type of connection between the PC and the corporate network as well as the internet in both the home and the [[Microsoft Office|office]].
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=0)** - [[Wi-Fi|Wifi]] connections are becoming the dominant type of connection between the PC and the corporate network as well as the internet in both the home and the [[Microsoft Office|office]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=10)** So, it's likely that system administrators going forward will be troubleshooting wireless issues just as much if not more than wired ones.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=19)** One of the most common reasons that a wireless computer cannot connect is they don't have an IP address and that could be because they can't find a DHCP server or because there's some other problem with the wireless card being able to communicate with the SSID of the WiFi access point.
+> **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=19)** One of the most common reasons that a wireless computer cannot connect is they don't have an IP address and that could be because they can't find a [[DHCP]] server or because there's some other problem with the wireless card being able to communicate with the SSID of the WiFi access point.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-wireless-issues?u=76281980&t=37)** Another one would be poor reception and this could be because of concrete floors or walls or other barriers, because remember wireless also known as WiFi in this particular case is line of sight and that means if you can't see each other then connection is happening by bouncing off of walls and ceilings and floors which just isn't as good as a direct line of sight.
 >
@@ -757,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Windows]] (2), [[Active Directory]] (1), [[Windows Server]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (5), [[DHCP]] (4), [[Microsoft Office|Office]] (2), [[Windows]] (2), [[Active Directory]] (1)
 > **Env Vars:** dns (5), dhcp (4), wpa2 (2), tkip (2), ssid (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 2.4 (4)
@@ -930,7 +930,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=442)** We see the static IP address, you can see the DNS servers, things like that.
 >
-> **[7:26](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=446)** Now, if you have a DHCP server, which automatically assigns IP addresses, you can take advantage of that by going onto the edit button that you see here and then changing from manual to automatic DHCP.
+> **[7:26](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=446)** Now, if you have a [[DHCP]] server, which automatically assigns IP addresses, you can take advantage of that by going onto the edit button that you see here and then changing from manual to automatic DHCP.
 >
 > **[7:39](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/internet-provider-problems?u=76281980&t=459)** And then that will assign an IP address from the DHCP server.
 >
@@ -968,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Google]] (4), [[Routing]] (3), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[DHCP]] (8), [[Google]] (4), [[Routing]] (3), [[Powershell]] (1)
 > **Env Vars:** dns (29), dhcp (8), ipv6 (4), ipv4 (4), https (1)
 > **UI Navigation:** click on (7), go to (5)
 > **CLI Commands:** make (7)
@@ -990,7 +990,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=10)** There's technically no completely safe wireless.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=13)** There are so many ways to hack a wifi network that needs to be a main concern with data transmission.
+> **[0:13](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=13)** There are so many ways to hack a [[Wi-Fi|wifi]] network that needs to be a main concern with data transmission.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980&t=19)** The best security currently is AES, or Advanced Encryption Service Encryption, with the latest wireless protocols.
 >
@@ -1046,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (4), [[Cybersecurity]] (2), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 2.4 (2), 802.11 (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aes (1), ssid (1)
@@ -1057,7 +1057,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=0)** - [Narrator] There's many different devices that can cause Wi-Fi interference that you should be aware of.
+> **[0:00](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=0)** - [Narrator] There's many different devices that can cause [[Wi-Fi]] interference that you should be aware of.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=5)** Many appliances such as microwaves and fluorescent lights, there are power cables and adapters, they all emit signals that can interfere with Wi-Fi.
 >
@@ -1085,7 +1085,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=102)** Many people don't know this, but Wi-Fi works on line of sight.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=106)** So if a computers wireless network interface card and wireless access point can't see each other, then they have to rely on bouncing signals off floors, walls and ceilings to get to each other.
+> **[1:46](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=106)** So if a computers wireless [[NIC|network interface card]] and wireless access point can't see each other, then they have to rely on bouncing signals off floors, walls and ceilings to get to each other.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/troubleshooting-wi-fi-interference?u=76281980&t=116)** The more hops and the duller the material, the more the wireless will slow down.
 >
@@ -1095,6 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (10), [[NIC|Network interface card]] (1)
 > **Analogies:** such as (5)
 > **Versions:** 2.4 (1)
 > **UI Navigation:** switch to (1)
@@ -1251,7 +1252,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=238)** One other thing we want to make sure we check when I go back into properties after the restart is going to be IPV4.
 >
-> **[4:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=245)** So here it's showing the DHCP servers where those clients who VPN are going to get their IP from.
+> **[4:05](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=245)** So here it's showing the [[DHCP]] servers where those clients who VPN are going to get their IP from.
 >
 > **[4:11](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/vpn-works-but-cannot-access-any-resources?u=76281980&t=251)** You could choose a static address pool if you don't have a DHCP server available on that particular network.
 >
@@ -1335,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (6), [[Routing]] (5), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (6), [[Routing]] (5), [[DHCP]] (3), [[Hardware]] (1)
 > **Env Vars:** vpn (18), dns (9), l2tp (3), sstp (3), dhcp (3)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (4), go to (3)
@@ -2136,7 +2137,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=115)** And that would be our internet connection.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=118)** Now we can add in our servers, we'll start with our [[Active Directory]] domain controller server and then we'll add in our DHCP DNS servers, and that way we can automatically send out IPs to computers that don't have them statically set and DNS would allow us to resolve names to IP addresses.
+> **[1:58](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=118)** Now we can add in our servers, we'll start with our [[Active Directory]] domain controller server and then we'll add in our [[DHCP]] DNS servers, and that way we can automatically send out IPs to computers that don't have them statically set and DNS would allow us to resolve names to IP addresses.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980&t=138)** We also need to have some file and print servers.
 >

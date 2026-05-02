@@ -2155,7 +2155,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=268)** There are substantial fines associated with violations of GDPR.
 >
-> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=274)** So for instance, in September of 2022, Meta, Facebook's parent company, and Instagram's parent company, was fined 405 million Euros for how Instagram treated data from children that was in violation of GDPR policies.
+> **[4:34](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=274)** So for instance, in September of 2022, Meta, [[Facebook]]'s parent company, and [[Instagram]]'s parent company, was fined 405 million Euros for how Instagram treated data from children that was in violation of GDPR policies.
 >
 > **[4:49](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/privacy-laws-26213974?u=76281980&t=289)** And then in June of 2021, Amazon was fined $865 million, 746 million Euros for gathering data for advertising without explicit consent.
 >
@@ -2179,7 +2179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (4), [[Google]] (3), [[Data Science]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (4), [[Google]] (3), [[Data Science]] (2), [[Instagram]] (2)
 > **Env Vars:** gdpr (10), ccpa (1)
 > **Definitions:** basically means (1), known as (1), is a  (1)
 > **CLI Commands:** find (2)

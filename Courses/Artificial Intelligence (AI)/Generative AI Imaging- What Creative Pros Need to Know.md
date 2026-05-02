@@ -899,7 +899,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=172)** Training in AI is simply a process of sampling and quantizing a bunch of images into a data set which you then package and sell.
 >
-> **[2:59](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=179)** It's just like Facebook gathering data from your posts and selling it.
+> **[2:59](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=179)** It's just like [[Facebook]] gathering data from your posts and selling it.
 >
 > **[3:03](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=183)** With Facebook, you agree to be exploited that way when you create an account.
 >
@@ -959,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Facebook]] (2), [[DALL-E]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [shutterstock.com](https://shutterstock.com) (1)
 > **Env Vars:** dall (1)

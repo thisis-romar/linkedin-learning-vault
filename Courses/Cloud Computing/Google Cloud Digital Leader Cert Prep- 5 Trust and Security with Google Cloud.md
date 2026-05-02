@@ -947,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=75)** The Resource Center equips you with the necessary insights and documentation to align your compliance efforts with HIPAA requirements.
 >
-> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=84)** Similarly, if you operate within the financial sector, you'll find guidance on meeting regulations like PCI DSS, which stands for Payment Card Industry [[Data Security]] Standard.
+> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=84)** Similarly, if you operate within the financial sector, you'll find guidance on meeting regulations like [[PCI DSS]], which stands for [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=96)** Google Cloud's compliance resource center is your go-to source for actionable information and support.
 >
@@ -977,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Google]] (2), [[Privacy]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Google]] (2), [[Privacy]] (1), [[PCI DSS]] (1), [[Data Security]] (1)
 > **Env Vars:** hipaa (2), iso (2), iec (2), pci (1), dss (1)
 > **CLI Commands:** find (2)
 > **URLs:** [google.com](https://google.com) (2)

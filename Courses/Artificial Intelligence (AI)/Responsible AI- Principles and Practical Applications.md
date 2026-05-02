@@ -488,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=17)** Were you aware that AI may determine whether you even see a job opening in the first place?
 >
-> **[0:23](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=23)** Similarly, consider how Twitter decided to crop the photo of your face, or how Facebook decides which updates to show you, and how doctors might quickly analyze medical images and narrow down potential diagnoses with the aid of AI.
+> **[0:23](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=23)** Similarly, consider how Twitter decided to crop the photo of your face, or how [[Facebook]] decides which updates to show you, and how doctors might quickly analyze medical images and narrow down potential diagnoses with the aid of AI.
 >
 > **[0:39](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=39)** Have you noticed that in some buildings, the thermostat learns to turn on in anticipation of staff arriving, and turn off if no one comes in?
 >
@@ -498,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Human Resources (HR)|Human resources]] (1)
 
 #### [AI in HR and hiring](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980)
 
@@ -606,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=75)** Algorithms determine the news and information that users see, and research shows that divisive and partisan content results in more likes, comments, and shares, unfortunately.
 >
-> **[1:25](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=85)** As a result, the more time someone spends on Facebook, the more polarized their online news consumption becomes, according to University of Virginia researchers.
+> **[1:25](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=85)** As a result, the more time someone spends on [[Facebook]], the more polarized their online news consumption becomes, according to University of Virginia researchers.
 >
 > **[1:36](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=96)** A related use of AI in social media is for content moderation.
 >
@@ -672,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Algorithms]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ceo (1)

@@ -734,7 +734,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=162)** The third method is federated authentication, and this is changing all the time, the authentication process from a separate trusted authenticator.
 >
-> **[2:53](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=173)** And think about this now we have Facebook as an authenticator.
+> **[2:53](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=173)** And think about this now we have [[Facebook]] as an authenticator.
 >
 > **[2:57](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=177)** We have [[Google]] as a trusted authenticator.
 >
@@ -814,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (3), [[Active Directory]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (3), [[Active Directory]] (2), [[Facebook]] (1)
 > **Env Vars:** ldap (1), ntlm (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -1462,7 +1462,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=15)** This allows you to work with people outside of your organization, and the key here is the users just bring in an external identity, and you can manage a lot of external collaboration settings.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=30)** The external identity accounts, they might be a government-issued account, a company-issued account, [[Google]], Facebook.
+> **[0:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=30)** The external identity accounts, they might be a government-issued account, a company-issued account, [[Google]], [[Facebook]].
 >
 > **[0:38](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=38)** And the external identities, they allow people outside of your company to securely access your apps and resources within the company.
 >
@@ -1510,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Google]] (3), [[Microsoft Entra ID|Entra id]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Google]] (3), [[Microsoft Entra ID|Entra id]] (2), [[Facebook]] (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)

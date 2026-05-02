@@ -1280,7 +1280,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=61)** This makes a virtual network that's seamless with a real network.
 >
-> **[1:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=64)** The negative to this is that your VM network changes if the physical one does, for instance, if you were bridged to the host wire device and then later move the host computer and need to connect using its wireless LAN connection.
+> **[1:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=64)** The negative to this is that your VM network changes if the physical one does, for instance, if you were bridged to the host wire device and then later move the host computer and need to connect using its [[Wi-Fi|wireless LAN]] connection.
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=75)** In this scenario, you need to change the bridge in VirtualBox settings to connect to the LAN card.
 >
@@ -1288,7 +1288,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=92)** Lastly, you might not want to have your virtual network merged with your physical network.
 >
-> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=96)** Having a merged network means you can't run a DHCP server or some other services without there being conflicts with a physical network.
+> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=96)** Having a merged network means you can't run a [[DHCP]] server or some other services without there being conflicts with a physical network.
 >
 > **[1:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=104)** To avoid problems with a bridged adapter, we can set up our network a different way.
 >
@@ -1388,7 +1388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (6), [[Wi-Fi|Wireless lan]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1), [[Google]] (1)
 > **UI Navigation:** click on (15), go to (1), checkbox (1)
 > **Env Vars:** nat (7), dhcp (6), lan (2), ssh (1)
 > **Versions:** 192.168.3 (7), 255.255.255 (2), 10.0.2 (2)

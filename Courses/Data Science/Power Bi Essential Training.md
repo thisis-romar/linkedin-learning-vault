@@ -4194,7 +4194,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980&t=215)** There are many times when I'm on a train or on a airplane, and even though I have access to the internet, it's not super fast and it's not rock solid.
 >
-> **[3:43](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980&t=223)** I want to be able to work offline using Power BI Desktop, and then connect my data when I have good Wi-Fi and blazing speed.
+> **[3:43](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980&t=223)** I want to be able to work offline using Power BI Desktop, and then connect my data when I have good [[Wi-Fi]] and blazing speed.
 >
 > **[3:52](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980&t=232)** So these are the main reasons that I'm driven to Power BI Desktop.
 >

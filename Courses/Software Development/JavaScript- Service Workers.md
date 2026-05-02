@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=54)** We usually want to offer a consistent experience across different contexts.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=60)** For example, the user might be on its own home with WiFi connection, or the user might be in roaming, for example, using 3G.
+> **[1:00](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=60)** For example, the user might be on its own home with [[Wi-Fi|WiFi]] connection, or the user might be in roaming, for example, using 3G.
 >
 > **[1:12](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=72)** And when we are serving mobile users, and we know that we want to serve mobile users, we are using similar connections.
 >
@@ -285,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[Google]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (2), lte (1), html5 (1), w3c (1), pwa (1)
 > **Analogies:** for example (5), such as (2)
 > **Documentation:** spec (4), w3c (1)
@@ -397,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=111)** We can also detect high-latency networks or even captive portals.
 >
-> **[1:56](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=116)** For example, you're in a hotel or your in a coffee store, you connect to the wifi but you didn't accept the terms, or you don't have password, so the OS is exposing a network but it is not working.
+> **[1:56](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=116)** For example, you're in a hotel or your in a coffee store, you connect to the [[Wi-Fi|wifi]] but you didn't accept the terms, or you don't have password, so the OS is exposing a network but it is not working.
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=129)** Well, the service worker can detect that situation and do something with that, or replace the server, or act like the server to provide our website or web app the right files.
 >
@@ -423,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Wi-Fi|Wifi]] (1), [[Fetch]] (1)
 > **Env Vars:** pwa (2), ios (2), css (1), svg (1), http (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
@@ -456,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=56)** Let's start with [[Android]].
 >
-> **[0:58](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=58)** For example, when you are browsing a website inside the Facebook mobile browsers, so you're in Facebook, you click on a link, it's being rendered inside Facebook, that website, and in that case on Android, on most Android devices, you do have support for service worker, but that service worker is completely isolated from the browser, which means if you visit the website as a user with service workers from Chrome, and then you visit that website from within Facebook, they're not going to share the cache.
+> **[0:58](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=58)** For example, when you are browsing a website inside the [[Facebook]] mobile browsers, so you're in Facebook, you click on a link, it's being rendered inside Facebook, that website, and in that case on Android, on most Android devices, you do have support for service worker, but that service worker is completely isolated from the browser, which means if you visit the website as a user with service workers from Chrome, and then you visit that website from within Facebook, they're not going to share the cache.
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=93)** On iOS, service workers are not available on web views, which means they're not available on Facebook, and they're not available on Chrome or other browsers on iOS, such as Firefox or even Edge on iOS.
 >
@@ -488,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[Microsoft]] (1), [[Windows 10]] (1), [[Windows]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Android]] (4), [[Microsoft]] (1), [[Windows 10]] (1), [[Windows]] (1)
 > **Code Identifiers:** ios (6), iphone (2), ipad (2)
 > **Tools:** safari (3), firefox (2)
 > **Analogies:** such as (3), for example (1)
@@ -1669,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=69)** Because the whole idea of the service worker is to work offline and in any situation.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=77)** And sometimes, maybe the server's is down, maybe you are in a captive portal, so you are inside the WiFi, without yet actual connection to the web, and maybe that captive portal is giving you a 404 when you are accessing the service worker.
+> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=77)** And sometimes, maybe the server's is down, maybe you are in a captive portal, so you are inside the [[Wi-Fi|WiFi]], without yet actual connection to the web, and maybe that captive portal is giving you a 404 when you are accessing the service worker.
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=93)** So that's why browsers are not unregistering the files automatically.
 >
@@ -1711,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[HTML]] (1)
 > **Tools:** safari (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** html (1)
@@ -2700,7 +2700,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=164)** So, who can we test this in a no fly environment?
 >
-> **[2:49](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=169)** Well I can't turn off my wi-fi but in this case, a local server.
+> **[2:49](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=169)** Well I can't turn off my [[Wi-Fi]] but in this case, a local server.
 >
 > **[2:52](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=172)** I can stop the server, yes sure, I can do that.
 >
@@ -2722,7 +2722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[HTML]] (1), [[Wi-Fi]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** go back to (1), next video (1)
 > **File Paths:** assets.js (1)

@@ -527,7 +527,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=133)** Several communication technologies have evolved over the years.
 >
-> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=137)** Some of the common ones are radio, Wi-Fi, Bluetooth, ethernet, fiber.
+> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=137)** Some of the common ones are radio, [[Wi-Fi]], Bluetooth, ethernet, fiber.
 >
 > **[2:24](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=144)** Some popular networks IoT devices use are the internet, [[Local Area Network (LAN)|local area network]], that is the LAN, wide area network, that is the WAN, mobile network, and satellite network.
 >
@@ -549,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (14), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[IoT]] (14), [[Hardware]] (1), [[Wi-Fi]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** lan (1), wan (1)
 > **Analogies:** such as (1)
@@ -1097,7 +1097,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=0)** - [Instructor] The safeguarding of networks and devices connected in a wireless environment is known as Wi-Fi security.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=0)** - [Instructor] The safeguarding of networks and devices connected in a wireless environment is known as [[Wi-Fi]] security.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=8)** Anyone with a computer or mobile device who is within the wireless signal range of a networking device, such as a wireless access point or a router, can access it without Wi-Fi security.
 >
@@ -1181,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (12), [[IoT]] (8), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Network Security]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), means that (1)
 > **Env Vars:** vpn (2), wpa2 (1), ioc (1)
 > **CLI Commands:** make (3)

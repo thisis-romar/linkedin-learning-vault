@@ -150,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/plc-sequencer-logic/what-you-should-know-before-watching?u=76281980&t=21)** If you need a refresher on the basics of Lotto Logic programming, I recommend that you check out my other [[LinkedIn]] Learning courses so you're prepared for this course.
 >
-> **[0:31](https://www.linkedin.com/learning/plc-sequencer-logic/what-you-should-know-before-watching?u=76281980&t=31)** Throughout the course, I'll be using Logix Pro PLC simulator from Learning Pit.
+> **[0:31](https://www.linkedin.com/learning/plc-sequencer-logic/what-you-should-know-before-watching?u=76281980&t=31)** Throughout the course, I'll be using Logix Pro [[PLC]] simulator from Learning Pit.
 >
 > **[0:38](https://www.linkedin.com/learning/plc-sequencer-logic/what-you-should-know-before-watching?u=76281980&t=38)** This [[Simulation Software]] mimics Allen-Bradley Rockwell ARIS Logix 500.
 >
@@ -162,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Simulation Software]] (2), [[LinkedIn]] (1)
 > **Env Vars:** plc (2), aris (1)
 > **Speakers:** - this (1)
 
@@ -170,7 +170,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/logixpro-plc-simulator-software?u=76281980&t=0)** - [Instructor] For this course I'll be using LogixPro PLC Simulator from LearningPit.
+> **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/logixpro-plc-simulator-software?u=76281980&t=0)** - [Instructor] For this course I'll be using LogixPro [[PLC]] Simulator from LearningPit.
 >
 > **[0:06](https://www.linkedin.com/learning/plc-sequencer-logic/logixpro-plc-simulator-software?u=76281980&t=6)** This [[Simulation Software]] mimics Allen Bradley's Rockwell RSLogix 500.
 >
@@ -182,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [[PLC]] (3), [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -345,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/plc-sequencer-logic/sqo-parameters-part-2?u=76281980&t=101)** And if the mask bits are set to zero, this means mask the data or restrict the passage.
 >
-> **[1:50](https://www.linkedin.com/learning/plc-sequencer-logic/sqo-parameters-part-2?u=76281980&t=110)** If you want to learn more about the mask and how it operates please refer to this video from the previous PLC course.
+> **[1:50](https://www.linkedin.com/learning/plc-sequencer-logic/sqo-parameters-part-2?u=76281980&t=110)** If you want to learn more about the mask and how it operates please refer to this video from the previous [[PLC]] course.
 >
 > **[1:59](https://www.linkedin.com/learning/plc-sequencer-logic/sqo-parameters-part-2?u=76281980&t=119)** Control parameter is the address of the control file that contains the parameter with control information for the instruction.
 >
@@ -377,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Simulation Software]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Simulation Software]] (2), [[PLC]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** plc (1)
 > **Definitions:** is a  (1)
@@ -508,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/plc-sequencer-logic/example-motor-and-pilot-lights?u=76281980&t=100)** The startup position is position zero.
 >
-> **[1:43](https://www.linkedin.com/learning/plc-sequencer-logic/example-motor-and-pilot-lights?u=76281980&t=103)** This is only at the beginning of the process when you download the program into the PLC.
+> **[1:43](https://www.linkedin.com/learning/plc-sequencer-logic/example-motor-and-pilot-lights?u=76281980&t=103)** This is only at the beginning of the process when you download the program into the [[PLC]].
 >
 > **[1:49](https://www.linkedin.com/learning/plc-sequencer-logic/example-motor-and-pilot-lights?u=76281980&t=109)** Now, let's fill in the truth table for each step.
 >
@@ -548,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PLC]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** plc (1)
 > **Exercise Files:** download the (1)
@@ -584,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/plc-sequencer-logic/ladder-logic-for-motor-and-pilot-lights?u=76281980&t=60)** We can use another push button that can reset the control file values to zero, or we can use the control done bit to reset the instruction.
 >
-> **[1:11](https://www.linkedin.com/learning/plc-sequencer-logic/ladder-logic-for-motor-and-pilot-lights?u=76281980&t=71)** However, keep in mind that due to how fast the PLC scans, the last step won't be visible, because as soon as the position reaches four, the done bit activates, and resets the value.
+> **[1:11](https://www.linkedin.com/learning/plc-sequencer-logic/ladder-logic-for-motor-and-pilot-lights?u=76281980&t=71)** However, keep in mind that due to how fast the [[PLC]] scans, the last step won't be visible, because as soon as the position reaches four, the done bit activates, and resets the value.
 >
 > **[1:27](https://www.linkedin.com/learning/plc-sequencer-logic/ladder-logic-for-motor-and-pilot-lights?u=76281980&t=87)** So we can either increase the length to five, the last one will be zeros, so it won't effect the sequence, or simply use another push button to reset the instruction when needed.
 >
@@ -596,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Simulation Software]] (1), [[PLC]] (1)
 > **Env Vars:** plc (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -629,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-software-demo?u=76281980&t=87)** And then for the [[Representational State Transfer (REST)|rest]] of the LEDs, the green, red, and yellow pilot lights, I'm using output two, bit two, and this is green, and then output two, bit three for red, and then finally four yellow.
 >
-> **[1:43](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-software-demo?u=76281980&t=103)** So I'm going to go ahead and go online, download the software to the PLC, and then I will hit run.
+> **[1:43](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-software-demo?u=76281980&t=103)** So I'm going to go ahead and go online, download the software to the [[PLC]], and then I will hit run.
 >
 > **[1:51](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-software-demo?u=76281980&t=111)** This is the step push button, so once I press on the step push button notice that the position is moving to position one.
 >
@@ -651,7 +651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[PLC]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** plc (1)
 > **Exercise Files:** download the (1)
@@ -677,10 +677,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-challenge?u=76281980&t=48)** If your program works and achieves the same objective, then all methods can work.
 >
-> **[0:54](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-challenge?u=76281980&t=54)** Each PLC programmer has her or his own style or preferred way to program.
+> **[0:54](https://www.linkedin.com/learning/plc-sequencer-logic/motor-and-pilot-lights-challenge?u=76281980&t=54)** Each [[PLC]] programmer has her or his own style or preferred way to program.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (1)
 > **Env Vars:** plc (1)
 > **UI Navigation:** toggle (1)
 > **Warnings:** note that (1)
@@ -825,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/dishwasher-sequence-ladder-logic?u=76281980&t=0)** - [Instructor] For the sequencer instruction, the file is B three [[Microsoft Word|word]] zero, the mask is 01 F, the destination is the output module 0 two the control file is our six word zero, and the length is 11 because I want to count all the steps.
 >
-> **[0:22](https://www.linkedin.com/learning/plc-sequencer-logic/dishwasher-sequence-ladder-logic?u=76281980&t=22)** So I entered the truth table values to the binary bit table in the PLC, starting from be three words zero to be three words 11.
+> **[0:22](https://www.linkedin.com/learning/plc-sequencer-logic/dishwasher-sequence-ladder-logic?u=76281980&t=22)** So I entered the truth table values to the binary bit table in the [[PLC]], starting from be three words zero to be three words 11.
 >
 > **[0:36](https://www.linkedin.com/learning/plc-sequencer-logic/dishwasher-sequence-ladder-logic?u=76281980&t=36)** Always remember that the first one is where all is off.
 >
@@ -861,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PLC]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1261,13 +1262,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/plc-sequencer-logic/example-three-machine-products?u=76281980&t=8)** Let's say that we have three production machines to produce [[Microsoft Products|products]] A, B, and C.
 >
-> **[0:16](https://www.linkedin.com/learning/plc-sequencer-logic/example-three-machine-products?u=76281980&t=16)** When two of the three machines are ready, they send a signal to the PLC and a green pilot flight turns on.
+> **[0:16](https://www.linkedin.com/learning/plc-sequencer-logic/example-three-machine-products?u=76281980&t=16)** When two of the three machines are ready, they send a signal to the [[PLC]] and a green pilot flight turns on.
 >
 > **[0:26](https://www.linkedin.com/learning/plc-sequencer-logic/example-three-machine-products?u=76281980&t=26)** A reset push button is used to reset the values once all products have been removed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[PLC]] (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1414,7 +1415,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/plc-sequencer-logic/sqc-instruction-challenge?u=76281980&t=70)** Use [[Microsoft Word|word]] file other than the ones we use for the dishwasher steps.
 >
-> **[1:16](https://www.linkedin.com/learning/plc-sequencer-logic/sqc-instruction-challenge?u=76281980&t=76)** The second one If you need a refresher on how to achieve the flashing light, look up this video from the previous PLC course that explains using a timer to flash a light.
+> **[1:16](https://www.linkedin.com/learning/plc-sequencer-logic/sqc-instruction-challenge?u=76281980&t=76)** The second one If you need a refresher on how to achieve the flashing light, look up this video from the previous [[PLC]] course that explains using a timer to flash a light.
 >
 > **[1:31](https://www.linkedin.com/learning/plc-sequencer-logic/sqc-instruction-challenge?u=76281980&t=91)** Last one, obviously this challenge is within the sequencer compare instruction section.
 >
@@ -1424,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PLC]] (1)
 > **Env Vars:** plc (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1498,7 +1499,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980&t=0)** - [Instructor] The sequencer load instruction, is used to read the PLC input module, and store the input data, in a file.
+> **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980&t=0)** - [Instructor] The sequencer load instruction, is used to read the [[PLC]] input module, and store the input data, in a file.
 >
 > **[0:10](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980&t=10)** Simply, loading data into a file, one step at a time.
 >
@@ -1534,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PLC]] (1), [[Quality Assurance]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** plc (1)
@@ -1948,7 +1949,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-things-to-consider?u=76281980&t=7)** For example, in this software, we only have one binary table.
 >
-> **[0:12](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-things-to-consider?u=76281980&t=12)** In other PLC softwares like Allen Bradley, we would have different files and different binary tables to save multiple data sets.
+> **[0:12](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-things-to-consider?u=76281980&t=12)** In other [[PLC]] softwares like Allen Bradley, we would have different files and different binary tables to save multiple data sets.
 >
 > **[0:22](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-things-to-consider?u=76281980&t=22)** Also remember, this program is focused on demonstrating the use of the sequencer instructions.
 >
@@ -1964,7 +1965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2), [[Simulation Software]] (1), [[PLC]] (1)
 > **Env Vars:** plc (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1982,7 +1983,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980&t=0)** - Thanks for taking the time to join me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980&t=3)** If you would like to learn more, I encourage you to dive into the documentation for each manufacturer of the specific PLC device you're currently working with.
+> **[0:03](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980&t=3)** If you would like to learn more, I encourage you to dive into the documentation for each manufacturer of the specific [[PLC]] device you're currently working with.
 >
 > **[0:14](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980&t=14)** This gives you a more in-depth knowledge of the specific device you're working with.
 >
@@ -1992,6 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (3)
 > **Env Vars:** plc (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - thanks (1)

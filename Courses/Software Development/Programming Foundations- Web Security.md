@@ -3064,7 +3064,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=31)** An attacker with the ability to observe network traffic will see them.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=35)** This is easy to do on an open wifi network like those found in coffee shops, hotels, and airports.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=35)** This is easy to do on an open [[Wi-Fi|wifi]] network like those found in coffee shops, hotels, and airports.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=41)** Cross-site scripting attacks can also be used to get cookie data.
 >
@@ -3156,7 +3156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[PHP]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Wi-Fi|Wifi]] (1), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** url (3), ssl (3), https (3), http (2), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Analogies:** such as (1), for example (1)
@@ -3219,7 +3219,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=109)** To get the session ID, an attacker can either read it from the browser's cookie file, for example, using a cross-site scripting attack, or they can view the data in transit.
 >
-> **[1:58](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=118)** This is usually done by eavesdropping on an open WiFi network like those in coffee shops, hotels and airports.
+> **[1:58](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=118)** This is usually done by eavesdropping on an open [[Wi-Fi|WiFi]] network like those in coffee shops, hotels and airports.
 >
 > **[2:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=125)** Using WiFi is like shouting data to an entire room.
 >
@@ -3285,7 +3285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (3), [[Phishing]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** https (5), ssl (1)
 > **Best Practices:** don't forget (1), best practice (1), recommended (1)
@@ -3338,7 +3338,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=102)** When done well, the attacker will be invisible, and the computers will believe that they're communicating directly.
 >
-> **[1:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=108)** An attacker may take over a router or create an evil twin Wi-Fi router to position themselves in the middle.
+> **[1:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=108)** An attacker may take over a router or create an evil twin [[Wi-Fi]] router to position themselves in the middle.
 >
 > **[1:54](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=114)** But machine-in-the-middle attacks can also use malware and other techniques.
 >
@@ -3378,7 +3378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Wi-Fi]] (1)
 > **Env Vars:** url (2), php (2), post (1), https (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **CLI Commands:** php (2)

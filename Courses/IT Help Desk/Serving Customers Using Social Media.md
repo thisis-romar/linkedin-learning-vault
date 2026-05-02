@@ -138,7 +138,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980&t=68)** That's a tight turnaround time.
 >
-> **[1:10](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980&t=70)** Want to know how quickly you should respond to customers on Facebook?
+> **[1:10](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980&t=70)** Want to know how quickly you should respond to customers on [[Facebook]]?
 >
 > **[1:14](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980&t=74)** No research study needed here.
 >
@@ -180,6 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (3)
 > **Ports:** :28 (1), :43 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -201,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=41)** If you ask the customer to call you instead of posting or messaging you, that's a channel pivot.
 >
-> **[0:47](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=47)** When you ask a customer who reached out to you on Instagram, if you can email them the user manual for their product, that's a channel pivot.
+> **[0:47](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=47)** When you ask a customer who reached out to you on [[Instagram]], if you can email them the user manual for their product, that's a channel pivot.
 >
 > **[0:55](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=55)** Making a channel pivot cost the customer a little bit of energy so don't give them a generic message like, "Thank you for contacting us, please reach out to our customer service team by phone during regular business hours."
 >
@@ -209,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=73)** For example, we need to do everything we can to prevent customers from sharing private info like account number, street address, or date of birth in a public social channel, so explain that you want to protect their [[Privacy]].
 >
-> **[1:28](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=88)** Here's an example on Facebook.
+> **[1:28](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=88)** Here's an example on [[Facebook]].
 >
 > **[1:30](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=90)** The bank asked the customer to send a private message so he could answer the required security questions there, they definitely did not want his private info on their public Facebook page.
 >
@@ -233,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Instagram]] (3), [[Privacy]] (2), [[Facebook]] (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dms (1)
@@ -261,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=45)** It's just practical to include this type of content when you respond in social media.
 >
-> **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=50)** Here's a Facebook post from customer, Dorothy Tucker, who's looking for some general information about a mortgage.
+> **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=50)** Here's a [[Facebook]] post from customer, Dorothy Tucker, who's looking for some general information about a mortgage.
 >
 > **[0:57](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=57)** "I'm looking for a mortgage lender, but I need to know how much my monthly payments will be before I move forward and complete the loan application."
 >
@@ -321,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Facebook]] (1)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -469,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=103)** Here's an example.
 >
-> **[1:44](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=104)** On the Facebook page of country music venue Summergate Theater, customer Lois asked about a canceled concert.
+> **[1:44](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=104)** On the [[Facebook]] page of country music venue Summergate Theater, customer Lois asked about a canceled concert.
 >
 > **[1:52](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=112)** Summergate's reply includes an on-brand, toe-tapping cowboy GIF.
 >
@@ -499,7 +500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Social Media Marketing]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Microsoft Word|Word]] (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gif (2)
 > **Speakers:** - so (1)
@@ -568,7 +569,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=170)** You have to spell-check your social responses just like you spell-check anything else you write to a customer.
 >
-> **[2:56](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=176)** Here's an Instagram post from a web hosting company to a customer who's having a problem with his account.
+> **[2:56](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=176)** Here's an [[Instagram]] post from a web hosting company to a customer who's having a problem with his account.
 >
 > **[3:02](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=182)** Those spelling errors are just ugly, and they're public.
 >
@@ -590,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Instagram]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Analogies:** such as (1), just like (1)
@@ -712,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980&t=82)** By neutral details, I mean ones that aren't directly referring to the customer's question or complaint.
 >
-> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980&t=89)** Customer Justin posted on Kettle Brew Coffee's Facebook page asking for a product recommendation.
+> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980&t=89)** Customer Justin posted on Kettle Brew Coffee's [[Facebook]] page asking for a product recommendation.
 >
 > **[1:36](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980&t=96)** "I make a pot of your Colombian Kettle Brew every morning and drink a 20-ounce travel mug as I drive to work.
 >
@@ -750,6 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **CLI Commands:** brew (5), make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - has (1)
@@ -789,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980&t=96)** You don't need to meet the customer's emotion with big feelings of your own, but you should meet the customer's emotion with sincerity and that will require free texting.
 >
-> **[1:46](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980&t=106)** Here's an example of two angry customers who posted on an airline's Instagram within about one minute of each other.
+> **[1:46](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980&t=106)** Here's an example of two angry customers who posted on an airline's [[Instagram]] within about one minute of each other.
 >
 > **[1:54](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980&t=114)** Here's the post from customer Arto, who's angry about a last-minute flight cancellation that ruined his vacation.
 >
@@ -839,6 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **Exercise Files:** template (8)
 > **Analogies:** for example (1)
 > **Speakers:** - some (1)
@@ -879,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980&t=83)** And here's how you'd customize this template when you use it.
 >
-> **[1:27](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980&t=87)** Customer Safeek complains on Instagram about a bottle of expired cooking oil.
+> **[1:27](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980&t=87)** Customer Safeek complains on [[Instagram]] about a bottle of expired cooking oil.
 >
 > **[1:32](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980&t=92)** "I sent my husband out to your store and he brings back a bottle that expired in September 2022.
 >
@@ -915,6 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **Exercise Files:** template (9), download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -950,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980&t=55)** The first, use vague but empathetic wording.
 >
-> **[1:00](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980&t=60)** Let's imagine you work in social customer care for Landon hotels, and a customer may post this comment on your Facebook page.
+> **[1:00](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980&t=60)** Let's imagine you work in social customer care for Landon hotels, and a customer may post this comment on your [[Facebook]] page.
 >
 > **[1:09](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980&t=69)** "I'm not sure how this filthy hotel stays in business.
 >
@@ -1008,6 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 427 (1)
 > **Analogies:** imagine (1)
@@ -1017,7 +1022,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=0)** - When you read your customer's Facebook posts or Yelp reviews, you may start wondering what is wrong with these people?
+> **[0:00](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=0)** - When you read your customer's [[Facebook]] posts or Yelp reviews, you may start wondering what is wrong with these people?
 >
 > **[0:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=8)** Were they raised by wolves?
 >
@@ -1093,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Facebook]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -1359,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=27)** Your company makes sparkling water and has just launched a super popular cucumber flavor, which sells out quickly.
 >
-> **[0:35](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=35)** Customer Taryn posts on Instagram, "Oh my gosh.
+> **[0:35](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=35)** Customer Taryn posts on [[Instagram]], "Oh my gosh.
 >
 > **[0:38](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=38)** Bailed after the fourth."
 >
@@ -1385,7 +1390,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=101)** In your prompt, give ChatGPT this information.
 >
-> **[1:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=105)** Who you are or what your company sells, the type of social media post the customer has written, Instagram, X, formerly Twitter, TikTok, Facebook, et cetera.
+> **[1:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=105)** Who you are or what your company sells, the type of social media post the customer has written, Instagram, X, formerly Twitter, TikTok, [[Facebook]], et cetera.
 >
 > **[1:55](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=115)** The customer's post in quotation marks.
 >
@@ -1485,7 +1490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Generative AI]] (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Instagram]] (7), [[Generative AI]] (2), [[LinkedIn]] (1), [[Facebook]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
@@ -1507,7 +1512,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=49)** Let's say you work in social media customer care for TSA, the US federal government agency that's screens travelers at airports.
 >
-> **[0:58](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=58)** Customer Deanna posts this question on Facebook.
+> **[0:58](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=58)** Customer Deanna posts this question on [[Facebook]].
 >
 > **[1:02](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=62)** "I'm flying with my baby from New York to LA next month.
 >
@@ -1651,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Generative AI Tools]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Facebook]] (2), [[Generative AI Tools]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** tsa (3)
 > **CLI Commands:** find (1)

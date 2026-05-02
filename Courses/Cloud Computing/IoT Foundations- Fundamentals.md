@@ -684,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=74)** Bridging the OT network and the IT network is the radio.
 >
-> **[1:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=78)** These radios can take the form of Bluetooth, WiFi, cellular, LPWA, or others.
+> **[1:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=78)** These radios can take the form of Bluetooth, [[Wi-Fi|WiFi]], cellular, LPWA, or others.
 >
 > **[1:26](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=86)** The connection between the IT and the OT networks is generally wireless, but Ethernet can be used.
 >
@@ -732,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[IoT|Internet of things]] (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Wi-Fi|Wifi]] (2), [[IoT|Internet of things]] (2), [[IoT]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** node (1)
 > **Env Vars:** lpwa (1)

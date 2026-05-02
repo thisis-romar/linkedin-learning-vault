@@ -640,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=27)** So in other words, the company systems know the identity of the first person, so the first person is authenticated by the systems, but the systems do not know the identity of the person B, since the person B doesn't have a badge, this means that the person B is not authenticated by the company, or let's say, by the company systems.
 >
-> **[0:50](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=50)** In .NET, there are different authentication types, we have simple or basic authentication, we have cookie-based authentication, social-provider authentication, and in the social-provider authentication, we can basically use our social media profiles to log in to the apps, like for example, you can use your Facebook profile, your Twitter profile, your [[LinkedIn]] profile, et cetera.
+> **[0:50](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=50)** In .NET, there are different authentication types, we have simple or basic authentication, we have cookie-based authentication, social-provider authentication, and in the social-provider authentication, we can basically use our social media profiles to log in to the apps, like for example, you can use your [[Facebook]] profile, your Twitter profile, your [[LinkedIn]] profile, et cetera.
 >
 > **[1:18](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980&t=78)** We also have two-factor authentication, API-key authentication, and token-based authentication.
 >
@@ -648,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **Env Vars:** net (1), api (1)
 > **Definitions:** in other words (1), means that (1)
 > **Analogies:** for example (1)
@@ -672,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=56)** It also includes classes for managing user accounts, user roles, claims, and provides methods for creating and verifying passwords, as well as for handling forgotten passwords and user lockouts which we have also seen on the previous chapter.
 >
-> **[1:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=72)** Last but not least, [ASP.NET](https://ASP.NET) Identity provides features such as multifactor authentication, external authentication providers, and integration with social media logging providers such as [[Google]], Facebook, Twitter, [[LinkedIn]], et cetera.
+> **[1:12](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=72)** Last but not least, [ASP.NET](https://ASP.NET) Identity provides features such as multifactor authentication, external authentication providers, and integration with social media logging providers such as [[Google]], [[Facebook]], Twitter, [[LinkedIn]], et cetera.
 >
 > **[1:29](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/identity-on-asp-dot-net-core?u=76281980&t=89)** Now, let us go to Visual Studio and see an example of creating an MVC application using Identity.
 >
@@ -1013,7 +1013,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=0)** - Social provider authentication is a type of authentication that allows users to log into your app using their existing social media platform accounts such as [[LinkedIn]], Facebook, Twitter, [[Google]], et cetera.
+> **[0:00](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=0)** - Social provider authentication is a type of authentication that allows users to log into your app using their existing social media platform accounts such as [[LinkedIn]], [[Facebook]], Twitter, [[Google]], et cetera.
 >
 > **[0:16](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/social-media-provider-authentication?u=76281980&t=16)** This is a great authentication type to allow users to directly access your app without the need to create yet another account.
 >
@@ -1131,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (15), [[LinkedIn]] (3), [[JSON]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Google]] (15), [[LinkedIn]] (3), [[JSON]] (3), [[Facebook]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (12), click on (1), navigate to (1), dropdown (1), select the (1)
 > **Env Vars:** mvc (2), api (1), url (1), json (1)
 > **Prerequisites:** install (3), set up (2)
@@ -1943,7 +1943,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=61)** Next, you can try and work some more with the authentication and authorization types.
 >
-> **[1:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=67)** Like for example, you can try to add [[LinkedIn]] authentication or Facebook authentication to the MVC app, or you can also try and research about authorization types like View-based authorization.
+> **[1:07](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=67)** Like for example, you can try to add [[LinkedIn]] authentication or [[Facebook]] authentication to the MVC app, or you can also try and research about authorization types like View-based authorization.
 >
 > **[1:22](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980&t=82)** In any case, if you have any questions about this course or .NET technologies in general, feel free to get in touch with me via Twitter or LinkedIn.
 >
@@ -1951,7 +1951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[ASP.NET]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[ASP.NET]] (2), [[Google]] (1), [[Facebook]] (1)
 > **Env Vars:** net (5), asp (2), api (1), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Analogies:** for example (1)

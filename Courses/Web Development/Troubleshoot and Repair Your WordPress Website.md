@@ -724,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980&t=42)** If your site is down, reach out to your hosting company, or check their status page to see if they're having issues.
 >
-> **[0:51](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980&t=51)** If it's just you, you can check a different device, disconnect from your wifi, or try a VPN to see if the problem is with your internet service provider.
+> **[0:51](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980&t=51)** If it's just you, you can check a different device, disconnect from your [[Wi-Fi|wifi]], or try a VPN to see if the problem is with your internet service provider.
 >
 > **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980&t=60)** But at this point, it is likely an internet issue on your end.
 >
@@ -744,6 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **URLs:** [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) (1), [betteruptime.com](https://betteruptime.com) (1), [updown.io](https://updown.io) (1)
 > **Env Vars:** url (1), vpn (1)
 > **CLI Commands:** make (1)

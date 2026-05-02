@@ -647,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=46)** The rise of textual analysis is due to a variety of factors.
 >
-> **[0:50](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=50)** Bigger and faster computers, better availability of text, new technologies from search engines, from Twitter, from Facebook, et cetera.
+> **[0:50](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=50)** Bigger and faster computers, better availability of text, new technologies from search engines, from Twitter, from [[Facebook]], et cetera.
 >
 > **[0:59](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=59)** A variety of different types of data sources.
 >
@@ -695,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Facebook]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** edgar (2), sec (2), xml (1), sas (1), net (1)
 > **CLI Commands:** make (1), python (1)
 > **URLs:** [vb.net](https://vb.net) (1)

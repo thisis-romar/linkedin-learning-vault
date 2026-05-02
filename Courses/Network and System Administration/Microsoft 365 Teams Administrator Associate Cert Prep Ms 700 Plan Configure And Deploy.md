@@ -725,7 +725,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=96)** And if I'd like to, I can click on it to edit it.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=99)** And here gives me the options to add in the subnets, wifi access points, and others.
+> **[1:39](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=99)** And here gives me the options to add in the subnets, [[Wi-Fi|wifi]] access points, and others.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=105)** So I'll go ahead and add in the subnet.
 >
@@ -775,7 +775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft Office|Office]] (2), [[Routing]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft Office|Office]] (2), [[Wi-Fi|Wifi]] (2), [[Routing]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (6), go to (2), select the (1), dropdown (1)
 > **Analogies:** such as (3), picture (1)
 > **CLI Commands:** make (2), find (1)
@@ -2640,7 +2640,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=111)** And then we have the option for network settings, and that will allow us to set the IP address settings.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=117)** So by default, it's going to be set to DHCP, which means you're going to have to have a DHCP server.
+> **[1:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=117)** So by default, it's going to be set to [[DHCP]], which means you're going to have to have a DHCP server.
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=121)** That's going to assign that IP address.
 >
@@ -2684,7 +2684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[Windows]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[DHCP]] (4), [[Windows]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (4), go to (1), dropdown (1), checkbox (1)
 > **Env Vars:** dhcp (4)
 > **CLI Commands:** make (2)

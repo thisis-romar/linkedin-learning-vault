@@ -521,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=152)** Let's click through to the very first one.
 >
-> **[2:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=154)** This is the bart-large-cnn from Facebook.
+> **[2:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=154)** This is the bart-large-cnn from [[Facebook]].
 >
 > **[2:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=157)** This is a pre-trained sequence to sequence transformer model based on the paper that's linked off the middle of the screen, BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.
 >
@@ -854,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=59)** Now here are all of the models available on Hugging Face for text summarization.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=64)** Let's pick the first one, the Bart model from Facebook.
+> **[1:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=64)** Let's pick the first one, the Bart model from [[Facebook]].
 >
 > **[1:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=68)** Every model available on Hugging Face has a model card, and you can see that we have the model card tab selected.
 >
@@ -956,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Google]] (3), [[Transformer Models]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Google]] (3), [[Transformer Models]] (2), [[Facebook]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** api (8), rouge (6), nlp (1)
 > **UI Navigation:** click on (5), select the (1), scroll down (1)
 > **Definitions:** is a  (6), is an  (1)
@@ -2497,7 +2497,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=9)** The BartTokenizer will allow us to load the tokenizer used by Bart and BartForConditionalGeneration will allow us to load the pretrained model.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=18)** Now, the path to the Bart model is here as you see on screen, facebook/bart-large-cnn.
+> **[0:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=18)** Now, the path to the Bart model is here as you see on screen, [[Facebook]]/bart-large-cnn.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=26)** The Bart model is a sequence-to-sequence encoder-decoder model with a bidirectional encoder.
 >
@@ -2557,7 +2557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Transformer Models]] (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (2), [[Facebook]] (1), [[Tokens]] (1)
 > **Versions:** 0.57 (2), 0.3334 (1), 0.55 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** cnn (1)

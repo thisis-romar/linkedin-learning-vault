@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=18)** Data structures and algorithms provide an excellent mental framework for thinking about software problems, along with a powerful set of tools, which can be applied in many seemingly diverse areas.
 >
-> **[0:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=28)** Knowledge of data structures and algorithms is required to work at many major tech companies, such as [[Google]], [[Microsoft]], Amazon, and Facebook et cetera, and for good reason.
+> **[0:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=28)** Knowledge of data structures and algorithms is required to work at many major tech companies, such as [[Google]], [[Microsoft]], Amazon, and [[Facebook]] et cetera, and for good reason.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=36)** These companies understand how this knowledge can provide solutions to problems that can be several orders of magnitude, more efficient and therefore more cost effective than naive solutions.
 >
@@ -129,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (4), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (4), [[Google]] (1), [[Microsoft]] (1), [[Facebook]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** required to (1)

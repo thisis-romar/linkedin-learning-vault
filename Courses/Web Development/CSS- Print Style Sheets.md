@@ -928,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=143)** They're meaningless when they're printed like that.
 >
-> **[2:25](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=145)** Well wonderful we have Twitter, Facebook, Pinterest, and Instagram, but unless we know the link associated with those, a printout of those icons doesn't do us any good.
+> **[2:25](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=145)** Well wonderful we have Twitter, [[Facebook]], Pinterest, and [[Instagram]], but unless we know the link associated with those, a printout of those icons doesn't do us any good.
 >
 > **[2:35](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=155)** So we might want to think about reformatting those.
 >
@@ -980,7 +980,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=250)** Absolutely true, when you're working on the web and you're concerned about data transfer or performance and that kind of thing.
 >
-> **[4:17](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=257)** However, in the print environment you're printing across a USB cable or a wifi connection not on a mobile signal.
+> **[4:17](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=257)** However, in the print environment you're printing across a USB cable or a [[Wi-Fi|wifi]] connection not on a mobile signal.
 >
 > **[4:25](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=265)** Data transfer speeds and performance aren't necessarily an issue in this type of environment.
 >
@@ -988,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1), [[Facebook]] (1), [[Instagram]] (1), [[HTML]] (1)
 > **Env Vars:** css (2), html (1), usb (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)

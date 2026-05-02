@@ -1576,7 +1576,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=182)** And why?
 >
-> **[3:03](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=183)** Well, one of the reasons is your device might warn you that your wifi network isn't secure because there's no encryption.
+> **[3:03](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=183)** Well, one of the reasons is your device might warn you that your [[Wi-Fi|wifi]] network isn't secure because there's no encryption.
 >
 > **[3:11](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=191)** So, you want to activate encryption to secure your data transmissions, and when configuring the security, there'll be choices listed.
 >
@@ -1590,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ssid (2), wpa (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2)
@@ -1627,7 +1627,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980&t=68)** Wireless communications use pre-shared key technology when implementing encryption protocols.
 >
-> **[1:15](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980&t=75)** Commonly used protocols to date involve using some version of wifi protected access or WPA.
+> **[1:15](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980&t=75)** Commonly used protocols to date involve using some version of [[Wi-Fi|wifi]] protected access or WPA.
 >
 > **[1:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980&t=84)** As of 2018, the best protection for wireless communication is WPA3.
 >
@@ -1673,6 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** wpa (2), ssid (2), wpa3 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1680,7 +1681,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=0)** - [Instructor] Your Wi-Fi network can be visible and accessible to others.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=0)** - [Instructor] Your [[Wi-Fi]] network can be visible and accessible to others.
 >
 > **[0:05](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=5)** A wireless access point is a station that functions as a connection between the client computer and an existing network.
 >
@@ -1738,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** mac (9), ssid (7), isp (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), think of it as (1)
@@ -1759,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=24)** Because so many of us use mobile devices to connect to the world, it's best to be aware of some of the threats.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=32)** Threats include [[Phishing]] or vishing, which is voice phishing, spoofing, spyware, or connecting to an network when offered free Wi-Fi.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=32)** Threats include [[Phishing]] or vishing, which is voice phishing, spoofing, spyware, or connecting to an network when offered free [[Wi-Fi]].
 >
 > **[0:44](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=44)** So let's talk about how using an unsecured Wi-Fi network can be a [[Security Risk]].
 >
@@ -1831,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3), [[Phishing]] (2), [[Security Risk]] (2), [[Banking]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (4), [[Privacy]] (3), [[Phishing]] (2), [[Security Risk]] (2), [[Banking]] (1)
 > **Analogies:** such as (6)
 > **Warnings:** be aware (2), keep in mind (1), caution (1)
 > **Prerequisites:** set up (1), install (1)

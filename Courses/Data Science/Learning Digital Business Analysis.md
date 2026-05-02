@@ -793,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=1)** - We have seen image recognition at play in various context.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=5)** Like, crime fighting, analyzing camera footage and Facebook automatically recognizing faces and organizing photos.
+> **[0:05](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=5)** Like, crime fighting, analyzing camera footage and [[Facebook]] automatically recognizing faces and organizing photos.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-digital-business-analysis/video-and-image-analysis?u=76281980&t=13)** In Sci-fi movies to identify people for security purposes and in government analysis tools.
 >
@@ -839,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Business Operations]] (1), [[Predictive Analytics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Business Operations]] (1), [[Predictive Analytics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** atm (1)
 > **Analogies:** for example (1)

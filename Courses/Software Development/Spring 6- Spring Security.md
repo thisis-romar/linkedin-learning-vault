@@ -1513,7 +1513,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=20)** OAuth 2 is a protocol as well as a framework for providing access to HTTP services.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=26)** It's often used for third party access, so if you use social media and you grant an application access to your Facebook profile, for instance, that's done through OAuth 2.
+> **[0:26](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=26)** It's often used for third party access, so if you use social media and you grant an application access to your [[Facebook]] profile, for instance, that's done through OAuth 2.
 >
 > **[0:37](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=37)** [[Google]] provides the same sort of structure with its frameworks.
 >
@@ -1581,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Tokens]] (4), [[Spring Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Tokens]] (4), [[Facebook]] (2), [[Spring Security]] (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1596,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=7)** And as you might guess, Spring has full integration for this protocol.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=12)** One of the first classes you may interact with is the CommonOAuth2Provider, and this is used to connect to such systems as Okta or Facebook, and we'll use a little bit more on this later, but as I said, it provides native support for things like Okta, [[Google]], Facebook, [[GitHub]], and several other OAuth providers.
+> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=12)** One of the first classes you may interact with is the CommonOAuth2Provider, and this is used to connect to such systems as Okta or [[Facebook]], and we'll use a little bit more on this later, but as I said, it provides native support for things like Okta, [[Google]], Facebook, [[GitHub]], and several other OAuth providers.
 >
 > **[0:31](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=31)** It's a property-based configuration if you're in a [[Spring Boot]] application, and that's most often how you're going to use this class.
 >
@@ -1656,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[GitHub]] (2), [[Spring Boot]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Security]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Google]] (2), [[GitHub]] (2), [[Spring Boot]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is an  (3), is a  (3)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)

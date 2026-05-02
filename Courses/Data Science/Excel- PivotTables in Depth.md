@@ -686,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=40)** So you can see I have the data laid out starting at a blank, but a top left cell of B6.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=48)** 2022, the blank cell is B3 and 2023 it's D3.
+> **[0:48](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=48)** 2022, the blank cell is B3 and 2023 it's [[D3.js|D3]].
 >
 > **[0:55](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=55)** And one thing to point out for this technique is that it doesn't matter if the data ranges are on different parts of different worksheets or even different parts of the same worksheet.
 >
@@ -784,7 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[D3.js|D3]] (2), [[Pivot Tables]] (1)
 > **Env Vars:** h12 (1), f12 (1), f15 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1), go to (1)

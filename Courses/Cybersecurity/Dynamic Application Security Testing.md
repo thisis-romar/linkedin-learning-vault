@@ -1596,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=23)** One of the most common goals is to compromise restricted or sensitive data, data that the tester is not authorized to access.
 >
-> **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=31)** Standards like the Payment Card Industry [[Data Security]] Standard and regulations like HIPAA in the US are two perfect examples of external forces that require companies to conduct a data-centric pen test.
+> **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=31)** Standards like the [[PCI DSS|Payment Card Industry Data Security Standard]] and regulations like HIPAA in the US are two perfect examples of external forces that require companies to conduct a data-centric pen test.
 >
 > **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=46)** But your pen test could also be account-centric.
 >

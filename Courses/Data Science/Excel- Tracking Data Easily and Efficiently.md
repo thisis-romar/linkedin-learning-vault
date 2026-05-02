@@ -3169,7 +3169,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=70)** Here we go.
 >
-> **[1:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=71)** I'm going to put my cursor into D3, equals XLOOKUP.
+> **[1:11](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=71)** I'm going to put my cursor into [[D3.js|D3]], equals XLOOKUP.
 >
 > **[1:18](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/categorizing-bonuses-with-xlookup?u=76281980&t=78)** Double click.
 >
@@ -3227,6 +3227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[D3.js|D3]] (1)
 > **Env Vars:** xlookup (7), vlookup (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)

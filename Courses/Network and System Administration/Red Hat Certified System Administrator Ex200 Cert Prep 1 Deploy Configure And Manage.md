@@ -1128,7 +1128,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=215)** Type --extra-args="inst.ks=file
 >
-> **[3:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=228)** :/anaconda-ks.cfg inst.ip=dhcp inst.console=
+> **[3:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=228)** :/anaconda-ks.cfg inst.ip=[[DHCP]] inst.console=
 >
 > **[4:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=243)** ttyS0,115200n8".
 >
@@ -1178,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Virtual Machines]] (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Virtual Machines]] (3), [[DHCP]] (2), [[Hardware]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **Env Vars:** iso (3), gui (2), home (2), uefi (2), ram (1)
 > **Tools:** command line (3), anaconda (2), terminal (1)
@@ -1641,7 +1641,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=147)** As a result, the design is synchronous in nature.
 >
-> **[2:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=150)** This makes it ill-suited for modern tasks that happen while the OS is running, such as USB devices being plugged in, or network devices such as wifi appearing and disappearing.
+> **[2:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=150)** This makes it ill-suited for modern tasks that happen while the OS is running, such as USB devices being plugged in, or network devices such as [[Wi-Fi|wifi]] appearing and disappearing.
 >
 > **[2:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=160)** There have been several attempts to replace SysVinit including launchd, Upstart, and systemd.
 >
@@ -1671,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), [[Ubuntu]] (2), [[Web Servers]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Ubuntu]] (2), [[Web Servers]] (1), [[Microsoft Word|Word]] (1), [[Wi-Fi|Wifi]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** mit (1), usb (1), suse (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2005,7 +2005,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=147)** An ethernet device was named eth followed by a number.
 >
-> **[2:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=150)** A wireless device was named wlan followed by a number and a wide area network device was named wan followed by a number and so on.
+> **[2:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=150)** A wireless device was named [[Wi-Fi|wlan]] followed by a number and a wide area network device was named wan followed by a number and so on.
 >
 > **[2:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=158)** The number is the order in which the computer scans interface cards on boot up.
 >
@@ -2071,7 +2071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Microsoft Word|Word]] (1), [[Wi-Fi|Wlan]] (1), [[Hardware]] (1), [[CLI]] (1)
 > **Env Vars:** dns (9), gui (3), pci (3), nmtui (3), nmcli (2)
 > **Prerequisites:** configure (6), you'll need (4)
 > **Definitions:** is a  (3), means that (1)

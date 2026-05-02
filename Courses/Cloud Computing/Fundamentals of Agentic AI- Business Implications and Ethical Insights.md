@@ -464,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=46)** This can lead to decisions that seem rational on the surface, but lack the depth of human judgment.
 >
-> **[0:51](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=51)** For example, an AI agent tasked with content moderation on Instagram might automatically delete a comment like, "kill it," on your vacation post, mistakenly interpreting it as a threat.
+> **[0:51](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=51)** For example, an AI agent tasked with content moderation on [[Instagram]] might automatically delete a comment like, "kill it," on your vacation post, mistakenly interpreting it as a threat.
 >
 > **[1:04](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=64)** Next is blast radius.
 >
@@ -504,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Ethics]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Ethics]] (2), [[Instagram]] (1), [[Cybersecurity]] (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Definitions:** refers to (2)
 > **Cross-References:** in the next (1)

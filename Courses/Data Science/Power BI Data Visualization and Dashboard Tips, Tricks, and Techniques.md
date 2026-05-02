@@ -3684,7 +3684,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=366)** So a good tip to bear in mind is to focus on large fonts, as much white space as possible, and good loading times.
 >
-> **[6:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=374)** Always try your mobile design on an actual device away from wifi.
+> **[6:14](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=374)** Always try your mobile design on an actual device away from [[Wi-Fi|wifi]].
 >
 > **[6:19](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/mastering-responsive-design-for-mobiles?u=76281980&t=379)** And if it's slow, simplify your data to speed up your load times.
 >
@@ -3694,7 +3694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word|Word]] (1), [[Wi-Fi|Wifi]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (2)
 > **Cross-References:** go back to (1)
@@ -3783,7 +3783,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=21)** And don't forget, Power BI is always evolving.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=24)** There are plenty more courses on [[LinkedIn]] Learning such as 15 Skills-Building Analytics Exercises, Advanced Power BI Custom Visuals with D3.
+> **[0:24](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=24)** There are plenty more courses on [[LinkedIn]] Learning such as 15 Skills-Building Analytics Exercises, Advanced Power BI Custom Visuals with [[D3.js|D3]].
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980&t=35)** And there is also a number of [[Microsoft]] Learning Pathways and accreditations that you could consider.
 >
@@ -3793,7 +3793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Dashboards]] (1), [[LinkedIn]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Dashboards]] (1), [[LinkedIn]] (1), [[D3.js|D3]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [lecturer] (1)

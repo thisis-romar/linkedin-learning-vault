@@ -284,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=8)** - Well, I would have to say the London Hotel in London.
 >
-> **[0:11](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=11)** So it's a boutique hotel and they had a surprisingly effective campaign across Instagram and YouTube about their commitment to eco-friendly travel.
+> **[0:11](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=11)** So it's a boutique hotel and they had a surprisingly effective campaign across [[Instagram]] and YouTube about their commitment to eco-friendly travel.
 >
 > **[0:21](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8364224?u=76281980&t=21)** Now, this campaign really stood out to me, not just because it had a connection to a relevant social issue, but for its well-defined action plan to fight [[Climate Change]].
 >
@@ -314,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (2)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Instagram]] (1)
 > **Speakers:** - [instructor] (1), - well (1), - this (1)
 > **CLI Commands:** make (1)
 
@@ -482,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=46)** That way we can focus our messaging around comfort and [[Sustainability]] over other options.
 >
-> **[0:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=53)** At that point, I'd select the formats that would best package that messaging for consumption and distribution like YouTube videos and Facebook ads.
+> **[0:53](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=53)** At that point, I'd select the formats that would best package that messaging for consumption and distribution like YouTube videos and [[Facebook]] ads.
 >
 > **[1:02](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/candidate-answer-and-feedback-8361700?u=76281980&t=62)** Simple.
 >
@@ -512,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Facebook]] (1)
 > **Speakers:** - [instructor] (1), - sure (1), - that (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)

@@ -601,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=0)** - [Instructor] Let me tell you a story that shook the world.
 >
-> **[0:03](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=3)** In 2018, Cambridge Analytica, a political consulting firm, had harvested data from 87 million Facebook users, now known as Meta, without their consent.
+> **[0:03](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=3)** In 2018, Cambridge Analytica, a political consulting firm, had harvested data from 87 million [[Facebook]] users, now known as Meta, without their consent.
 >
 > **[0:17](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/privacy-preserving-ai?u=76281980&t=17)** How did they do it?
 >
@@ -725,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Products|Products]] (3), [[Data Privacy]] (1), [[Databases]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Products|Products]] (3), [[Facebook]] (1), [[Data Privacy]] (1), [[Databases]] (1)
 > **Analogies:** imagine (4), for example (1), picture (1), it's like (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** smpc (2), gdpr (1)

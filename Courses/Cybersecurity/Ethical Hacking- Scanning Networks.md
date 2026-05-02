@@ -511,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=157)** Nessus is a widely used vulnerability scanner that's commercially available but free for personal use.
 >
-> **[2:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=165)** Aircrack-ng is a suite of tools for wireless LAN auditing.
+> **[2:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=165)** Aircrack-ng is a suite of tools for [[Wi-Fi|wireless LAN]] auditing.
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=171)** OpenVAS is an open-source vulnerability scanner, and [[Nmap]] is another open-source tool for network discovery and vulnerability scanning.
 >
@@ -1142,7 +1142,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=219)** Now, this method is slower and less reliable than TCP scanning.
 >
-> **[3:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=224)** However, it does help to identify services that use UDP, such as DNS, SNMP, and DHCP.
+> **[3:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=224)** However, it does help to identify services that use UDP, such as DNS, SNMP, and [[DHCP]].
 >
 > **[3:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=234)** And there's also stealth scans, such as the FIN, NULL, and Xmas Tree scan, which are designed to probe ports without completing a full handshake or connection.
 >
@@ -1156,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Nmap]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[DHCP]] (1), [[Nmap]] (1)
 > **Env Vars:** udp (5), tcp (4), syn (3), dns (2), http (1)
 > **Analogies:** such as (4), for example (2)
 > **Ports:** port 53 (1), port 80 (1), port 88 (1), port 3389 (1), port 1001 (1)
@@ -1195,11 +1195,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=119)** Another method to assign addresses is by using SLAAC.
 >
-> **[2:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=124)** In this case, the host uses an extended unique identifier to assign itself a unique 64-bit IPv6 address, and this then removes the need for manual configuration or DHCP.
+> **[2:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=124)** In this case, the host uses an extended unique identifier to assign itself a unique 64-bit IPv6 address, and this then removes the need for manual configuration or [[DHCP]].
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=142)** Here's how this works.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=144)** We take a 48-bit MAC address from the NIC.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=144)** We take a 48-bit MAC address from the [[NIC]].
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980&t=148)** We separate the organizationally unique identifier and the NIC serial number.
 >
@@ -1235,6 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIC]] (3), [[DHCP]] (1)
 > **Env Vars:** slaac (5), mac (3), nic (3), fffe (2), lan (1)
 > **Versions:** 18.4 (1)
 > **Definitions:** is a  (1)
@@ -1850,7 +1851,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=149)** For example, here we have a standard ping scan.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=154)** When scanning, Nmap will commonly identify the NIC vendor.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=154)** When scanning, Nmap will commonly identify the [[NIC]] vendor.
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=159)** Now, this could be helpful, as some NIC cards have vulnerabilities.
 >
@@ -1894,7 +1895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Nmap]] (18), [[Nmap|Network mapper]] (2), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (18), [[NIC]] (3), [[Nmap|Network mapper]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (3), syn (3), nic (3), icmp (1), echo (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **URLs:** [nmap.org](https://nmap.org) (3), [example.com](https://example.com) (1)
@@ -2316,7 +2317,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=126)** On a [[Local Area Network (LAN)|local area network]], a device is identified by its MAC address.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=131)** MAC address spoofing changes or spoofs the MAC address on a network interface card to someone else's MAC address.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=131)** MAC address spoofing changes or spoofs the MAC address on a [[NIC|network interface card]] to someone else's MAC address.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=141)** This will allow an attacker to intercept traffic to launch a man-in-the-middle attack.
 >
@@ -2344,7 +2345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Nmap]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Nmap]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[NIC|Network interface card]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mac (14)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)

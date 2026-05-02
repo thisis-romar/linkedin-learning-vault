@@ -790,7 +790,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=33)** You get a lot of information quicker than with traditional [[Representational State Transfer (REST)|REST]] APIs and in less requests to the server, which makes it faster.
 >
-> **[0:42](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=42)** Like [[React.js|react]] GraphQL was created by Facebook.
+> **[0:42](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=42)** Like [[React.js|react]] GraphQL was created by [[Facebook]].
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=45)** It has been running their mobile apps since 2012 which in web years is a really long time.
 >
@@ -924,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (12), [[GitHub]] (6), [[React.js|React]] (4), [[JSON]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[GitHub]] (6), [[React.js|React]] (4), [[JSON]] (3), [[Facebook]] (2)
 > **Documentation:** the documentation (8), the docs (1)
 > **Env Vars:** json (3), html (2), rest (1), api (1), gui (1)
 > **UI Navigation:** go to (4), click on (4)

@@ -2067,7 +2067,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=159)** You can even add more agents into the mix.
 >
-> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=161)** For example, another agent can be added that thinks of the media to be used based on the advertisement, meaning you would use Twitter, or Instagram, or YouTube for that particular ad.
+> **[2:41](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=161)** For example, another agent can be added that thinks of the media to be used based on the advertisement, meaning you would use Twitter, or [[Instagram]], or YouTube for that particular ad.
 >
 > **[2:50](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-agents-and-agent-workflows?u=76281980&t=170)** Then, a critique agent that looks at the ad and suggests changes and optimizations.
 >
@@ -2083,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[Instagram]] (1)
 > **Env Vars:** llm (6), exa (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2), such as (1)
@@ -3329,7 +3329,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=180)** The get_interface function uses argparse to handle command line arguments.
 >
-> **[3:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=185)** This function allows the user to specify which network interface, like wifi or ethernet, the program should monitor for packets.
+> **[3:05](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=185)** This function allows the user to specify which network interface, like [[Wi-Fi|wifi]] or ethernet, the program should monitor for packets.
 >
 > **[3:14](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/network-data-gathering-and-storing?u=76281980&t=194)** The sniff function is where the actual packet capturing is happening.
 >
@@ -3351,7 +3351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Cybersecurity]] (1), [[Wi-Fi|Wifi]] (1)
 > **Code Identifiers:** extract_data (3), default_values (2), update_csv (2), get_interface (2), attack_cat (1)
 > **Env Vars:** csv (5), http (2), tcp (1), udp (1), icmp (1)
 > **Tools:** colab (1), command line (1)

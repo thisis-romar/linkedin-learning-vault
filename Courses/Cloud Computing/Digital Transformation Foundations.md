@@ -193,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=45)** Being software defined and data driven enables physical products to have the same advantages as big tech software.
 >
-> **[0:52](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=52)** Antitrust and competitive issues for big tech companies, such as Facebook, [[Google]], and [[Microsoft]] originate from these companies using customer data as a proprietary source of innovation and invention, resulting in insurmountable competitiveness.
+> **[0:52](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=52)** Antitrust and competitive issues for big tech companies, such as [[Facebook]], [[Google]], and [[Microsoft]] originate from these companies using customer data as a proprietary source of innovation and invention, resulting in insurmountable competitiveness.
 >
 > **[1:07](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=67)** So why digitally transform traditional products into smart products?
 >
@@ -229,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Business Operations]] (2), [[Digital Transformation]] (1), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Business Operations]] (2), [[Digital Transformation]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - the (1)
 
@@ -287,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=146)** But why is this happening?
 >
-> **[2:27](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=147)** Blame it on the outside success of big tech companies such as Facebook, [[Google]], and Amazon, who have used their data-driven software to transform industries such as news, advertising, and book buying respectively.
+> **[2:27](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=147)** Blame it on the outside success of big tech companies such as [[Facebook]], [[Google]], and Amazon, who have used their data-driven software to transform industries such as news, advertising, and book buying respectively.
 >
 > **[2:40](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=160)** Smart digital transformation gives all companies the advantages of these big tech companies, the original smart companies.
 >
@@ -309,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Digital Transformation]] (5), [[IoT]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Digital Transformation]] (5), [[IoT]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** iot (1)
@@ -500,7 +500,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=164)** The OT network consists of gateways and switches.
 >
-> **[2:48](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=168)** From there, the data is passed to the information technology, or IT network, usually over a radio like Bluetooth or Wi-Fi.
+> **[2:48](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=168)** From there, the data is passed to the information technology, or IT network, usually over a radio like Bluetooth or [[Wi-Fi]].
 >
 > **[2:56](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=176)** The IT network consists of routers and switches.
 >
@@ -524,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (13), [[Microsoft Products|Products]] (4), [[IoT|Internet of things]] (2), [[Hardware]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[IoT]] (13), [[Microsoft Products|Products]] (4), [[IoT|Internet of things]] (2), [[Hardware]] (1), [[Wi-Fi]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** erp (1)
 > **Analogies:** for example (1)
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=136)** The 3D environment you're in is completely synthetic.
 >
-> **[2:20](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=140)** We've seen these for years with the Oculus System from Facebook as the most recent example.
+> **[2:20](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=140)** We've seen these for years with the Oculus System from [[Facebook]] as the most recent example.
 >
 > **[2:25](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=145)** To see, XR systems convert information into the visual spectrum, and displays it in the user's field of view.
 >
@@ -786,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Google]] (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Google]] (1), [[Facebook]] (1), [[Blockchain]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** snap (1)
 > **Env Vars:** api (1)

@@ -1117,7 +1117,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=76)** And of course, please connect with me across platforms.
 >
-> **[1:19](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=79)** I share personal and professional development content on [[LinkedIn]], Instagram, YouTube, and TikTok.
+> **[1:19](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=79)** I share personal and professional development content on [[LinkedIn]], [[Instagram]], YouTube, and TikTok.
 >
 > **[1:25](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=85)** The best part is that your personal brand is yours and yours alone.
 >
@@ -1135,7 +1135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 

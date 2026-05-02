@@ -546,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=94)** Regularity of posting: three times a week.
 >
-> **[1:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=96)** Media mix: vlog, Instagram, and Facebook.
+> **[1:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=96)** Media mix: vlog, [[Instagram]], and [[Facebook]].
 >
 > **[1:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=101)** Let's see what it comes up with.
 >
@@ -646,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (7), [[Facebook]] (3), [[LinkedIn]] (3), [[Content Creation]] (1)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -1143,7 +1143,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=65)** I want you to write social media profiles for, curly brackets, brand website about page, including this, curly brackets, keyword, incorporated in a snappy description with relevant hashtags.
 >
-> **[1:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=78)** I want profiles for," and then we've got Facebook, Twitter, Instagram, TikTok, and we talk about the character limits of each one.
+> **[1:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=78)** I want profiles for," and then we've got [[Facebook]], Twitter, [[Instagram]], TikTok, and we talk about the character limits of each one.
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=85)** Right, we're going to use here a page from my website just because we've got permission to do that rather than me hijacking a brand for this example.
 >
@@ -1191,7 +1191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Fetch]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Instagram]] (2), [[ChatGPT]] (1), [[Fetch]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **UI Navigation:** go to (1)

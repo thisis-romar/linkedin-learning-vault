@@ -2037,7 +2037,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=17)** So once you test in one framework, you'll be able to write tests in them all.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=22)** So we're going to go ahead and use Jest, which is a testing library that was developed at Facebook.
+> **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=22)** So we're going to go ahead and use Jest, which is a testing library that was developed at [[Facebook]].
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=27)** We're going to use a module called supertest, which makes it easier for us to test different routes.
 >
@@ -2127,7 +2127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (2), [[Facebook]] (1), [[Node.js]] (1)
 > **CLI Commands:** npm (6), find (2), make (2), node (1)
 > **Prerequisites:** install (4), set up (1)
 > **File Paths:** app.test.js (1), skiterms.json (1), node.js (1), package.json (1)

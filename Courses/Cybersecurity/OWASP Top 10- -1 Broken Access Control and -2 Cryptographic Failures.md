@@ -176,7 +176,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-facebook-broken-access-control-vulnerability?u=76281980&t=0)** - [Instructor] In 2021, security researcher Laxman Muthiyah reported a broken access control vulnerability to Facebook.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-facebook-broken-access-control-vulnerability?u=76281980&t=0)** - [Instructor] In 2021, security researcher Laxman Muthiyah reported a broken access control vulnerability to [[Facebook]].
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/example-1-2021-facebook-broken-access-control-vulnerability?u=76281980&t=8)** He received $2,500 compensation as part of their Bug Bounty Program.
 >
@@ -212,6 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (13)
 > **Env Vars:** usd (1), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)

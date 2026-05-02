@@ -799,7 +799,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-become-a-conductor-of-human-connection?u=76281980&t=1)** - Far too often, organizations make the mistake of providing meeting technology only in conference rooms instead of ubiquitous Wi-Fi indoors, outdoors, and everywhere possible.
+> **[0:01](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-become-a-conductor-of-human-connection?u=76281980&t=1)** - Far too often, organizations make the mistake of providing meeting technology only in conference rooms instead of ubiquitous [[Wi-Fi]] indoors, outdoors, and everywhere possible.
 >
 > **[0:14](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-become-a-conductor-of-human-connection?u=76281980&t=14)** Or maybe you've seen issues in meeting rooms with lighting or an audiovisual system, acoustics, or temperature control, all problems that interrupt collaboration.
 >
@@ -849,6 +849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** roi (1)
 > **Cross-References:** in the next (1)

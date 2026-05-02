@@ -661,7 +661,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=76)** Its key features are Keras integration for high level model building, TensorFlow Lite for mobile and edge deployment, TensorFloww.js for web-based ML applications, TensorFlow Extended TFX for production machine learning pipelines, extensive visualization tools through TensorBoard, and strong community support and documentation.
 >
-> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=106)** PyTouch, created by Facebook.
+> **[1:46](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=106)** PyTouch, created by [[Facebook]].
 >
 > **[1:49](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/deep-learning-frameworks-and-libraries?u=76281980&t=109)** PyTouch's renowned for its flexibility and dynamic computation graph, making it the favorite amongst researchers.
 >

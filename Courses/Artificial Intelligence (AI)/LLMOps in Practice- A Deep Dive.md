@@ -661,7 +661,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=151)** It stays in the friendly and informative character, pleasantly asking me to check on various things.
 >
-> **[2:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=156)** So I respond no Ethernet, and vaguely it looks like I'm on Wi-Fi.
+> **[2:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=156)** So I respond no Ethernet, and vaguely it looks like I'm on [[Wi-Fi]].
 >
 > **[2:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=161)** I try the steps that it gave me, but I give more specific information back.
 >
@@ -743,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Google]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[OpenAI API]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Google]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Wi-Fi]] (1), [[OpenAI API]] (1)
 > **Env Vars:** llm (9), dns (3), gpt (1), api (1)
 > **Analogies:** such as (4), for example (4), imagine (2), picture (1)
 > **URLs:** [google.com](https://google.com) (2)

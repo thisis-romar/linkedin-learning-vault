@@ -433,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=39)** They want visual content because we've trained them to want visual content.
 >
-> **[0:44](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=44)** They see it every day on Instagram and Facebook and on their phones that are sitting in their pockets.
+> **[0:44](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=44)** They see it every day on [[Instagram]] and [[Facebook]] and on their phones that are sitting in their pockets.
 >
 > **[0:51](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=51)** We tweet to each other through visuals.
 >
@@ -463,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Thought Leadership]] (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Thought Leadership]] (1), [[Instagram]] (1), [[Facebook]] (1), [[Infographics]] (1)
 > **Non-Speech:** (light music) (2)
 > **Warnings:** caveat (1)
 > **Speakers:** - did (1)
@@ -748,7 +748,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=105)** (fanfare sounds) The iPhone drastically changed how we take in information.
 >
-> **[1:50](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=110)** Instead of looking at things on a large screen, now we spend our time scrolling through various bits of information, so it makes sense to deliver that content in a long scroll format, and as you're going through something like a Facebook feed or your Instagram feed or simply an infographic, it makes sense to start with the beginning, then middle, then end.
+> **[1:50](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=110)** Instead of looking at things on a large screen, now we spend our time scrolling through various bits of information, so it makes sense to deliver that content in a long scroll format, and as you're going through something like a [[Facebook]] feed or your [[Instagram]] feed or simply an infographic, it makes sense to start with the beginning, then middle, then end.
 >
 > **[2:17](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=137)** When you add visuals to it to carry the story forward, you're doing visual storytelling.
 >
@@ -772,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (6), [[Infographics]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (6), [[Infographics]] (2), [[Microsoft Products|Products]] (1), [[Facebook]] (1), [[Instagram]] (1)
 > **Non-Speech:** (upbeat music) (1), (fanfare sounds) (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -1043,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980&t=9)** Every single consumer and their mother wants to see visual content as their first point of information with a brand or service.
 >
-> **[0:17](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980&t=17)** We're taking in this content through Facebook feeds and Instagram and Snapchat, but we're also doing it over text messaging and email and every other way that we communicate.
+> **[0:17](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980&t=17)** We're taking in this content through [[Facebook]] feeds and [[Instagram]] and Snapchat, but we're also doing it over text messaging and email and every other way that we communicate.
 >
 > **[0:29](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980&t=29)** The fact of the matter is is today's audiences are speaking a visual language, and they expect brands to join that conversation.
 >
@@ -1127,6 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Instagram]] (1)
 > **Speakers:** - you (1), - hey (1), - sure (1), - could (1), - oh (1)
 > **Code Identifiers:** iphone (2)
 > **Non-Speech:** (upbeat music) (2)

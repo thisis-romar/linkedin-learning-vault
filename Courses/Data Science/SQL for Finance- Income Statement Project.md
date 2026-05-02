@@ -314,7 +314,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=0)** - [Instructor] The time has come to learn about one of the most powerful statements in [[SQL]], the CTE.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=0)** - [Instructor] The time has come to learn about one of the most powerful statements in [[SQL]], the [[CTE]].
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=5)** I personally love this statement because it helps me to solve the most complex problems.
 >
@@ -328,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=24)** What is CTE?
 >
-> **[0:26](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=26)** CTE stands for common table expression.
+> **[0:26](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=26)** CTE stands for [[CTE|common table expression]].
 >
 > **[0:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=29)** And what is important for you to understand is that subqueries only exist during the process.
 >
@@ -442,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[CTE]] (13), [[SQL]] (2), [[Microsoft Products|Products]] (2), [[CTE|Common table expression]] (1)
 > **Env Vars:** cte (13), sql (2)
 > **Code Identifiers:** payment_at (3), purchase_dates (2), total_amount (2), payment_method (1), actual_payment_at (1)
 > **Definitions:** stands for (1), in other words (1), is a  (1), is an  (1)
@@ -455,7 +455,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-2-using-cte?u=76281980&t=0)** - [Instructor] In this video, we will continue building the cash account using CTE.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-2-using-cte?u=76281980&t=0)** - [Instructor] In this video, we will continue building the cash account using [[CTE]].
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-2-using-cte?u=76281980&t=5)** In the last video, we started treating the inventory purchased.
 >
@@ -621,6 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1)
 > **Code Identifiers:** total_amount (7), date_part (4), loan_in (4), actual_payment_at (3), period_year (3)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (2)
@@ -628,7 +629,6 @@ created: 2026-05-02
 > **Env Vars:** cte (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
-> **Speakers:** - [instructor] (1)
 
 #### [Cash Account, part 3: Union](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980)
 
@@ -883,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=13)** In our scenario, we only have this type of case in December when we make sales via credit card.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=20)** This query is so small that we don't even need a CTE.
+> **[0:20](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=20)** This query is so small that we don't even need a [[CTE]].
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=24)** This query is very direct.
 >
@@ -957,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[CTE]] (1), [[SQL]] (1)
 > **Code Identifiers:** date_part (4), payment_at (3), account_accounts_receivable (3), period_year (1), total_amount (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
@@ -990,7 +990,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=44)** Unlike a machine that has a useful lifespan.
 >
-> **[0:48](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=48)** We will work again with CTEs to develop this query, which will be more extensive and we'll have to consider several aspects.
+> **[0:48](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=48)** We will work again with [[CTE|CTEs]] to develop this query, which will be more extensive and we'll have to consider several aspects.
 >
 > **[0:57](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=57)** Here we'll need to use cross join.
 >
@@ -1022,7 +1022,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=131)** Let's click here.
 >
-> **[2:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=133)** Okay, now let's start our CTE with the width.
+> **[2:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=133)** Okay, now let's start our [[CTE]] with the width.
 >
 > **[2:19](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=139)** Now let's rename our first query depreciation dates.
 >
@@ -1118,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (1), [[SQL]] (1), [[CTE]] (1)
 > **Definitions:** is a  (2), refers to (1), means that (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** in the next (1)
@@ -1390,12 +1390,13 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980&t=385)** Okay, now we saved our script here as well and we have completed the treatment of property, land, and equipment.
 >
-> **[6:33](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980&t=393)** Until now, we are able to learn the concepts of CTE, union, cross join, and window functions.
+> **[6:33](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980&t=393)** Until now, we are able to learn the concepts of [[CTE]], union, cross join, and window functions.
 >
 > **[6:41](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980&t=401)** In the next video, we'll face your first challenge.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1)
 > **Code Identifiers:** period_year (6), ple_purchase (6), ple_union (4), total_amount (4), ple_sum (3)
 > **UI Navigation:** go to (2), select the (2), open the (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -2259,7 +2260,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=29)** Let's start by creating a [[SQL]] document.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=32)** Okay, and we'll use a CTE to build the assets account.
+> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=32)** Okay, and we'll use a [[CTE]] to build the assets account.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=37)** So let's start with the with.
 >
@@ -2405,7 +2406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE]] (1)
 > **Code Identifiers:** order_process (6), assets_union (3), period_year (3), new_total_amount (3), date_part (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), cte (1)
@@ -2422,7 +2423,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=5)** So, let's start by creating a [[SQL]] file.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=9)** And we'll use CTE.
+> **[0:09](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=9)** And we'll use [[CTE]].
 >
 > **[0:11](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=11)** So, let's just start with the with.
 >
@@ -2520,7 +2521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE]] (1)
 > **Code Identifiers:** order_process (5), period_year (3), total_amount (3), liabilities_union (2), account_loan (2)
 > **UI Navigation:** select the (2), go to (1)
 > **Env Vars:** sql (1), cte (1)
@@ -2539,7 +2540,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=12)** Let's start by creating a [[SQL]] document.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=16)** Okay, and we'll use a CTE, so with, and let's start by creating the oe_union temp table.
+> **[0:16](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=16)** Okay, and we'll use a [[CTE]], so with, and let's start by creating the oe_union temp table.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=26)** OE stands for owner's equity.
 >
@@ -2639,7 +2640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE]] (1)
 > **Code Identifiers:** oe_union (3), section_bs (1)
 > **UI Navigation:** select the (3)
 > **Env Vars:** sql (1), cte (1)
@@ -2691,7 +2692,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=21)** Now we just need to put all the sections together.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=25)** Let's start by creating a [[SQL]] file and we'll use CTE.
+> **[0:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=25)** Let's start by creating a [[SQL]] file and we'll use [[CTE]].
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=30)** So since then, let's start with the with.
 >
@@ -2745,7 +2746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE]] (1)
 > **Code Identifiers:** balance_sheet (4), section_assets (2), section_owners_equity (2), section_liabilities (1), period_year (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** next chapter (1)
@@ -2940,7 +2941,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=18)** When you think about maintenance, we need to think how easy it is to others and to ourselves in the future to understand what was done.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=28)** Since we are using CTE, it's really easy to read the code.
+> **[0:28](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=28)** Since we are using [[CTE]], it's really easy to read the code.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=32)** Also, it's easy to build new accounts and just add new views in the sections by adding the views in the union.
 >
@@ -3010,7 +3011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[CTE]] (1), [[Data Engineering]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)

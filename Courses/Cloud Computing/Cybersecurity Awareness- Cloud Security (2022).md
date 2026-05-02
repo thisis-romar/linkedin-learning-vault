@@ -568,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=45)** Many industries are embracing the vast connectivity network and are useful in places such as industrial robots that can help with tasks in warehouses or even in hospitals, where medical devices can track a patient's vitals.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=61)** Thanks to the increased production of super fast computer chips and the increase of Wi-Fi in more places, it's possible to turn anything, quite literally, into an IoT device.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=61)** Thanks to the increased production of super fast computer chips and the increase of [[Wi-Fi]] in more places, it's possible to turn anything, quite literally, into an IoT device.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=73)** There are over 10 billion IoT devices in the world, and this has enabled an ever-increasing and connected world, allowing information to travel at lightning speeds across the globe.
 >
@@ -640,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (13), [[Google]] (2), [[IoT|Internet of things]] (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[IoT]] (13), [[Wi-Fi]] (3), [[Google]] (2), [[IoT|Internet of things]] (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), set up (1)
@@ -655,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=0)** - When we come home, one of the first things we always do is to connect to the internet.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=5)** While you're listening to this right now, think of all the different devices that are connected to your home wifi.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=5)** While you're listening to this right now, think of all the different devices that are connected to your home [[Wi-Fi|wifi]].
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=12)** Perhaps you have a laptop, a cell phone, and a smart TV.
 >
@@ -723,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (3), [[IoT]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** iot (1)
@@ -740,7 +740,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=0)** - Public Wi-Fi is available practically everywhere.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=0)** - Public [[Wi-Fi]] is available practically everywhere.
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=3)** You can connect at your local coffee shop, at a hotel, or even on an airplane.
 >
@@ -834,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Word|Word]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (11), [[Google]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Word|Word]] (1), [[Privacy]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** vpn (2), https (1), url (1)
 > **Definitions:** is a  (2), in other words (1), stands for (1)
@@ -865,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=49)** And Trojan accounts for 58% of all computer malware.
 >
-> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=53)** Threats to mobile devices can come in many [[Forms]], including application-based from the apps you download, web-based from any malicious websites you may visit, network-based if you connect to unsuspecting wifi networks, or even physical, for example, having your phone stolen or lost.
+> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=53)** Threats to mobile devices can come in many [[Forms]], including application-based from the apps you download, web-based from any malicious websites you may visit, network-based if you connect to unsuspecting [[Wi-Fi|wifi]] networks, or even physical, for example, having your phone stolen or lost.
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=72)** While these types of threats are becoming more prevalent, many don't know if their phone have been infected or not.
 >
@@ -905,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Statistics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Statistics]] (1), [[Forms]] (1), [[Wi-Fi|Wifi]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -933,13 +933,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=28)** We also talked about what to think about when picking a cloud service provider and what questions you should ask.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=35)** Lastly, we covered protecting yourself on the go including when you're on public Wi-Fi and to protect your mobile devices, and if you're interested in learning more about cloud computing, check out my other courses on [[LinkedIn]].
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=35)** Lastly, we covered protecting yourself on the go including when you're on public [[Wi-Fi]] and to protect your mobile devices, and if you're interested in learning more about cloud computing, check out my other courses on [[LinkedIn]].
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=50)** Thanks for joining me in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Security]] (1), [[Privacy]] (1), [[Wi-Fi]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)

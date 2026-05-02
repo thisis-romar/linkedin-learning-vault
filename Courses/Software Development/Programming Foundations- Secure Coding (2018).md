@@ -571,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980&t=29)** An attacker who can gain access to the network of either the client or the server can potentially steal the information on that channel.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980&t=41)** Many businesses, for instance, provide free wifi, which is left open and unencrypted.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980&t=41)** Many businesses, for instance, provide free [[Wi-Fi|wifi]], which is left open and unencrypted.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980&t=49)** This can become a hot bed of theft and your development team needs to proactively protect your customer.
 >
@@ -619,6 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2)
 > **Env Vars:** tls (7), ssl (3), https (2), tcpip (1), http (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (1), you should always (1)

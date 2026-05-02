@@ -1593,7 +1593,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=14)** Now, the thumbs up, the heart, and the faces here are all reactions that you can apply to a message.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=19)** It's similar to liking a message on Facebook.
+> **[0:19](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=19)** It's similar to liking a message on [[Facebook]].
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-teams-essential-training-23929395/add-text-free-reactions-to-messages?u=76281980&t=22)** So all you need to do is select a reaction, and it will be applied to that message.
 >
@@ -1617,6 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)

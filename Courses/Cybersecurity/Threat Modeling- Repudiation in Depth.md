@@ -201,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980&t=2)** I didn't see your text.
 >
-> **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980&t=5)** I missed your Facebook post.
+> **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980&t=5)** I missed your [[Facebook]] post.
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980&t=7)** We've all said these.
 >
@@ -225,6 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 

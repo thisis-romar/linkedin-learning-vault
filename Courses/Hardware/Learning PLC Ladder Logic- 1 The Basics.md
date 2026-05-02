@@ -99,7 +99,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980&t=0)** - So you've heard about PLC Ladder Programming, but you don't know where to start.
+> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980&t=0)** - So you've heard about [[PLC]] Ladder Programming, but you don't know where to start.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980&t=5)** Then this course is for you.
 >
@@ -117,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1), [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[PLC Ladder Logic]] (1), [[PLC Programming]] (1)
 > **Env Vars:** plc (4)
 > **Speakers:** - so (1)
 
@@ -151,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980&t=16)** In industrial automation, devices are connected through PLCs that are programmed using softwares.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980&t=22)** There are five programming languages for PLC that are divided into two main sections, text based and graphical.
+> **[0:22](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980&t=22)** There are five programming languages for [[PLC]] that are divided into two main sections, text based and graphical.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980&t=31)** The two common methods for PLC programming are ladder logic and block diagram.
 >
@@ -169,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Programming]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (3), [[PLC]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** plc (6)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -184,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/logixpro-plc-simulation-software?u=76281980&t=9)** However, I'll focus more upon the language and the concept other than teaching the software.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/logixpro-plc-simulation-software?u=76281980&t=14)** The concept is the same for each PLC type that uses ladder logic.
+> **[0:14](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/logixpro-plc-simulation-software?u=76281980&t=14)** The concept is the same for each [[PLC]] type that uses ladder logic.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/logixpro-plc-simulation-software?u=76281980&t=19)** Each PLC manufacturer users their own [[PLC Ladder Logic]] software.
 >
@@ -300,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (4), [[Simulation]] (4), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC]] (6), [[Simulation Software]] (4), [[Simulation]] (4), [[PLC Ladder Logic]] (1)
 > **UI Navigation:** click on (9), go to (5), right-click (4), open the (1), double-click (1)
 > **Env Vars:** plc (7)
 > **Analogies:** for example (7)
@@ -318,7 +318,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980&t=0)** - [Instructor] Ladder logic is used to develop software for Programmable Logic Controllers, PLC, that are used in industrial control applications.
+> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980&t=0)** - [Instructor] Ladder logic is used to develop software for Programmable Logic Controllers, [[PLC]], that are used in industrial control applications.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980&t=9)** So devices are connected to the input and output module within PLC and according to the software, controlling industrial applications happen.
 >
@@ -356,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[PLC]] (2)
 > **Env Vars:** plc (5)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** rails (1)
@@ -372,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/input-instructions?u=76281980&t=5)** The way we write input is as following: as two bars facing each other representing the input.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/input-instructions?u=76281980&t=12)** And to differentiate between the physical input device and the input within the software, we will refer to the input in the PLC program as input instruction.
+> **[0:12](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/input-instructions?u=76281980&t=12)** And to differentiate between the physical input device and the input within the software, we will refer to the input in the [[PLC]] program as input instruction.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/input-instructions?u=76281980&t=22)** There are two main types of input instructions; Examine If Closed, XIC, and sometimes called normally open, Examine If Open, XIO, and sometimes it's called normally closed.
 >
@@ -438,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC]] (5), [[PLC Ladder Logic]] (1)
 > **Env Vars:** xio (7), plc (6), xic (6)
 > **Cross-References:** as we saw (1)
 > **Tools:** terminal (1)
@@ -468,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/output-instructions?u=76281980&t=51)** Basically, when the rung is true, the output is activated as a result and since the output is connected to a memory address and according to that bit as status, the device turn on or off.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/output-instructions?u=76281980&t=64)** A physical output device is connected to the output module of the PLC and work accordingly.
+> **[1:04](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/output-instructions?u=76281980&t=64)** A physical output device is connected to the output module of the [[PLC]] and work accordingly.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/output-instructions?u=76281980&t=71)** Output is always the last instruction before the right power rail.
 >
@@ -498,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1), [[PLC]] (1)
 > **Env Vars:** plc (2), ote (1), otl (1), otu (1)
 > **Analogies:** similar to (1)
 > **Warnings:** keep in mind (1)
@@ -510,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-a-push-button-and-light?u=76281980&t=0)** - So let's try to take an example that demonstrates how the input instructions, XIC and XIO and Output instruction work.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-a-push-button-and-light?u=76281980&t=10)** So in a simple example we have a normally opened push button that's connected to a light using PLC.
+> **[0:10](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-a-push-button-and-light?u=76281980&t=10)** So in a simple example we have a normally opened push button that's connected to a light using [[PLC]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-a-push-button-and-light?u=76281980&t=16)** The input device provides the input module with a status of the device.
 >
@@ -594,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2)
+> **Frameworks & Libraries:** [[PLC]] (6), [[Simulation Software]] (2)
 > **Env Vars:** xio (10), xic (6), plc (6), ran (1), run (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** click on (2)
@@ -609,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-alternating-lights?u=76281980&t=5)** In this example, we are trying to achieve an alternating light.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-alternating-lights?u=76281980&t=8)** We have a Pushbutton connected to the input module of the PLC and the two lights are connected to the output module of the PLC.
+> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-alternating-lights?u=76281980&t=8)** We have a Pushbutton connected to the input module of the [[PLC]] and the two lights are connected to the output module of the PLC.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/i-o-with-alternating-lights?u=76281980&t=16)** When the Pushbutton is pressed, a green light is on.
 >
@@ -657,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Simulation Software]] (2)
 > **Env Vars:** xic (3), xio (3), plc (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
@@ -669,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/field-devices-and-program-instructions?u=76281980&t=0)** - [Instructor] Let's take a look on how the field devices and the program instructions work together and how to differentiate between them.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/field-devices-and-program-instructions?u=76281980&t=9)** To differentiate input devices and input instructions, we refer to the physical devices as a field input devices or contacts and the input within the PLC program as input instructions.
+> **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/field-devices-and-program-instructions?u=76281980&t=9)** To differentiate input devices and input instructions, we refer to the physical devices as a field input devices or contacts and the input within the [[PLC]] program as input instructions.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/field-devices-and-program-instructions?u=76281980&t=24)** There are two common types of field devices relay that we usually deal with.
 >
@@ -699,7 +699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC]] (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (1), xic (1), xio (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -722,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-open-no-contact-with-xic-and-xio?u=76281980&t=32)** For this one, we are going to count straight on normally open contact, or relay, and using two types of instructions.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-open-no-contact-with-xic-and-xio?u=76281980&t=41)** So let's see what happens when using a normally open relay and having two different instructions in the PLC, examine if closed and examine if opened.
+> **[0:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-open-no-contact-with-xic-and-xio?u=76281980&t=41)** So let's see what happens when using a normally open relay and having two different instructions in the [[PLC]], examine if closed and examine if opened.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-open-no-contact-with-xic-and-xio?u=76281980&t=51)** Let's assume that we have a push button that is in normally open relay.
 >
@@ -760,6 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (3)
 > **Env Vars:** xic (7), xio (6), plc (3)
 > **Cross-References:** next video (1), later in (1)
 > **Definitions:** is a  (2)
@@ -772,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-closed-nc-contact-with-xic-and-xio?u=76281980&t=0)** - [Narrator] Now, we'll take the same previous example but use a normally closed contact instead.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-closed-nc-contact-with-xic-and-xio?u=76281980&t=8)** So using a normally closed relay and having two different instructions in the PLC program.
+> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-closed-nc-contact-with-xic-and-xio?u=76281980&t=8)** So using a normally closed relay and having two different instructions in the [[PLC]] program.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/normally-closed-nc-contact-with-xic-and-xio?u=76281980&t=14)** Examine if closed.
 >
@@ -826,6 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (4)
 > **Env Vars:** xic (5), xio (5), plc (4)
 > **Speakers:** - [narrator] (1)
 
@@ -1193,7 +1195,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/rung-operation-case-study-part-1?u=76281980&t=83)** But as soon as the pushbutton is pressed, the instruction is highlighted, and the conveyor starts.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/rung-operation-case-study-part-1?u=76281980&t=90)** Now, the memory address of the conveyor within PLC software, equals to one.
+> **[1:30](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/rung-operation-case-study-part-1?u=76281980&t=90)** Now, the memory address of the conveyor within [[PLC]] software, equals to one.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/rung-operation-case-study-part-1?u=76281980&t=95)** So as soon as the pushbutton is released, the Ladder Logic will use the CLN instruction to keep the output on, to keep the conveyor working.
 >
@@ -1253,6 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (2)
 > **Env Vars:** cln (6), xic (4), xio (4), plc (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1474,7 +1477,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/latch-unlatch-output?u=76281980&t=19)** An output latching instruction is an output instruction used to maintain or latch an output on, even if the input condition changes.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/latch-unlatch-output?u=76281980&t=28)** So, if any run has a latching instruction, this means that the output reference to the latching instruction is turned on and remain on even if the run logic or the PLC power is lost.
+> **[0:28](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/latch-unlatch-output?u=76281980&t=28)** So, if any run has a latching instruction, this means that the output reference to the latching instruction is turned on and remain on even if the run logic or the [[PLC]] power is lost.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/latch-unlatch-output?u=76281980&t=45)** Latch, to latch an output on, output stays on until unlatch instruction becomes true.
 >
@@ -1552,7 +1555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is an  (1), means that (1), basically means (1)
 > **Env Vars:** plc (2)
 > **Analogies:** for example (2)
@@ -1672,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980&t=5)** Timers are used to delay actions, or to keep an output on or off for a specific time.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980&t=13)** This is the congregation of typical PLC timer instruction.
+> **[0:13](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980&t=13)** This is the congregation of typical [[PLC]] timer instruction.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980&t=17)** And it has the following parts.
 >
@@ -1766,6 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (7)
 > **Env Vars:** plc (7), t40 (2)
 > **Versions:** 0.1 (2), 0.0001 (1), 0.001 (1)
 > **Definitions:** is a  (3)
@@ -1781,7 +1785,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-status-bits-en-dn-and-tt?u=76281980&t=4)** Timer done bits, timer timing bits, and timer enable bits.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-status-bits-en-dn-and-tt?u=76281980&t=10)** And depending on the PLC type, the bits are either attached to the timer instruction or hidden.
+> **[0:10](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-status-bits-en-dn-and-tt?u=76281980&t=10)** And depending on the [[PLC]] type, the bits are either attached to the timer instruction or hidden.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-status-bits-en-dn-and-tt?u=76281980&t=17)** A timer done bit is true when the accumulated value is equal to the preset value.
 >
@@ -1869,6 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (1)
 > **Env Vars:** xic (3), plc (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Speakers:** - [instructor] (1)
@@ -1971,7 +1976,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/use-a-timer-to-flash-a-light?u=76281980&t=34)** So, one timer to keep track of the six seconds, and one timer to keep track of the two seconds.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/use-a-timer-to-flash-a-light?u=76281980&t=41)** Note here, as mentioned previously, we need to know what is the timer base of the specific PLC timer we're using.
+> **[0:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/use-a-timer-to-flash-a-light?u=76281980&t=41)** Note here, as mentioned previously, we need to know what is the timer base of the specific [[PLC]] timer we're using.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/use-a-timer-to-flash-a-light?u=76281980&t=48)** In our example we are going to use a timer base of 0.1.
 >
@@ -2023,7 +2028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2)
+> **Frameworks & Libraries:** [[Simulation Software]] (2), [[PLC]] (1)
 > **Env Vars:** xio (4), xic (2), plc (1), t40 (1), t41 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.1 (1)
@@ -2037,7 +2042,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-instruction?u=76281980&t=0)** - [Instructor] Many times, when dealing with machinery in manufacturing situations, you have to count items, whether you're putting [[Microsoft Products|products]] in a box or two dozens of bottles into a container, you need to count the items coming off the machine.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-instruction?u=76281980&t=14)** Every PLC has counter instructions.
+> **[0:14](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-instruction?u=76281980&t=14)** Every [[PLC]] has counter instructions.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-instruction?u=76281980&t=18)** Although they may be programmed differently, they operate the same way.
 >
@@ -2113,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PLC]] (6), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** plc (6)
 > **CLI Commands:** cd (1)
 > **UI Navigation:** select the (1)
@@ -2137,7 +2142,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/examples-of-counter-types?u=76281980&t=35)** We need to have a reset push button that can reset the counter to fill in another case.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/examples-of-counter-types?u=76281980&t=43)** So in the PLC program we have a sensor as an input.
+> **[0:43](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/examples-of-counter-types?u=76281980&t=43)** So in the [[PLC]] program we have a sensor as an input.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/examples-of-counter-types?u=76281980&t=46)** Note here we're using an XIC instruction and having the counter as an output for that specific run.
 >
@@ -2217,7 +2222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (1), [[PLC]] (1)
 > **Env Vars:** xic (4), plc (2), acc (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** for example (2)
@@ -2314,7 +2319,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-and-timer-case-study?u=76281980&t=230)** As long as the counter is not yet done counting, in other words, as long as the accumulated value is less than the preset, a green light is on.
 >
-> **[4:03](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-and-timer-case-study?u=76281980&t=243)** As you learned before, the counters in PLC come with bits that are associated with them, counter up, counter down, and done bits.
+> **[4:03](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-and-timer-case-study?u=76281980&t=243)** As you learned before, the counters in [[PLC]] come with bits that are associated with them, counter up, counter down, and done bits.
 >
 > **[4:11](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/counter-and-timer-case-study?u=76281980&t=251)** Since I want the green light to be on while counting, and while the accumulated value is less than the preset, the bit that I'm going to use is counter up bit.
 >
@@ -2342,6 +2347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (1)
 > **Env Vars:** xic (1), plc (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -2364,7 +2370,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980&t=11)** You can give it a try and try to come up with a ladder logic and check your solution later.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980&t=15)** In any PLC Programing, each PLC programmer has his or her own preferred method.
+> **[0:15](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980&t=15)** In any [[PLC]] Programing, each PLC programmer has his or her own preferred method.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980&t=21)** So each problem has more than one right way to solve it.
 >
@@ -2426,7 +2432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC]] (3), [[Simulation]] (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -2775,7 +2781,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980&t=0)** - Thanks for taking the time to join me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980&t=3)** This course was to give you an introduction to the basic instructions used in PLC Lateral Logic programming.
+> **[0:03](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980&t=3)** This course was to give you an introduction to the basic instructions used in [[PLC]] Lateral Logic programming.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980&t=11)** I recommend for the next step is to check the following courses, Learning PLC Lateral Logic 2 Diving Deeper, which is a continuation of this one where I cover more basic instructions like Math, compare and data transfer instructions.
 >
@@ -2787,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC]] (7), [[Simulation Software]] (1)
 > **Env Vars:** plc (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)

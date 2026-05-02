@@ -145,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=40)** I use chat programs to call them often.
 >
-> **[0:43](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=43)** If these programs were suddenly less secure, I would have to use expensive calling plans, rather than using my Wi-Fi cell phone and a free program.
+> **[0:43](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=43)** If these programs were suddenly less secure, I would have to use expensive calling plans, rather than using my [[Wi-Fi]] cell phone and a free program.
 >
 > **[0:53](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=53)** We live our lives online from hailing a cab, to finding a job, to spending money.
 >
@@ -159,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Wi-Fi]] (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - [instructor] (1)
 

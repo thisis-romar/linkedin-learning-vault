@@ -208,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=20)** So it is obvious that we need a UI client to send and receive messages.
 >
-> **[0:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=25)** It can be existing platforms, like [[Slack]], Facebook Messenger, Telegram, or you can build one on your own.
+> **[0:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=25)** It can be existing platforms, like [[Slack]], [[Facebook]] Messenger, Telegram, or you can build one on your own.
 >
 > **[0:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=33)** Next, we need a component to understand what the user is saying, a natural language understanding component in machine learning terms.
 >
@@ -246,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Slack]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** nlu (2), api (2), ibm (1)
 > **Definitions:** is a  (1), we call this (1)
 > **URLs:** [wit.ai](https://wit.ai) (1)

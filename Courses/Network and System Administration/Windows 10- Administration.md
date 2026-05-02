@@ -2054,7 +2054,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=35)** And that gives us our command prompt with administrative privileges.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=40)** Command I'd like to type in is, net SH space WLAN space show and space WLAN report.
+> **[0:40](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=40)** Command I'd like to type in is, net SH space [[Wi-Fi|WLAN]] space show and space WLAN report.
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-administration-3/troubleshooting-network-problems?u=76281980&t=53)** That last part WLAN report is all one [[Microsoft Word|word]].
 >
@@ -2098,7 +2098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wlan]] (7), [[Windows 10]] (4), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Env Vars:** wlan (7), cmd (1), html (1)
 > **UI Navigation:** scroll down (3), click on (2), navigate to (1)
 > **Tools:** command prompt (4), command line (1)

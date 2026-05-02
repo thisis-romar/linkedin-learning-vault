@@ -408,7 +408,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=245)** Use your tab key now on the keyboard; that'll move you to the right instead of going down.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=250)** We can tab over across to cell D3.
+> **[4:10](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=250)** We can tab over across to cell [[D3.js|D3]].
 >
 > **[4:14](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=254)** Everything in C3 is saved.
 >
@@ -456,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (1), [[D3.js|D3]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Env Vars:** usd (1), usa (1)
 > **Analogies:** for example (2)

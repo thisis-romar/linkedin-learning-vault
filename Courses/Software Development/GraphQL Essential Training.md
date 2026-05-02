@@ -196,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=11)** So what is it?
 >
-> **[0:12](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=12)** A couple years ago, Meta or Facebook was facing a challenge with their social network.
+> **[0:12](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=12)** A couple years ago, Meta or [[Facebook]] was facing a challenge with their social network.
 >
 > **[0:19](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=19)** When you're asking for information about friends or friends of their friends' friends, well, the current query options for the database in the market couldn't support.
 >
@@ -230,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (8), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8), [[Facebook]] (3), [[Databases]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

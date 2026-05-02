@@ -662,7 +662,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=190)** This period was defined by the rapid emergence of advanced online functionality, such as search, social, and [[E-Commerce]].
 >
-> **[3:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=199)** Examples of companies who dominated this time included [[Google]], Amazon, Facebook, eBay, Salesforce, and Priceline.
+> **[3:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=199)** Examples of companies who dominated this time included [[Google]], Amazon, [[Facebook]], eBay, Salesforce, and Priceline.
 >
 > **[3:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=207)** These businesses built rich applications on top of the infrastructure of the internet.
 >
@@ -682,7 +682,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=262)** The ecosystem gave birth to app native solutions.
 >
-> **[4:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=265)** Those built first as an app, such as Uber and Instagram, and for managing your smart home and digital assistance, like Alexa.
+> **[4:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=265)** Those built first as an app, such as Uber and [[Instagram]], and for managing your smart home and digital assistance, like Alexa.
 >
 > **[4:34](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=274)** In 2007, there were around 100 million global smartphone users.
 >
@@ -1140,7 +1140,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=132)** A new type of thermostat for the home, one connected to the internet.
 >
-> **[2:16](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=136)** The thermostat requires a home Wi-Fi network but once connected, it becomes remarkably smart.
+> **[2:16](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=136)** The thermostat requires a home [[Wi-Fi]] network but once connected, it becomes remarkably smart.
 >
 > **[2:24](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=144)** First, as a result of connectivity, it can be controlled from multiple devices such as a home computer or a smartphone.
 >
@@ -1198,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (3), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (3), [[Wi-Fi]] (1), [[Sustainability]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1534,7 +1534,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=127)** Mass adoption did not come.
 >
-> **[2:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=131)** Almost 14 years later in 2021, it took the credibility and financial clout of Facebook CEO Mark Zuckerberg to resurface the metaverse as a potential new direction for the internet.
+> **[2:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=131)** Almost 14 years later in 2021, it took the credibility and financial clout of [[Facebook]] CEO Mark Zuckerberg to resurface the metaverse as a potential new direction for the internet.
 >
 > **[2:24](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=144)** In addition to renaming Facebook to Meta to reflect this new corporate strategy, he committed to invest at least $10 billion in making the metaverse a reality.
 >
@@ -1578,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Blockchain]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** later in (1), previous video (1)

@@ -694,7 +694,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=113)** Instead of having to write out all these queries in SQL, all you need to do is point and click.
 >
-> **[1:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=119)** I have also used web connectors to pull social media data in the past, they have APIs built out for Twitter and Facebook.
+> **[1:59](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=119)** I have also used web connectors to pull social media data in the past, they have APIs built out for Twitter and [[Facebook]].
 >
 > **[2:07](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/types-of-data-to-connect-to?u=76281980&t=127)** This can help you access web data outside of your own website to do some research.
 >

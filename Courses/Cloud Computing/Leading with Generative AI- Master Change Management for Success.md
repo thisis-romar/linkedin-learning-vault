@@ -224,7 +224,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=71)** - Yes, Jules.
 >
-> **[1:12](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=72)** A friend of mine runs a small business company, does about a million and a half dollars a year of online sales through Facebook Marketplace.
+> **[1:12](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=72)** A friend of mine runs a small business company, does about a million and a half dollars a year of online sales through [[Facebook]] Marketplace.
 >
 > **[1:20](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/the-impact-of-generative-ai-on-the-job-market-and-change-management-strategies?u=76281980&t=80)** And recently, a large retailer moved into his territory and began offering direct to consumer sales.
 >
@@ -264,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Cloud Computing]] (1), [[Hardware]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Speakers:** - there (1), - yes (1), - you (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)

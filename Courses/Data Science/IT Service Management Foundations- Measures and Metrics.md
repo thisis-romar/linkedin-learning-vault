@@ -148,7 +148,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=167)** We have a student support group with over 10,000 other students, who are learning ITIL, cybersecurity and project management throughout our courses, just like you are.
 >
-> **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=176)** Now, if you want to join the fund, you can find us at [facebook.com/groups/diontraining](https://facebook.com/groups/diontraining) and request to join this private group.
+> **[2:56](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=176)** Now, if you want to join the fund, you can find us at [[[Facebook]].com/groups/diontraining](https://facebook.com/groups/diontraining) and request to join this private group.
 >
 > **[3:04](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980&t=184)** In the group, we answer your questions, we put out additional free content, and we help support each other throughout our IT careers.
 >
@@ -172,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (6), [[IT Service Management]] (2), [[Cybersecurity]] (2), [[Decision-Making]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (6), [[Facebook]] (4), [[IT Service Management]] (2), [[Cybersecurity]] (2), [[Decision-Making]] (1)
 > **Env Vars:** itil (6), pdf (1)
 > **URLs:** [facebook.com](https://facebook.com) (1), [diontraining.com](https://diontraining.com) (1)
 > **UI Navigation:** click on (2)
@@ -298,7 +298,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980&t=141)** At Dion Training, our purpose, our vision is to enrich our students' careers through education and community.
 >
-> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980&t=147)** And we try to do that through our video courses, through our Facebook groups, and other ways we try to bring people together through education, our videos and community.
+> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980&t=147)** And we try to do that through our video courses, through our [[Facebook]] groups, and other ways we try to bring people together through education, our videos and community.
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980&t=155)** Talking with you through groups, through live webinars through other methods that we can to make sure everybody is getting what they need and help you enrich your career.
 >
@@ -308,6 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** imac (1)
 > **Speakers:** - before (1)

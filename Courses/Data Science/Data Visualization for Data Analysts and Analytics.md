@@ -1738,7 +1738,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=349)** But by default, there should be less, not more.
 >
-> **[5:53](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=353)** Another rule people sometimes forget is that when working outside of software that automatically creates visualizations for you, so maybe you're creating your graphic in Photoshop or Illustrator, or you're programming something in [[Python (Programming Language)|Python]] or D3, you need to decide how to create your shapes and set the parameters manually.
+> **[5:53](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=353)** Another rule people sometimes forget is that when working outside of software that automatically creates visualizations for you, so maybe you're creating your graphic in Photoshop or Illustrator, or you're programming something in [[Python (Programming Language)|Python]] or [[D3.js|D3]], you need to decide how to create your shapes and set the parameters manually.
 >
 > **[6:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=372)** So this becomes really important when thinking about a bunch of non-rectangular shapes, especially. For instance, circles.
 >
@@ -1792,7 +1792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Forms]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Forms]] (1), [[Python (Programming Language)|Python]] (1), [[D3.js|D3]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (2)
@@ -1859,7 +1859,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=132)** So let's say I decided that I wanted to create a [[Microsoft Word|word]] cloud or a proportional shape chart, I can just sort of go across and figure out whether different tools will do it, and in fact find links to specific examples.
 >
-> **[2:25](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=145)** So, for instance, D3, I can click through and literally see an example of this being done in D3.
+> **[2:25](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=145)** So, for instance, [[D3.js|D3]], I can click through and literally see an example of this being done in D3.
 >
 > **[2:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=151)** So very helpful to find tools to do specific things.
 >
@@ -1903,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stata]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (6), [[Stata]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (6), find (3)
 > **Env Vars:** spss (2), carto (2), pdf (1)
 > **Definitions:** is a  (3), is called (1)

@@ -5616,7 +5616,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=221)** Data visualization is the art of presenting information visually, charts, [[Infographics]], and so forth.
 >
-> **[3:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=228)** One of the most popular JavaScript toolkits for creating such things is called D3, and you can learn all about it in this course.
+> **[3:48](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=228)** One of the most popular JavaScript toolkits for creating such things is called [[D3.js|D3]], and you can learn all about it in this course.
 >
 > **[3:56](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980&t=236)** Interactive Animations will teach you about the capabilities of CSS animation and the extra power of JavaScript and how to put them together to make animations with precise timing and user control.
 >

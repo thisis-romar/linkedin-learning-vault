@@ -1214,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=108)** RSS subscriptions in particular have the advantage of being under your control and won't be marked as spam by your mail provider.
 >
-> **[1:58](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=118)** But even email takes away algorithmic sorting that may lead TikTok, Twitter, Facebook, or others to not show you content that you care about.
+> **[1:58](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=118)** But even email takes away algorithmic sorting that may lead TikTok, Twitter, [[Facebook]], or others to not show you content that you care about.
 >
 > **[2:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=129)** I have a monthly roundup of AI and ApSec stories in my blog, [shostack.org/blog](https://shostack.org/blog), and others like Berryville offer RSS feeds.
 >
@@ -1222,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Env Vars:** rss (3), llm (2), url (1)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Definitions:** is a  (1)

@@ -752,11 +752,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=246)** We show how this works using the Subterfuge tool.
 >
-> **[4:10](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=250)** Introducing a malicious Wi-Fi hotspot point and waiting for users to inadvertently connect to it.
+> **[4:10](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=250)** Introducing a malicious [[Wi-Fi]] hotspot point and waiting for users to inadvertently connect to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (2), [[Routing]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Routing]] (1), [[Algorithms]] (1), [[Wi-Fi]] (1)
 > **Env Vars:** ssl (3), mitm (1), arp (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -883,13 +883,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=181)** We successfully hijacked an HTTP session through intercepting and reusing cookies.
 >
-> **[3:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=188)** The moral to this story is be careful what you do on a public wifi network.
+> **[3:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=188)** The moral to this story is be careful what you do on a public [[Wi-Fi|wifi]] network.
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=193)** Cafes, hotels, and other hotspots may well be one step away from a hijack.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Wireshark]] (3), [[Banking]] (3)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Wireshark]] (3), [[Banking]] (3), [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** http (4), jsession (2)
 > **UI Navigation:** select the (2), open the (1), right-click (1), go to (1), click on (1)
 > **Prerequisites:** install (3)
@@ -1525,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=44)** This is an example of a vehicle wiring diagram.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=47)** While access to these networks and computers is normally through a physical connector inside the car, typically what is known as an OBD2 port, it's also possible to connect using Bluetooth, Wi-Fi, and increasingly, remote access via the internet from PC and mobile phone apps.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=47)** While access to these networks and computers is normally through a physical connector inside the car, typically what is known as an OBD2 port, it's also possible to connect using Bluetooth, [[Wi-Fi]], and increasingly, remote access via the internet from PC and mobile phone apps.
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=68)** In some countries, internet access is mandatory to enable crash alerts to be received in [[Real-Time]] by central monitoring systems and for police to activate slow-down mode to help in pursuits.
 >
@@ -1629,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[Telecommunications]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (7), [[Real-Time]] (2), [[Telecommunications]] (1), [[Windows]] (1)
 > **Env Vars:** udp (3), tcp (2), ipv4 (2), bus (1), mos (1)
 > **UI Navigation:** go to (2), select the (2), click on (2)
 > **Ports:** port 5554 (1), port 5555 (1), port 5556 (1), port 5559 (1)

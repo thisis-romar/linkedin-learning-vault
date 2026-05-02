@@ -722,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=9)** Putting yourself out there can seem intimidating but there are many ways you can make yourself discoverable in order to realize your vision.
 >
-> **[0:16](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=16)** And no, this doesn't mean that everyone has to start a blog or build a massive following on Instagram.
+> **[0:16](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=16)** And no, this doesn't mean that everyone has to start a blog or build a massive following on [[Instagram]].
 >
 > **[0:22](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=22)** The key is making yourself discoverable.
 >
@@ -786,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we discussed (1)

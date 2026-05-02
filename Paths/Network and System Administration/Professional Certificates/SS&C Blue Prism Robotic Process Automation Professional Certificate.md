@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - Network and System Administration
   - Software Development
-louvain_cluster: 8
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/network-and-system-administration

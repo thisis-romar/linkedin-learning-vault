@@ -301,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=43)** Platforms like [[LinkedIn]], allow for super targeted advertising of very specific niche segments.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=51)** Now there's a variety of different marketing platforms out there but the point is, whether you're using [[Google]], or LinkedIn or Facebook or [[Microsoft]], or anything else, we've still got to be able to take that data and analyze it and understand how's our marketing performing.
+> **[0:51](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=51)** Now there's a variety of different marketing platforms out there but the point is, whether you're using [[Google]], or LinkedIn or [[Facebook]] or [[Microsoft]], or anything else, we've still got to be able to take that data and analyze it and understand how's our marketing performing.
 >
 > **[1:08](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=68)** Another big example of business analytics, is in predictive maintenance.
 >
@@ -349,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Business Analytics]] (10), [[LinkedIn]] (2), [[Google]] (1), [[Microsoft]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (10), [[LinkedIn]] (2), [[Google]] (1), [[Facebook]] (1), [[Microsoft]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1)

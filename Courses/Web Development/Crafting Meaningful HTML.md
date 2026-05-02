@@ -1860,7 +1860,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=247)** Then finally at the bottom of the document we have a footer.
 >
-> **[4:11](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=251)** The footer includes the address and includes our follow us with links to Facebook and Twitter.
+> **[4:11](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=251)** The footer includes the address and includes our follow us with links to [[Facebook]] and Twitter.
 >
 > **[4:17](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=257)** And of course, our address is marked up appropriately here with the address tag.
 >
@@ -1896,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Facebook]] (2), [[Java]] (1)
 > **Env Vars:** html (3), css (3), abbr (1), evoo (1), java (1)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
 > **CLI Commands:** make (2)

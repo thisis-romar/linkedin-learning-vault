@@ -383,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=54)** If your router has the ability to set up a guest network with client isolation, that's the best connection to use when working remotely, as it will prevent other devices on the same network from having direct access to your computer.
 >
-> **[1:07](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=67)** The method you use to connect to the internet is very important and public WiFi is one of the least secure connections.
+> **[1:07](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=67)** The method you use to connect to the internet is very important and public [[Wi-Fi|WiFi]] is one of the least secure connections.
 >
 > **[1:15](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/keeping-security-in-mind-when-working-from-home?u=76281980&t=75)** If you don't have access to a secure WiFi connection, you can use your smartphone as a hotspot to lower the risk of strangers accessing your system.
 >
@@ -415,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Wi-Fi|Wifi]] (2), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** vpn (3), covid (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** remember to (1), make sure to (1)

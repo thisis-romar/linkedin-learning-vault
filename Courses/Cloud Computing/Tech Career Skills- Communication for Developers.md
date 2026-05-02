@@ -833,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=53)** Or maybe the company itself has a history with it.
 >
-> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=56)** A good example of this is [[React.js]], which Facebook invented and maintains, or [[Swift (Programming Language)|Swift]] at Apple.
+> **[0:56](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=56)** A good example of this is [[React.js]], which [[Facebook]] invented and maintains, or [[Swift (Programming Language)|Swift]] at Apple.
 >
 > **[1:03](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980&t=63)** Their platforms are more unified because they use those technologies, even in places where other solutions would be more technically appropriate.
 >
@@ -867,7 +867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[React.js]] (1), [[Facebook]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** ceo (2)
 > **File Paths:** react.js (1)
 > **CLI Commands:** make (1)

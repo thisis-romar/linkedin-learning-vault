@@ -1163,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/on-premise-llms-control-and-customization?u=76281980&t=49)** The core benefits of an on-prem solution start with enhanced control over your data.
 >
-> **[0:54](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/on-premise-llms-control-and-customization?u=76281980&t=54)** Sensitive data does not leave the organization's network mitigating exfiltration risks and allowing for adherence to strict compliance regulations like HIPAA or PCI-DSS.
+> **[0:54](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/on-premise-llms-control-and-customization?u=76281980&t=54)** Sensitive data does not leave the organization's network mitigating exfiltration risks and allowing for adherence to strict compliance regulations like HIPAA or [[PCI DSS|PCI-DSS]].
 >
 > **[1:08](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/on-premise-llms-control-and-customization?u=76281980&t=68)** On-premise solutions also allow optimization of the full LLM pipeline from the models architecture and fine tuning parameters to the specific serving infrastructure needed for different latency and [[Scalability]] requirements.
 >
@@ -1213,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Fine Tuning]] (2), [[Scalability]] (1), [[Incident Response]] (1), [[Data Pipelines]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Fine Tuning]] (2), [[PCI DSS|Pci-dss]] (1), [[Scalability]] (1), [[Incident Response]] (1)
 > **Env Vars:** llm (4), hipaa (1), pci (1), dss (1), gpt (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Best Practices:** remember to (1), the key is (1)

@@ -1849,7 +1849,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=108)** Regarding compliance, you should consider the following.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=112)** Understand and implement regulatory frameworks relevant to the data lake operational geography, and industry, such as GDPR for data protection, HIPAA for healthcare protection, and PCI DSS for payment [[Data Security]].
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=112)** Understand and implement regulatory frameworks relevant to the data lake operational geography, and industry, such as GDPR for data protection, HIPAA for healthcare protection, and [[PCI DSS]] for payment [[Data Security]].
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=129)** Run regular audits to help keep continuous compliance, and identify potential security threats.
 >
@@ -2472,7 +2472,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=10)** Even though these technologies may not be state of the art and are actively being replaced by newer cloud solutions, which we will discuss later, it is important to mention them given they could still be used in legacy Hadoop [[Data Lakes]].
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=25)** Developed by Facebook and later on open-sourced Apache Hive is designed to provide a SQL-like interface for querying data stored in the Hadoop Distributed File System, HDFS.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=25)** Developed by [[Facebook]] and later on open-sourced Apache Hive is designed to provide a SQL-like interface for querying data stored in the Hadoop Distributed File System, HDFS.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=38)** It is ideal for [[Data Warehousing]] applications with its schema on read and table-like abstraction.
 >
@@ -2514,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Hadoop]] (3), [[Real-Time]] (2), [[Data Lakes]] (1), [[Data Warehousing]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Hadoop]] (3), [[Real-Time]] (2), [[Data Lakes]] (1), [[Facebook]] (1)
 > **Env Vars:** sql (8), hdfs (2), mpp (1), odbc (1)
 > **CLI Commands:** apache (3), make (1)
 > **Speakers:** - [instructor] (1)
@@ -2529,7 +2529,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=15)** These technologies represent a significant evolution in the [[Data Processing]] landscape.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=22)** Originally developed by Facebook to allow querying massive amounts of data by using in-memory processing, Presto is an open-source distributed [[SQL]] query engine.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=22)** Originally developed by [[Facebook]] to allow querying massive amounts of data by using in-memory processing, Presto is an open-source distributed [[SQL]] query engine.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=33)** It is designed for interactive analytics and supports a variety of data sources, including HDFS, Cassandra, [[Relational Databases]] and proprietary data stores like Amazon in-stream.
 >
@@ -2569,7 +2569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Data Processing]] (1), [[Relational Databases]] (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Processing]] (1), [[Facebook]] (1), [[Relational Databases]] (1), [[Batch Processing]] (1)
 > **Env Vars:** sql (2), hdfs (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Analogies:** for example (1)

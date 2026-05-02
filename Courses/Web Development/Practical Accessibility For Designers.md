@@ -1591,7 +1591,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=30)** Make your live event accessible by hiring a sign language interpreter and/or live captions Same is true for live events online streaming video.
 >
-> **[0:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=44)** People who are considering hosting these kind of events on Instagram or [[LinkedIn]] Live or streaming interviews or such other content on their websites must consider accommodations that create a good experience for people who can't hear.
+> **[0:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=44)** People who are considering hosting these kind of events on [[Instagram]] or [[LinkedIn]] Live or streaming interviews or such other content on their websites must consider accommodations that create a good experience for people who can't hear.
 >
 > **[1:01](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=61)** Sign language interpreters are fluent in American Sign Language or British Sign Language or one of the up to 150 sign languages that are available in the world.
 >
@@ -1637,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (1), [[Real-Time]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Instagram]] (1), [[LinkedIn]] (1), [[Real-Time]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

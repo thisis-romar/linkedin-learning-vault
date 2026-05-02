@@ -1888,7 +1888,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=251)** These are the three sites that have the exclusionary rules on them, including our Harvard X website.
 >
-> **[4:17](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=257)** Some link out to LinkedIn and a link out to Facebook.
+> **[4:17](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=257)** Some link out to LinkedIn and a link out to [[Facebook]].
 >
 > **[4:21](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980&t=261)** And then the Twitter link attempted to redirect from a non-secure link.
 >
@@ -1946,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Facebook]] (1)
 > **Env Vars:** w3c (2), url (2), http (1), https (1)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **CLI Commands:** find (2), make (2)

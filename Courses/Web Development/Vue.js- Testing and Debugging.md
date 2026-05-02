@@ -402,13 +402,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=45)** Jest is also well-documented and makes the testing experience a delight.
 >
-> **[0:50](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=50)** Jest was built and is maintained by Facebook, and has a very strong community of developers behind it.
+> **[0:50](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=50)** Jest was built and is maintained by [[Facebook]], and has a very strong community of developers behind it.
 >
 > **[0:56](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=56)** In the following sections, you'll be installing and setting up Jest to write tests for the demo application you just cloned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js]] (1), [[Facebook]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** vue.js (1)
 > **Cross-References:** previous video (1)

@@ -528,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=23)** An investigator plugs a network cable into a mirror port and connects it to a network recorder to capture live packets and avoid detection.
 >
-> **[0:34](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=34)** The term packet here means the smallest unit of network data transmitted or received by a network interface card, or NIC, at a given time.
+> **[0:34](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=34)** The term packet here means the smallest unit of network data transmitted or received by a [[NIC|network interface card]], or [[NIC]], at a given time.
 >
 > **[0:46](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=46)** Enabling port mirroring is as simple as making a few clicks.
 >
@@ -572,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), [[Hardware]] (2), [[Wireless Networking]] (1), [[Network Forensics]] (1)
+> **Frameworks & Libraries:** [[NIC]] (4), [[Wireshark]] (3), [[Hardware]] (2), [[NIC|Network interface card]] (1), [[Wireless Networking]] (1)
 > **Env Vars:** nic (4), tap (1)
 > **Definitions:** is a  (3)
 > **Ports:** port 1 (1), port 4 (1)
@@ -646,7 +646,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=10)** We enjoy the benefits of networking by using email, [[Cloud Computing]], and web content, just to name a few.
 >
-> **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=21)** Each network device needs a network interface card, or NIC, to transform data into electrical currents, pulses of light, or radio waves, depending on the medium used to transmit the signals.
+> **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=21)** Each network device needs a [[NIC|network interface card]], or [[NIC]], to transform data into electrical currents, pulses of light, or radio waves, depending on the medium used to transmit the signals.
 >
 > **[0:38](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=38)** We use unshielded, twisted pair, or UTP, cables to send electrical currents, while fiber optics cables are used to send light pulses while the signals travel through the air.
 >
@@ -676,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Env Vars:** mac (3), nic (1), utp (1), tcp (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
@@ -692,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=14)** Based on this definition, a smart refrigerator qualifies as a host because it has a built-in processor and a network card configured with IP and MAC addresses.
 >
-> **[0:29](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=29)** A personal computer could be disqualified as a host if it lacks a network interface card or NEC, although such a scenario is highly unlikely.
+> **[0:29](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=29)** A personal computer could be disqualified as a host if it lacks a [[NIC|network interface card]] or NEC, although such a scenario is highly unlikely.
 >
 > **[0:40](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=40)** A switch connects two or more hosts in a [[Local Area Network (LAN)|local area network]] or LAN.
 >
@@ -740,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Web Servers]] (1), [[Network Forensics]] (1)
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Web Servers]] (1), [[Network Forensics]] (1)
 > **Env Vars:** mac (9), lan (2), nec (1), lans (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -859,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=47)** A personal computer, or PC, is a host.
 >
-> **[0:51](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=51)** It has a network interface card, or NIC, with a distinct MAC address.
+> **[0:51](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=51)** It has a [[NIC|network interface card]], or [[NIC]], with a distinct MAC address.
 >
 > **[0:58](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=58)** PCs are abundant sources of network logs.
 >
@@ -895,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Web Servers]] (1), [[Intrusion Detection]] (1), [[Network Forensics]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[NIC|Network interface card]] (1), [[NIC]] (1), [[Web Servers]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** mac (2), nic (1), siem (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -925,7 +925,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=83)** I have Snort installed on my Linux virtual machine.
 >
-> **[1:27](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=87)** Before we do anything, let's check the details of our network interface card, or NIC.
+> **[1:27](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=87)** Before we do anything, let's check the details of our [[NIC|network interface card]], or [[NIC]].
 >
 > **[1:34](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=94)** I need to use the command prompt to do this.
 >
@@ -961,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Intrusion Detection]] (2), [[Network Forensics]] (1), [[Cybersecurity]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Intrusion Detection]] (2), [[NIC]] (2), [[Network Forensics]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nic (2), ids (1)
 > **Tools:** command prompt (2), terminal (1)
 > **CLI Commands:** sudo (2)
@@ -1028,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=0)** - [Instructor] Organizations today are facing increasing pressure to comply with a growing number of rules and regulations that require [[Network Forensics]] as part of their [[Incident Response]] mandates.
 >
-> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=14)** Sarbanes-Oxley, or SOX, the Payment Card Industry [[Data Security]] Standard, or PCI DSS, the Federal [[Information Security Management]] Act, or FISMA, and the Health Insurance Portability and [[Accountability]] Act, or HIPAA, are some of the legal and industry compliance requirements.
+> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=14)** Sarbanes-Oxley, or SOX, the [[PCI DSS|Payment Card Industry Data Security Standard]], or [[PCI DSS]], the Federal [[Information Security Management]] Act, or FISMA, and the Health Insurance Portability and [[Accountability]] Act, or HIPAA, are some of the legal and industry compliance requirements.
 >
 > **[0:42](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=42)** Logs contain traces of illicit activities, which act as evidence necessary for building a convincing case in a network forensics investigation.
 >
@@ -1066,7 +1066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Incident Response]] (1), [[Information Security Management]] (1), [[Accountability]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Incident Response]] (1), [[PCI DSS]] (1), [[Information Security Management]] (1), [[Accountability]] (1)
 > **Env Vars:** sox (1), pci (1), dss (1), fisma (1), hipaa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1346,11 +1346,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=120)** The final one is a frame which consists of a data link header and a trailer used by switches.
 >
-> **[2:10](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=130)** A network interface card or NIC transforms the whole packet into a signal.
+> **[2:10](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=130)** A [[NIC|network interface card]] or [[NIC]] transforms the whole packet into a signal.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Web Servers]] (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Web Servers]] (1), [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Env Vars:** http (2), url (1), tcp (1), nic (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)

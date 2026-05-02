@@ -89,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=8)** No matter where your data is, a database, a cloud service, a [[Representational State Transfer (REST)|rest]] API, GraphQL can serve as a wrapper for all of that data.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=16)** Big companies like [[GitHub]], PayPal, Expedia, Facebook, Twitter, and more have made big bets on GraphQL.
+> **[0:16](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=16)** Big companies like [[GitHub]], PayPal, Expedia, [[Facebook]], Twitter, and more have made big bets on GraphQL.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=23)** My name is Eve Porcello.
 >
@@ -103,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Facebook]] (1)
 > **Env Vars:** api (3)
 > **Tools:** github (1)
 > **Speakers:** - [eve] (1)
@@ -148,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=0)** - [Instructor] [[GraphQL]] is a query language for your API.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=3)** It was created at Facebook and open sourced in 2015.
+> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=3)** It was created at [[Facebook]] and open sourced in 2015.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=7)** And something to really remember about GraphQL is that it's a spec.
 >
@@ -168,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Cloud Services]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Facebook]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Cloud Services]] (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** spec (1)
@@ -813,7 +813,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=62)** A subscription sets up kind of that [[Real-Time]] feel in your application.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=67)** These were first implemented at Facebook and they were used for live likes.
+> **[1:07](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=67)** These were first implemented at [[Facebook]] and they were used for live likes.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=72)** When you see those little thumbs up on a post, continuing to go up in real time, those are powered by GraphQL subscriptions.
 >
@@ -825,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Real-Time]] (1), [[Facebook]] (1)
 > **Code Identifiers:** liftstatuschange (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)

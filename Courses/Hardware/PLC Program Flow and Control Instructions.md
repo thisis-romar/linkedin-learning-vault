@@ -89,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=1)** - [Zahraa] Very similar to a play, in manufacturing and industrial settings, every device, sensor, or machine needs to have a specific task to perform, all orchestrated to produce a certain outcome.
 >
-> **[0:18](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=18)** The controller, using a PLC program, specifies what action each device needs to perform.
+> **[0:18](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=18)** The controller, using a [[PLC]] program, specifies what action each device needs to perform.
 >
 > **[0:28](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=28)** [[PLC Ladder Logic]] is one of the common programming languages used in industrial and manufacturing processes.
 >
@@ -107,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[PLC]] (2), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** plc (5), mcr (1)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - [zahraa] (1)
@@ -122,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=16)** Like bit shift, [[Microsoft Word|word]] shift instructions, master control resets, jump and label instructions, and the concept of subroutine and its instructions.
 >
-> **[0:29](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=29)** I'll be using LogixPro PLC Simulator from LearningPit.
+> **[0:29](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=29)** I'll be using LogixPro [[PLC]] Simulator from LearningPit.
 >
 > **[0:35](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=35)** This [[Simulation Software]] mimics Allen-Bradley's Rockwell RSLogix 500.
 >
@@ -132,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Simulation Software]] (1), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Microsoft Word|Word]] (1), [[Simulation Software]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -145,7 +145,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=0)** - [Instructor] A basic requirement of PLC devices is to represent, store, and operate on numbers.
+> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=0)** - [Instructor] A basic requirement of [[PLC]] devices is to represent, store, and operate on numbers.
 >
 > **[0:08](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=8)** Usually, PLCs work on binary numbers.
 >
@@ -177,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
+> **Frameworks & Libraries:** [[PLC]] (6), [[Microsoft Word|Word]] (4)
 > **Env Vars:** plc (6), lsb (1), msb (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -277,11 +277,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=116)** I will discuss more about unload bits in another video within this course.
 >
-> **[2:01](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=121)** You can refer to this manual for Allen-Bradley PLC page 536 to check the status bits of the control file for bit shift register.
+> **[2:01](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=121)** You can refer to this manual for Allen-Bradley [[PLC]] page 536 to check the status bits of the control file for bit shift register.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[PLC]] (1)
 > **Env Vars:** bsl (1), bsr (1), plc (1)
 > **Ports:** :10 (1)
 > **Definitions:** is a  (1)
@@ -307,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=102)** This is what the table looks like before the shifting and after shifting the bits to the left.
 >
-> **[1:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=109)** Sometimes in different PLC software, you might see the bits still shifting within the word beyond the length indicated.
+> **[1:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=109)** Sometimes in different [[PLC]] software, you might see the bits still shifting within the word beyond the length indicated.
 >
 > **[1:58](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=118)** That is fine, because the operation is still the same.
 >
@@ -317,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[PLC]] (2)
 > **Env Vars:** plc (2), bsl (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** good practice (1)
@@ -510,11 +510,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=80)** Typically, the source and the FIFO are the same data type.
 >
-> **[1:25](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=85)** We know that there are some differences for different PLC types, but for Ellen Bradley, if source and FIFO data types mismatch, the instruction converts the source value to the data type of the FIFO file.
+> **[1:25](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=85)** We know that there are some differences for different [[PLC]] types, but for Ellen Bradley, if source and FIFO data types mismatch, the instruction converts the source value to the data type of the FIFO file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PLC]] (1)
 > **Env Vars:** fifo (8), plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -748,11 +748,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=19)** The use of program control instructions can shorten the time required to complete a program scan or alter the program scan from its normal sequence.
 >
-> **[0:32](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=32)** In the PLC [[Simulation Software]], you will find the program flow instructions under the program control tab.
+> **[0:32](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=32)** In the [[PLC]] [[Simulation Software]], you will find the program flow instructions under the program control tab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC]] (1), [[Simulation Software]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** plc (1)
 > **Prerequisites:** required to (1)
@@ -770,7 +770,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980&t=20)** The label instruction is a target for the jump instruction.
 >
-> **[0:25](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980&t=25)** When a jump instruction is used, the PLC skips all the rungs between jump instruction and its associated label instruction, and the rungs will not be scanned by the processor.
+> **[0:25](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980&t=25)** When a jump instruction is used, the [[PLC]] skips all the rungs between jump instruction and its associated label instruction, and the rungs will not be scanned by the processor.
 >
 > **[0:40](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980&t=40)** In the jump zone, input conditions are not examined and outputs remain in their last state.
 >
@@ -790,6 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
@@ -845,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=13)** The main difference between the two is in how the outputs are handled when the instructions are executed.
 >
-> **[0:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=20)** When a jump instruction is used, the PLC skips all the rungs between Jump Instruction and its associated Label Instruction.
+> **[0:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=20)** When a jump instruction is used, the [[PLC]] skips all the rungs between Jump Instruction and its associated Label Instruction.
 >
 > **[0:29](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=29)** And the rungs will not be scanned by the processor.
 >
@@ -859,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PLC Ladder Logic]] (1), [[PLC]] (1)
 > **Env Vars:** mcr (7), plc (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** you should never (1)
@@ -999,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=0)** - [Instructor] Thanks for taking the time to join me in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=4)** If you would like to learn more, I always suggest and encourage you to dive into the documentation for each manufacturer of the specific PLC device you are currently working with.
+> **[0:04](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=4)** If you would like to learn more, I always suggest and encourage you to dive into the documentation for each manufacturer of the specific [[PLC]] device you are currently working with.
 >
 > **[0:17](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=17)** If you're interested in understanding more about PLCs, and how they fit within the field of industrial automation, check out the course Learn Industrial Automation that goes through each level of the automation field.
 >
@@ -1007,7 +1008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

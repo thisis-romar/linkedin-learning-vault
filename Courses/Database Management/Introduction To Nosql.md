@@ -117,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=25)** They're all using [[NoSQL]] [[Databases]].
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=27)** And in fact, some of them like Facebook, created some of the very first NoSQL databases.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=27)** And in fact, some of them like [[Facebook]], created some of the very first NoSQL databases.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=34)** So what exactly are NoSQL databases?
 >
@@ -173,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (9), [[SQL]] (6), [[Relational Databases]] (4), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (9), [[SQL]] (6), [[Relational Databases]] (4), [[Facebook]] (2)
 > **Env Vars:** sql (6)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)

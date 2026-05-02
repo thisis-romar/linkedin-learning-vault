@@ -404,7 +404,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=352)** So in [[IP Addressing]], since that's been available in on-prem network, there's always been the concept of a static IP address, so an IP address that I manually provide myself, or a dynamic IP address, an IP address that is assigned by servers that just push out that IP address to the available resources.
 >
-> **[6:11](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=371)** So an on-prem network, we talk about DHCP or a dynamic host configuration protocol, where the IP address is pushed out or made available to the servers that request it.
+> **[6:11](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=371)** So an on-prem network, we talk about [[DHCP]] or a [[DHCP|dynamic host configuration protocol]], where the IP address is pushed out or made available to the servers that request it.
 >
 > **[6:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=382)** So I can allow here an IP address that's going to be assigned dynamically unless I know the IP address that I want, and then I can assign it statically.
 >
@@ -1251,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=107)** Now, note that I can add an additional address range so that if I want to extend the scope of the virtual network.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=115)** So under connected device, I see any device that's currently connected, for example, that may be a network interface card, a NIC card that would be connected from a virtual machine.
+> **[1:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=115)** So under connected device, I see any device that's currently connected, for example, that may be a [[NIC|network interface card]], a [[NIC]] card that would be connected from a virtual machine.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=125)** Then I have my subnets here and I have my subnet that I initially added.
 >
@@ -1349,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender|Defender]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender|Defender]] (2), [[Virtual Machines]] (2), [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Env Vars:** rbac (2), nic (1), vpn (1), dns (1)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Definitions:** is a  (2), means that (2)
@@ -1614,7 +1614,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=222)** It would be dedicated for my firewall.
 >
-> **[3:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=226)** Also, I can enable a firewall management for my NIC, my network interface.
+> **[3:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=226)** Also, I can enable a firewall management for my [[NIC]], my network interface.
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=231)** And this is, again, another way of really managing the firewall using an external product.
 >

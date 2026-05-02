@@ -269,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=154)** Twitter can allow offensive tweets because it's the best way to keep the platform open to everyone.
 >
-> **[2:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=160)** Facebook says that allowing inaccurate news stories is a way to learn more about the integrity of your politicians.
+> **[2:40](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=160)** [[Facebook]] says that allowing inaccurate news stories is a way to learn more about the integrity of your politicians.
 >
 > **[2:48](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/do-the-ends-justify-the-means?u=76281980&t=168)** Each of these cases relies on a utilitarian notion that the ends justify the means.
 >
@@ -297,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3), [[Google]] (2), [[Data Science]] (1), [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Google]] (2), [[Facebook]] (2), [[Data Science]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Env Vars:** osint (1)
 > **Tools:** notion (1)
@@ -551,7 +551,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=146)** Your company created a perfectly acceptable way for your customers to share data but your customers are actually creating the support product.
 >
-> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=153)** Some of the largest data companies like [[Google]] and Facebook have to deal with intrinsic and extrinsic data misuse challenges all the time.
+> **[2:33](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=153)** Some of the largest data companies like [[Google]] and [[Facebook]] have to deal with intrinsic and extrinsic data misuse challenges all the time.
 >
 > **[2:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980&t=162)** For example, Google won't allow customers to target certain racial groups for advertising.
 >
@@ -573,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (2), [[Google]] (2), [[Data Ethics]] (1), [[Privacy]] (1), [[Copyright Law]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Ethics]] (2), [[Google]] (2), [[Data Ethics]] (1), [[Privacy]] (1)
 > **Definitions:** is an  (3)
 > **Analogies:** imagine (2), for example (1)
 > **Warnings:** keep in mind (2)
@@ -669,7 +669,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=0)** - In 2014, a company named Cambridge Analytica created a personality test that was installed through Facebook.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=0)** - In 2014, a company named Cambridge Analytica created a personality test that was installed through [[Facebook]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/is-it-ethical-to-micro-target?u=76281980&t=8)** Around 270,000 people took the test.
 >
@@ -721,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Ethics]] (2)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Data Ethics]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -730,7 +730,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=0)** - Let's say that you post a picture to Instagram.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=0)** - Let's say that you post a picture to [[Instagram]].
 >
 > **[0:03](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=3)** You're hoping it gets a lot of likes, but after you post, only a few people respond.
 >
@@ -740,7 +740,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=18)** So you figure that it just took a little while for your friends to see your picture, but what might have happened is that your friends responded to your post minutes earlier, but the app only lets you see a few of those posts, then it gave you a burst of good feedback all at once.
 >
-> **[0:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=34)** Remember that social media platforms like Instagram, Facebook, and Twitter are all striving for greater engagement.
+> **[0:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=34)** Remember that social media platforms like Instagram, [[Facebook]], and Twitter are all striving for greater engagement.
 >
 > **[0:42](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/can-you-exploit-human-needs?u=76281980&t=42)** They want you checking their platform all the time.
 >
@@ -796,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Microsoft Products|Products]] (2), [[Data Science]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (2), [[Data Ethics]] (2), [[Microsoft Products|Products]] (2), [[Facebook]] (1), [[Data Science]] (1)
 > **Analogies:** picture (2), it's like (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -911,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=77)** Are tech companies obligated to make sure that their data isn't used in a way that harms their customers?
 >
-> **[1:24](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=84)** We've seen that Facebook changed its policies after the genocide in Myanmar, but what about governments that are using the data as a means of oppression?
+> **[1:24](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=84)** We've seen that [[Facebook]] changed its policies after the genocide in Myanmar, but what about governments that are using the data as a means of oppression?
 >
 > **[1:34](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/should-you-promote-democracy?u=76281980&t=94)** If you think about it in terms of contractualism, then companies really don't have an ethical obligation to advocate for their customers' liberty.
 >
@@ -945,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Data Ethics]] (2), [[John the Ripper|John]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Data Ethics]] (2), [[Facebook]] (2), [[John the Ripper|John]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** iphone (2)
 > **Env Vars:** ceo (1)
@@ -983,7 +983,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=57)** Yet these were the top stories that people read at the end of the election.
 >
-> **[1:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=61)** These stories circulated widely on Facebook, where about 44% of Americans get their news.
+> **[1:01](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=61)** These stories circulated widely on [[Facebook]], where about 44% of Americans get their news.
 >
 > **[1:08](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980&t=68)** One of the biggest challenges with accuracy is that your customers might have a different view on what's accurate.
 >
@@ -1033,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (1), [[Privacy]] (1), [[Facebook]] (1)
 > **Env Vars:** potomac (1), fbi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1122,7 +1122,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=0)** - In 2019, the CEO of Facebook testified in Congress that the company didn't have a responsibility to take down false advertisements.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=0)** - In 2019, the CEO of [[Facebook]] testified in Congress that the company didn't have a responsibility to take down false advertisements.
 >
 > **[0:11](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-with-fake-news?u=76281980&t=11)** Facebook didn't want to be put in a position where they were the ones sorting fact from fiction.
 >
@@ -1180,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Ethics]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Microsoft Products|Products]] (2), [[Data Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
@@ -1214,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=62)** There's also general agreement about false data regarding [[Public Health]].
 >
-> **[1:07](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=67)** Facebook and YouTube scaled back some of their anti-vaccine stories after an outbreak in the United States.
+> **[1:07](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=67)** [[Facebook]] and YouTube scaled back some of their anti-vaccine stories after an outbreak in the United States.
 >
 > **[1:13](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-to-do-if-your-customer-spreads-propaganda?u=76281980&t=73)** They did it as a way to improve public health.
 >
@@ -1256,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Public Health]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Microsoft Products|Products]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** such as (1)

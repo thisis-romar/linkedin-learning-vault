@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine
 course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence

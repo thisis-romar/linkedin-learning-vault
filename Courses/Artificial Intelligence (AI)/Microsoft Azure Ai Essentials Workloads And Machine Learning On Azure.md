@@ -3498,7 +3498,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=20)** The issues stand from transferring data collected from European users to the US, breaching European Union data protection laws.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=30)** In addition, Meta used public posts from Facebook to train their AI without specifying how this information was being used, other than vague claims of building and improving AI experiences.
+> **[0:30](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=30)** In addition, Meta used public posts from [[Facebook]] to train their AI without specifying how this information was being used, other than vague claims of building and improving AI experiences.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/real-life-samples-of-responsible-ai?u=76281980&t=43)** It remains unclear when data scraping began for US users.
 >
@@ -3530,7 +3530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (3), [[Microsoft]] (2), [[Data Sharing]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (3), [[Microsoft]] (2), [[Facebook]] (1), [[Data Sharing]] (1)
 > **Env Vars:** gdpr (1), api (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - [instructor] (1)

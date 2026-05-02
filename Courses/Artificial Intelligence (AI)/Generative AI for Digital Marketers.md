@@ -256,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=28)** Before you enter your prompt, you'll need to know what you want and that starts with your objective and your content type.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=37)** Are you creating ad copy, blog post, Instagram captions, ideas for a headline?
+> **[0:37](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=37)** Are you creating ad copy, blog post, [[Instagram]] captions, ideas for a headline?
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=43)** Whose perspective are you writing it from?
 >
@@ -318,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (5), [[Generative AI]] (2), [[Vanilla]] (1)
 > **Speakers:** - [martin] (4), - [audrey] (3)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** you'll need (2)

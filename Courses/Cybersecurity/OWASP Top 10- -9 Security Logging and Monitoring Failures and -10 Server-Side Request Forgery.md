@@ -158,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=83)** Someone needs to decide where to put the cameras since the location of the cameras and their angle will determine what images and video they capture.
 >
-> **[1:35](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=95)** They need to be connected to a reliable power supply in order to be active, and ours also needs to be connected to wifi.
+> **[1:35](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=95)** They need to be connected to a reliable power supply in order to be active, and ours also needs to be connected to [[Wi-Fi|wifi]].
 >
 > **[1:44](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=104)** Our security cameras are managed via a software application, so we need to install that software application and decide which settings to use.
 >
@@ -176,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Wi-Fi|Wifi]] (1), [[Hardware]] (1)
 > **Env Vars:** owasp (3)
 > **Prerequisites:** install (1), setup (1)
 > **Best Practices:** recommended (1)

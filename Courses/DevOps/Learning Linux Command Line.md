@@ -202,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=29)** The software license, which allows this in the case of the Linux kernel is called the GNU General Public License.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=35)** This emphasis on freedom, both of cost and modification, has helped Linux to become popular for many different applications and purposes, and Linux has popped up everywhere from the majority of servers that run web services we all use to many supercomputers, to many wifi routers and other network hardware, to some car entertainment and navigation systems, to some mobile phones and tablets and all sorts of other devices.
+> **[0:35](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=35)** This emphasis on freedom, both of cost and modification, has helped Linux to become popular for many different applications and purposes, and Linux has popped up everywhere from the majority of servers that run web services we all use to many supercomputers, to many [[Wi-Fi|wifi]] routers and other network hardware, to some car entertainment and navigation systems, to some mobile phones and tablets and all sorts of other devices.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=61)** While the Linux kernel is at the heart of all installations of Linux, many of the standard tools or core utilities that we use on a Linux system come from the GNU Project and aren't actually part of Linux itself, and so taken together the combination of the kernel and these common tools is often referred to as GNU/Linux.
 >
@@ -238,7 +238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (22), [[Ubuntu]] (4), [[Hardware]] (2), [[Kali Linux]] (1), [[System Administration]] (1)
+> **Frameworks & Libraries:** [[Linux]] (22), [[Ubuntu]] (4), [[Hardware]] (2), [[Wi-Fi|Wifi]] (1), [[Kali Linux]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** gnu (3), minix (1)
 > **Tools:** command line (2), bash (1)

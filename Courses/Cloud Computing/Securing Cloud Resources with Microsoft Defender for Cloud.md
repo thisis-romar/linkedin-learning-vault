@@ -1626,7 +1626,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=153)** Under each applicable compliance control, is a set of assessments run by Defender for Cloud that are associated with that control.
 >
-> **[2:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=162)** Let's select PCI DSS.
+> **[2:42](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=162)** Let's select [[PCI DSS]].
 >
 > **[2:45](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-regulatory-compliance?u=76281980&t=165)** Now, if the standards are all green, it means those assessments are currently passing.
 >
@@ -2925,7 +2925,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=120)** So I'll just go ahead, and delete my existing DDoS protection plan.
 >
-> **[2:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=126)** Remember that DDoS protection plan can be enabled on following Azure resources, Firewall, Application Gateway, Bastion host, Network interface card, that is Nick, and Virtual machine scale sets and VNet Gateways.
+> **[2:06](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=126)** Remember that DDoS protection plan can be enabled on following Azure resources, Firewall, Application Gateway, Bastion host, [[NIC|Network interface card]], that is Nick, and Virtual machine scale sets and VNet Gateways.
 >
 > **[2:25](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/ddos-protection-plans?u=76281980&t=145)** Let us move back to our Azure portal and to our DDoS protection plan. Under protected resources, you will see VNet, Firewall, Application Gateway, Bastion host, load balancer, Network interface card, Virtual machine scale set, and VNet Gateways.
 >
@@ -2951,7 +2951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Defender]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Defender]] (2), [[NIC|Network interface card]] (2)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Tools:** azure portal (1)
@@ -3269,7 +3269,7 @@ created: 2026-05-02
 >
 > **[12:09](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=729)** Open the backend pool that was added without any target.
 >
-> **[12:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=734)** We shall added of a backend pool, add target type as virtual machine, select the NIC of the virtual machine.
+> **[12:14](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=734)** We shall added of a backend pool, add target type as virtual machine, select the [[NIC]] of the virtual machine.
 >
 > **[12:23](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980&t=743)** Click Save.
 >

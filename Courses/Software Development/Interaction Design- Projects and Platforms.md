@@ -878,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=230)** Social profiles are designed to share personal interest with others to encourage people to connect with us.
 >
-> **[3:56](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=236)** Here's some examples from Facebook, Twitter, and [[GitHub]].
+> **[3:56](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=236)** Here's some examples from [[Facebook]], Twitter, and [[GitHub]].
 >
 > **[4:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=240)** For our goal of adding friends, these elements are designed to support that goal.
 >
@@ -888,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[LinkedIn]] (1), [[Facebook]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -1124,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=21)** However, any brand that sells to consumer users may have an enterprise aspect to it.
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=28)** Facebook and [[Google]] are traditionally thought of as a consumer product, but its ads and analytics products cater to marketers who are using the tool as part of their work.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=28)** [[Facebook]] and [[Google]] are traditionally thought of as a consumer product, but its ads and analytics products cater to marketers who are using the tool as part of their work.
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=37)** When designing for enterprise experiences, you're designing for complex workflows.
 >
@@ -1170,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Google]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)

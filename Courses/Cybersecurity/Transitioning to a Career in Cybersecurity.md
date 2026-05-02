@@ -502,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=66)** Make sure you're up on this law if your business operates there.
 >
-> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=70)** If you deal with credit card information, the Payment Card Industry [[Data Security]] Standard, or PCI DSS, is the standard you need to follow to prevent fraud and data breaches.
+> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=70)** If you deal with credit card information, the [[PCI DSS|Payment Card Industry Data Security Standard]], or [[PCI DSS]], is the standard you need to follow to prevent fraud and data breaches.
 >
 > **[1:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=80)** There are also many global cybersecurity laws and regulations that you might encounter, including GDPR in the European Union, PIPEDA in Canada, Data Protection Act in the UK, and [[Personal Data Protection]] Act in Singapore.
 >
@@ -538,7 +538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[Incident Response]] (2), [[Accountability]] (1), [[Information Security Management]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[PCI DSS]] (2), [[Incident Response]] (2), [[Accountability]] (1), [[Information Security Management]] (1)
 > **Env Vars:** hipaa (4), gdpr (2), ccpa (2), fisma (2), pci (2)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -974,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=98)** To thrive in cybersecurity, you'll need a solid understanding of software and [[Application Security]] configurations and potential vulnerabilities.
 >
-> **[1:47](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=107)** Networking and protocols include all the protocols and technologies behind computer networks, including LANs, WANs, wi-fi, TCP/IP, DNS, DHCP and more.
+> **[1:47](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=107)** Networking and protocols include all the protocols and technologies behind computer networks, including LANs, WANs, [[Wi-Fi]], TCP/IP, DNS, [[DHCP]] and more.
 >
 > **[1:59](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=119)** Network vulnerabilities can enable attackers to gain unauthorized access or intercept data in transit.
 >
@@ -1749,7 +1749,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=168)** In the Burp Suite lab, you'll use it to intercept, inspect, and modify web requests.
 >
-> **[2:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=174)** There are many more security tools I encourage you to explore, including Snort, an [[Intrusion Detection]] and prevention system, [[John the Ripper]] for password cracking, OpenVAS, a powerful vulnerability scanner, tcpdump, a command line packet analyzer, [[Netcat]], a networking utility for reading from and writing to network connections, ClamAV, an antivirus engine, Cuckoo Sandbox, an advanced malware analysis tool, and Aircrack-ng, for wifi [[Network Security]] testing.
+> **[2:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=174)** There are many more security tools I encourage you to explore, including Snort, an [[Intrusion Detection]] and prevention system, [[John the Ripper]] for password cracking, OpenVAS, a powerful vulnerability scanner, tcpdump, a command line packet analyzer, [[Netcat]], a networking utility for reading from and writing to network connections, ClamAV, an antivirus engine, Cuckoo Sandbox, an advanced malware analysis tool, and Aircrack-ng, for [[Wi-Fi|wifi]] [[Network Security]] testing.
 >
 > **[3:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=208)** You can install all of these on your Linux VM for free.
 >

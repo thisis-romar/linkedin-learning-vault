@@ -1466,7 +1466,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=37)** So let's take a look at Yarn package.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=39)** Yarn is a really good alternative which was introduced by the Facebook team.
+> **[0:39](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=39)** Yarn is a really good alternative which was introduced by the [[Facebook]] team.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=44)** It is pretty much almost the same as NPM as it also used a lockfile to prevent any project issues when you passed them around.
 >
@@ -1482,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (1), [[Facebook]] (1)
 > **CLI Commands:** yarn (9), npm (8), find (1)
 > **Env Vars:** npm (8)
 > **Definitions:** is a  (2)

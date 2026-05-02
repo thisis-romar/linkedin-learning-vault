@@ -488,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=25)** First, find out where they hang out online, see what they are talking about and start some conversations.
 >
-> **[0:32](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=32)** For example, maybe your audience is new moms and they are hanging out in a Facebook group.
+> **[0:32](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=32)** For example, maybe your audience is new moms and they are hanging out in a [[Facebook]] group.
 >
 > **[0:37](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=37)** Go into the group and in the search bar type in words like recommendations or help or looking for.
 >
@@ -534,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -752,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=36)** To continue building your [[Market Research]] toolkit check out my [[LinkedIn]] Learning courses on [[Market Research Foundations]] and qualitative market research.
 >
-> **[0:46](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=46)** If you have questions along the way feel free to reach out to me on LinkedIn or Instagram.
+> **[0:46](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=46)** If you have questions along the way feel free to reach out to me on LinkedIn or [[Instagram]].
 >
 > **[0:51](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=51)** I'm always happy to help.
 >
@@ -764,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2), [[Instagram]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [bixaresearch.com](https://bixaresearch.com) (1)
 > **Speakers:** - when (1)

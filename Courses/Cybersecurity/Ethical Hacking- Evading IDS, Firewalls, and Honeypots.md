@@ -2563,7 +2563,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=96)** Okay, we're good to go.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=99)** I've got a useful Python script to list Wi-Fi passwords called wifipw.py.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=99)** I've got a useful Python script to list [[Wi-Fi]] passwords called wifipw.py.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/hiding-payloads-in-benign-files?u=76281980&t=105)** Let's take a look at it.
 >
@@ -2623,7 +2623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Metasploit|Msfvenom]] (2), [[Google]] (1), [[Metasploit]] (1), [[Metasploit|Msfconsole]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Metasploit|Msfvenom]] (2), [[Google]] (1), [[Wi-Fi]] (1), [[Metasploit]] (1)
 > **CLI Commands:** python (6), python3 (3), find (1), sudo (1)
 > **File Paths:** wifipw.py (6), cloak.py (2), payload.txt (1)
 > **Env Vars:** https (2), dns (1)

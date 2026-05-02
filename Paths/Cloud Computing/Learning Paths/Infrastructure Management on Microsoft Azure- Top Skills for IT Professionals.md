@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/infrastructure-management-on-micros
 course_count: 8
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/cloud-computing

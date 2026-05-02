@@ -556,7 +556,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=143)** And Name Resolution, which can be enabled if you like.
 >
-> **[2:27](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=147)** For example, the physical address, which is coming from a file, and that will match the organizationally unique identifier, which is the first six digits of a Mac address and tell you the name of the vendor for that NIC card.
+> **[2:27](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=147)** For example, the physical address, which is coming from a file, and that will match the organizationally unique identifier, which is the first six digits of a Mac address and tell you the name of the vendor for that [[NIC]] card.
 >
 > **[2:42](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=162)** [[Zoom]] is how we want to modify that font.
 >
@@ -620,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Zoom]] (3), [[NIC]] (1)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1)
@@ -725,7 +725,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=301)** In addition, there are many other protocols that provide statistics, for example, BOOTP statistics, and I'll click that.
 >
-> **[5:09](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=309)** And here we see our DHCP statistics.
+> **[5:09](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=309)** And here we see our [[DHCP]] statistics.
 >
 > **[5:14](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=314)** This helps to give a snapshot of what's on your network using DHCP, and I'll close that.
 >
@@ -751,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (12), [[Wireshark]] (3), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (12), [[Wireshark]] (3), [[DHCP]] (2), [[IoT]] (1)
 > **Env Vars:** udp (2), dhcp (2), dns (2), tcp (1), ldap (1)
 > **Analogies:** for example (5), such as (2)
 > **CLI Commands:** find (2)
@@ -951,7 +951,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=199)** The Wireless menu choice is minimally functional.
 >
-> **[3:22](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=202)** As you can see, there are some Bluetooth options, but the WLAN Traffic is not active on my machine, and that is because my network interface card doesn't go into monitor mode.
+> **[3:22](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=202)** As you can see, there are some Bluetooth options, but the [[Wi-Fi|WLAN]] Traffic is not active on my machine, and that is because my [[NIC|network interface card]] doesn't go into monitor mode.
 >
 > **[3:34](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=214)** If you are able to go into monitor mode, you could capture some of the radio tap headers.
 >
@@ -973,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (1), [[Wi-Fi|Wlan]] (1), [[NIC|Network interface card]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (1), udp (1), http (1), wlan (1), acl (1)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** go to (4), right-click (1)
@@ -1331,7 +1331,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=137)** So what it'll do is put that filter up and then I'm going to watch for that color.
 >
-> **[2:22](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=142)** Make sure we have the wi-fi selected and we'll say start.
+> **[2:22](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=142)** Make sure we have the [[Wi-Fi]] selected and we'll say start.
 >
 > **[2:27](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=147)** And now automatically I see that there's one come up.
 >
@@ -1361,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Wi-Fi]] (1)
 > **Env Vars:** vss (6), pcap (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
@@ -2428,7 +2428,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=107)** So as you can see, those two files won't impact the performance at all, but now let's go in and do a little test.
 >
-> **[1:55](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=115)** We'll go to Capture and then Options, and with that, we'll select the Wi-Fi, and for Output, I first want to create a file, and I'll put it in folder, DNS_NoName, and then in the Options, we'll keep the Name Resolution as to Resolve MAC addresses and Resolve transport names, but we don't want to use Resolve network names.
+> **[1:55](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=115)** We'll go to Capture and then Options, and with that, we'll select the [[Wi-Fi]], and for Output, I first want to create a file, and I'll put it in folder, DNS_NoName, and then in the Options, we'll keep the Name Resolution as to Resolve MAC addresses and Resolve transport names, but we don't want to use Resolve network names.
 >
 > **[2:19](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=139)** Down below, we're gonna stop the capture, after 15 seconds.
 >
@@ -2454,7 +2454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Wi-Fi]] (1)
 > **Env Vars:** mac (5), dns (5), dns_name (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Versions:** 6.1 (1), 23.2 (1)

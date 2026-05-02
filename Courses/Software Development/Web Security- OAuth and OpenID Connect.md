@@ -432,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=67)** Now, when we want a user's email address, we can request that and get it.
 >
-> **[1:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=71)** The best part is that we don't care if the user's identity information has come from [[Google]], Facebook, Okta, [[Microsoft Azure]] Directory, or any other provider.
+> **[1:11](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=71)** The best part is that we don't care if the user's identity information has come from [[Google]], [[Facebook]], Okta, [[Microsoft Azure]] Directory, or any other provider.
 >
 > **[1:20](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/extending-oauth-2-0-with-openid-connect?u=76281980&t=80)** OpenID Connect tells everyone what to name the field so we can trust it to be there.
 >
@@ -458,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Azure]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Facebook]] (1), [[Microsoft Azure]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Env Vars:** oidc (2), saml (1), url (1)
 > **Tools:** github (1)
 > **Analogies:** picture (1)
@@ -1621,7 +1621,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=35)** That code can only be used once, so while you have to protect it, it really only matters for a brief window, and the user or any other application in the browser can't even see any of the resulting access [[Tokens]] or refresh tokens, so they can't leak that.
 >
-> **[0:51](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=51)** One potential vulnerability is that after logging in with your identity provider, whether it's [[Google]] or Okta or Facebook, your user's likely to still have a web browser session active.
+> **[0:51](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=51)** One potential vulnerability is that after logging in with your identity provider, whether it's [[Google]] or Okta or [[Facebook]], your user's likely to still have a web browser session active.
 >
 > **[1:00](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/security-considerations-22884654?u=76281980&t=60)** If another application can send that user to the same identity provider without their knowledge or under a false context, that could be a problem.
 >
@@ -1649,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (1), [[Facebook]] (1)
 > **Env Vars:** pkce (2), tls (1), uri (1), rfc (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (1), just like (1)

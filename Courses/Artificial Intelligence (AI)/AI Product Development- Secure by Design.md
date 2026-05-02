@@ -439,7 +439,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=244)** Then finance relies on AI for fraud detection, credit scoring, and trading.
 >
-> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=250)** Financial companies, they need to comply with GDPR for [[Data Privacy]], PCI DSS for secure payments, and SCC regulations for transparency.
+> **[4:10](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=250)** Financial companies, they need to comply with GDPR for [[Data Privacy]], [[PCI DSS]] for secure payments, and SCC regulations for transparency.
 >
 > **[4:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks?u=76281980&t=260)** AI-driven retail platforms use machine learning for marketing and personalization using their customer data, which makes compliance with CCPA and GDPR essential.
 >
@@ -2033,7 +2033,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=8)** Without robust security logging and structured [[Incident Response]], organizations risk undetected adversarial attacks, model tampering, and [[Data Integrity]] failures.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=20)** [[AI Security]] logging is essential for tracking AI behavior, identifying vulnerabilities, and ensuring compliance with regulations such as GDPR, HIPAA, and PCI DSS.
+> **[0:20](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=20)** [[AI Security]] logging is essential for tracking AI behavior, identifying vulnerabilities, and ensuring compliance with regulations such as GDPR, HIPAA, and [[PCI DSS]].
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-development-secure-by-design/logging-and-incident-response?u=76281980&t=33)** This session explores how organizations can implement effective AI security logging and respond to adversarial AI threats and recover from incidents with minimal disruption.
 >

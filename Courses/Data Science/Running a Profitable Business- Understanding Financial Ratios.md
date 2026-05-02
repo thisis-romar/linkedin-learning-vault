@@ -424,7 +424,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=231)** Now let's look at some real balance sheet examples for some companies that you've probably heard of.
 >
-> **[3:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=236)** Apple, [[Google]], Walmart, Facebook, Citibank and Toyota.
+> **[3:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=236)** Apple, [[Google]], Walmart, [[Facebook]], Citibank and Toyota.
 >
 > **[4:03](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=243)** These companies have assets, liabilities and equities.
 >
@@ -498,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Ratio Analysis]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Facebook]] (4), [[Ratio Analysis]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), we call this (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -560,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=103)** Let's look at some income statement examples for some companies of which you've heard.
 >
-> **[1:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=108)** Apple, and [[Google]], and Microsoft, and Facebook, and Alibaba, and Walmart.
+> **[1:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=108)** Apple, and [[Google]], and Microsoft, and [[Facebook]], and Alibaba, and Walmart.
 >
 > **[1:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=116)** All of these companies have income statements that they release to the public on a regular basis.
 >
@@ -616,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Google]] (3), [[Microsoft Products|Products]] (2), [[Financial Statements]] (2), [[E-Commerce]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Facebook]] (6), [[Google]] (3), [[Microsoft Products|Products]] (2), [[Financial Statements]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -680,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=122)** Let's look at examples of the statement of cash flows for six companies about which you may have heard.
 >
-> **[2:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=127)** Coca-Cola, ExxonMobil, Gazprom, which is the largest natural gas producer in the world, based in Russia, Facebook, Tesla, a maker of electric cars, and Walmart.
+> **[2:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=127)** Coca-Cola, ExxonMobil, Gazprom, which is the largest natural gas producer in the world, based in Russia, [[Facebook]], Tesla, a maker of electric cars, and Walmart.
 >
 > **[2:19](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=139)** First thing I want you to look at is look at the statement of cash flows for ExxonMobil and for Gazprom.
 >
@@ -738,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Facebook]] (1), [[Financial Statements]] (1)
 > **Speakers:** - third (1)
 
 
@@ -1922,7 +1922,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=167)** In contrast, [[Google]], with a P/E ratio of 31, is expected to grow at a faster rate in the future than either Microsoft or Apple.
 >
-> **[2:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=176)** The champion on this list is Facebook.
+> **[2:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=176)** The champion on this list is [[Facebook]].
 >
 > **[2:58](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=178)** Facebook is a profitable company, but people expect Facebook's earnings to grow really quickly in the future, as reflected in Facebook's P/E ratio of 100.
 >
@@ -1938,7 +1938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Microsoft]] (2), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)

@@ -3891,7 +3891,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=0)** - [Instructor] Think about social media platforms like Facebook, Twitter, or Instagram.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=0)** - [Instructor] Think about social media platforms like [[Facebook]], Twitter, or [[Instagram]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/what-is-hadoop?u=76281980&t=7)** They have billions of users, generating an enormous amount of data every second.
 >
@@ -3931,7 +3931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hadoop]] (8), [[Scalability]] (3), [[Unstructured Data]] (1), [[Big Data]] (1), [[Data Storage]] (1)
+> **Frameworks & Libraries:** [[Hadoop]] (8), [[Scalability]] (3), [[Facebook]] (1), [[Instagram]] (1), [[Unstructured Data]] (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is an  (1), means that (1)

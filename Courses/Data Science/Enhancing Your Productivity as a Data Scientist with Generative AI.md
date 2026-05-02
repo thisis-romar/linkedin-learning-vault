@@ -2773,7 +2773,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=257)** We can see that it also suggested here the seasonal SARIMA model, which is strong for capturing seasonality trends, but also assumes linear relationships, so it's less flexible than boosting models, and also it requires us to tune the parameters manually.
 >
-> **[4:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=273)** And finally, the third selection here will be Prophet, Facebook's time series model, which is also good at handing seasonality and trend changes, but overall, mostly less accurate than boosting models in highly complex scenarios and most importantly, it can struggle with very short time series.
+> **[4:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=273)** And finally, the third selection here will be Prophet, [[Facebook]]'s time series model, which is also good at handing seasonality and trend changes, but overall, mostly less accurate than boosting models in highly complex scenarios and most importantly, it can struggle with very short time series.
 >
 > **[4:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=291)** So in essence, these are the three models it came up with, and this is a pretty good starting point for us to actually develop one of these models and implement it, of course with the help of Generative AI.
 >
@@ -2781,7 +2781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Forecasting]] (3), [[JSON]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Forecasting]] (3), [[JSON]] (2), [[ChatGPT]] (1), [[Facebook]] (1)
 > **Env Vars:** json (2), o4o2 (1), gpt (1), lgbm (1), act (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)

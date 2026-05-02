@@ -1229,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=47)** Courses such as [[Artificial Intelligence Foundations]] [[Neural Networks]] with Doug Rose, or AI [[Algorithms]] for Gaming with Eduardo Corpeno will both be super informative and fun.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=62)** If you want to keep in touch with me, please follow me on Twitter or LinkedIn or look me up on Facebook and Instagram.
+> **[1:02](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=62)** If you want to keep in touch with me, please follow me on Twitter or LinkedIn or look me up on [[Facebook]] and [[Instagram]].
 >
 > **[1:11](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980&t=71)** Thank you and bye.
 

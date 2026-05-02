@@ -82,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980&t=11)** Industrial automation is a fundamental aspect of modern manufacturing, transforming the way [[Microsoft Products|products]] are manufactured, packaged, and delivered.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980&t=21)** We will also examine the different types of industrial controllers and give you an introduction to SCADA system.
+> **[0:21](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980&t=21)** We will also examine the different types of industrial controllers and give you an introduction to [[SCADA]] system.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980&t=29)** I'm Zara Khalil.
 >
@@ -92,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SCADA]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** scada (1), plc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
@@ -107,10 +107,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-industrial-automation/what-you-should-know-14447222?u=76281980&t=20)** No previous knowledge is required, as I will take you through the concepts and you'll be learning about what industrial automation is, the different levels and components within industrial automation, the programming languages used, and we'll be focusing on the common languages, ladder logic and a block diagram.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-industrial-automation/what-you-should-know-14447222?u=76281980&t=38)** And finally, introducing the OPC and SCADA.
+> **[0:38](https://www.linkedin.com/learning/learning-industrial-automation/what-you-should-know-14447222?u=76281980&t=38)** And finally, introducing the [[OPC]] and [[SCADA]].
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[OPC]] (1), [[SCADA]] (1)
 > **Env Vars:** opc (1), scada (1)
 > **Speakers:** - [instructor] (1)
 
@@ -139,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980&t=55)** So automation industry replaces the human involvement with the use of logic programming commands and powerful machines to achieve the desired tasks.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980&t=65)** Industrial automation components include controllers, including different types like programmable logic controllers, PLC, distributed control system, DCS, field industrial devices, industrial communication and networking, human machine interface, HMI, supervisor control and [[Data Acquisition]], SCADA, and personal computers.
+> **[1:05](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980&t=65)** Industrial automation components include controllers, including different types like programmable logic controllers, [[PLC]], [[DCS|distributed control system]], [[DCS]], field industrial devices, industrial communication and networking, [[HMI|human machine interface]], [[HMI]], supervisor control and [[Data Acquisition]], [[SCADA]], and personal computers.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980&t=91)** Industrial automation system can be very complex in nature, having large number of devices working in synchronization with automation technology.
 >
@@ -153,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[PLC]] (1), [[DCS|Distributed control system]] (1), [[DCS]] (1), [[HMI|Human machine interface]] (1)
 > **Env Vars:** plc (1), dcs (1), hmi (1), scada (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -194,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-industrial-automation/field-level-14444219?u=76281980&t=85)** If a sensor senses the object, it gives an output of one.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-industrial-automation/field-level-14444219?u=76281980&t=89)** And the output is usually connected to a PLC input.
+> **[1:29](https://www.linkedin.com/learning/learning-industrial-automation/field-level-14444219?u=76281980&t=89)** And the output is usually connected to a [[PLC]] input.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-industrial-automation/field-level-14444219?u=76281980&t=93)** Light sensor is an example.
 >
@@ -210,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (3)
 > **Env Vars:** plc (2)
 > **Speakers:** - [instructor] (1)
@@ -223,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=5)** The networks are called industrial networks referring to the applications where they are used with an industry.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=12)** Here are some of the industrial network types, DeviceNet, Modbus, HART communication, PROFIBUS, Ethernet, ControlNet.
+> **[0:12](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=12)** Here are some of the industrial network types, [[DeviceNet]], Modbus, HART communication, [[PROFIBUS]], Ethernet, [[ControlNet]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=22)** The communication networks are based on the OSI, Open Systems Interconnection reference model.
 >
@@ -267,11 +268,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=189)** Here's an example of how to implement Ethernet protocol and Ethernet IP within industrial settings.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=195)** Where it's used to connect computer to the controller devices, a PLC is an example, and to connect to a linking devices.
+> **[3:15](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-1-ethernet?u=76281980&t=195)** Where it's used to connect computer to the controller devices, a [[PLC]] is an example, and to connect to a linking devices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1)
+> **Frameworks & Libraries:** [[DeviceNet]] (3), [[ControlNet]] (3), [[PROFIBUS]] (1), [[Hardware]] (1), [[PLC]] (1)
 > **Env Vars:** osi (4), tcp (4), ieee (2), hart (1), profibus (1)
 > **Definitions:** is a  (4), is an  (2), known as (1)
 > **Versions:** 8020.3 (1)
@@ -284,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-2-controlnet?u=76281980&t=0)** - [Instructor] To continue the discussion about the three main networks with industrial settings, the second category is industrial network within the control level.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-2-controlnet?u=76281980&t=9)** An example of control level is ControlNet network.
+> **[0:09](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-2-controlnet?u=76281980&t=9)** An example of control level is [[ControlNet]] network.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-2-controlnet?u=76281980&t=13)** ControlNet is an open industrial network protocol for industrial automation applications, also known as Fieldbus.
 >
@@ -310,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (11), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2), known as (1), is a  (1)
 > **Env Vars:** odva (1), osi (1)
 > **CLI Commands:** node (1)
@@ -326,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=7)** Many device-level networks are available.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=9)** DeviceNet is one of them.
+> **[0:09](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=9)** [[DeviceNet]] is one of them.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=12)** DeviceNet is an open network protocol based on CAN technology.
 >
@@ -362,9 +363,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=134)** This way, helps to enable two-way field communication from and to the device.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=140)** Here's an example of connecting a field HART pressure sensor device to a master application, a PLC, a DCS for example, using a HART communication.
+> **[2:20](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=140)** Here's an example of connecting a field HART pressure sensor device to a master application, a [[PLC]], a [[DCS]] for example, using a HART communication.
 >
-> **[2:30](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=150)** The third communication protocol is a PROFIBUS communication.
+> **[2:30](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=150)** The third communication protocol is a [[PROFIBUS]] communication.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-industrial-automation/communication-level-3-device?u=76281980&t=155)** PROFIBUS is a protocol introduced by a field bus working group in 1987.
 >
@@ -386,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[PROFIBUS]] (11), [[DeviceNet]] (8), [[Microsoft Products|Products]] (1), [[PLC]] (1), [[DCS]] (1)
 > **Env Vars:** profibus (11), hart (8), cip (1), odva (1), fsk (1)
 > **Definitions:** is an  (5), is a  (5)
 > **Analogies:** such as (1), for example (1)
@@ -406,13 +407,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=27)** The logic combination on inputs to produce an output or outputs are called control logic.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=35)** The common industrial controllers are distributed control system, DCS, [[Programmable Logic Controller (PLC)|programmable logic controller]], PLC, and PC-based control.
+> **[0:35](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=35)** The common industrial controllers are [[DCS|distributed control system]], [[DCS]], [[Programmable Logic Controller (PLC)|programmable logic controller]], [[PLC]], and PC-based control.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=48)** Distributed control system, DCS.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=52)** DCS is a platform for automated control system used to control complex, large and geographically distributed applications in industrial processes where controllers are distributed through the entire planet area.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=68)** A DCS combines the following into a single automated system, a human machine interface, HMI, logic control and solvers, supervisor control, alarm management, and a common database.
+> **[1:08](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=68)** A DCS combines the following into a single automated system, a [[HMI|human machine interface]], [[HMI]], logic control and solvers, supervisor control, alarm management, and a common database.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-industrial-automation/control-plc-and-dcs-and-management-level-14448223?u=76281980&t=83)** In DCS systems, controllers are disappeared through the entire plant area.
 >
@@ -454,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[DCS]] (8), [[PLC]] (5), [[DCS|Distributed control system]] (2), [[HMI|Human machine interface]] (2), [[HMI]] (2)
 > **Env Vars:** dcs (8), plc (5), hmi (2), lan (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -469,7 +470,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=0)** - [Instructor] Programmable logic controllers, PLC.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=0)** - [Instructor] Programmable logic controllers, [[PLC]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980&t=4)** PLC is an acronym for a [[Programmable Logic Controller (PLC)|programmable logic controller]].
 >
@@ -491,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[PLC]] (6), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
 > **Env Vars:** plc (6)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** make (1)
@@ -501,7 +502,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/main-components-14444214?u=76281980&t=0)** - [Instructor] The main components of a PLC system are power supply, controller CPU, I/O system, inputs and outputs, and [[PLC Programming]] software.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/main-components-14444214?u=76281980&t=0)** - [Instructor] The main components of a [[PLC]] system are power supply, controller CPU, I/O system, inputs and outputs, and [[PLC Programming]] software.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-industrial-automation/main-components-14444214?u=76281980&t=12)** Most PLCs need one or more power supplies for the CPU, and sometimes for the inputs and outputs.
 >
@@ -557,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Programming]] (2)
+> **Frameworks & Libraries:** [[PLC]] (17), [[PLC Programming]] (2)
 > **Env Vars:** plc (19), cpu (8)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -579,13 +580,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-languages?u=76281980&t=46)** Two common methods for PLC programming is ladder logic and block diagram.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-languages?u=76281980&t=53)** So the standard explains the format, the syntax, and display for the five PLC languages available.
+> **[0:53](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-languages?u=76281980&t=53)** So the standard explains the format, the syntax, and display for the five [[PLC]] languages available.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-languages?u=76281980&t=60)** Each language is used and best suited for certain types of applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Programming]] (3)
+> **Frameworks & Libraries:** [[PLC Programming]] (3), [[PLC]] (1)
 > **Env Vars:** plc (4), iec (1)
 > **Speakers:** - [instructor] (1)
 
@@ -652,13 +653,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=38)** Ladder logic is a programming language that creates and represents a program through a ladder diagram that is based on a circuit diagram.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=48)** PLC program is set of instructions that is stored in the memory.
+> **[0:48](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=48)** [[PLC]] program is set of instructions that is stored in the memory.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-programming-ladder-logic?u=76281980&t=52)** Instructions tell the PLC what to do with the input signals, and where to send the output signals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
 > **Env Vars:** plc (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** rails (1)
@@ -668,7 +669,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=0)** - [Instructor] An HMI is a software application that presents information to the users about the state of a process, and also to accept the user and control instructions.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=0)** - [Instructor] An [[HMI]] is a software application that presents information to the users about the state of a process, and also to accept the user and control instructions.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=11)** HMI provides a graphical representation of the control system process and provides real time [[Data Acquisition]].
 >
@@ -676,7 +677,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=26)** One of the advantages that HMI provides is that they provide an interface between the user and the machine within the factory floor, a centralized control unit and a local interface of the process for a quick monitoring and adjusting.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=42)** So as the name applies, HMI, human machine interface, allows humans and machines to interact.
+> **[0:42](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=42)** So as the name applies, HMI, [[HMI|human machine interface]], allows humans and machines to interact.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-industrial-automation/human-machine-interface-hmi-14448222?u=76281980&t=51)** The size of HMI varies.
 >
@@ -692,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[HMI]] (8), [[Data Acquisition]] (1), [[HMI|Human machine interface]] (1)
 > **Env Vars:** hmi (8)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -702,7 +703,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=0)** - [Instructor] OPC stands for Open Platform Communications.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=0)** - [Instructor] [[OPC]] stands for Open Platform Communications.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=4)** OPC name was originally referred to OLE for Process Control, Object Linking and Embedding for Process Control.
 >
@@ -734,9 +735,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=109)** Again, OPC server is the parent and OPC client is the child.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=114)** The OPC server is a software program that converts the [[Hardware]] communication protocol used by a PLC into an OPC protocol.
+> **[1:54](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=114)** The OPC server is a software program that converts the [[Hardware]] communication protocol used by a [[PLC]] into an OPC protocol.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=124)** The OPC client software, on the other hand, is any program that needs to connect to the hardware, such as an HMI, for example.
+> **[2:04](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=124)** The OPC client software, on the other hand, is any program that needs to connect to the hardware, such as an [[HMI]], for example.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=132)** The OPC client uses the OPC server to get data from or send commands to the hardware.
 >
@@ -744,7 +745,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=149)** So if a field device is connected to one or multiple controllers, for example, Siemens or ABB, the data is transferred from the devices to the controller and from the controller to an OPC client, where all data from different vendors are accessible using one place.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=166)** The data collected from different vendors can then be used for different applications, HMI, SCADA, or simply just stored in database.
+> **[2:46](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=166)** The data collected from different vendors can then be used for different applications, HMI, [[SCADA]], or simply just stored in database.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-14446218?u=76281980&t=175)** One of the greatest uses of OPC protocol is to transfer data over a network and overcoming the security problems.
 >
@@ -770,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[OPC]] (47), [[Hardware]] (3), [[HMI]] (2), [[IoT|Internet of things]] (1), [[PLC]] (1)
 > **Env Vars:** opc (47), hmi (2), ole (1), plc (1), abb (1)
 > **Definitions:** is a  (5), is called (2), stands for (1), is an  (1)
 > **Analogies:** for example (2), such as (1)
@@ -780,7 +781,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-software?u=76281980&t=0)** - [Instructor] So let's take a look at some of the open source OPC softwares that are used in industrial automation.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-software?u=76281980&t=0)** - [Instructor] So let's take a look at some of the open source [[OPC]] softwares that are used in industrial automation.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-industrial-automation/open-platform-communications-opc-software?u=76281980&t=6)** Please note that usually manufacturers provide an OPC server to their [[Microsoft Products|products]] and applications.
 >
@@ -838,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[OPC]] (23), [[Microsoft Products|Products]] (1), [[IoT]] (1)
 > **Env Vars:** opc (23)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** select the (2)
@@ -856,7 +857,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=0)** - [Instructor] SCADA.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=0)** - [Instructor] [[SCADA]].
 >
 > **[0:01](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=1)** SCADA is an acronym for supervisory control, and [[Data Acquisition]].
 >
@@ -868,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=42)** A typical SCADA system consists of SCADA Master, that is connected to either a remote location unit that contains controllers, remote terminal units or PLCs, or connected locally to a local location units that is connected to a control system.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=60)** It could be either a PLC or DCS and a field devices.
+> **[1:00](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=60)** It could be either a [[PLC]] or [[DCS]] and a field devices.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980&t=65)** SCADA was traditionally used for [[Data Collection]] from PLC, and floor controllers.
 >
@@ -882,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Acquisition]] (1), [[Data Collection]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (10), [[PLC]] (2), [[Data Acquisition]] (1), [[DCS]] (1), [[Data Collection]] (1)
 > **Env Vars:** scada (10), plc (2), dcs (1)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
@@ -893,9 +894,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=0)** - [Instructor] SCADA components.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=0)** - [Instructor] [[SCADA]] components.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=2)** SCADA systems consists of field data interface devices, communications network system, controllers like PLCs or DCS, et cetera.
+> **[0:02](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=2)** SCADA systems consists of field data interface devices, communications network system, controllers like PLCs or [[DCS]], et cetera.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=13)** SCADA hosts software and master terminal units.
 >
@@ -907,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=48)** So this is an example of a simple temperature control system consists of a temperature sensor of a tank within a manufacturing setting.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=57)** The temperature sensor is connected to a controller, PLC for example.
+> **[0:57](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=57)** The temperature sensor is connected to a controller, [[PLC]] for example.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-industrial-automation/components-layout-and-design-14445180?u=76281980&t=62)** Our Rockwell Automation PLC takes input from the sensor and controls output, a heater in this example, to adjust the temperature.
 >
@@ -927,7 +928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (9), [[PLC]] (4), [[DCS]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** scada (9), plc (4), dcs (1)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (2)
@@ -939,7 +940,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/scada-functions-and-usage?u=76281980&t=0)** - [Narrator] SCADA layout and design.
+> **[0:00](https://www.linkedin.com/learning/learning-industrial-automation/scada-functions-and-usage?u=76281980&t=0)** - [Narrator] [[SCADA]] layout and design.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-industrial-automation/scada-functions-and-usage?u=76281980&t=3)** The basic SCADA layout includes the components from field devices, controllers, up to the end user applications, SCADA software.
 >
@@ -965,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Design]] (1), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (12), [[Software Design]] (1), [[Data Acquisition]] (1)
 > **Env Vars:** scada (12)
 > **Speakers:** - [narrator] (1)
 
@@ -982,11 +983,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=3)** In this course, I gave you an overview of Industrial Automation Field.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=8)** If you'd like to learn more about SCADA, I recommend checking out this course, "Learning SCADA."
+> **[0:08](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=8)** If you'd like to learn more about [[SCADA]], I recommend checking out this course, "Learning SCADA."
 >
 > **[0:15](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=15)** I have designed the course to gradually introduce you to SCADA concept and covering what's needed to work on a SCADA project in chapter four.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=26)** If you'd like to learn more about the common sensors used in industrial automation, I recommend checking out these two courses, "PLC: Industrial Sensors" and "Input Sensors with PLC: Sinking and Sourcing."
+> **[0:26](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=26)** If you'd like to learn more about the common sensors used in industrial automation, I recommend checking out these two courses, "[[PLC]]: Industrial Sensors" and "Input Sensors with PLC: Sinking and Sourcing."
 >
 > **[0:42](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980&t=42)** This course covers the commonly used circuit when connecting digital sensors to PLCs.
 >
@@ -998,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (4), [[PLC]] (3), [[PLC Ladder Logic]] (1)
 > **Env Vars:** scada (4), plc (4)
 > **Speakers:** - thanks (1)
 

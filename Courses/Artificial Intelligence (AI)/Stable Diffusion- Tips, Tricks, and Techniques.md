@@ -6210,7 +6210,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=121)** To get all of this, we need a spectacular level of control over Stable Diffusion.
 >
-> **[2:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=126)** And so, for that reason, we are going to use ControlNet, which is an extension that gives you such refined robust power that I'm devoting an entire chapter to it.
+> **[2:06](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=126)** And so, for that reason, we are going to use [[ControlNet]], which is an extension that gives you such refined robust power that I'm devoting an entire chapter to it.
 >
 > **[2:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980&t=138)** If you are running your own installation of automatic 1111, you can very easily install ControlNet and I will have instructions for that in the next video.
 >
@@ -6544,7 +6544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (9), [[Windows]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (15), [[Stable Diffusion]] (9), [[Windows]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** vram (2), hed (1), ram (1)
@@ -6557,7 +6557,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=0)** - [Instructor] ControlNet is an extension for AUTOMATIC1111 that is simply extraordinary.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=0)** - [Instructor] [[ControlNet]] is an extension for AUTOMATIC1111 that is simply extraordinary.
 >
 > **[0:07](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/installing-controlnet?u=76281980&t=7)** You've seen how image-to-image allows you to generate images by starting with other images.
 >
@@ -6649,7 +6649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (12), [[Stable Diffusion]] (2), [[Hugging Face]] (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** automatic1111 (4)
 > **UI Navigation:** go to (1), click on (1)
@@ -6682,7 +6682,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=46)** I used Photoshop to combine these two things together.
 >
-> **[0:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=49)** Now, I'm going to hand this to ControlNet, so I'm back here, coming down to ControlNet.
+> **[0:49](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=49)** Now, I'm going to hand this to [[ControlNet]], so I'm back here, coming down to ControlNet.
 >
 > **[0:57](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-in-controlnet?u=76281980&t=57)** I'm going to drop in my photo.
 >
@@ -6998,7 +6998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (6), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (22), [[Stable Diffusion]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Analogies:** picture (2), just like (1), kind of like (1)
 > **Env Vars:** cfg (3)
@@ -7011,7 +7011,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=0)** - [Instructor] ControlNet with OpenPose is probably going to become a pretty regular part of your [[Stable Diffusion]] process, but it does have some limitations.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=0)** - [Instructor] [[ControlNet]] with OpenPose is probably going to become a pretty regular part of your [[Stable Diffusion]] process, but it does have some limitations.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/limitations-using-openpose?u=76281980&t=9)** Let's take a look at some places where ControlNet maybe will fall down.
 >
@@ -7087,7 +7087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2)
+> **Frameworks & Libraries:** [[ControlNet]] (11), [[Stable Diffusion]] (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
@@ -7097,7 +7097,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=0)** - [Instructor] So far we've been using text to image with ControlNet to generate images but we can also use image to image with ControlNet to generate images.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=0)** - [Instructor] So far we've been using text to image with [[ControlNet]] to generate images but we can also use image to image with ControlNet to generate images.
 >
 > **[0:09](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-img2img-and-controlnet?u=76281980&t=9)** ControlNet is kind of a fancy image to image though, so what's the point of image to image?
 >
@@ -7201,7 +7201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2)
+> **Frameworks & Libraries:** [[ControlNet]] (13), [[Stable Diffusion]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** sks (2), automatic1111 (1)
 > **Cross-References:** in the next (2)
@@ -7213,7 +7213,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=0)** - [Instructor] In ControlNet, this pre-processor menu and the corresponding model menu can be a little intimidating because there are so many options here.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=0)** - [Instructor] In [[ControlNet]], this pre-processor menu and the corresponding model menu can be a little intimidating because there are so many options here.
 >
 > **[0:08](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/choosing-a-controlnet-model?u=76281980&t=8)** I can tell you right away that you don't need to understand any of the [[Algorithms]] that are going on here and for the most part, you don't need to have some kind of general universal idea about most of these models.
 >
@@ -7349,7 +7349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), [[Stable Diffusion]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (6), [[Algorithms]] (1), [[Stable Diffusion]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mlsd (6), hed (5)
 > **Cross-References:** go back to (1), in the last (1)
 > **Prerequisites:** set up (1), install (1)
@@ -7362,7 +7362,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/image-size-and-controlnet?u=76281980&t=0)** - [Instructor] Once you've installed ControlNet in Automatic1111, you'll find yourself with all sorts of size controls.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/image-size-and-controlnet?u=76281980&t=0)** - [Instructor] Once you've installed [[ControlNet]] in Automatic1111, you'll find yourself with all sorts of size controls.
 >
 > **[0:05](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/image-size-and-controlnet?u=76281980&t=5)** There's the normal width and height that you have up here in text-to-image, then you get down here into ControlNet and there's resize mode and canvas width and height.
 >
@@ -7422,6 +7422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[ControlNet]] (7)
 > **CLI Commands:** find (1), node (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** is a  (2)
@@ -7431,7 +7432,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=0)** - [Narrator] I want to very quickly go over some of the other things that are scattered around the ControlNet interface that we haven't talked about, and which honestly you're probably not going to use, but I don't want you to feel like I'm hiding something from you.
+> **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=0)** - [Narrator] I want to very quickly go over some of the other things that are scattered around the [[ControlNet]] interface that we haven't talked about, and which honestly you're probably not going to use, but I don't want you to feel like I'm hiding something from you.
 >
 > **[0:12](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/other-features-in-controlnet?u=76281980&t=12)** So up here we've got this image button.
 >
@@ -7497,7 +7498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (13), [[Algorithms]] (1), [[Stable Diffusion]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** rgb (1), bgr (1), cfg (1)
 > **CLI Commands:** find (1)
@@ -7512,7 +7513,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=0)** - [Instructor] By now you should have experienced that trying to get a precise pose, or precise choreography or blocking, using only a prompt is very difficult.
 >
-> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=10)** As we've seen, ControlNet with the OpenPose model makes short work of getting very precise poses for a figure.
+> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=10)** As we've seen, [[ControlNet]] with the OpenPose model makes short work of getting very precise poses for a figure.
 >
 > **[0:16](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/openpose-editors?u=76281980&t=16)** What we haven't looked at is that OpenPose in ControlNet is smart enough to generate poses for any figure in the frame, multiple figures.
 >
@@ -7720,7 +7721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[ControlNet]] (10), [[Stable Diffusion]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **UI Navigation:** click on (3), switch to (2), go to (1)
 > **Definitions:** is a  (5)
@@ -9081,7 +9082,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=198)** This is good.
 >
-> **[3:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=199)** Now I can start using some of these with ControlNet.
+> **[3:19](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=199)** Now I can start using some of these with [[ControlNet]].
 >
 > **[3:22](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/training-a-model-using-an-object?u=76281980&t=202)** So I'm going to save this first one.
 >
@@ -9183,7 +9184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (3), [[ControlNet]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** it's like (1), just like (1)
 > **Definitions:** is a  (1)
@@ -9200,7 +9201,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=0)** - I've authored a lot of courses here at [[LinkedIn]] Learning, and I have to say that this was one of the most difficult simply because [[Stable Diffusion]] is changing so quickly.
 >
-> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=10)** When I started writing this course, ControlNet did not exist, which means Openpose editing did not exist and so on and so forth.
+> **[0:10](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=10)** When I started writing this course, [[ControlNet]] did not exist, which means Openpose editing did not exist and so on and so forth.
 >
 > **[0:18](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980&t=18)** Stable Diffusion is, and will remain, a moving target for anyone who's trying to learn how to master it.
 >
@@ -9228,7 +9229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (8), [[LinkedIn]] (1), [[ControlNet]] (1)
 > **Versions:** 1.5 (4), version 3 (1)
 > **Speakers:** - i (1)
 

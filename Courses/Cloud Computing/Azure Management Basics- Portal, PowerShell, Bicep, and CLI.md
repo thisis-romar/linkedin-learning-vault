@@ -1024,7 +1024,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=309)** So all the stuff on the vm.
 >
-> **[5:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=312)** I can -h, and it says all the different commands that are available here, all the different subgroups, you can see it has a host, it has extension, it has a disk, monitor, a network interface card, et cetera.
+> **[5:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=312)** I can -h, and it says all the different commands that are available here, all the different subgroups, you can see it has a host, it has extension, it has a disk, monitor, a [[NIC|network interface card]], et cetera.
 >
 > **[5:29](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=329)** And now, we know basically what we can do with the vm.
 >

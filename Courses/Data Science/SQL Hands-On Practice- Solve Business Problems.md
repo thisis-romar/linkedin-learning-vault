@@ -329,7 +329,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=261)** We're going to need one of my favorite SQL skills to solve the [[Representational State Transfer (REST)|rest]] of this problem.
 >
-> **[4:25](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=265)** Common table expressions or CTEs for short.
+> **[4:25](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=265)** Common table expressions or [[CTE|CTEs]] for short.
 >
 > **[4:29](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=269)** You could also accomplish this with a subquery, but they aren't covered in this course.
 >
@@ -343,7 +343,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=299)** And we're going to run this again.
 >
-> **[5:02](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=302)** To create a CTE, we're going to go above the select statement.
+> **[5:02](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=302)** To create a [[CTE]], we're going to go above the select statement.
 >
 > **[5:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=307)** We're going to write with table name.
 >
@@ -379,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[CTE]] (9), [[SQL]] (5), [[CTE|Ctes]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (9), sql (5), select (2), ide (1), subscriptions (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), we call this (1), refers to (1)
@@ -392,9 +392,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=0)** - [Speaker] Common table expressions or CTEs for short are arguably one of the most powerful skills you can use in [[SQL]].
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=0)** - [Speaker] Common table expressions or [[CTE|CTEs]] for short are arguably one of the most powerful skills you can use in [[SQL]].
 >
-> **[0:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=7)** As I've grown in my career as a senior data analyst, most of the queries I write use at least one CTE so I definitely recommend you learn them as well.
+> **[0:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=7)** As I've grown in my career as a senior data analyst, most of the queries I write use at least one [[CTE]] so I definitely recommend you learn them as well.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=16)** CTEs are a way to define a temporary result set that you can only use within the scope of that query.
 >
@@ -456,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (13), [[CTE]] (8), [[SQL]] (5)
 > **Env Vars:** cte (8), sql (5)
 > **Definitions:** means that (4), in other words (1), is an  (1), is a  (1)
 > **Analogies:** such as (2), just like (1), for example (1)
@@ -565,7 +565,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=267)** Now we have the revenue by month and product.
 >
-> **[4:30](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=270)** Next, we're going to turn this result set into a CTE.
+> **[4:30](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=270)** Next, we're going to turn this result set into a [[CTE]].
 >
 > **[4:34](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=274)** We know that we need a CTE here because now we have to perform aggregate functions, min, max, average, and standard deviation, on top of this data where we just aggregated revenue by month.
 >
@@ -625,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[SQL]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[CTE]] (6), [[Microsoft Products|Products]] (5), [[SQL]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cte (6), sql (3), std (2), tldr (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -688,7 +688,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=169)** This dataset here is a small sample dataset so we can easily count this with our eyes, but imagine a really [[Big Data]] set.
 >
-> **[2:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=176)** We need a more efficient way to do this, so let's turn this result set into a CTE so we can store it locally and transform it into the shape we need.
+> **[2:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=176)** We need a more efficient way to do this, so let's turn this result set into a [[CTE]] so we can store it locally and transform it into the shape we need.
 >
 > **[3:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=187)** Before the select statement I'm going to add with table name.
 >
@@ -730,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[CTE]] (2), [[Data Wrangling]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cte (2)
 > **Analogies:** imagine (1), for example (1)
@@ -743,7 +743,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=0)** - [Instructor] Okay, now that we've gotten some practice with CTEs, let's break down this problem.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=0)** - [Instructor] Okay, now that we've gotten some practice with [[CTE|CTEs]], let's break down this problem.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=6)** And I'm going to be honest here, this is definitely a challenge and it might have taken a while, but funnel analyses are a super common business problem that's extremely recognizable by hiring managers.
 >
@@ -753,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=34)** So if you want to uncomment that and use my code, you can.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=38)** However, you'll still need to create the max status reached CTE and integrate it into another CTE, called payment funnel stages.
+> **[0:38](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=38)** However, you'll still need to create the max status reached [[CTE]] and integrate it into another CTE, called payment funnel stages.
 >
 > **[0:46](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=46)** That uses the max status and current status of each subscription to categorize them into the business logic.
 >
@@ -911,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Data Wrangling]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[CTE]] (9), [[SQL]] (3), [[CTE|Ctes]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cte (9), sql (3)
 > **Code Identifiers:** max_status_reached (4)
 > **Definitions:** is a  (2), means that (2)
@@ -1612,11 +1612,11 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=211)** Even though one entry doesn't have a name logged, since the emails are identical, we'll end up emailing the same person twice, which we don't want to do.
 >
-> **[3:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=220)** A potential solution is to wrap the whole UNIONed output into a CTE, and then select the distinct emails from that dataset, since the emails are unique.
+> **[3:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=220)** A potential solution is to wrap the whole UNIONed output into a [[CTE]], and then select the distinct emails from that dataset, since the emails are unique.
 >
 > **[3:50](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=230)** That way, the same email doesn't end up on the list twice.
 >
-> **[3:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=234)** If you aren't familiar with CTEs, I recommend going back to that chapter in this course.
+> **[3:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=234)** If you aren't familiar with [[CTE|CTEs]], I recommend going back to that chapter in this course.
 >
 > **[3:59](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=239)** Luckily, you're able to figure out this problem quickly, and provide the marketing team with great results.
 >
@@ -1624,7 +1624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[CTE]] (1), [[CTE|Ctes]] (1)
 > **Env Vars:** union (13), select (2), join (1), cte (1)
 > **SQL:** select (2), join (1)
 > **Code Identifiers:** poc_name (1), poc_email (1)
@@ -1713,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980&t=12)** Because our focus here is on unions, I've already given you the query you need to run except for the subscriptions table called, all_subscriptions.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980&t=20)** We need to create as a CTE.
+> **[0:20](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980&t=20)** We need to create as a [[CTE]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980&t=22)** As always, if you want more of a challenge feel free to delete the entire initial code and write it yourself.
 >
@@ -1757,6 +1757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1)
 > **Code Identifiers:** all_subscriptions (1)
 > **Env Vars:** cte (1)
 > **UI Navigation:** go to (1)
@@ -1773,7 +1774,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=16)** One way to do this is to un-pivot the columns into rows using union.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=21)** I've already given you the code to turn this result set into a CTE called All Cancellation Reasons.
+> **[0:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=21)** I've already given you the code to turn this result set into a [[CTE]] called All Cancellation Reasons.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=27)** I've also already given you the code to calculate the percent of users that reported expensive as their cancellation reason, but I'm going to walk you through how it works later.
 >
@@ -1837,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2182,7 +2183,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=17)** It's not something I use all the time on the job but it's good to know how to do so you exercise your [[SQL]] skills and grow in your understanding of how self joins work.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=27)** Since we're comparing monthly revenues for this problem, we first need to create a CTE that calculates the monthly revenues from the subscriptions table.
+> **[0:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=27)** Since we're comparing monthly revenues for this problem, we first need to create a [[CTE]] that calculates the monthly revenues from the subscriptions table.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=36)** I've given you that code on lines two through eight.
 >
@@ -2286,7 +2287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2)
+> **Frameworks & Libraries:** [[CTE]] (6), [[SQL]] (2)
 > **Env Vars:** cte (6), sql (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** monthly_revs (1)
@@ -2320,7 +2321,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=64)** It won't return the other fields or segment by sales rep as requested.
 >
-> **[1:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=69)** You could write a subquery or CTE that pulls the max sales date per sales rep and then filter the original dataset based on that output.
+> **[1:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=69)** You could write a subquery or [[CTE]] that pulls the max sales date per sales rep and then filter the original dataset based on that output.
 >
 > **[1:19](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=79)** But that way feels a little convoluted.
 >
@@ -2342,7 +2343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (1), [[Windows]] (1), [[SQL]] (1)
 > **Env Vars:** cte (1), sql (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -2446,7 +2447,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=94)** And we can see here that all of the sales are in descending order for each sales rep.
 >
-> **[1:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=100)** Now we can turn this output into a CTE and call it sale ranks.
+> **[1:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=100)** Now we can turn this output into a [[CTE]] and call it sale ranks.
 >
 > **[1:46](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=106)** We're going to start with with sale ranks as open parentheses
 >
@@ -2492,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (4), [[SQL]] (1)
 > **Env Vars:** cte (4), e738 (1), sql (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -2891,13 +2892,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=18)** You can also check out my other [[LinkedIn]] Learning Course, [[Preparing To Get A Job In Data Analytics]], as well as other courses in the library to add to your skills.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=28)** Feel free to follow me on LinkedIn, Instagram and TikTok for more data analytics content.
+> **[0:28](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=28)** Feel free to follow me on LinkedIn, [[Instagram]] and TikTok for more data analytics content.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=33)** Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[SQL]] (1), [[Instagram]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - congrats (1)
 

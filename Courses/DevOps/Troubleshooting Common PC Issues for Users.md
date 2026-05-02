@@ -2255,7 +2255,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=149)** You can confirm that the network is available and if not, check for an error report as to why.
 >
-> **[2:35](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=155)** Check the printer's IP address and confirm that the Wi-Fi connection is enabled and so on.
+> **[2:35](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=155)** Check the printer's IP address and confirm that the [[Wi-Fi]] connection is enabled and so on.
 >
 > **[2:40](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-printer-status?u=76281980&t=160)** If the printer has a companion program installed in Windows, use it to control the printer.
 >
@@ -2267,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Wi-Fi]] (1)
 > **Analogies:** picture (1), such as (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2854,7 +2854,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=88)** For [[Windows 10]] [[Network Troubleshooting]], open the settings app, press the [[Windows]] + I keyboard shortcut, choose network and internet and then choose the network troubleshooter select the networking adapter that concerns you.
 >
-> **[1:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=105)** For example, the wifi adapter click next and continue to work through the troubleshooter as it diagnoses the problem.
+> **[1:45](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=105)** For example, the [[Wi-Fi|wifi]] adapter click next and continue to work through the troubleshooter as it diagnoses the problem.
 >
 > **[1:52](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-hardware?u=76281980&t=112)** Now I'm going to cancel out since there's no problem with the network here, but I will note there's another item here to help you, network reset.
 >
@@ -2872,7 +2872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Windows 10]] (1), [[Network Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Wi-Fi|Wifi]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Windows 10]] (1), [[Network Troubleshooting]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -2949,7 +2949,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=136)** In fact, when my computer's internet is down, I use my cell phone to collect email or check online information.
 >
-> **[2:22](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=142)** You can even use the phone as the computer's modem or set up a wifi hotspot.
+> **[2:22](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=142)** You can even use the phone as the computer's modem or set up a [[Wi-Fi|wifi]] hotspot.
 >
 > **[2:27](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/address-the-no-internet-issue?u=76281980&t=147)** Ensure that your phone isn't connected to the local network.
 >
@@ -2961,7 +2961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1), [[Google]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1), [[Google]] (1), [[Powershell]] (1), [[Wi-Fi|Wifi]] (1)
 > **Warnings:** troubleshoot (2), warning (1), be careful (1)
 > **Env Vars:** isp (3)
 > **Analogies:** such as (2), similar to (1)

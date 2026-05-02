@@ -910,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=77)** But a different world, a better world is possible.
 >
-> **[1:21](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=81)** In the last few years, I've tried to hire engineers who may not have worked at [[Google]], [[Microsoft]], Facebook, [[LinkedIn]], et cetera.
+> **[1:21](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=81)** In the last few years, I've tried to hire engineers who may not have worked at [[Google]], [[Microsoft]], [[Facebook]], [[LinkedIn]], et cetera.
 >
 > **[1:28](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=88)** Instead, I'm doubling down on hiring people who went to coding boot camps and taught themselves how to code.
 >
@@ -972,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** in other words (3), means that (1)
 > **UI Navigation:** go to (2)

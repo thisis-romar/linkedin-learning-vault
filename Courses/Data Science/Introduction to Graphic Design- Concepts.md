@@ -1377,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=115)** The only consideration we will need to make when we are cropping in this way is will the end result meet the resolution target that we'll need for the actual intended usage.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=128)** So if I was doing this, for example, this is quite a large image to go to Instagram.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=128)** So if I was doing this, for example, this is quite a large image to go to [[Instagram]].
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980&t=133)** Square would be just fine to go on.
 >
@@ -1387,6 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **UI Navigation:** switch to (1), go to (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)

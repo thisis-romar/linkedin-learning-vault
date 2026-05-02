@@ -878,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=6)** But there are situations, however, that require something else.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=10)** Sometimes you may need one NIC to act as though it were several.
+> **[0:10](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=10)** Sometimes you may need one [[NIC]] to act as though it were several.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=14)** Other times, you may want multiple NICs to team up and act as one.
 >
@@ -948,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), [[Windows]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[NIC]] (2), [[Windows]] (2), [[Hardware]] (1)
 > **UI Navigation:** right-click (2), open the (1), click on (1), scroll up (1)
 > **Env Vars:** nic (2), ias (1), cls (1)
 > **Versions:** 192.168.0 (2), version 4 (1)
@@ -971,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=35)** This concept can be put to really good use.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=38)** NIC teaming is a configuration option in [[Windows Server]] 2019.
+> **[0:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=38)** [[NIC]] teaming is a configuration option in [[Windows Server]] 2019.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=44)** It's been with us for a few versions of server and it allows you to tie multiple interfaces together under a single IP address to increase the number of concurrent data steams to a single server or single endpoint.
 >
@@ -1015,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), [[Virtual Machines]] (1), [[Windows]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[NIC]] (2), [[Windows Server]] (2), [[Virtual Machines]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** nic (2), mac (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1027,7 +1027,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=0)** - [Instructor] NIC Teams also known as network, load balancing and failover teams are fairly easily created in [[Powershell]].
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=0)** - [Instructor] [[NIC]] Teams also known as network, load balancing and failover teams are fairly easily created in [[Powershell]].
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=9)** Here we are back on the file server that we've looked at previously in this course.
 >
@@ -1119,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (3), [[Virtual Machines]] (2), [[Windows Server]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (3), [[NIC]] (2), [[Virtual Machines]] (2), [[Windows Server]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** nic (2), tcp (1), osi (1)
 > **Tools:** powershell (4)
@@ -1921,7 +1921,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=105)** First, you have to make sure that the desired role is already installed.
 >
-> **[1:50](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=110)** Whether the role is file sharing, installed by default, or DHCP which you'll need to add, the role has to be present before it can accept the configuration.
+> **[1:50](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=110)** Whether the role is file sharing, installed by default, or [[DHCP]] which you'll need to add, the role has to be present before it can accept the configuration.
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=120)** Once the role is verified as present, you do need to stop the service.
 >
@@ -1959,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Windows Server]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Powershell]] (2), [[Windows Server]] (1), [[Hardware]] (1)
 > **Env Vars:** smig (4), dhcp (3)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (2), install (1)

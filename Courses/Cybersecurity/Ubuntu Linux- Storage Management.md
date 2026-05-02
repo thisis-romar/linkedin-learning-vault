@@ -152,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=106)** Local means that they're plugged into the system you're using, as is usually the case with a boot drive, or a USB disk, or anything else plugged in to a local data bus on your computer, like serial or parallel ETA, USB, FireWire, or Thunderbolt.
 >
-> **[2:01](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=121)** Remote storage is accessed over some kind of network medium, like ethernet or wifi.
+> **[2:01](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=121)** Remote storage is accessed over some kind of network medium, like ethernet or [[Wi-Fi|wifi]].
 >
 > **[2:07](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=127)** Remote storage is provided by another system, to which your system connects.
 >
@@ -264,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Linux]] (2), [[Metadata]] (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Linux]] (2), [[Metadata]] (2), [[Microsoft Office|Office]] (1), [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** usb (4), lvm (3), ata (2), gpt (2), guid (2)
 > **Definitions:** is a  (3), is called (3), means that (2), refers to (1), stands for (1)
 > **CLI Commands:** make (4), find (2)

@@ -2028,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=53)** You just have to download and install an agent on them, for inclusion in the data collection scope.
 >
-> **[0:59](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=59)** Once installed and configured, the DCs also start sending their health data, through the health component up to Azure.
+> **[0:59](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=59)** Once installed and configured, the [[DCS]] also start sending their health data, through the health component up to Azure.
 >
 > **[1:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=67)** Which is then also available for you to view in the health portal.
 >
@@ -2040,7 +2040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Data Collection]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Data Collection]] (2), [[Microsoft Azure]] (1), [[DCS]] (1)
 > **Env Vars:** adfs (1), fsmo (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
@@ -2191,7 +2191,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=398)** If I want to know more, I can click on this which says one out of one domain controller's monitored.
 >
-> **[6:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=404)** Now, if you had multiple DCs, that number would be greater but because I just have one domain controller, it says one.
+> **[6:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=404)** Now, if you had multiple [[DCS]], that number would be greater but because I just have one domain controller, it says one.
 >
 > **[6:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=410)** I'm going to click on this.
 >

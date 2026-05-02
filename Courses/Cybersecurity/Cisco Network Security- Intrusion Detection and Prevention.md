@@ -382,7 +382,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=163)** In order to perform intrusion detection analysis and pattern matching, the system must have a superior CPU and exceptional performance.
 >
-> **[2:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=173)** The network interface card must be able to communicate on the network and keep up with traffic that is pushed through for analysis.
+> **[2:53](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=173)** The [[NIC|network interface card]] must be able to communicate on the network and keep up with traffic that is pushed through for analysis.
 >
 > **[3:02](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/host-based-versus-network-ids?u=76281980&t=182)** Adequate memory is essential, as intrusion detection is memory intensive and will affect the ability of the system to detect and block an attack.
 >
@@ -402,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (19), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (19), [[Databases]] (1), [[NIC|Network interface card]] (1)
 > **Env Vars:** tcp (2), cpu (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
@@ -497,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=125)** Now once in, I'll go to [[Statistics]] and then conversations, and I'm going to zero in on UDP, and we're going to search for that suspicious port.
 >
-> **[2:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=135)** Now, once in, we can examine the port values, and we can sort them in which I have by just clicking that one time, and we see some standard ports, such as ports 67 and 68 used for DHCP, and port 53 used for DNS, but what we do see is this port right here, port 666.
+> **[2:15](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=135)** Now, once in, we can examine the port values, and we can sort them in which I have by just clicking that one time, and we see some standard ports, such as ports 67 and 68 used for [[DHCP]], and port 53 used for DNS, but what we do see is this port right here, port 666.
 >
 > **[2:41](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980&t=161)** So let's take another look.
 >
@@ -521,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[SQL]] (1), [[Wireshark]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[SQL]] (1), [[Wireshark]] (1), [[Statistics]] (1), [[DHCP]] (1)
 > **Env Vars:** udp (2), sql (1), dhcp (1), dns (1), ids (1)
 > **Ports:** port 666 (4), port 53 (1)
 > **UI Navigation:** scroll down (3), go to (2)

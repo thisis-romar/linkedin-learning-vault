@@ -1927,7 +1927,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=221)** Bot Service extends your standard application, by adding a natural bot interface that uses artificial intelligence and machine learning.
 >
-> **[3:50](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=230)** These bots can be added to different communication channels, such as Skype and Facebook Messenger, as well as being embedded in your website.
+> **[3:50](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=230)** These bots can be added to different communication channels, such as Skype and [[Facebook]] Messenger, as well as being embedded in your website.
 >
 > **[3:59](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980&t=239)** And they offer new ways to communicate with your customers.
 >

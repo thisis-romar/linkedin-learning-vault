@@ -1061,7 +1061,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=83)** It has a good integration with the Babel compiler and in learner, all projects are packages and advantages repos as multipackage repositories.
 >
-> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=94)** Buck is another tool that is designed and used by Facebook.
+> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=94)** Buck is another tool that is designed and used by [[Facebook]].
 >
 > **[1:39](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=99)** Buck users, such as Airbnb or Uber report benchmarks of up to 50% faster builds and smaller apps.
 >

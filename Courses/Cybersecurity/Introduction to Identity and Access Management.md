@@ -602,7 +602,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=219)** The basis of single sign-on is having the trusted relationship between the service provider and the identity provider in place ahead of time so that the user can be quickly validated and sent to the various resources that are part of that trust.
 >
-> **[3:57](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=237)** An example that you may be familiar with is if you use your Facebook login to sign into multiple websites.
+> **[3:57](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=237)** An example that you may be familiar with is if you use your [[Facebook]] login to sign into multiple websites.
 >
 > **[4:04](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=244)** Facebook has over 150,000 websites that allow you to use that login to prove who you are.
 >
@@ -620,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Network Security]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** sso (1)
 > **Analogies:** such as (1)
@@ -668,7 +668,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=183)** In order for this protocol to work, an authorization token is provided by one application on your behalf to another application.
 >
-> **[3:13](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=193)** Let's say Luke uses Facebook so that application has his login data.
+> **[3:13](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=193)** Let's say Luke uses [[Facebook]] so that application has his login data.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=198)** Luke decides he wants to go on vacation using Airbnb.
 >
@@ -696,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Tokens]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[User Experience (UX)|User experience]] (3), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** saml (5), oidc (5), xml (1), json (1)
 > **Definitions:** is a  (5)
 > **Versions:** 2.0 (4)

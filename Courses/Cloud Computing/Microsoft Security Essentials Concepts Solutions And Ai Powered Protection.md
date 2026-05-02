@@ -253,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=16)** The typical assets in an organization include devices, for example, laptops, workstations, servers, [[Virtual Machines]], and the mobile phones.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=27)** Networks for connecting internal and external resources, such as internet, wifi, local networks and cloud networks.
+> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=27)** Networks for connecting internal and external resources, such as internet, [[Wi-Fi|wifi]], local networks and cloud networks.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=37)** Applications, for example, operating systems like [[Windows]], [[Linux]], Mac OS, iOS, and [[Android]], or business applications like [[Microsoft 365]], corporate websites and customer relationship management, CRM software.
 >
@@ -301,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[SQL]] (2), [[Cybersecurity]] (1), [[Virtual Machines]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2), [[Phishing]] (2), [[SQL]] (2), [[Cybersecurity]] (1), [[Virtual Machines]] (1)
 > **Analogies:** for example (4), such as (3)
 > **Definitions:** refers to (2), is a  (2), is an  (1)
 > **Env Vars:** sql (2), crm (1)
@@ -2612,7 +2612,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=115)** ISO/IEC 27001, an international standard for managing information security.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=123)** PCI DSS, a standard for securing payment card data.
+> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=123)** [[PCI DSS]], a standard for securing payment card data.
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=129)** [[NIST]] SP 800-53, a framework for security and [[Privacy]] controls in federal systems.
 >
@@ -3038,7 +3038,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=5)** Why is [[Compliance Management]] important?
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=9)** Because organizations today face increasing regulatory requirements, which may include global standards, such as ISO/IEC 27001 standard on [[Information Security Management]] systems, regional regulations, such as the European Union's General Data Protection Regulation or GDPR, laws and the regulations established by various governments and states, and the industry standards, such as PCI DSS, Payment Card Industry [[Data Security]] Standard.
+> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=9)** Because organizations today face increasing regulatory requirements, which may include global standards, such as ISO/IEC 27001 standard on [[Information Security Management]] systems, regional regulations, such as the European Union's General Data Protection Regulation or GDPR, laws and the regulations established by various governments and states, and the industry standards, such as [[PCI DSS]], [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=49)** How can you effectively manage and assess compliance across your enterprise environment?
 >
@@ -3092,7 +3092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Compliance Management]] (1), [[Information Security Management]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Compliance Management]] (1), [[Information Security Management]] (1), [[PCI DSS]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** iso (2), iec (2), gdpr (1), pci (1), dss (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)

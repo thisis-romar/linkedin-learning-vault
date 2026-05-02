@@ -1709,7 +1709,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=150)** Now these regulations don't have the force of law on their own, but they are often required by contracts.
 >
-> **[2:35](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=155)** The most common example of this in the world of cyber security is the Payment Card Industry [[Data Security]] Standard, PCI DSS.
+> **[2:35](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=155)** The most common example of this in the world of cyber security is the [[PCI DSS|Payment Card Industry Data Security Standard]], [[PCI DSS]].
 >
 > **[2:43](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980&t=163)** PCI DSS was created by a consortium of companies without the involvement of a government agency.
 >
@@ -1727,7 +1727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Accountability]] (1), [[Data Security]] (1), [[Data Stewardship]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[PCI DSS]] (2), [[Regulatory Compliance]] (1), [[Accountability]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** hipaa (2), pci (2), dss (2), cfr (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
@@ -2328,7 +2328,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=101)** They may handle three different types of information classified by external groups.
 >
-> **[1:46](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=106)** These include Personally Identifiable Information, PII, which is information traceable back to an individual person, Protected Health Information, PHI, which includes medical records protected by HIPAA, and Payment Card Information, PCI, which includes credit and debit card numbers, that must be handled in accordance with the Payment Card Industry Data Security Standard.
+> **[1:46](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=106)** These include Personally Identifiable Information, PII, which is information traceable back to an individual person, Protected Health Information, PHI, which includes medical records protected by HIPAA, and Payment Card Information, PCI, which includes credit and debit card numbers, that must be handled in accordance with the [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[2:08](https://www.linkedin.com/learning/data-steward-foundations/data-classification?u=76281980&t=128)** Every organization should adopt secure disposal procedures for sensitive information.
 >

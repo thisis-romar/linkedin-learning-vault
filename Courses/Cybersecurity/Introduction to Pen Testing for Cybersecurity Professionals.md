@@ -241,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=16)** In an organization, a security audit is a comprehensive assessment of the safety of a company's information assets.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=25)** Auditing generally follows a structured plan or set of criteria, such as PCI DSS compliance.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=25)** Auditing generally follows a structured plan or set of criteria, such as [[PCI DSS]] compliance.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/auditing-security-mechanisms?u=76281980&t=33)** Auditing a network can be a complex undertaking.
 >
@@ -285,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Intrusion Detection]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (2), [[Hardware]] (1), [[Intrusion Detection]] (1), [[Phishing]] (1)
 > **Env Vars:** pci (2), dss (2), hipaa (1), dns (1)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** click on (1)
@@ -1369,7 +1369,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=28)** We then retest and run the scan again to make sure the fix has resolved the issue, and then we document that the issue has been fixed and is no longer a threat.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=41)** Now, while it's always good practice to test and remediate issues, in some cases, it may also be a compliance requirement, such as under PCI DSS, which applies to any organization that handles credit card data.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=41)** Now, while it's always good practice to test and remediate issues, in some cases, it may also be a compliance requirement, such as under [[PCI DSS]], which applies to any organization that handles credit card data.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/outlining-remediation-strategies-25857614?u=76281980&t=58)** I'm here at this site where it shows a quick reference guide to help an organization maintain PCI DSS compliance, along with a checklist for each requirement.
 >
@@ -1411,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Nmap]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (2), [[Nmap]] (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** pci (2), dss (2)
 > **URLs:** [example.com](https://example.com) (2), [nmap.org](https://nmap.org) (1)
@@ -1439,7 +1439,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=33)** If I have physical access, I might be able to bypass the logical controls.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=38)** For example, if you have a router that uses Wi-Fi protected setup, or WPS, this makes the process of connecting to a secure wireless network from a computer or other device easier.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=38)** For example, if you have a router that uses [[Wi-Fi]] protected setup, or WPS, this makes the process of connecting to a secure wireless network from a computer or other device easier.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980&t=52)** I'm at this website where it shows you how you can press the EPS button on your router to allow push and connect, and I'll scroll down where you can see some examples.
 >
@@ -1501,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (1), [[Windows]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** wps (1), eps (1)
 > **CLI Commands:** make (1)
@@ -1527,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=35)** However, it is vulnerable to many threats.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=38)** One reason is that Wi-Fi uses unbounded media.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=38)** One reason is that [[Wi-Fi]] uses unbounded media.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/identifying-wireless-vulnerabilities?u=76281980&t=42)** A cable doesn't tether the signal.
 >
@@ -1577,7 +1577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[Windows]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1)
@@ -1761,7 +1761,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=133)** Now, I found a resource that gives us an example of how we would go about securing the cloud.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=139)** Some of these guidelines you might not be familiar with but they're embedded in regulations such as PCI DSS, that is, Payment Card Industry [[Data Security]] Standard.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=139)** Some of these guidelines you might not be familiar with but they're embedded in regulations such as [[PCI DSS]], that is, [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/safeguarding-cloud-services?u=76281980&t=151)** Now, here are their granular references on how we secure our environments when dealing with card holder data.
 >
@@ -1785,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Virtual Machines]] (1), [[Hardware]] (1), [[Data Security]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[PCI DSS]] (3), [[Virtual Machines]] (1), [[Hardware]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** pci (3), dss (3), api (1), lan (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1826,7 +1826,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980&t=123)** Now, I found a site to help you learn more about how to secure your mobile device, and you can take a look here.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980&t=130)** And I scrolled down, and it offers some suggestions such as use pins to lock your phone, think before you connect to any public wifi network, and update your device's operating system.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980&t=130)** And I scrolled down, and it offers some suggestions such as use pins to lock your phone, think before you connect to any public [[Wi-Fi|wifi]] network, and update your device's operating system.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/assessing-the-mobile-infrastructure?u=76281980&t=145)** Now, let's test your knowledge.
 >
@@ -1838,6 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 

@@ -724,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=4)** And that means taking data that might not be in perfect tabular format, transforming it into a more approachable format, and then saving it off somewhere to re-access it.
 >
-> **[0:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=13)** We'll be using CTEs, common table expressions, which we'll talk about in a bit, aliases and case statements.
+> **[0:13](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=13)** We'll be using [[CTE|CTEs]], common table expressions, which we'll talk about in a bit, aliases and case statements.
 >
 > **[0:19](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=19)** We'll also preview some concepts like Boolean Logic, coalesce, not in all, and a few other [[Forms]] of filtering.
 >
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=98)** So in Duct DB SQL, the UNNEST operation is what's going to allow us to do that.
 >
-> **[1:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=105)** So if we take that query and put it into a CTE, then select from it, we can perform our UNNEST operation and specify recursive to be true, and that's letting Duct TB know that there might even be more nested elements inside of that JSON data.
+> **[1:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=105)** So if we take that query and put it into a [[CTE]], then select from it, we can perform our UNNEST operation and specify recursive to be true, and that's letting Duct TB know that there might even be more nested elements inside of that JSON data.
 >
 > **[2:00](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=120)** Finally, we can select from that and exclude a few columns, the columns that are nested in that JSON to get our result.
 >
@@ -764,7 +764,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=135)** And that's going to let us perform more manipulations on the data and store it off so that we're able to select from it later.
 >
-> **[2:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=144)** So notice how we're using a CTE here or common table expression to make this query very readable and to keep the structure so that we can reference it later.
+> **[2:24](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=144)** So notice how we're using a CTE here or [[CTE|common table expression]] to make this query very readable and to keep the structure so that we can reference it later.
 >
 > **[2:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/wrangling-unstructured-data-24030008?u=76281980&t=154)** We're also using Select Star with the exclude syntax to remove certain columns from what we're selecting.
 >
@@ -1236,9 +1236,9 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=296)** And finally, we'll filter the results by those numbers.
 >
-> **[4:59](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=299)** And [[SQL]] is really great for this because with CTEs, we can actually do this in logical steps.
+> **[4:59](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=299)** And [[SQL]] is really great for this because with [[CTE|CTEs]], we can actually do this in logical steps.
 >
-> **[5:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=303)** So here I have a CTE that does that, and we'll walk through exactly what we're doing.
+> **[5:03](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=303)** So here I have a [[CTE]] that does that, and we'll walk through exactly what we're doing.
 >
 > **[5:08](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/aggregations?u=76281980&t=308)** So we're defining the query, park campgrounds, as selecting from nps_public_data.campgrounds, and joining in parks.
 >
@@ -1336,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Transformation]] (2), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[CTE]] (3), [[Data Transformation]] (2), [[SQL]] (2), [[CTE|Ctes]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** count (4), cte (3), sql (2), case (2), distinct (1)
 > **Cross-References:** as we saw (1), in the last (1), in the next (1), earlier in (1)
 > **Definitions:** is a  (3), means that (1)
@@ -1698,7 +1698,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=52)** It's a sum.
 >
-> **[0:54](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=54)** So in this case, if you wanted to filter on this, you'd have to create a CTE.
+> **[0:54](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=54)** So in this case, if you wanted to filter on this, you'd have to create a [[CTE]].
 >
 > **[0:58](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-filters-24030013?u=76281980&t=58)** And we can do that here, you know, you'd create something like WITH num_campsites AS, and drop a paren around this.
 >
@@ -1746,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2)
+> **Frameworks & Libraries:** [[CTE]] (3), [[SQL]] (2)
 > **Env Vars:** where (5), qualify (4), having (4), cte (3), sql (2)
 > **SQL:** where (5), having (4), select (2), join (1)
 > **Code Identifiers:** num_campsites (4)
@@ -1788,7 +1788,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=94)** For example, if you have one table that has multiple types of records that you need to compare against each other.
 >
-> **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=102)** And the way that we'd approach this question is first using a CTE to define our list of records.
+> **[1:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=102)** And the way that we'd approach this question is first using a [[CTE]] to define our list of records.
 >
 > **[1:47](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/advanced-joins?u=76281980&t=107)** So we're selecting from public data campgrounds and parks, and then we're filtering where the full name of the park equals Joshua Tree Campground.
 >
@@ -1932,7 +1932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[CTE]] (6), [[SQL]] (1), [[Databases]] (1), [[Data Transformation]] (1)
 > **Env Vars:** cte (6), sql (1), unnest (1), split (1)
 > **Analogies:** imagine (3), for example (1)
 > **Cross-References:** go back to (1), earlier in (1), in the next (1)
@@ -2550,7 +2550,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=392)** So continuing our challenge, write a query that returns the largest campsite in each park.
 >
-> **[6:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=398)** So as a bonus, do this without using a CTE, which means that you're going to filter in the same query.
+> **[6:38](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=398)** So as a bonus, do this without using a [[CTE]], which means that you're going to filter in the same query.
 >
 > **[6:43](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-solution?u=76281980&t=403)** And that introduces some of the concepts we discussed in advanced filtering.
 >
@@ -2704,7 +2704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Transformation]] (4), [[SQL]] (3), [[Fetch]] (2), [[Unstructured Data]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (4), [[SQL]] (3), [[Fetch]] (2), [[CTE]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** sql (3), count (3), ilike (2), sum (2), cte (2)
 > **Definitions:** is a  (6), means that (1)
 > **Cross-References:** we discussed (3), earlier in (1)
@@ -3637,7 +3637,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=390)** But it's good for certain things.
 >
-> **[6:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=392)** So if you recall from or earlier lesson, we got the minimum and maximum sites in a CTE and then used those to filter on the final dataframe.
+> **[6:32](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=392)** So if you recall from or earlier lesson, we got the minimum and maximum sites in a [[CTE]] and then used those to filter on the final dataframe.
 >
 > **[6:42](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/order-aggregate?u=76281980&t=402)** And we're going to do something very similar here.
 >
@@ -3719,7 +3719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (6)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (6), [[CTE]] (1)
 > **Env Vars:** sql (14), cte (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** just like (3), it's like (3), similar to (2)
@@ -4926,7 +4926,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=105)** And the numbers aren't actually numbers, right, they're left-padded strings, so we can't apply number functions to this range string, and we can't be sure every number has been drawn to create the index, right, 'cause if range string was never drawn, it might be missing from that index.
 >
-> **[2:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=121)** So the way I tackled this was using numbers as our base, that's going to be one of our CTEs, and then generating a range.
+> **[2:01](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=121)** So the way I tackled this was using numbers as our base, that's going to be one of our [[CTE|CTEs]], and then generating a range.
 >
 > **[2:09](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/sql-bonus-solution?u=76281980&t=129)** So I'm generating a range between 1 and 70 because we know that 69 is the max number in this dataset.
 >
@@ -5022,7 +5022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (1), [[Probability]] (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[SQL]] (1), [[Probability]] (1), [[Data Transformation]] (1)
 > **Analogies:** similar to (2), for example (1), just like (1), kind of like (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)

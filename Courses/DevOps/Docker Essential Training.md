@@ -5833,7 +5833,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=30)** These packets hopped from router to router until they made it to your router at home.
 >
-> **[0:35](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=35)** Upon arrival, your router sent these packets to a network interface card, or a NIC, on your machine.
+> **[0:35](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=35)** Upon arrival, your router sent these packets to a [[NIC|network interface card]], or a [[NIC]], on your machine.
 >
 > **[0:41](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=41)** Your operating system picked up these packets, looked at them, noticed, hey, this is [[HTML]], and some other web stuff, and sent them right along to your browser, with a few extra steps along the way, of course.
 >
@@ -5869,7 +5869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[HTML]] (1), [[Kubernetes]] (1), [[Web Servers]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[NIC|Network interface card]] (1), [[NIC]] (1), [[HTML]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (7)
 > **Env Vars:** nic (1), html (1)
 > **Definitions:** is a  (1)
@@ -6342,7 +6342,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=411)** And what this will give you is the container's [[Routing]] table, and what we're looking for is this default route.
 >
-> **[6:58](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=418)** The default route will always go via the network interface card's gateway, which is just 172.18.0.1 in this case.
+> **[6:58](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=418)** The default route will always go via the [[NIC|network interface card]]'s gateway, which is just 172.18.0.1 in this case.
 >
 > **[7:07](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=427)** So this is how we know that this container's gateway is set to 172.18.0.1.
 >

@@ -170,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=79)** Policy and framework creation and implementation.
 >
-> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=82)** Here, you're helping organizations communicate the risk to stakeholders, as it relates to a set of standards, such as HIPAA, the Health Insurance Portability and [[Accountability]] Act, or the Payment Card Industry [[Data Security]] Standard, better known as PCI.
+> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=82)** Here, you're helping organizations communicate the risk to stakeholders, as it relates to a set of standards, such as HIPAA, the Health Insurance Portability and [[Accountability]] Act, or the [[PCI DSS|Payment Card Industry Data Security Standard]], better known as PCI.
 >
 > **[1:37](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=97)** Next up, security architecture.
 >
@@ -513,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=77)** They can provide a different perspective on your skills that you may not have even thought of.
 >
-> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=82)** We've all seen and heard of personality tests and no, I don't mean the ones from Cosmo Magazine in the '90s, or the quizzes you see on Facebook asking about personality.
+> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=82)** We've all seen and heard of personality tests and no, I don't mean the ones from Cosmo Magazine in the '90s, or the quizzes you see on [[Facebook]] asking about personality.
 >
 > **[1:31](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=91)** I mean, true personality tests such as Myers-Briggs, or StrengthsFinder.
 >
@@ -539,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Microsoft Excel|Excel]] (1), [[Facebook]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cata (1), cati (1)
 > **Exercise Files:** exercise file (1)

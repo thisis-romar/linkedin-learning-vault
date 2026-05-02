@@ -174,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=38)** That's a feature that lets you build live [[Dashboards]], tools, and interfaces directly in a chat window.
 >
-> **[0:45](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=45)** You can prompt it with something like, "Create a dashboard for analyzing video performance using the most relevant visualizations from D3."
+> **[0:45](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=45)** You can prompt it with something like, "Create a dashboard for analyzing video performance using the most relevant visualizations from [[D3.js|D3]]."
 >
 > **[0:54](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-ai-driven-tools-changing-how-code-is-written?u=76281980&t=54)** Claude will handle the generation and gives you a preview that you can click into, inspect, and even share with others.
 >
@@ -521,7 +521,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=211)** But if you know your team is working with [[Vue.js|Vue]], that's also important to include.
 >
-> **[3:35](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=215)** Similarly, Tailwind is a common CSS framework, and JavaScript libraries like D3 are well suited for visualizing data as long as you want to build interactive web components.
+> **[3:35](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=215)** Similarly, Tailwind is a common CSS framework, and JavaScript libraries like [[D3.js|D3]] are well suited for visualizing data as long as you want to build interactive web components.
 >
 > **[3:48](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/system-prompts-the-most-overlooked-step-in-vibe-coding?u=76281980&t=228)** If you're working with other data analysis or automation, Python might be a better fit.
 >

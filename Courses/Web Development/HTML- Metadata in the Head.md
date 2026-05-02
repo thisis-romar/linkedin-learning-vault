@@ -299,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=15)** There are dozens of meta tags that are available for use.
 >
-> **[0:19](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=19)** Some are specific to [[Google]], Facebook, Twitter, or other technologies and contain information about sharing the webpage.
+> **[0:19](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=19)** Some are specific to [[Google]], [[Facebook]], Twitter, or other technologies and contain information about sharing the webpage.
 >
 > **[0:28](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=28)** Others are recognized by the web browser, and they provide information for rendering the webpage, like information about languages or screen size.
 >
@@ -349,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Facebook]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** utf (1)
 > **Analogies:** for example (1)
@@ -820,7 +820,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=0)** - [Jen] Facebook created a new way of including social information in the head of an [[HTML]] document and its protocol has been set to be open-source, it's called the Open Graph data.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=0)** - [Jen] [[Facebook]] created a new way of including social information in the head of an [[HTML]] document and its protocol has been set to be open-source, it's called the Open Graph data.
 >
 > **[0:13](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=13)** And you can find lots of documentation about it online, notably in two places.
 >
@@ -930,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (9), [[HTML]] (3), [[Metadata]] (1)
 > **Env Vars:** url (6), html (2), imdb (1), utf (1)
 > **CLI Commands:** find (4), make (4)
 > **URLs:** [jenkramer.org](https://jenkramer.org) (2), [facebook.com](https://facebook.com) (1)
@@ -943,7 +943,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=0)** - [Instructor] Once you've created the Open Graph tags in the head of your document, you should put the page online somewhere where it can be reached by the Facebook Sharing Debugger.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=0)** - [Instructor] Once you've created the Open Graph tags in the head of your document, you should put the page online somewhere where it can be reached by the [[Facebook]] Sharing Debugger.
 >
 > **[0:11](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=11)** This means you could have added those Open Graph tags to the head of a [[WordPress]] site, the top of your [[JavaScript]]-based application or in the head of your Static [[HTML]] webpage, which is what I did here.
 >
@@ -1019,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), [[JavaScript]] (1), [[HTML]] (1), [[GitHub]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (16), [[WordPress]] (1), [[JavaScript]] (1), [[HTML]] (1), [[GitHub]] (1)
 > **Env Vars:** url (3), html (1), ftp (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1123,7 +1123,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=112)** And it's that hot pink that's used in the design for the website.
 >
-> **[1:57](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=117)** And then finally I went ahead and added four open graph tags here for Facebook.
+> **[1:57](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=117)** And then finally I went ahead and added four open graph tags here for [[Facebook]].
 >
 > **[2:01](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=121)** I gave it a title and the type.
 >
@@ -1157,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[Facebook]] (1)
 > **Env Vars:** url (5), css (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [topsyturvycakedesign.com](https://topsyturvycakedesign.com) (1)
@@ -1666,7 +1666,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=88)** The base tag is typically used for setting a base URL for the document.
 >
-> **[1:33](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=93)** In other words, all of the links within this document should be preceded by this base, only the Facebook Open Graph tags don't honor the base tags.
+> **[1:33](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=93)** In other words, all of the links within this document should be preceded by this base, only the [[Facebook]] Open Graph tags don't honor the base tags.
 >
 > **[1:42](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=102)** So be sure to spell things out there.
 >
@@ -1696,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[HTML]] (1), [[Windows]] (1), [[JavaScript]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Facebook]] (2), [[HTML]] (1), [[Windows]] (1), [[JavaScript]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [genkramer.org](https://genkramer.org) (1)
 > **Env Vars:** html (1), url (1)
 > **Analogies:** just like (1), for example (1)

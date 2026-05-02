@@ -192,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=17)** So go to www.[owasp.org](https://owasp.org).
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=21)** So first, if you are completely new to security and OWASP, head to the Social Media area and join the Facebook group, [[Slack]] channels, or any of the other potential community available.
+> **[0:21](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=21)** So first, if you are completely new to security and OWASP, head to the Social Media area and join the [[Facebook]] group, [[Slack]] channels, or any of the other potential community available.
 >
 > **[0:36](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/introduction-to-owasp?u=76281980&t=36)** Then, if you want to get more information on any kind of attacks by name, go to the Reference area right here.
 >
@@ -218,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), [[Web Application Security]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Web Application Security]] (1), [[Facebook]] (1), [[Slack]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** go to (2), click on (1)

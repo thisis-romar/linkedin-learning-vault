@@ -591,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=117)** AES encrypts 128-bit data blocks at a time.
 >
-> **[2:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=124)** It's widely used for Wi-Fi security and VPNs.
+> **[2:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=124)** It's widely used for [[Wi-Fi]] security and VPNs.
 >
 > **[2:09](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=129)** Triple Data Encryption Standard, TDES, applies DES to each 56-bit data block three times with three different keys.
 >
@@ -619,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Privacy]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Wi-Fi]] (1), [[Privacy]] (1), [[Databases]] (1)
 > **Env Vars:** aes (2), des (2), tdes (1), atm (1), rsa (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (1)

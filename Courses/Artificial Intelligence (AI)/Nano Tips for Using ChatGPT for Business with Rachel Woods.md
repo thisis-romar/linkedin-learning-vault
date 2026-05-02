@@ -144,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=45)** Second, you want to be specific and give the AI a more concrete task at hand.
 >
-> **[0:50](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=50)** Like you will be responsible for writing engaging social media captions for Instagram feed, for our bakery.
+> **[0:50](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=50)** Like you will be responsible for writing engaging social media captions for [[Instagram]] feed, for our bakery.
 >
 > **[0:57](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=57)** You write in our brand voice, which is friendly, casual and witty.
 >
@@ -160,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Instagram]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

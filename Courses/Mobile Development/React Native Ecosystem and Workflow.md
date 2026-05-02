@@ -130,7 +130,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980&t=0)** - [Emmanuel] Facebook created [[React Native]] to allow fast mobile app development.
+> **[0:00](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980&t=0)** - [Emmanuel] [[Facebook]] created [[React Native]] to allow fast mobile app development.
 >
 > **[0:04](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980&t=4)** Facebook's own website for React Native is the best place to start your mobile project, and is a great resource for docs, code examples, and setup instructions.
 >
@@ -176,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (12), [[CLI]] (3), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[React Native]] (12), [[CLI]] (3), [[Facebook]] (2), [[Xcode]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Prerequisites:** install (3), setup (1)
 > **Env Vars:** cli (3)
@@ -684,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980&t=7)** If you are new to testing, I suggest you start with Jest.
 >
-> **[0:11](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980&t=11)** Jest is a testing library built by Facebook and therefore, great to work alongside your [[React Native]] project.
+> **[0:11](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980&t=11)** Jest is a testing library built by [[Facebook]] and therefore, great to work alongside your [[React Native]] project.
 >
 > **[0:18](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980&t=18)** Application testing can get complex quickly.
 >
@@ -726,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (3), [[Unit Testing]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (3), [[Facebook]] (2), [[Unit Testing]] (2), [[JavaScript]] (1)
 > **Documentation:** the documentation (1), the docs (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)

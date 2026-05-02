@@ -777,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=209)** It's very common to leverage more than one of these frameworks or even all four depending on your organization, the type of data you process, or where your organization does business.
 >
-> **[3:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=219)** In addition to these frameworks, many industries have required frameworks you must adopt, such as the Payment Card Industry [[Data Security]] Standard, also known as PCI DSS.
+> **[3:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=219)** In addition to these frameworks, many industries have required frameworks you must adopt, such as the [[PCI DSS|Payment Card Industry Data Security Standard]], also known as [[PCI DSS]].
 >
 > **[3:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=229)** You need this if you process payment cards.
 >
@@ -791,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (8), [[Cybersecurity]] (3), [[Information Security Management]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[NIST]] (8), [[Cybersecurity]] (3), [[Information Security Management]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[PCI DSS]] (1)
 > **Env Vars:** nist (8), iso (3), csf (2), isms (2), b2b (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)

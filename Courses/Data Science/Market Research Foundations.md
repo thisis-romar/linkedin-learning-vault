@@ -666,7 +666,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980&t=84)** Use logic to eliminate questions for some participants.
 >
-> **[1:28](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980&t=88)** For example, you might want to ask what social media app someone uses before asking questions about Instagram.
+> **[1:28](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980&t=88)** For example, you might want to ask what social media app someone uses before asking questions about [[Instagram]].
 >
 > **[1:35](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980&t=95)** Break the survey into multiple pages so it feels shorter and add a progress bar so they know they're close.
 >
@@ -708,6 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1084,7 +1085,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=127)** Another way is to post online ads or gig posts.
 >
-> **[2:11](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=131)** I find that Facebook and Craig's list get the best results.
+> **[2:11](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=131)** I find that [[Facebook]] and Craig's list get the best results.
 >
 > **[2:14](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=134)** Just make sure you have good screeners by survey and phone to make sure your participants are right for your study and articulate enough to give you good data.
 >
@@ -1112,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Facebook]] (1)
 > **CLI Commands:** find (7), make (3)
 > **Code Identifiers:** dscout (1)
 > **Env Vars:** diy (1)
@@ -1315,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=59)** Journey maps provide a visual narrative about a customer's experience by listing all the steps that someone goes through.
 >
-> **[1:06](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=66)** Anywhere your brand and customer meet is an opportunity to make an impact, whether that's on a website, an app, Instagram story, call center, in a store, on a billboard, anywhere.
+> **[1:06](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=66)** Anywhere your brand and customer meet is an opportunity to make an impact, whether that's on a website, an app, [[Instagram]] story, call center, in a store, on a billboard, anywhere.
 >
 > **[1:18](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=78)** Many companies have different departments for different parts of the journey.
 >
@@ -1361,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)

@@ -1534,7 +1534,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=123)** I could add a some code snippet.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=126)** I could add Facebook pages, a preview from Kindle, [[Microsoft]] [[Forms]], [[Microsoft Power BI|Power Bi]] diagram, something from Planner, this list continues to grow, but when you are all done, you simply have a couple of other choices left to make.
+> **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=126)** I could add [[Facebook]] pages, a preview from Kindle, [[Microsoft]] [[Forms]], [[Microsoft Power BI|Power Bi]] diagram, something from Planner, this list continues to grow, but when you are all done, you simply have a couple of other choices left to make.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=140)** One is, do you want to accept comments.
 >
@@ -1564,7 +1564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft]] (1), [[Forms]] (1), [[Microsoft Power BI|Power bi]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Facebook]] (1), [[Microsoft]] (1), [[Forms]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (1), picture (1)

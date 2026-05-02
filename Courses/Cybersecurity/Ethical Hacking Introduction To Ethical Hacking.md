@@ -1532,7 +1532,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=79)** Many times, this is part of a compliance requirement.
 >
-> **[1:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=83)** For example, PCI DSS requirements.
+> **[1:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=83)** For example, [[PCI DSS]] requirements.
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=88)** I'm here at this site where we can see how maintaining an inventory of all assets is mandatory for PCI DSS Requirement 2.4.
 >
@@ -1588,7 +1588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[Hardware]] (2), [[Business Operations]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (3), [[Databases]] (2), [[Hardware]] (2), [[Business Operations]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pci (3), dss (3), cis (1)
 > **Analogies:** for example (4), such as (3)
 > **CLI Commands:** find (1), make (1)
@@ -1761,9 +1761,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=137)** Organizations must obtain valid consent from individuals before collecting, processing, or sharing personal data, and must have appropriate security measures in place to protect data from unauthorized access, disclosure, or loss.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=154)** Payment Card Industry [[Data Security]] Standard is a set of widely-accepted requirements to secure credit card transactions.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=154)** [[PCI DSS|Payment Card Industry Data Security Standard]] is a set of widely-accepted requirements to secure credit card transactions.
 >
-> **[2:43](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=163)** PCI DSS specifies conditions for the secure handling of customer credit card data, and dictates how the information is to be stored, transmitted, and removed.
+> **[2:43](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=163)** [[PCI DSS]] specifies conditions for the secure handling of customer credit card data, and dictates how the information is to be stored, transmitted, and removed.
 >
 > **[2:56](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=176)** PCI DSS is not a law or government regulation.
 >
@@ -1779,7 +1779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Data Collection]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (3), [[Data Privacy]] (1), [[Data Collection]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** gdpr (5), pci (3), dss (3), pcidss (1), dpa (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)

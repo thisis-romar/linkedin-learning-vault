@@ -3397,7 +3397,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=339)** Here we go. We have a full list of all of the different kinds of authentication that Firebase Auth allows.
 >
-> **[5:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=344)** So you can do things like [[Google]] OAuth, Facebook OAuth, et cetera, but we're just going to select Email/Password, and we're going to need to enable this.
+> **[5:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=344)** So you can do things like [[Google]] OAuth, [[Facebook]] OAuth, et cetera, but we're just going to select Email/Password, and we're going to need to enable this.
 >
 > **[5:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=352)** That's the cause of the error that we were seeing there.
 >
@@ -3437,7 +3437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[Facebook]] (1)
 > **Code Identifiers:** confirmpassword (2), createaccount (2), setconfirmpassword (1), seterror (1), signinwithemailandpassword (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)

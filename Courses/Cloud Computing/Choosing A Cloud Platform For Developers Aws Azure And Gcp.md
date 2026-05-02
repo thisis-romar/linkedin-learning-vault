@@ -253,9 +253,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=109)** By the way, Dropbox still uses a cloud for its users in Europe and other places that are farther away from Dropbox's own data centers.
 >
-> **[1:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=116)** There are also companies like Facebook that have always managed their own infrastructure, including building out massive data centers.
+> **[1:56](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=116)** There are also companies like [[Facebook]] that have always managed their own infrastructure, including building out massive data centers.
 >
-> **[2:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=122)** When Facebook has acquired companies, they've taken on migration projects to host [[Microsoft Products|products]] on the main Facebook infrastructure, Instagram and WhatsApp are two acquire products that migrated from cloud providers to Facebook's custom infrastructure.
+> **[2:02](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=122)** When Facebook has acquired companies, they've taken on migration projects to host [[Microsoft Products|products]] on the main Facebook infrastructure, [[Instagram]] and WhatsApp are two acquire products that migrated from cloud providers to Facebook's custom infrastructure.
 >
 > **[2:16](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-urgency-of-cloud-migration?u=76281980&t=136)** A potential downside of such a decision would be that service outages can affect multiple products.
 >
@@ -263,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (1), [[Cloud Services]] (1), [[Cloud Storage]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Microsoft Products|Products]] (3), [[Google]] (1), [[Cloud Services]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1079,7 +1079,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=58)** Having both high interest and high retention for roles can lead to a more efficient and effective workplace.
 >
-> **[1:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=65)** For example, when Facebook realized around 2011 that they needed to revamp their mobile strategy to build fully native mobile apps, they didn't just replace existing staff who had worked on the legacy apps.
+> **[1:05](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=65)** For example, when [[Facebook]] realized around 2011 that they needed to revamp their mobile strategy to build fully native mobile apps, they didn't just replace existing staff who had worked on the legacy apps.
 >
 > **[1:17](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evolve-roles-and-expertise-14486208?u=76281980&t=77)** Instead, they hired external trainers to educate their employees on the new programming approaches.
 >
@@ -1115,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Facebook]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 

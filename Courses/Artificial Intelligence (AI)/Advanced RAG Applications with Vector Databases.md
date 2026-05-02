@@ -973,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=11)** We're working with two new imports here, FAISS and HuggingFaceEmbeddings.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=17)** FAISS stands for Facebook AI Similarity Search.
+> **[0:17](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=17)** FAISS stands for [[Facebook]] AI Similarity Search.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=22)** This is the library that most popular AI native [[Vector Databases]] are built on, and you'll see that we're importing HuggingFaceEmbeddings from langchain_community.
 >
@@ -997,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (3), [[Metadata]] (2), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Metadata]] (2), [[Facebook]] (1), [[Vector Databases]] (1)
 > **Env Vars:** faiss (2), llm (1), rag (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Code Identifiers:** langchain_community (1)

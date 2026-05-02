@@ -170,13 +170,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=60)** But I generally use hashtags if there are areas that you are specifically looking for.
 >
-> **[1:05](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=65)** I love Instagram and I post all kinds of photos and also I have a number of Instagram series that might be valuable to you.
+> **[1:05](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=65)** I love [[Instagram]] and I post all kinds of photos and also I have a number of Instagram series that might be valuable to you.
 >
 > **[1:12](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=72)** You can find me on Instagram under @sfdesignerdw.
 >
 > **[1:16](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=76)** Note the extra dw at the end.
 >
-> **[1:18](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=78)** Finally, there's Facebook.
+> **[1:18](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=78)** Finally, there's [[Facebook]].
 >
 > **[1:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=80)** While I have a personal Facebook account, I'd recommend that you go to my Facebook fan page, which is located at [facebook.com/sfdesignerdw](https://facebook.com/sfdesignerdw).
 >
@@ -190,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Technical Support]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[LinkedIn]] (3), [[Instagram]] (3), [[Technical Support]] (1)
 > **CLI Commands:** find (4)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1), [linkedin.com](https://linkedin.com) (1), [facebook.com](https://facebook.com) (1)
 > **UI Navigation:** go to (2)
@@ -630,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=18)** Let's start with radio.
 >
-> **[0:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=20)** Most homes and offices use Wi-Fi to connect to networks and to the internet.
+> **[0:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=20)** Most homes and offices use [[Wi-Fi]] to connect to networks and to the internet.
 >
 > **[0:26](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=26)** Wi-Fi networks are based on radio waves that transmit binary states based on alternating the radio waves that send information.
 >
@@ -736,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (7), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)

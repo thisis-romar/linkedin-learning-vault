@@ -435,7 +435,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=134)** Here, we're identifying only the visitors that came through organic media, either from referral, organic search, or simply by typing the URL directly.
 >
-> **[2:25](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=145)** Paid media channels, like Facebook or [[LinkedIn]] Ads, are not included.
+> **[2:25](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=145)** Paid media channels, like [[Facebook]] or [[LinkedIn]] Ads, are not included.
 >
 > **[2:31](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=151)** Then we move on to step three, session start.
 >
@@ -473,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[User Experience (UX)|User experience]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** select the (2), scroll down (1), click on (1), open the (1), navigate to (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** find (1), make (1)

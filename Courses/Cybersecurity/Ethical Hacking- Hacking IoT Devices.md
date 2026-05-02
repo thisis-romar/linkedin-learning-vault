@@ -701,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=58)** The malware is modular, allowing attackers to customize and adapt it for specific targets and systems.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=66)** This flexibility makes it a potent tool for cyber attacks on industrial control and SCADA systems.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=66)** This flexibility makes it a potent tool for cyber attacks on industrial control and [[SCADA]] systems.
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=74)** It's capable of causing physical damage to industrial equipment by sending commands that disrupt the operation of power substations and grid components.
 >
@@ -761,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (2), [[Incident Response]] (1)
 > **Env Vars:** industroyer (9), scada (2), crashoverride (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -878,7 +878,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=158)** We also want to study what communication protocols that are used by the device along with possible security considerations.
 >
-> **[2:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=167)** Another reason is to determine the wireless technologies, for example, WiFi, Bluetooth, or Zigbee that are used by the device to help assess potential wireless attack vectors.
+> **[2:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=167)** Another reason is to determine the wireless technologies, for example, [[Wi-Fi|WiFi]], Bluetooth, or Zigbee that are used by the device to help assess potential wireless attack vectors.
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=182)** And we'll also want to check compliance.
 >
@@ -922,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Nmap]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Nmap]] (1), [[Real-Time]] (1), [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** fcc (8), prtg (1)
 > **Analogies:** such as (4), for example (1)
 > **URLs:** [fcc.gov](https://fcc.gov) (1), [fccid.io](https://fccid.io) (1)
@@ -1192,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=54)** The first subset is industrial control systems, which are used to control industrial and critical infrastructure assets.
 >
-> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=64)** Another subset is SCADA, or supervisory control and [[Data Acquisition]].
+> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=64)** Another subset is [[SCADA]], or supervisory control and [[Data Acquisition]].
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=70)** These systems are centralized systems that monitor and control processes and machinery that are used in industrial settings.
 >
@@ -1224,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (2), [[Data Acquisition]] (1), [[Ethical Hacking]] (1), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (2), [[SCADA]] (1), [[Data Acquisition]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** scada (1), iot (1)
@@ -1244,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=21)** So that you understand the complexity of what you might need to test, I'll briefly describe some of the elements that you might find during testing.
 >
-> **[0:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=31)** First, let's talk about SCADA systems.
+> **[0:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=31)** First, let's talk about [[SCADA]] systems.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=34)** SCADA or supervisory control and [[Data Acquisition]] is a centralized system that monitors and controls processes and machinery used in industrial settings.
 >
@@ -1258,7 +1258,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=100)** It does this by executing logic-based tasks and monitoring inputs from sensors and switches, and then making decisions based on the input.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=111)** I'd like to show you an example of a PLC code segment.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=111)** I'd like to show you an example of a [[PLC]] code segment.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=117)** Now keep in mind that the programming instructions can vary based on the software being used.
 >
@@ -1302,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Ethical Hacking]] (1), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (4), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Ethical Hacking]] (1), [[Data Acquisition]] (1), [[PLC]] (1)
 > **Env Vars:** scada (4), plc (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
@@ -1316,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=0)** - [Instructor] Operational technology encompasses a wide range of technologies and protocols that are used in industrial environments.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=9)** In this segment, we'll outline key operational technology protocols and standards that include Modbus, PROFIBUS, Highway Addressable Remote Transducer, and OLE for Process Control.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=9)** In this segment, we'll outline key operational technology protocols and standards that include Modbus, [[PROFIBUS]], Highway Addressable Remote Transducer, and OLE for Process Control.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=26)** When we think about operational technology protocols, one category of communication protocols used are the fieldbus protocols.
 >
@@ -1336,7 +1336,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=131)** HART allows for real-time measurement data to be transmitted along with device diagnostics and configuration information.
 >
-> **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=141)** OLE for Process Control, or OPC, is not a communication protocol, but rather a set of industry standards and specifications.
+> **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=141)** OLE for Process Control, or [[OPC]], is not a communication protocol, but rather a set of industry standards and specifications.
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=152)** OPC provides interoperability among different devices and software applications in the process control and automation field.
 >
@@ -1350,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[OPC]] (4), [[PROFIBUS]] (3), [[Real-Time]] (2), [[Server Configuration]] (1)
 > **Env Vars:** opc (4), profibus (3), hart (3), ole (2), ascii (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1387,7 +1387,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=119)** In an operational technology environment, devices communicate with each other and perform specialized functions.
 >
-> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=127)** For example, we see here in this graphic field devices such as a motor, switch, sensor, and valve in a distributed control system all communicating with each other.
+> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=127)** For example, we see here in this graphic field devices such as a motor, switch, sensor, and valve in a [[DCS|distributed control system]] all communicating with each other.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=141)** However, the problem is in some cases, the devices come with pre-configured default settings, such as a username and password.
 >
@@ -1429,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[DCS|Distributed control system]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1541,7 +1541,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=118)** So let's talk about some of the differences you'll find when testing an operational technology system.
 >
-> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=127)** Testing an operational technology environments require specialized knowledge of protocols and processes such as SCADA systems, PLCs, and other industrial equipment.
+> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=127)** Testing an operational technology environments require specialized knowledge of protocols and processes such as [[SCADA]] systems, PLCs, and other industrial equipment.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=141)** The operational technology environment might still use legacy equipment and software, which may have known vulnerabilities.
 >
@@ -1579,7 +1579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Penetration Testing]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Penetration Testing]] (1), [[SCADA]] (1), [[Windows]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)
@@ -1592,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=0)** - [Instructor] Operational technology systems face several security threats, including specific attack vectors and techniques.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=8)** In this segment, we'll investigate ways to gain access to a system by using the Human Machine Interface, launching a side-channel attack, or infecting a device with malware, along with outlining the potential consequences.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=8)** In this segment, we'll investigate ways to gain access to a system by using the [[HMI|Human Machine Interface]], launching a side-channel attack, or infecting a device with malware, along with outlining the potential consequences.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=25)** In recent years, a significant number of industrial companies experienced an attack that had serious consequences to their operational technology systems.
 >
@@ -1602,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=48)** They target various aspects of industrial control systems and operational technology infrastructure.
 >
-> **[0:55](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=55)** First, let's talk about how malicious actors use the Human Machine Interface, or HMI, to modify the integrity of a system.
+> **[0:55](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=55)** First, let's talk about how malicious actors use the Human Machine Interface, or [[HMI]], to modify the integrity of a system.
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=66)** As shown here in this simplified graphic of an industrial control system, we see the human machine interface, which is a dashboard using customized software that allows the operators to manage the system.
 >
@@ -1642,7 +1642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[HMI]] (4), [[HMI|Human machine interface]] (3), [[Windows]] (1), [[Linux]] (1), [[IoT]] (1)
 > **Env Vars:** hmi (4), iot (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -1654,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=0)** - [Instructor] Prior to testing an operational technology infrastructure, the team will first need to locate the devices.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=8)** In this segment, we'll review various tools and techniques used to gather information on industrial control and SCADA systems.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=8)** In this segment, we'll review various tools and techniques used to gather information on industrial control and [[SCADA]] systems.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=18)** Because of the critical nature of operational technology systems, it's essential to have situational awareness, which is up to date information on the status and activities within an industrial control system and SCADA network.
 >
@@ -1724,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[Wireshark]] (1), [[Web Servers]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (4), [[IoT]] (4), [[Wireshark]] (1), [[Web Servers]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** scada (4), grassmarlin (1)
 > **CLI Commands:** find (2), make (1)
@@ -1811,7 +1811,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=93)** Some of the targets can include programmable logic controllers, remote terminal units, human machine interfaces, and field devices and sensors.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=106)** DNP3 or distributed network protocol and Modbus are two of the most commonly used protocols in SCADA systems.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=106)** DNP3 or distributed network protocol and Modbus are two of the most commonly used protocols in [[SCADA]] systems.
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=116)** These protocols serve as communication standards that enable the exchange of data between different devices and components within SCADA systems.
 >
@@ -1825,7 +1825,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=172)** The complexity of the attack will depend on the security of the system and the desired effect.
 >
-> **[2:58](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=178)** For example, if we look at this PLC code segment, we see that the system will send an alarm and shut down the system if the temperature of the machine is greater than 100 degrees Fahrenheit.
+> **[2:58](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=178)** For example, if we look at this [[PLC]] code segment, we see that the system will send an alarm and shut down the system if the temperature of the machine is greater than 100 degrees Fahrenheit.
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=193)** However, if a malicious actor modifies the code so that the temperature of the machine must be greater than 1000 degrees Fahrenheit, this could cause grave damage to the machine and potentially anyone near the machine.
 >
@@ -1839,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Hardware]] (1), [[Metasploit]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (2), [[Cybersecurity]] (1), [[Hardware]] (1), [[Metasploit]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
 > **Env Vars:** dnp3 (2), scada (2), plc (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Tools:** terminal (1)
@@ -1960,7 +1960,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=157)** Level two is where supervisory control resides.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=161)** Here you'll find SCADA systems, [[Real-Time]] controls, and human machine interfaces.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=161)** Here you'll find [[SCADA]] systems, [[Real-Time]] controls, and human machine interfaces.
 >
 > **[2:48](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=168)** Level one is process control.
 >
@@ -1996,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Real-Time]] (2), [[Hardware]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Real-Time]] (2), [[SCADA]] (1), [[Hardware]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)

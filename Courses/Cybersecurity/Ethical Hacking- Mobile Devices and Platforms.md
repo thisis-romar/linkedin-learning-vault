@@ -306,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=62)** A working test environment that provides the services consumed by the application at runtime may also be useful, even at the static analysis stage.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=71)** It's useful for the tester to identify and understand the full set of network interfaces used by the application across cellular, wifi, Bluetooth and near-field communication services.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=71)** It's useful for the tester to identify and understand the full set of network interfaces used by the application across cellular, [[Wi-Fi|wifi]], Bluetooth and near-field communication services.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=82)** These all have different characteristics, and potentially introduce different [[Forms]] of threats.
 >
@@ -380,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), [[Forms]] (1), [[Cloud Services]] (1), [[Application Development]] (1), [[Cloud Storage]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Wi-Fi|Wifi]] (1), [[Forms]] (1), [[Cloud Services]] (1), [[Application Development]] (1)
 > **Env Vars:** owasp (3), gps (1), usb (1), api (1), html (1)
 > **Analogies:** such as (6), for example (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -403,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=35)** Looking for unexpected connections, sensitive application data being transmitted in the clear, and phone identification data such as IMEI and user details, which should not be present.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=49)** The protocols used in transactions, particularly across wifi and near-field communications should be identified to detect those with known weaknesses.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=49)** The protocols used in transactions, particularly across [[Wi-Fi|wifi]] and near-field communications should be identified to detect those with known weaknesses.
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=58)** As with any application, the tester will look for ways to bypass or subvert credential entry and object access controls, including brute force attacks where viable.
 >
@@ -423,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security Testing]] (1), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[Wi-Fi|Wifi]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** imei (1), html (1), xml (1)
 > **Definitions:** is called (1), is an  (1)
 > **Exercise Files:** source code (1)
@@ -667,7 +667,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=245)** Improvements in security are included in some releases of Android.
 >
-> **[4:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=249)** The WPA3 WiFi security model was introduced in Android 10 together with better support for biometrics and additional permissions.
+> **[4:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=249)** The WPA3 [[Wi-Fi|WiFi]] security model was introduced in Android 10 together with better support for biometrics and additional permissions.
 >
 > **[4:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=258)** Android 11 brought in more permissions, and auto reset application permissions after a period in months of inactivity.
 >
@@ -677,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (19), [[Linux]] (1), [[Hardware]] (1), [[Google]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Android]] (19), [[Linux]] (1), [[Hardware]] (1), [[Google]] (1), [[Wi-Fi|Wifi]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wpa3 (1)
@@ -812,7 +812,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=279)** I'll open this in Notepad.
 >
-> **[4:57](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=297)** We can see the Android permissions that are needed for this app, including WiFi and Contacts permissions.
+> **[4:57](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=297)** We can see the Android permissions that are needed for this app, including [[Wi-Fi|WiFi]] and Contacts permissions.
 >
 > **[5:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=303)** Below that, we can see the app activity is being declared, starting with the main activity, SMS Reader, Settings activity, and more.
 >
@@ -834,7 +834,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=383)** While some keys aren't particularly sensitive, some are.
 >
-> **[6:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=386)** Between June and November 2013, security research has discovered that developers were putting sensitive API keys into their applications which potentially revealed Facebook, Twitter, Bitly, Flicker, Foursquare, [[LinkedIn]], and Google accounts.
+> **[6:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=386)** Between June and November 2013, security research has discovered that developers were putting sensitive API keys into their applications which potentially revealed [[Facebook]], Twitter, Bitly, Flicker, Foursquare, [[LinkedIn]], and Google accounts.
 >
 > **[6:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=403)** Amazingly, some of these values even had names which included the [[Microsoft Word|word]] secret or private.
 >
@@ -850,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (8), [[Google]] (3), [[Mobile Testing]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Android]] (8), [[Google]] (3), [[Mobile Testing]] (1), [[Wi-Fi|Wifi]] (1), [[Facebook]] (1)
 > **Env Vars:** apk (8), url (4), sms (3), api (2), xml (1)
 > **Versions:** version 2 (2), 4.0 (1), 2.17 (1), version 5 (1)
 > **File Paths:** androidmanifest.xml (2), apktool.yml (1)
@@ -919,7 +919,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=202)** This contains three modules.
 >
-> **[3:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=204)** Facebook ads, [[Google]], and karumi.dexter.
+> **[3:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=204)** [[Facebook]] ads, [[Google]], and karumi.dexter.
 >
 > **[3:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=212)** Dexter is an Android library for handling permissions.
 >
@@ -1892,7 +1892,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=165)** While a set of standard repositories are configured by default, you may find some tools are in other repositories, and you can have these repositories using the sources function.
 >
-> **[2:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=175)** Now we have a jailbroken device with OpenSSH installed, we can can use PuTTY to connect to the device over WiFi.
+> **[2:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=175)** Now we have a jailbroken device with OpenSSH installed, we can can use PuTTY to connect to the device over [[Wi-Fi|WiFi]].
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=182)** I've connected my device to WiFi and checked the IP address.
 >
@@ -1984,7 +1984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Mobile Testing]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (3), [[Windows]] (1), [[Mobile Testing]] (1)
 > **Code Identifiers:** iphone (9), ios (5)
 > **CLI Commands:** find (5), ssh (1)
 > **Env Vars:** sms (2), usb (1), ssid (1), ssh (1), dcim (1)
@@ -2483,7 +2483,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=123)** On the keychain, we can see accesses to the keychain, and the attribute of kSec, attribute accessible when unlocked.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=131)** Under network, we can see the https and http cores, and under sensitive APIs, the calls to location service, camera and wifi.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=131)** Under network, we can see the https and http cores, and under sensitive APIs, the calls to location service, camera and [[Wi-Fi|wifi]].
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=143)** We hover over an entry, we can see the details of the thread where the events happened.
 >
@@ -2573,7 +2573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[Databases]] (1)
 > **Env Vars:** url (2), uuid (1), e36f (1), tjc (1), mac (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (1)
 > **Code Identifiers:** ios (1), ksec (1), hellosnoopi (1), irate (1)

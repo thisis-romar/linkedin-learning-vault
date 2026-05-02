@@ -349,7 +349,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=107)** A structural rule is a business rule that's unique to that business.
 >
-> **[1:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=111)** For example, the Instagram social media platform stipulates the acceptable post, reel and story sizes.
+> **[1:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=111)** For example, the [[Instagram]] social media platform stipulates the acceptable post, reel and story sizes.
 >
 > **[2:00](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/what-s-a-business-rule?u=76281980&t=120)** If you try uploading media content of other sizes, then your visual content will be awkwardly manipulated to fit or be outright rejected by Instagram.
 >
@@ -377,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (1), [[Software Development]] (1), [[Business Operations]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (3), [[Dashboards]] (1), [[Software Development]] (1), [[Business Operations]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -517,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=51)** [[Data Governance]] committees are formed internally to help provide sufficient and regular checks and balances given specific compliance stipulations.
 >
-> **[1:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=62)** For instance, let's revisit the business rule that checks the dimensions of an Instagram post prior to posting to the profile's timeline.
+> **[1:02](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=62)** For instance, let's revisit the business rule that checks the dimensions of an [[Instagram]] post prior to posting to the profile's timeline.
 >
 > **[1:13](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/a-business-rule-vs-a-business-policy?u=76281980&t=73)** A business policy would require that the posts not contain explicit or inappropriate content.
 >
@@ -545,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Governance]] (2), [[Data Management]] (2), [[Forms]] (1), [[Banking]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Data Management]] (2), [[Forms]] (1), [[Instagram]] (1), [[Banking]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [host] (1)
 

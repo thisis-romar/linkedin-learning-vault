@@ -172,7 +172,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=128)** And this enables data scientists to provide automated predictions and actions. To help bring this to life, I want to give you some examples of the types of things that data scientists can automate through data analysis and algorithms, such as analyzing NASA pictures to find new planets or asteroids or automated piloting planes, cars and more.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=150)** You can automate book recommendations on Amazon or friend recommendations on Facebook.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=150)** You can automate book recommendations on Amazon or friend recommendations on [[Facebook]].
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=156)** You can use automation and computational chemistry to simulate new molecules for cancer treatment.
 >

@@ -2860,11 +2860,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=31)** Now, common table expressions can also be computed multiple times or each time or in line with the primary query.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=39)** Now, that's optimal when each invocation of the query can use information from the parent query to make whatever that subquery or that common table expression, make that query more efficient.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=39)** Now, that's optimal when each invocation of the query can use information from the parent query to make whatever that subquery or that [[CTE|common table expression]], make that query more efficient.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=51)** So if the values that you're looking up in the correlated query change over the course of the dataset that's calculated for the parent query, then you probably want to use inline versus having the results materialized.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=66)** Well, so materialized CTEs are when we compute the value once and save the data.
+> **[1:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=66)** Well, so materialized [[CTE|CTEs]] are when we compute the value once and save the data.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=71)** So for example, when we say with some common table expression, a name AS and then some statement, and then our SELECT statement, that common table expression will be executed each time or it will be executed in line with each time the SELECT statement has a row that needs to be processed.
 >
@@ -2878,7 +2878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3)
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (7), [[PostgreSQL|Postgres]] (3), [[CTE|Ctes]] (1)
 > **Env Vars:** select (3), materialized (3)
 > **CLI Commands:** make (3), find (1)
 > **SQL:** select (3)
@@ -3070,12 +3070,13 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980&t=0)** - [Instructor] In this challenge, we're going to consider common table expressions.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980&t=9)** Let's imagine you have a common table expression that takes a long time to evaluate and you want to evaluate the common table expression only once when you're executing the associated parent query.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980&t=9)** Let's imagine you have a [[CTE|common table expression]] that takes a long time to evaluate and you want to evaluate the common table expression only once when you're executing the associated parent query.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980&t=20)** How would you define the common table expression?
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3084,10 +3085,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-design-a-common-table-expression?u=76281980&t=0)** - [Instructor] We would define the common table expression using the AS MATERIALIZED clause, and that will allow the query plan builder to execute the query once, cache the results, and then reuse those.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-design-a-common-table-expression?u=76281980&t=0)** - [Instructor] We would define the [[CTE|common table expression]] using the AS MATERIALIZED clause, and that will allow the query plan builder to execute the query once, cache the results, and then reuse those.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (1)
 > **Env Vars:** materialized (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)

@@ -688,7 +688,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=33)** Back when there were no choice of tools, developers had to implement queries in MapReduce [[Java]] API, which was pretty hard.
 >
-> **[0:42](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=42)** Facebook initially developed Hive, but the Apache Software Foundation now maintains the project.
+> **[0:42](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=42)** [[Facebook]] initially developed Hive, but the Apache Software Foundation now maintains the project.
 >
 > **[0:47](https://www.linkedin.com/learning/data-engineering-foundations/hive?u=76281980&t=47)** Although MapReduce was initially responsible for running the Hive jobs, it now integrates well with several other [[Data Processing]] tools.
 >
@@ -706,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Hadoop]] (3), [[Databases]] (1), [[Java]] (1), [[Data Processing]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Hadoop]] (3), [[Databases]] (1), [[Java]] (1), [[Facebook]] (1)
 > **Env Vars:** sql (4), etl (1), api (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** apache (1)

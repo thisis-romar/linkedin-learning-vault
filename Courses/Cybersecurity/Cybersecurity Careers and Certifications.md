@@ -549,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=9)** First, most retail businesses process credit cards, which means they must comply with a credit card industry regulation to be secure.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=18)** This regulation is the Payment Card Industry [[Data Security]] Standard, or PCIDSS.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=18)** This regulation is the [[PCI DSS|Payment Card Industry Data Security Standard]], or PCIDSS.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=24)** PCIDSS has strict security control requirements that retailers need to follow or they'll lose their ability to process credit cards.
 >

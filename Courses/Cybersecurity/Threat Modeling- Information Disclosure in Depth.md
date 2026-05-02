@@ -402,7 +402,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=0)** - [Instructor] With the internet having won, it's easy to forget there are still systems which communicate without IP packets and there are lots of substrates other than wifi.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=0)** - [Instructor] With the internet having won, it's easy to forget there are still systems which communicate without IP packets and there are lots of substrates other than [[Wi-Fi|wifi]].
 >
 > **[0:12](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=12)** GPS, TV and radio, nearfield and Bluetooth, Zigbee.
 >
@@ -426,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2), [[Kali Linux]] (1)
 > **Env Vars:** gps (1), lta (1), ip6 (1), ip4 (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)

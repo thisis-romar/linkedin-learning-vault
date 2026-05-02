@@ -667,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=41)** And what I'd like to do for this dashboard application is to use a color format to identify values that have met or exceeded the goal.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=51)** I'll start by selecting cell D3, and then on the Home tab of the ribbon, I'll go to the Styles group, click the Conditional Formatting button, and I will point to Highlight Cells Rules, and let's say that I want to identify a cell with values greater than the goal.
+> **[0:51](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=51)** I'll start by selecting cell [[D3.js|D3]], and then on the Home tab of the ribbon, I'll go to the Styles group, click the Conditional Formatting button, and I will point to Highlight Cells Rules, and let's say that I want to identify a cell with values greater than the goal.
 >
 > **[1:11](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=71)** So, I'll click Greater Than, and format cells that are greater than a particular goal, and in this case, I'll just type it in directly.
 >
@@ -733,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (6), [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
@@ -756,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=39)** The cells to which I want to apply my rules are in column D.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=42)** So, I will select cells D3 through D5, and then I'll hold down the Control key, and select cells D7 through D9.
+> **[0:42](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=42)** So, I will select cells [[D3.js|D3]] through D5, and then I'll hold down the Control key, and select cells D7 through D9.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=53)** On the Mac, I would use the Command key to make this type of selection.
 >
@@ -840,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[D3.js|D3]] (1)
 > **Versions:** 0.2 (4), 0.12 (3)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1), select the (1)

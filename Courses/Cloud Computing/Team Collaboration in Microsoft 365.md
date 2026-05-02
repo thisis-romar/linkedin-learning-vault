@@ -833,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=8)** From the [[Microsoft 365]] homepage, I'll open the app chooser and I'll go to Yammer.
 >
-> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=14)** So this is basically a social media platform like Facebook or [[LinkedIn]], but it's a closed system for your organization.
+> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=14)** So this is basically a social media platform like [[Facebook]] or [[LinkedIn]], but it's a closed system for your organization.
 >
 > **[0:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=21)** You can post messages and comment on posts, but you don't have to collect friends like on Facebook because all of the people in your Microsoft 365 organization are already members.
 >
@@ -933,7 +933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[LinkedIn]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Facebook]] (2), [[LinkedIn]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (3), click on (2), open the (1), select the (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)

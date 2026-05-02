@@ -660,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=105)** For internet issues, stay calm and see if waiting it out will do the trick.
 >
-> **[1:51](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=111)** While I'm generally able to be on wifi, I also know that in a pinch I can hotspot to my phone, as long as I have solid data available.
+> **[1:51](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=111)** While I'm generally able to be on [[Wi-Fi|wifi]], I also know that in a pinch I can hotspot to my phone, as long as I have solid data available.
 >
 > **[1:59](https://www.linkedin.com/learning/ux-research-being-flexible/where-can-technology-fail-you?u=76281980&t=119)** Also, particularly for websites, consider whether it's possible to keep a local copy on your or computer as a backup plan.
 >
@@ -682,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Wi-Fi|Wifi]] (1)
 > **Best Practices:** the key is (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)

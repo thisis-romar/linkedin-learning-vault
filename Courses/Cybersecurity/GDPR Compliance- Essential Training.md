@@ -505,7 +505,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=27)** Joint controllers usually have shared purposes.
 >
-> **[0:32](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=32)** An example of this may be an organization that creates a Facebook fan page that people can like or follow.
+> **[0:32](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=32)** An example of this may be an organization that creates a [[Facebook]] fan page that people can like or follow.
 >
 > **[0:40](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=40)** Facebook has responsibility for protecting the data, as does the organization collecting information on their specific page.
 >
@@ -541,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Facebook]] (2), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (5)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)

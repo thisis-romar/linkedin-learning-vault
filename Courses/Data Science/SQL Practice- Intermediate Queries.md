@@ -183,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980&t=3)** I start out returning the customer ID, their first and last name, and the sum of the dishes that the customer has ordered.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980&t=9)** That's made possible by joining the orders table, which I'm calling O in the CTE notation, with orders dishes, which I'm naming OD.
+> **[0:09](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980&t=9)** That's made possible by joining the orders table, which I'm calling O in the [[CTE]] notation, with orders dishes, which I'm naming OD.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980&t=17)** And I'm matching up the order ID on each table.
 >
@@ -219,6 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1)
 > **Env Vars:** cte (1), having (1)
 > **SQL:** having (1)
 > **Definitions:** is an  (1)

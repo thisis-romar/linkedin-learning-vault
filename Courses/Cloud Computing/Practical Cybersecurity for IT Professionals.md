@@ -435,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=79)** Analysis indicated that it was a newer version of malware originally created in 2005, and that it was designed to exploit Siemens industrial plant equipment used in nuclear fuel enrichment.
 >
-> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=93)** The Struxnet code contained validation criteria to target only certain configurations of the Siemens industrial system control and [[Data Acquisition]], or SCADA network.
+> **[1:33](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=93)** The Struxnet code contained validation criteria to target only certain configurations of the Siemens industrial system control and [[Data Acquisition]], or [[SCADA]] network.
 >
 > **[1:45](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/stuxnet-and-the-kill-chain?u=76281980&t=105)** The target for the Struxnet virus was the uranium enrichment facility in Natanz, Iran.
 >
@@ -467,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Acquisition]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SCADA]] (5), [[Cybersecurity]] (1), [[Data Acquisition]] (1), [[Windows]] (1)
 > **Env Vars:** scada (5), apt (4), w32 (1), usb (1), pcs7 (1)
 > **CLI Commands:** apt (4)
 > **Definitions:** known as (1)

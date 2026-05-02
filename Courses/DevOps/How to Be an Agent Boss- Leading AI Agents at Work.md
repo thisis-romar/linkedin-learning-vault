@@ -635,7 +635,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=383)** So I'm most likely going to put it on Teams, [[Microsoft Teams]] and [[Microsoft 365]] Copilot and [[SharePoint]], two popular channels that my employees will access.
 >
-> **[6:31](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=391)** And there are other channels available, mainly for customer facing scenarios like Facebook, WhatsApp, but this isn't appropriate, so I won't be using it for this specific example.
+> **[6:31](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=391)** And there are other channels available, mainly for customer facing scenarios like [[Facebook]], WhatsApp, but this isn't appropriate, so I won't be using it for this specific example.
 >
 > **[6:41](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=401)** And so evals help you spot the right strengths, find the gaps and make sure the agent is ready to deliver the results before you roll it out to your team.
 >

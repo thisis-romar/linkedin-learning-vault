@@ -2207,7 +2207,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=133)** To accommodate this need, there are other kinds of databases which store information in other ways.
 >
-> **[2:18](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=138)** A popular term for this kind of database is [[NoSQL]], which stands for Not Only SQL, and NoSQL databases can be anything, from just a collection of [[Unstructured Data]] to key-value pairs to graphs like the Facebook social graph to objects, geographic data points, and streams of information, like posts and comments on social media websites.
+> **[2:18](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=138)** A popular term for this kind of database is [[NoSQL]], which stands for Not Only SQL, and NoSQL databases can be anything, from just a collection of [[Unstructured Data]] to key-value pairs to graphs like the [[Facebook]] social graph to objects, geographic data points, and streams of information, like posts and comments on social media websites.
 
 > [!info]- Semantic Content
 >

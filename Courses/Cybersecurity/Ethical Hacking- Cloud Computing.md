@@ -652,7 +652,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=97)** Think of things like when you sign into a web app online.
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=101)** You might sometimes be prompted, instead of creating a user account, to sign in with your existing [[Google]], Facebook, or Apple account.
+> **[1:41](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=101)** You might sometimes be prompted, instead of creating a user account, to sign in with your existing [[Google]], [[Facebook]], or Apple account.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980&t=109)** That's identity federation, where you have a trusted third party that can be used for authenticating to apps.
 >
@@ -1366,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=38)** So the first thing I see is policy and compliance.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=40)** It's even broken down by some common regulations and industry security standards like ISO 27001, also PCI DSS.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=40)** It's even broken down by some common regulations and industry security standards like ISO 27001, also [[PCI DSS]].
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-recommendation-tools?u=76281980&t=49)** And we can see for each of these how many past controls we have.
 >
@@ -1436,7 +1436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[Cloud Services]] (1), [[Microsoft Azure]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[PCI DSS]] (2), [[Virtual Machines]] (2), [[Cloud Services]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (4), scroll down (3)
 > **Env Vars:** pci (2), dss (2), iso (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1585,7 +1585,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=98)** So when you're looking at cloud service providers, one thing to do is to take a look at compliance reports to see if they're compliant with any regulations that might apply to your organization's needs, such as whether or not the cloud service provider is GDPR compliant.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=113)** The payment card industry [[Data Security]] standard, otherwise called PCI DSS is not an active legislation.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=113)** The [[PCI DSS|payment card industry data security standard]], otherwise called [[PCI DSS]] is not an active legislation.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-data-residency?u=76281980&t=120)** Instead, it's an industry security standard, and it really is all about the safekeeping of credit card holder data, whether it's Visa, MasterCard, or American Express for example.
 >
@@ -1605,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Cloud Services]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Cloud Services]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pci (6), dss (6), gdpr (3), aws (1)
 > **Analogies:** such as (4), for example (1), picture (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -3008,7 +3008,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=56)** Cloud governance, which means that we want to make sure the use of cloud IT services adheres to the appropriate regulations, laws, [[Data Privacy]] standards.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=66)** You can go to a public cloud provider's webpage documentation for their site and read up on their compliance with regulations, like GDPR for the European Union, or PCI DSS for credit and debit cards.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=66)** You can go to a public cloud provider's webpage documentation for their site and read up on their compliance with regulations, like GDPR for the European Union, or [[PCI DSS]] for credit and debit cards.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-security-best-practices?u=76281980&t=81)** So examples of CASBs include [[Microsoft Defender]] for Cloud, in the [[Microsoft Azure]] environment, the use of Microsoft Azure conditional access policies, where numerous conditions would have to be met before allowing access to resources, such as cloud-based apps.
 >

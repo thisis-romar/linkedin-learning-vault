@@ -280,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=54)** If your local machine supports this workload in its entirety, you don't have to be connected.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=60)** I cannot stress how much I dislike VPNs or being tied to Wi-Fi.
+> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=60)** I cannot stress how much I dislike VPNs or being tied to [[Wi-Fi]].
 >
 > **[1:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=65)** It just isn't a requirement to write code anymore.
 >
@@ -310,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Java]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (1), [[Databases]] (1), [[Java]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** find (1), cd (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** ram (1)

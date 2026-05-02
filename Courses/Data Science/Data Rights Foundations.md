@@ -486,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=5)** The process doesn't always have a clear format, and at times it's up to the data hosting service or the website to provide the faculties and affordances to access this.
 >
-> **[0:16](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=16)** For example, you might be interested in obtaining your data from Facebook, and there's a process that's governed by their own internal processes that provides the data instead of a globally-defined service.
+> **[0:16](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=16)** For example, you might be interested in obtaining your data from [[Facebook]], and there's a process that's governed by their own internal processes that provides the data instead of a globally-defined service.
 >
 > **[0:27](https://www.linkedin.com/learning/data-rights-foundations/request-process?u=76281980&t=27)** So what I mean by that is there's no central website or service that you can email or contact and say I'd like to have my data from a, b, c.
 >
@@ -506,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Privacy]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -600,7 +600,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=111)** And this might make it quite difficult for an individual to actually, well, first of all, know that our data's being stored by another party and actually access it or change that data.
 >
-> **[2:03](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=123)** One example might be if your face has ever been tagged in a Facebook photo.
+> **[2:03](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=123)** One example might be if your face has ever been tagged in a [[Facebook]] photo.
 >
 > **[2:08](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980&t=128)** Although the tags can be removed, the tagging metadata is still available to Facebook and it can be used for image recognition and other training purposes.
 >
@@ -618,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Facebook]] (2), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cctv (1)
@@ -700,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980&t=0)** - [Instructor] In the previous challenge, I asked if you can log into a website that you use quite often, and see if you can download your data or access different elements of it online.
 >
-> **[0:15](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980&t=15)** For this solution, I'll walk through how that's possible on Facebook.
+> **[0:15](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980&t=15)** For this solution, I'll walk through how that's possible on [[Facebook]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-rights-foundations/solution-format-details?u=76281980&t=18)** How you can find out what data it stores on you, and if you can download and delete that data.
 >
@@ -722,6 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (5)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -746,7 +747,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=33)** A good place to start is to look at the browser that you use everyday and see what types of add-ons can be added in terms of ad-blocking, in terms of cookie management and different [[Privacy]] settings.
 >
-> **[0:47](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=47)** In addition to the actual software that you use to connect to the net, the type of Wi-Fi connection is also extremely important.
+> **[0:47](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=47)** In addition to the actual software that you use to connect to the net, the type of [[Wi-Fi]] connection is also extremely important.
 >
 > **[0:55](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980&t=55)** So now all Wi-Fi connections are the same.
 >
@@ -770,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[Privacy]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)

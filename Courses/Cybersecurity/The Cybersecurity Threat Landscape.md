@@ -1171,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=12)** Let's take a look at what the Internet of Things is and why it's part of the cybersecurity threat landscape.
 >
-> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=19)** More and more devices are being connected to the internet in the name of convenience and control, key drivers for the growth of IoT devices include the rise of [[Cloud Computing]] as the foundational technology for IoT, plummeting cost of IoT devices, common usage of smartphones and tablets to control IoT devices, and easy access to wifi.
+> **[0:19](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=19)** More and more devices are being connected to the internet in the name of convenience and control, key drivers for the growth of IoT devices include the rise of [[Cloud Computing]] as the foundational technology for IoT, plummeting cost of IoT devices, common usage of smartphones and tablets to control IoT devices, and easy access to [[Wi-Fi|wifi]].
 >
 > **[0:44](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980&t=44)** Practically any electronic device can be connected to the internet and become an IoT device.
 >
@@ -1215,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (21), [[Cybersecurity]] (4), [[IoT|Internet of things]] (2), [[Cloud Computing]] (1), [[5G]] (1)
+> **Frameworks & Libraries:** [[IoT]] (21), [[Cybersecurity]] (4), [[IoT|Internet of things]] (2), [[Cloud Computing]] (1), [[Wi-Fi|Wifi]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

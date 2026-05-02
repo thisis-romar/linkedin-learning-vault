@@ -157,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=26)** Depends on how you set up your organization's URL with [esri.com](https://esri.com).
 >
-> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=32)** If you do have a username and password with [[GitHub]], Facebook, [[Google]], or Apple, you can tie those different accounts to [arcgis.com](https://arcgis.com), so you can automatically log in.
+> **[0:32](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=32)** If you do have a username and password with [[GitHub]], [[Facebook]], [[Google]], or Apple, you can tie those different accounts to [arcgis.com](https://arcgis.com), so you can automatically log in.
 >
 > **[0:45](https://www.linkedin.com/learning/arcgis-pro-essential-training-22644188/sign-in-to-arcgis-pro?u=76281980&t=45)** Makes life very easy.
 >
@@ -239,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ArcGIS Pro]] (6), [[GitHub]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (6), [[GitHub]] (1), [[Facebook]] (1), [[Google]] (1)
 > **URLs:** [arcgis.com](https://arcgis.com) (9), [esri.com](https://esri.com) (2), [maps.com](https://maps.com) (1)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2)

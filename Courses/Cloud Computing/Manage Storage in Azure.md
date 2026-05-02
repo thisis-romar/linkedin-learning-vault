@@ -1794,7 +1794,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=188)** I'll add a name for my private endpoint and this automatically fills in the network interface name.
 >
-> **[3:17](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=197)** A NIC is required as this is how the endpoint is injected into the VNet.
+> **[3:17](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=197)** A [[NIC]] is required as this is how the endpoint is injected into the VNet.
 >
 > **[3:23](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=203)** Clicking next, the target subresource is the storage service that requires the endpoint.
 >
@@ -1820,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[NIC]] (2), [[PaaS]] (1)
 > **Env Vars:** dns (9), nic (2), url (1), vpn (1), cname (1)
 > **Cross-References:** as we saw (1), previous video (1), in the next (1)
 > **UI Navigation:** dropdown (1), go to (1)

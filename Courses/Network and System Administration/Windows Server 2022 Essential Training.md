@@ -297,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=20)** The Windows Server 2022 Standard Edition is the primary and most popular version of the three.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=27)** Although it includes all general features, it doesn't have hotpatching and software-defined networking.
+> **[0:27](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=27)** Although it includes all general features, it doesn't have hotpatching and [[SDN|software-defined networking]].
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-essential-training/versions-and-features?u=76281980&t=33)** The storage replica option is available but it's limited to a two terabyte partition and it doesn't include Storage Spaces Direct.
 >
@@ -333,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Windows Server]] (4), [[Virtual Machines]] (3), [[Microsoft Azure]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Windows Server]] (4), [[Virtual Machines]] (3), [[SDN|Software-defined networking]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** smb (1), quic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -570,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=8)** So if I go to a command prompt by typing CMD, I can start a utility called ipconfig, which is short for IP configuration, and it shows me my IP address is 192, 168, 21.43.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=25)** Now, if I hit the up arrow and then choose /all, then I can see a lot more information, such as IPv6, physical address as well as DHCP and DNS servers.
+> **[0:25](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=25)** Now, if I hit the up arrow and then choose /all, then I can see a lot more information, such as IPv6, physical address as well as [[DHCP]] and DNS servers.
 >
 > **[0:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/setting-up-ip-addressing?u=76281980&t=41)** I'm getting my IP address automatically from a DHCP server at the .13 address, but what I'd like to do is I'd like to change this to a static IP address, so it's always going to be the same IP, and that's because at some point I want to promote this computer to be a domain controller in a new forest and domain, which does require me to have a static IP.
 >
@@ -644,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Active Directory]] (2), [[Google]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[DHCP]] (3), [[Active Directory]] (2), [[Google]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (5), dhcp (3), icmp (2), cmd (1)
 > **UI Navigation:** go to (4), click on (4), right-click (1), double-click (1), scroll down (1)
 > **Versions:** 192.168.21 (3), 21.43 (1)
@@ -1241,7 +1241,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=339)** Back in the Windows Admin Center, I can choose to add and instead of just using servers or PCS as you see here, I can also add server clusters.
 >
-> **[5:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=351)** A server cluster is where you take multiple different servers and then you add the failover cluster service and then they act as failovers for various different services, such as DNS, DHCP, and other popular services.
+> **[5:51](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=351)** A server cluster is where you take multiple different servers and then you add the failover cluster service and then they act as failovers for various different services, such as DNS, [[DHCP]], and other popular services.
 >
 > **[6:08](https://www.linkedin.com/learning/windows-server-2022-essential-training/windows-admin-center?u=76281980&t=368)** I can also create and add in Azure [[Virtual Machines]] as well.
 >
@@ -1561,7 +1561,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=13)** In Server Manager, under Add Roles and Features, we're going to choose the Role based or feature based installation and click Next.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=21)** Now make sure that your IP address is a static IP address, not one you've received dynamically from a DHCP server and that the name of your computer is how you want it, because you cannot rename that server.
+> **[0:21](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=21)** Now make sure that your IP address is a static IP address, not one you've received dynamically from a [[DHCP]] server and that the name of your computer is how you want it, because you cannot rename that server.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980&t=34)** You can only rename it when it's a member of a work group or a member of a domain, but not a domain controller.
 >
@@ -1673,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (14), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (14), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[DHCP]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (4), configure (1), setup (1)
 > **Env Vars:** dhcp (1), lil (1), dns (1)
 > **UI Navigation:** click on (2)
@@ -2558,7 +2558,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=0)** - [Instructor] DHCP, or dynamic host control protocol, allows a server to automatically assign an IP address and other information to a client that does not have a statically set IP address.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=0)** - [Instructor] [[DHCP]], or dynamic host control protocol, allows a server to automatically assign an IP address and other information to a client that does not have a statically set IP address.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-essential-training/dhcp-installation?u=76281980&t=12)** We need to install this as a server role.
 >
@@ -2682,7 +2682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Active Directory]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (15), [[Windows]] (2), [[Active Directory]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1)
 > **Env Vars:** dhcp (15), dns (10), mac (7), ipv4 (2), ipv6 (1)
 > **Prerequisites:** configure (3), install (2), set up (1), setup (1)
 > **UI Navigation:** go to (3), click on (2)
@@ -3809,7 +3809,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=331)** Usually the only times you'll need to change a subnet is if you create a VPN tunnel to Azure and it's the same you're already using, which would make it difficult to work.
 >
-> **[5:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=341)** Here you can go ahead and choose the NIC security group if you'd like, by default it's set to basic, which is usually enough.
+> **[5:41](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=341)** Here you can go ahead and choose the [[NIC]] security group if you'd like, by default it's set to basic, which is usually enough.
 >
 > **[5:48](https://www.linkedin.com/learning/windows-server-2022-essential-training/installing-windows-server-2022-in-azure?u=76281980&t=348)** I'm going to choose to delete the public IP address when the virtual machine is deleted to free that up.
 >

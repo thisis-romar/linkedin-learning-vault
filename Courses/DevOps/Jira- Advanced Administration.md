@@ -4300,7 +4300,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=151)** You can ask a question or start a discussion.
 >
-> **[2:34](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=154)** There are also plenty of Jira themed groups on [[LinkedIn]] and Facebook.
+> **[2:34](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=154)** There are also plenty of Jira themed groups on [[LinkedIn]] and [[Facebook]].
 >
 > **[2:39](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=159)** Next, studying for Atlassian Certification is a great way to learn more about Jira.
 >
@@ -4336,7 +4336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (12), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (12), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1), [[Facebook]] (1)
 > **Tools:** jira (14)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (1)

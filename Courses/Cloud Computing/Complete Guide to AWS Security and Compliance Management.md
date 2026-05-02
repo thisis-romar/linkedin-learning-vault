@@ -3631,7 +3631,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=123)** However, if you'd like to use a social identity provider, you can create a federated user pool.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=132)** With a federated pool, you can use providers including Apple, Facebook, and [[Google]] as a source of identity.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=132)** With a federated pool, you can use providers including Apple, [[Facebook]], and [[Google]] as a source of identity.
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=140)** Basically, if you have an identity source that supports the security assertion markup language, or OpenID Connect, you can federate a user pool with that source.
 >
@@ -3659,7 +3659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Management]] (2), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[User Management]] (2), [[Facebook]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (3), iam (1), api (1)
 > **CLI Commands:** aws (3), make (1)
 > **Analogies:** such as (2), for example (1)
@@ -4022,7 +4022,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=54)** You may want to federate with other AWS accounts that you own or those belonging to partners you work with.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=62)** Using a web identity provider, such as Amazon Cognito, Meta's Facebook, or [[Google]], is a common use case for federation.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=62)** Using a web identity provider, such as Amazon Cognito, Meta's [[Facebook]], or [[Google]], is a common use case for federation.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=72)** Basically, if an identity provider supports OpenID Connect or the Security Assertion Markup Language, commonly called SAML, you can federate it with AWS.
 >
@@ -4044,7 +4044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Google]] (1), [[Cloud Strategy]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Facebook]] (1), [[Google]] (1), [[Cloud Strategy]] (1)
 > **Env Vars:** aws (11), iam (3), saml (1)
 > **CLI Commands:** aws (11)
 > **Definitions:** is an  (1), is a  (1)
@@ -10229,7 +10229,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=0)** - [Narrator] If your organization natively processes payment card transactions, you are likely familiar with the payment card industry [[Data Security]] standard, or PCI DSS.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=0)** - [Narrator] If your organization natively processes payment card transactions, you are likely familiar with the [[PCI DSS|payment card industry data security standard]], or [[PCI DSS]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=14)** Designed to protect card holder data, building and operating an encrypted PCI DSS-compliant environment requires a significant amount of effort.
 >
@@ -10291,7 +10291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (11), [[Hardware]] (4), [[Data Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (11), [[PCI DSS]] (8), [[Hardware]] (4), [[Data Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pci (8), dss (8), aws (4), cvv (1), fips (1)
 > **CLI Commands:** aws (4)
 > **Definitions:** is an  (1), known as (1)
@@ -12880,7 +12880,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=122)** Some standards, like the Center for Internet Security AWS Foundations Benchmark, are available to any organization with an AWS account.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=133)** Others, like the Payment Card Industry [[Data Security]] Standard, only make sense if you process electronic payments.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=133)** Others, like the [[PCI DSS|Payment Card Industry Data Security Standard]], only make sense if you process electronic payments.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=142)** Security Hub has two primary constructs for reporting information.
 >
@@ -12900,7 +12900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS|Payment card industry data security standard]] (1)
 > **CLI Commands:** aws (10), make (3)
 > **Env Vars:** aws (10), iam (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -13553,7 +13553,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=54)** A collection of controls, custom controls and common controls that when taken together satisfy an audit objective is known as a framework.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=66)** AWS provides a number of frameworks tailored to a variety of objectives from AWS best practices to PCI-DSS and the European Union's General Data Protection Regulation.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=66)** AWS provides a number of frameworks tailored to a variety of objectives from AWS best practices to [[PCI DSS|PCI-DSS]] and the European Union's General Data Protection Regulation.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=81)** An assessment is using a framework in your environment.
 >
@@ -13591,7 +13591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Business Operations]] (1), [[Security Risk]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Business Operations]] (1), [[PCI DSS|Pci-dss]] (1), [[Security Risk]] (1)
 > **Env Vars:** aws (9), ec2 (2), pci (1), dss (1), vpc (1)
 > **CLI Commands:** aws (9)
 > **Definitions:** known as (2), is a  (1)
@@ -13649,7 +13649,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=160)** Notice there are a large number of canned frameworks.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=164)** For example, if I dealt with payment cards, I could implement the 4.0 or 3.2.1 PCI DSS standard.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=164)** For example, if I dealt with payment cards, I could implement the 4.0 or 3.2.1 [[PCI DSS]] standard.
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=174)** If I process healthcare information in the United States, there are a number of frameworks that can help me demonstrate my compliance with HIPAA.
 >
@@ -13751,7 +13751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[JSON]] (2), [[Network Security]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[JSON]] (2), [[Network Security]] (1), [[PCI DSS]] (1), [[NIST]] (1)
 > **Env Vars:** ec2 (6), aws (3), json (2), pci (1), dss (1)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** aws (3)
@@ -13772,7 +13772,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=17)** Is it a financial, security, or a compliance audit?
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=21)** You need to identify the applicable standards for your situation, anything from PCI DSS for payment card transactions to GDPR For European operations.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=21)** You need to identify the applicable standards for your situation, anything from [[PCI DSS]] for payment card transactions to GDPR For European operations.
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=34)** Clearly define the scope of your audit, including which services, resources, data, and configurations are included.
 >
@@ -13834,7 +13834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Active Directory]] (1)
 > **Env Vars:** aws (14), iam (2), pci (1), dss (1), gdpr (1)
 > **CLI Commands:** aws (14), make (2)
 > **Best Practices:** don't forget (2), make sure to (1)

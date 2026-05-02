@@ -576,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=95)** Now notice the first actual forecast in cell C4.
 >
-> **[1:39](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=99)** It picks up the prior forecast value in cell C3 and adds to that the product of the smoothing constant in cell H1 and the prior forecast error in cell D3.
+> **[1:39](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=99)** It picks up the prior forecast value in cell C3 and adds to that the product of the smoothing constant in cell H1 and the prior forecast error in cell [[D3.js|D3]].
 >
 > **[1:52](https://www.linkedin.com/learning/business-analytics-forecasting-with-exponential-smoothing/dissect-the-error-correction-form?u=76281980&t=112)** That's precisely what the error correction version of the smoothing formula is intended to do.
 >
@@ -628,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[D3.js|D3]] (1)
 > **Env Vars:** c21 (5), c20 (2), d20 (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2)

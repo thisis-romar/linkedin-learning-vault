@@ -608,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=97)** Let me highlight four of the most important ways AI can help you tap into unstructured data for market research.
 >
-> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=107)** First, AI can help marketers capture the information embedded in social media posts on platforms such as [[LinkedIn]], Facebook, Twitter, TikTok, YouTube, and the like.
+> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=107)** First, AI can help marketers capture the information embedded in social media posts on platforms such as [[LinkedIn]], [[Facebook]], Twitter, TikTok, YouTube, and the like.
 >
 > **[2:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=120)** Worldwide, every single adult younger than 40 already spends more than two hours on social media every single day.
 >

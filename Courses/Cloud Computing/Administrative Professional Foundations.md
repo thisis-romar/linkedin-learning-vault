@@ -972,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=163)** Ensure your technology works for you.
 >
-> **[2:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=166)** Reliable devices, strong Wi-Fi, and tools, like project management and communication apps, are essential for seamless remote work.
+> **[2:46](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=166)** Reliable devices, strong [[Wi-Fi]], and tools, like project management and communication apps, are essential for seamless remote work.
 >
 > **[2:57](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/remote-work-best-practices?u=76281980&t=177)** Stay proactive by updating your equipment and troubleshooting issues before they impact productivity.
 >
@@ -1000,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Wi-Fi]] (1)
 > **URLs:** [peoplebox.ai](https://peoplebox.ai) (1), [indeed.com](https://indeed.com) (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** make (1)

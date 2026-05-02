@@ -191,7 +191,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=198)** APIs are everywhere.
 >
-> **[3:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=201)** When you share a YouTube video on Facebook, an API connects the two platforms.
+> **[3:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=201)** When you share a YouTube video on [[Facebook]], an API connects the two platforms.
 >
 > **[3:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=207)** When you book a flight on a travel app, APIs gather data from different airlines.
 >
@@ -209,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Software Development]] (1), [[Facebook]] (1)
 > **Analogies:** imagine (3), for example (2), think of it as (1), it's like (1)
 > **Env Vars:** api (5), vip (1)
 > **Definitions:** is an  (1), known as (1)
@@ -503,7 +503,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=0)** - If you've ever wondered how your favorite apps seamlessly fetched data, like pulling the latest Instagram photos or streaming a playlist, there's a good chance [[Representational State Transfer (REST)|REST]] is behind the scenes making it all happen.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=0)** - If you've ever wondered how your favorite apps seamlessly fetched data, like pulling the latest [[Instagram]] photos or streaming a playlist, there's a good chance [[Representational State Transfer (REST)|REST]] is behind the scenes making it all happen.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=15)** So what exactly is REST?
 >
@@ -591,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Scalability]] (1), [[User Experience (UX)|User experience]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Instagram]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Scalability]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rest (13), soap (1), api (1)
 > **Definitions:** stands for (1), is called (1), known as (1), is an  (1)
 > **Analogies:** imagine (2), it's like (1)
@@ -1917,7 +1917,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=192)** [[Google]] Login and [[GitHub]] Authentication, for instance, use OAuth to authorize users.
 >
-> **[3:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=199)** With OAuth; one, users log in via a third-party provider, like Google or Facebook, two, the provider issues an OAuth token, three, the client app uses this token to access protected APIs on behalf of the user.
+> **[3:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=199)** With OAuth; one, users log in via a third-party provider, like Google or [[Facebook]], two, the provider issues an OAuth token, three, the client app uses this token to access protected APIs on behalf of the user.
 >
 > **[3:37](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=217)** OAuth is widely used in scenarios where multiple services must interact securely without exposing sensitive credentials.
 >
@@ -1945,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Google]] (2), [[JSON]] (1), [[GitHub]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Google]] (2), [[JSON]] (1), [[GitHub]] (1), [[Facebook]] (1)
 > **Env Vars:** api (19), json (1), jwt (1), https (1), tls (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

@@ -261,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=73)** A service may be goods, access to resources and or a service action.
 >
-> **[1:20](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=80)** For example, in the mobile industries, services may include mobile devices, Wi-Fi data, or cellular service and even user supported provided by the service desk.
+> **[1:20](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=80)** For example, in the mobile industries, services may include mobile devices, [[Wi-Fi]] data, or cellular service and even user supported provided by the service desk.
 >
 > **[1:31](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=91)** By definition, a service must provide value.
 >
@@ -291,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), [[Wi-Fi]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** itil (1)
 > **Analogies:** for example (1)

@@ -483,7 +483,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=157)** On the other hand, this didn't prevent people from getting very creative about how they get their data about health, illness, disease.
 >
-> **[2:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=165)** So one of the most interesting versions of this is people learning that you can get health-related information from the way that people use search engines like [[Google]] or Bing or Baidu and social media like Facebook and Twitter and Instagram.
+> **[2:45](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=165)** So one of the most interesting versions of this is people learning that you can get health-related information from the way that people use search engines like [[Google]] or Bing or Baidu and social media like [[Facebook]] and Twitter and [[Instagram]].
 >
 > **[3:02](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/researching-diseases-in-populations?u=76281980&t=182)** Now, there are a couple of interesting things about this.
 >
@@ -567,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[Data Science]] (2), [[John the Ripper|John]] (1), [[Microsoft Office|Office]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Instagram]] (2), [[Data Science]] (2), [[John the Ripper|John]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ehr (1), hipaa (1), api (1), h1n1 (1), covid (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** it's like (1), for instance (1), picture (1), think of it as (1)
@@ -2542,7 +2542,7 @@ created: 2026-05-02
 >
 > **[8:24](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=504)** If it's an issue that the doctors know that there are problems and limitations, then obviously it behooves the developers to address those issues directly.
 >
-> **[8:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=514)** The overall moral of this story is that unlike the famous line from Facebook founder, Mark Zuckerberg, when you're applying data science in healthcare, you can't move fast and break things.
+> **[8:34](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=514)** The overall moral of this story is that unlike the famous line from [[Facebook]] founder, Mark Zuckerberg, when you're applying data science in healthcare, you can't move fast and break things.
 >
 > **[8:46](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980&t=526)** People's lives are at stake.
 >
@@ -2793,7 +2793,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=20)** Well, let me make a few recommendations, one is, if you were coming from the data science world and you were trying to learn more about healthcare, then I have some suggestions for you.
 >
-> **[0:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=32)** On the other hand, if you were coming from the healthcare world and you were trying to learn more about data science, again, it's going to be a slightly different journey, but for either one, I strongly recommend that you start by finding topics, see where the need is, what are people doing in the areas that are of greatest interest to you, read the news, read blogs, join data and health forums both on [[LinkedIn]], Facebook, and other social media platforms, and then talk about it in person, discuss topics with others at meetups, and with conferences, and wherever you work.
+> **[0:32](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=32)** On the other hand, if you were coming from the healthcare world and you were trying to learn more about data science, again, it's going to be a slightly different journey, but for either one, I strongly recommend that you start by finding topics, see where the need is, what are people doing in the areas that are of greatest interest to you, read the news, read blogs, join data and health forums both on [[LinkedIn]], [[Facebook]], and other social media platforms, and then talk about it in person, discuss topics with others at meetups, and with conferences, and wherever you work.
 >
 > **[1:06](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980&t=66)** So if you're a healthcare professional who wants to learn more about how you can use data science, I suggest you take a look at courses on these topics.
 >
@@ -2821,7 +2821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (10), [[Public Health]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (10), [[Public Health]] (2), [[LinkedIn]] (1), [[Facebook]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** hipaa (1)

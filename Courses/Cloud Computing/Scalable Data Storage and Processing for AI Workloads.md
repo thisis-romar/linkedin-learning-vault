@@ -1821,7 +1821,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=218)** Advanced networking technologies support the scaling of AI applications by maintaining performance as computational power and data volumes grow.
 >
-> **[3:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=228)** Network virtualization and software-defined networking enhance flexibility by allowing dynamic allocation of network resources to meet the demands of AI workloads.
+> **[3:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=228)** Network virtualization and [[SDN|software-defined networking]] enhance flexibility by allowing dynamic allocation of network resources to meet the demands of AI workloads.
 >
 > **[3:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=238)** Automated hyperparameter tuning use tools like Optuna, Retune, or Hyperopt that optimize hyperparameters systematically, enhancing model performance while reducing the time and effort required for manual experimentation.
 >

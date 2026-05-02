@@ -925,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=164)** But why is this considered an AI [[Data Governance]] technique?
 >
-> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=167)** A Facebook engineer once described user data as a drop of ink in a lake of water, which presented a fundamental issue when attempting to comply with [[Privacy]] regulations.
+> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=167)** A [[Facebook]] engineer once described user data as a drop of ink in a lake of water, which presented a fundamental issue when attempting to comply with [[Privacy]] regulations.
 >
 > **[2:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=177)** Once that drop of ink enters the lake, how do you retrieve it?
 >
@@ -945,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Lineage]] (8), [[Data Mapping]] (6), [[Data Governance]] (3), [[Data Structures]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (8), [[Data Mapping]] (6), [[Data Governance]] (3), [[Facebook]] (2), [[Data Structures]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)

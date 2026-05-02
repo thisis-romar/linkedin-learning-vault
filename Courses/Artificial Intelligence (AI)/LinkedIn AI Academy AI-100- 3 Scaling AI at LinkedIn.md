@@ -383,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=165)** Fine tuned on all of the LinkedIn data that I just described.
 >
-> **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=170)** One of the great things about working with language today in AI is that there is a real proliferation of large scale language models that are available, open source, from different companies like [[Google]], and Facebook, and [[Microsoft]].
+> **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=170)** One of the great things about working with language today in AI is that there is a real proliferation of large scale language models that are available, open source, from different companies like [[Google]], and [[Facebook]], and [[Microsoft]].
 >
 > **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=183)** However, none of those are trained on LinkedIn data.
 >

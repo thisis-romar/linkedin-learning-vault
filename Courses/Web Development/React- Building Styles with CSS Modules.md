@@ -2159,7 +2159,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=6)** With the tools and syntax we've explored here, you should be able to use CSS modules in your next React Project.
 >
-> **[0:13](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=13)** Using CSS with React is always an evolving subject, so always go back to the community on Facebook or follow them on Twitter.
+> **[0:13](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=13)** Using CSS with React is always an evolving subject, so always go back to the community on [[Facebook]] or follow them on Twitter.
 >
 > **[0:21](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=21)** And finally, always read the docs for any updates.
 >
@@ -2171,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Facebook]] (1)
 > **Env Vars:** css (5)
 > **Cross-References:** go back to (1)
 > **Documentation:** the docs (1)

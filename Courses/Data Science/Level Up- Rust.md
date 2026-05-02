@@ -83,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=7)** - [Tim] It seems that everyone in the technology industry is talking about the [[Rust (Programming Language)|Rust]] programming language.
 >
-> **[0:12](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=12)** All of the major tech companies are deploying Rust or seem to be; [[Google]], [[Microsoft]], Facebook, AWS.
+> **[0:12](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=12)** All of the major tech companies are deploying Rust or seem to be; [[Google]], [[Microsoft]], [[Facebook]], AWS.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=19)** Learning Rust will enable you to reap the benefits of reliability and speed.
 >
@@ -105,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Google]] (1), [[Microsoft]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [tim] (1)

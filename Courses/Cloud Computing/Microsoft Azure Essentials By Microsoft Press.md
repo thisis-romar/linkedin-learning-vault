@@ -1564,7 +1564,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=484)** They also provide for you a lot of different options that are available for kind of turnkey operations.
 >
-> **[8:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=491)** So what I mean by that is in app service, for example, where you can host a web application, If you want to allow people to authenticate to your app service application, using credentials they already own, like maybe their Facebook username and password or their [[Google]] username and password, you can very easily do that just by flipping a switch to turn on authentication and providing just a little bit of information that comes from Facebook or Google so that it knows how to access their log on stuff.
+> **[8:11](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=491)** So what I mean by that is in app service, for example, where you can host a web application, If you want to allow people to authenticate to your app service application, using credentials they already own, like maybe their [[Facebook]] username and password or their [[Google]] username and password, you can very easily do that just by flipping a switch to turn on authentication and providing just a little bit of information that comes from Facebook or Google so that it knows how to access their log on stuff.
 >
 > **[8:47](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/compute-and-app-hosting-options?u=76281980&t=527)** You don't have to write any code.
 >

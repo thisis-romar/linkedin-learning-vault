@@ -872,7 +872,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=156)** And here we have the option to select a provider.
 >
-> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=160)** And there are multiple different providers that have teamed up with Microsoft and we have the SDN API template URL.
+> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=160)** And there are multiple different providers that have teamed up with Microsoft and we have the [[SDN]] API template URL.
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=167)** So you'll need to enter that as well.
 >
@@ -902,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[SDN]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** url (3), sdn (2), api (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Analogies:** such as (2)
@@ -1223,7 +1223,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980&t=108)** So click Apply. And there's my subnet.
 >
-> **[1:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980&t=112)** If I have any Wi-Fi access points, I can add them in here.
+> **[1:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980&t=112)** If I have any [[Wi-Fi]] access points, I can add them in here.
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980&t=116)** And here's where you'd add in the BSS ID information, which you can get from your wireless access point, and assign it to the emergency location.
 >
@@ -1245,6 +1245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1252,7 +1253,6 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
-> **Speakers:** - [instructor] (1)
 
 #### [Assign, change, or remove a phone number for a user](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980)
 

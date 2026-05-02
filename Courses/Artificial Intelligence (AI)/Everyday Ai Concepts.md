@@ -660,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=190)** What do these clusters have in common?
 >
-> **[3:13](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=193)** You might notice that these people are all shopping in similar stores, so maybe the machine identified a cluster of people who buy things based on what they see on Instagram.
+> **[3:13](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=193)** You might notice that these people are all shopping in similar stores, so maybe the machine identified a cluster of people who buy things based on what they see on [[Instagram]].
 >
 > **[3:23](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=203)** Then the machine learning team will have to label the cluster as Instagram shoppers unsupervised.
 >
@@ -670,7 +670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Statistics]] (1), [[Probability]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (2), [[Supervised Learning]] (1), [[Statistics]] (1), [[Probability]] (1), [[Algorithms]] (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
@@ -800,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=56)** [[Google]] has become very good at predicting which website closely matches your search.
 >
-> **[1:00](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=60)** Facebook can predict which news stories you'll find the most interesting, but newer generative AI systems are no longer just predicting your behavior.
+> **[1:00](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=60)** [[Facebook]] can predict which news stories you'll find the most interesting, but newer generative AI systems are no longer just predicting your behavior.
 >
 > **[1:09](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=69)** Instead, they're generating something new.
 >

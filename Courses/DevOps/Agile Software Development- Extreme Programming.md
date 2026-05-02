@@ -1663,7 +1663,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=234)** Continuous delivery extends the CI pipeline by actually delivering the code to your stakeholders every time there's a code change.
 >
-> **[4:02](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=242)** Companies like Amazon, Facebook, Adobe, Etsy, and Netflix, deliver small releases to production many times per day, anywhere from 10s to 1,000s of releases per day.
+> **[4:02](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=242)** Companies like Amazon, [[Facebook]], Adobe, Etsy, and Netflix, deliver small releases to production many times per day, anywhere from 10s to 1,000s of releases per day.
 >
 > **[4:12](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=252)** Many teams use [[Jenkins]] as their continuous delivery system.
 >
@@ -1681,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Jenkins]] (2), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Jenkins]] (2), [[Test-Driven Development]] (1), [[Facebook]] (1)
 > **CLI Commands:** cd (3), make (2), find (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (2)

@@ -266,7 +266,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=355)** On the other hand, it can be nice to think about it this way.
 >
-> **[5:58](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=358)** If you're going to try to promote your business online, you wouldn't be asking, should we advertise on Facebook or on Instagram, which are respectively the first and second most popular platforms for [[Social Media Marketing]]?
+> **[5:58](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=358)** If you're going to try to promote your business online, you wouldn't be asking, should we advertise on [[Facebook]] or on [[Instagram]], which are respectively the first and second most popular platforms for [[Social Media Marketing]]?
 >
 > **[6:10](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980&t=370)** The answer is both and several others at the same time.
 >

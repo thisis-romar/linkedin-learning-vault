@@ -178,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=111)** You can have more data than fits in a single hard drive.
 >
-> **[1:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=115)** So for instance, if you're Facebook and you have data from 3 billion users, or you're Amazon and you have data on 600 million items that you list on your store, you've got a lot of data.
+> **[1:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=115)** So for instance, if you're [[Facebook]] and you have data from 3 billion users, or you're Amazon and you have data on 600 million items that you list on your store, you've got a lot of data.
 >
 > **[2:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=127)** It can't all fit in one place.
 >
@@ -258,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (15), [[Databases]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (15), [[Facebook]] (2), [[Databases]] (1), [[Google]] (1)
 > **Env Vars:** ram (1), gps (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -1336,7 +1336,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=10)** But to lose $5 billion because you didn't adequately protect people's [[Privacy]], well, that would be about your worst nightmare.
 >
-> **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=18)** And that's something that Facebook gets to deal with at this exact moment because of a landmark fine for violating the privacy requirements of the European Union's General Data Protection Regulation, or GDPR.
+> **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=18)** And that's something that [[Facebook]] gets to deal with at this exact moment because of a landmark fine for violating the privacy requirements of the European Union's General Data Protection Regulation, or GDPR.
 >
 > **[0:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=31)** Now, the European Union's GDPR, which has been in force as of May of 2018, makes some important restrictions.
 >
@@ -1428,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (6), [[Mesh]] (1), [[Accountability]] (1), [[Big Data]] (1), [[Data Science]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Facebook]] (1), [[Mesh]] (1), [[Accountability]] (1), [[Big Data]] (1)
 > **Env Vars:** gdpr (7)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)

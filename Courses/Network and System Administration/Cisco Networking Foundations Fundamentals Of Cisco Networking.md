@@ -162,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=109)** What I'm referring to is Cisco's DevNet sandbox, that's an online portal that lets you work with a ton of different Cisco devices to get an incredible amount of hands on experience for free.
 >
-> **[2:01](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=121)** Here's how it works, you go to devnetsandbox.[cisco.com](https://cisco.com) and log in with an existing account, like a Google or Facebook account, or you could create a free Cisco account, then you can reserve a pod of gear at a certain date and time for a certain duration, and at the time of this recording one of those equipment pods gives you access for free to Cisco Modeling Labs and you can reserve access for four hour blocks of time.
+> **[2:01](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=121)** Here's how it works, you go to devnetsandbox.[cisco.com](https://cisco.com) and log in with an existing account, like a Google or [[Facebook]] account, or you could create a free Cisco account, then you can reserve a pod of gear at a certain date and time for a certain duration, and at the time of this recording one of those equipment pods gives you access for free to Cisco Modeling Labs and you can reserve access for four hour blocks of time.
 >
 > **[2:28](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=148)** And there are certainly plenty of online resources that you can search for step by step instructions on accessing and working with Cisco Packet Tracer, Cisco Modeling Labs, Cisco's DevNet sandbox, my recommendation is since you're just getting started with Cisco networking, I'd go with Cisco Packet Tracer because it's a lot simpler to get up and going as opposed to finding all of the right console cables for real gear or getting connected through a VPN using Cisco's DevNet sandbox.
 >
@@ -170,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2), [[Facebook]] (1)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** ios (2)
@@ -214,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=81)** A second type of connection is a wireless connection.
 >
-> **[1:24](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=84)** That might be a wireless [[Local Area Network (LAN)|local area network]], or a wireless LAN, or Wi-Fi for short, those typically cover a relatively limited geographical region.
+> **[1:24](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=84)** That might be a wireless [[Local Area Network (LAN)|local area network]], or a [[Wi-Fi|wireless LAN]], or [[Wi-Fi]] for short, those typically cover a relatively limited geographical region.
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=95)** Or we might have cellular services that support data transmission, and cell services often have very widespread coverage.
 >
@@ -260,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Microsoft Office|Office]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Wi-Fi|Wireless lan]] (2), [[Microsoft Office|Office]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** lan (5), wan (4), pan (2), man (2), iot (1)
 > **Analogies:** imagine (2), for example (2), such as (1)
 > **Definitions:** is a  (2)
@@ -390,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=58)** We'll be working with ethernet switches at this layer where those switches keep track of MAC addresses.
 >
-> **[1:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=64)** MAC stands for media access control, and a MAC address is assigned by a manufacturer to a piece of physical ethernet hardware such as a network interface card.
+> **[1:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=64)** MAC stands for media access control, and a MAC address is assigned by a manufacturer to a piece of physical ethernet hardware such as a [[NIC|network interface card]].
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=76)** Moving up to layer three we have the network layer.
 >
@@ -470,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Processing]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[NIC|Network interface card]] (1), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** osi (5), dns (4), mac (3), udp (3), http (3)
 > **Definitions:** stands for (4), is called (1), is a  (1), is an  (1), short for (1)
 > **Analogies:** such as (2), picture (2), for example (1)
@@ -755,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=156)** And specifically, it's UDP Port 123 that NTP uses.
 >
-> **[2:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=162)** Another protocol that we'll investigate later is DHCP, which stands for, Dynamic Host Configuration Protocol.
+> **[2:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=162)** Another protocol that we'll investigate later is [[DHCP]], which stands for, [[DHCP|Dynamic Host Configuration Protocol]].
 >
 > **[2:49](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=169)** This is a super useful protocol because it gives us a way to automatically assign IP address information to our network devices without having to visit each device and do a manual configuration, and I'd like you to know that DHCP uses UDP Port 67.
 >
@@ -763,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** tcp (7), udp (6), ntp (6), dns (3), http (2)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1224,9 +1224,9 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=0)** - [Instructor] Our homes, workplaces, airports, coffee shops, and just about any other place you can imagine is likely to have some sort of [[Wireless Networking]] capability.
 >
-> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=9)** And sometimes we hear wireless networking referred to as wifi.
+> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=9)** And sometimes we hear wireless networking referred to as [[Wi-Fi|wifi]].
 >
-> **[0:13](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=13)** Well, technically wifi is the name of an alliance that certifies wireless networking devices, but you're still likely to hear terms such as wireless LAN, wireless network or wifi used synonymously.
+> **[0:13](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=13)** Well, technically wifi is the name of an alliance that certifies wireless networking devices, but you're still likely to hear terms such as [[Wi-Fi|wireless LAN]], wireless network or wifi used synonymously.
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=26)** And typically when a wireless device wishes to communicate on a network, it sends radio signals to a wireless access point, and you'll often see access point abbreviated as AP.
 >
@@ -1262,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (3), [[Wi-Fi|Wifi]] (3), [[Wi-Fi|Wireless lan]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Mesh]] (1)
 > **Env Vars:** lan (3), lwapp (1), capwap (1)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** imagine (1), such as (1)
@@ -1928,7 +1928,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=190)** And our end stations then connect into our LAN ports on the Cisco Catalyst switch.
 >
-> **[3:16](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=196)** The port in our end station, such as the PC, is part of that PC's network interface card or NIC.
+> **[3:16](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=196)** The port in our end station, such as the PC, is part of that PC's [[NIC|network interface card]] or [[NIC]].
 >
 > **[3:22](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=202)** So to sum up, for administrative purposes, we can connect into our Cisco routers and switches using terminal emulation software on our PC or laptop.
 >
@@ -1938,7 +1938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Env Vars:** lan (7), con (5), aux (4), db9 (3), usb (3)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** terminal (4)
@@ -2249,7 +2249,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=117)** And although I could hard code an IP address on this interface.
 >
-> **[2:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=120)** I want to show you how we can configure a Cisco router interface to dynamically obtain IP address information from a DHCP server, where DHCCP stands for dynamic host configuration protocol.
+> **[2:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=120)** I want to show you how we can configure a Cisco router interface to dynamically obtain IP address information from a [[DHCP]] server, where DHCCP stands for [[DHCP|dynamic host configuration protocol]].
 >
 > **[2:12](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=132)** This is how we would typically configure a router interface to point back to an internet service provider where they're providing us with our IP address information via DHCP.
 >
@@ -2309,7 +2309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[DHCP]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** dhcp (5), isp (1), dhccp (1), nvram (1), ram (1)
 > **Definitions:** short for (2), in other words (2), stands for (2)
 > **Versions:** 172.16.106 (2), 172.16.1 (2)

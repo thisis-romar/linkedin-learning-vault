@@ -526,7 +526,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=105)** may go to waste because of Entra ID. 29 They imagine directory servers being decommissioned 30 and thrown out of the windows. 31 But let me tell you, that is not true. 32 Entra ID is not a replacement 33 for active directory on premises. 34 Instead, think of Entra ID as a means to extend 35 your identity network beyond the on premises 36 and into the cloud. 37 You can do this by integrating Windows Server Active 38 Directory with Entra ID. 39 This allows users in your organization 40 to seamlessly access applications across both environments. 41 So in a sense, what I'm trying to say is, 42 that Entra ID is hybrid ready. 43 Next, Entra ID is driven by open industry standards. 44
 >
-> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=157)** This is crucial to enable interoperability 45 and prevent vendor lock-in. 46 For example, Entra ID supports common web security protocols 47 like OpenID, OAuth, and SAML. 48 In addition, it also supports SCIM for cross-domain 49 identity management and FIDO 50 for passwordless authentication. 51 So that's about the industry standards. 52 Then when it comes to [[Regulatory Compliance]], 53 [[Microsoft Azure|Azure]] also has a great reputation there. 54 For example, it complies with international certifications 55 like ISO and SOC, complies with PCI-DSS required 56 by the payment card industry, complies with HIPAA required 57 to safeguard medical information of patients, 58
+> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=157)** This is crucial to enable interoperability 45 and prevent vendor lock-in. 46 For example, Entra ID supports common web security protocols 47 like OpenID, OAuth, and SAML. 48 In addition, it also supports SCIM for cross-domain 49 identity management and FIDO 50 for passwordless authentication. 51 So that's about the industry standards. 52 Then when it comes to [[Regulatory Compliance]], 53 [[Microsoft Azure|Azure]] also has a great reputation there. 54 For example, it complies with international certifications 55 like ISO and SOC, complies with [[PCI DSS|PCI-DSS]] required 56 by the payment card industry, complies with HIPAA required 57 to safeguard medical information of patients, 58
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=206)** complies with FIPs, a federal standard 59 for information processing and GDPR, 60 which is European Unions latest set of guidelines 61 for [[Data Privacy]] of citizens in the EU. 62 These were just a few examples of the regulatory 63 compliances Azure adheres to. 64 All of this combined makes Entra ID one of the strongest 65 identity as a service providers out there.
 
@@ -2026,7 +2026,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=83)** This basically revolves around protecting [[Financial Statements]] and improving general operational efficiency.
 >
-> **[1:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=92)** PCI DSS stands for Payment Card Industry [[Data Security]] Standard.
+> **[1:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=92)** [[PCI DSS]] stands for [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=98)** This is pretty much mandatory for organizations that store credit card information or process payment transactions like most [[Banking]], financial, and FinTech institutions.
 >
@@ -2078,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[Privacy]] (2), [[PCI DSS]] (2), [[Regulatory Compliance]] (1)
 > **Env Vars:** iso (2), soc (2), pci (2), dss (2), gdpr (2)
 > **Definitions:** stands for (2), means that (1), is a  (1), known as (1)
 > **UI Navigation:** scroll down (1), go to (1)

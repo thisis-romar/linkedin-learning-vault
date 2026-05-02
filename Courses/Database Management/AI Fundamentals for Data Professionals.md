@@ -867,7 +867,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=200)** The conversational nature of the reinforcement learning allows LLMs to efficiently align with beneficial dialogue behaviors.
 >
-> **[3:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=210)** Other companies like Facebook and [[Google]] also use human feedback for reinforcement learning.
+> **[3:30](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=210)** Other companies like [[Facebook]] and [[Google]] also use human feedback for reinforcement learning.
 >
 > **[3:37](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/reinforcement-learning-overview?u=76281980&t=217)** Showing AI assistants examples of unhelpful or inappropriate responses guides them towards better dialogue.
 >

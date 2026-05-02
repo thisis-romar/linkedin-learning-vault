@@ -622,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=96)** We have some remote management and desktop capabilities.
 >
-> **[1:38](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=98)** NIC teaming, if I had multiple network cards.
+> **[1:38](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=98)** [[NIC]] teaming, if I had multiple network cards.
 >
 > **[1:41](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=101)** Here's a big one, ethernet.
 >
@@ -692,7 +692,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=238)** That's another real basic thing that every machine must do.
 >
-> **[4:01](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=241)** Right now it's getting it via DHCP but as a server, usually we would want to have it be statically assigned.
+> **[4:01](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=241)** Right now it's getting it via [[DHCP]] but as a server, usually we would want to have it be statically assigned.
 >
 > **[4:08](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=248)** So if I click on it, it takes me to my Network Connections.
 >
@@ -714,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (4), [[Linux]] (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (4), [[Linux]] (2), [[Microsoft Defender|Defender]] (2), [[NIC]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** nic (1), dhcp (1)
@@ -787,7 +787,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=177)** And by the way, in the world of Microsoft, when you click to highlight one of the names, over on the right, you will get a description that tells you what the role is.
 >
-> **[3:06](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=186)** If I wanted to be a server that hands out network configuration to other machines in my network, I could a DHCP Server.
+> **[3:06](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=186)** If I wanted to be a server that hands out network configuration to other machines in my network, I could a [[DHCP]] Server.
 >
 > **[3:13](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=193)** If I want to be a name server, I could be a DNS Server.
 >
@@ -821,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Active Directory]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Active Directory]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[DHCP]] (1)
 > **Prerequisites:** configure (6), set up (4), before you begin (1), install (1), setup (1)
 > **Env Vars:** dns (3), dhcp (1), iis (1)
 > **UI Navigation:** click on (4)
@@ -1422,7 +1422,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=125)** And you'll see here that I right now am set up to obtain my IP address automatically.
 >
-> **[2:12](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=132)** Okay, that means that I'm getting my IP information from a DHCP server if one exists on my network.
+> **[2:12](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=132)** Okay, that means that I'm getting my IP information from a [[DHCP]] server if one exists on my network.
 >
 > **[2:20](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=140)** You'll also notice in the bottom half of this window I'm also getting my DNS server from the DHCP server.
 >
@@ -1462,7 +1462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** tcp (5), dhcp (3), dns (3)
 > **Prerequisites:** configure (5), set up (4), install (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 192.168 (1)
@@ -1515,7 +1515,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980&t=193)** We have remote desktop management, which is port 3389 and then, I mean, I'll tell you what a couple of protocols that probably are networks when you work without.
 >
-> **[3:22](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980&t=202)** We have DNS, which is used for name resolution and that uses port 53 and then we have DHCP which provides dynamic IP configuration out to our clients, which uses port 67 and 68.
+> **[3:22](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980&t=202)** We have DNS, which is used for name resolution and that uses port 53 and then we have [[DHCP]] which provides dynamic IP configuration out to our clients, which uses port 67 and 68.
 >
 > **[3:38](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980&t=218)** Yes, I know this is maybe just some memorization.
 >
@@ -1523,6 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** pop (3), imap (3), ftp (2), http (1), https (1)
 > **Ports:** port 80 (1), port 443 (1), port 110 (1), port 995 (1), port 143 (1)
 > **CLI Commands:** make (2), find (1)

@@ -248,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=9)** When I talk to people who are about to build their first ecommerce site, these three parts are usually the scariest piece and that's because it's something most people haven't had to do.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=18)** If you've built other sites or even built a Facebook page, you've customized how things look, you've written posts, and maybe you've set up a contact page before, but rarely have people had to accept credit cards, calculate shipping costs, and collect taxes.
+> **[0:18](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=18)** If you've built other sites or even built a [[Facebook]] page, you've customized how things look, you've written posts, and maybe you've set up a contact page before, but rarely have people had to accept credit cards, calculate shipping costs, and collect taxes.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-2/shipping-payment-and-taxes?u=76281980&t=34)** The good news is that once you know how to handle shipping, payment, and taxes, building an ecommerce site is very similar to building a regular [[WordPress]] site.
 >
@@ -266,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[WordPress]] (1)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **Env Vars:** usps (1), ltl (1)
 > **Analogies:** for example (1)
@@ -533,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=0)** - [Instructor] One of the scariest parts of eCommerce is handling sensitive information like credit card numbers.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=5)** And they're so easy to be misused by a malicious entity, they're heavily-controlled by the payment card industry [[Data Security]] standard, aka, PCIDSS, which is usually called PCI compliance.
+> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=5)** And they're so easy to be misused by a malicious entity, they're heavily-controlled by the [[PCI DSS|payment card industry data security standard]], aka, PCIDSS, which is usually called PCI compliance.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-2/pci-compliance?u=76281980&t=20)** The idea of PCI compliance is to keep all consumer credit numbers secure so there are limitations on what a business can do.
 >
@@ -571,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[WooCommerce]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[PCI DSS|Payment card industry data security standard]] (1), [[WooCommerce]] (1), [[Forms]] (1)
 > **Env Vars:** pci (5), pcidss (1)
 > **Code Identifiers:** ecommerce (3)
 > **Definitions:** is a  (2)
@@ -1521,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=37)** There are a lot of options when it comes to advertising.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=40)** Two of the biggest players right now are [[Google]] Ad Words and Facebook advertising.
+> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=40)** Two of the biggest players right now are [[Google]] Ad Words and [[Facebook]] advertising.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980&t=44)** There are also plenty of smaller advertisers that you can work with that have had more targeted audience.
 >
@@ -1597,7 +1597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Google]] (1), [[Microsoft Word|Word]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Google]] (1), [[Facebook]] (1), [[Microsoft Word|Word]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** seo (2)
 > **Prerequisites:** set up (2)
@@ -2006,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=3)** From here there are many other avenues to explore.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=6)** We talked a lot about different ways to get people to your site, and there are numerous courses in the library on topics like, SEO, Facebook and [[Google]] marketing, social media strategy, and content marketing.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=6)** We talked a lot about different ways to get people to your site, and there are numerous courses in the library on topics like, SEO, [[Facebook]] and [[Google]] marketing, social media strategy, and content marketing.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980&t=19)** You'll want to focus on at least one of those channels to get your first 1,000 visitors.
 >
@@ -2032,7 +2032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), [[Facebook]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** ecommerce (3)
 > **Prerequisites:** install (1), configure (1)
 > **Env Vars:** seo (1)

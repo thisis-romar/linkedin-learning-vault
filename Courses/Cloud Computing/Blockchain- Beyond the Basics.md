@@ -1361,7 +1361,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-identify-management?u=76281980&t=93)** The ability to use one set of credentials for different business systems has helped, as has Federated Identity Management.
 >
-> **[1:41](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-identify-management?u=76281980&t=101)** Examples of these include services such as logging into a service with your Facebook or [[Google]] credentials.
+> **[1:41](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-identify-management?u=76281980&t=101)** Examples of these include services such as logging into a service with your [[Facebook]] or [[Google]] credentials.
 >
 > **[1:48](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-identify-management?u=76281980&t=108)** In these solutions, you're giving away some personal information, and you're relying on a great deal of trust.
 >
@@ -1411,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), [[Authentication Systems]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Authentication Systems]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Env Vars:** ssi (6), iam (3)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is called (2), is an  (2)

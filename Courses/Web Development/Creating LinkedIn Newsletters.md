@@ -180,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=74)** Think about where you want to send your audience for more information.
 >
-> **[1:17](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=77)** Today, I point people in the direction of coaching videos that I post weekly on Instagram, my [[LinkedIn]] profile page, and I remind people to subscribe to the newsletter.
+> **[1:17](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=77)** Today, I point people in the direction of coaching videos that I post weekly on [[Instagram]], my [[LinkedIn]] profile page, and I remind people to subscribe to the newsletter.
 >
 > **[1:30](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=90)** Once everything is clearly constructed, think about the flow.
 >
@@ -212,7 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -394,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=80)** I've experienced this a lot and you probably will, too if you create images.
 >
-> **[1:26](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=86)** If you check out my newsletter, Mindset Matters, you'll see that I use images for things like a free coaching course, or interview videos, and coaching tips on Instagram.
+> **[1:26](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=86)** If you check out my newsletter, Mindset Matters, you'll see that I use images for things like a free coaching course, or interview videos, and coaching tips on [[Instagram]].
 >
 > **[1:36](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=96)** Sometimes these images look great on the screen but when the email goes out, they haven't formatted so well, so they look huge or too small.
 >
@@ -454,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Technical Support]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Technical Support]] (1), [[Instagram]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)

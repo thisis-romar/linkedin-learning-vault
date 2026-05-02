@@ -120,7 +120,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=0)** - This course focuses on more advanced topics like subqueries, CTEs, and several types of [[Windows]] functions.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=0)** - This course focuses on more advanced topics like subqueries, [[CTE|CTEs]], and several types of [[Windows]] functions.
 >
 > **[0:07](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=7)** The data sets we'll be using come from the fictitious Red30Tech Conference.
 >
@@ -136,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Windows]] (1), [[Microsoft SQL Server]] (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[CTE|Ctes]] (1), [[Windows]] (1), [[Microsoft SQL Server]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -724,11 +724,11 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=144)** If your outcome doesn't match mine, then attempt to look at the solution syntax to identify where you may have made a mistake.
 >
-> **[2:30](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=150)** Once you're ready, we'll move on to the next chapter, CTEs.
+> **[2:30](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=150)** Once you're ready, we'll move on to the next chapter, [[CTE|CTEs]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[CTE|Ctes]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** select the (1)
@@ -744,7 +744,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=0)** - [Instructor] Common table expressions, referred to as CTEs, are another powerful tool to use in [[SQL]].
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=0)** - [Instructor] Common table expressions, referred to as [[CTE|CTEs]], are another powerful tool to use in [[SQL]].
 >
 > **[0:06](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=6)** CTEs are actually really similar to subqueries in terms of their uses, and many times they can be used interchangeably.
 >
@@ -752,11 +752,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=25)** This single named result set can be referenced multiple times within the same query.
 >
-> **[0:30](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=30)** While the subquery is a query within a query, CTEs are different in that they're accompanied by the WITH clause and placed at the beginning of a query statement.
+> **[0:30](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=30)** While the subquery is a query within a query, CTEs are different in that they're accompanied by the [[CTE|WITH clause]] and placed at the beginning of a query statement.
 >
 > **[0:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=38)** Let's look at an example from earlier.
 >
-> **[0:40](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=40)** In this example, we are rewriting the query from video 01/02 using a CTE.
+> **[0:40](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=40)** In this example, we are rewriting the query from video 01/02 using a [[CTE]].
 >
 > **[0:46](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=46)** Here, you can see how this has a bit of a different structure than what we saw in video 01/02, starting with the WITH clause.
 >
@@ -816,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[CTE]] (15), [[CTE|Ctes]] (7), [[CTE|With clause]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1)
 > **Env Vars:** cte (15), sql (1)
 > **Analogies:** just like (2), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
@@ -827,9 +827,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=0)** - [Instructor] The next type of CTE that we'll discuss is a recursive CTE.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=0)** - [Instructor] The next type of [[CTE]] that we'll discuss is a recursive CTE.
 >
-> **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=4)** Recursive CTEs are often used to model data composed of relationship structures, such as network graphs and hierarchical data like organizational charts.
+> **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=4)** Recursive [[CTE|CTEs]] are often used to model data composed of relationship structures, such as network graphs and hierarchical data like organizational charts.
 >
 > **[0:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=14)** In a recursive CTE, you define two select statements.
 >
@@ -913,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[SQL]] (2), [[GitHub]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[CTE]] (9), [[Python (Programming Language)|Python]] (3), [[CTE|Ctes]] (2), [[SQL]] (2), [[GitHub]] (1)
 > **Env Vars:** cte (9), union (4), sql (2), ssms (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (2), is called (2)
@@ -928,7 +928,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=0)** - [Instructor] And now it's time for our second challenge.
 >
-> **[0:03](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=3)** Similar to how I demonstrated how to convert a subquery from an earlier chapter to a CTE in Video 0201, I would like you to convert the subquery that you created in our first challenge into a CTE.
+> **[0:03](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=3)** Similar to how I demonstrated how to convert a subquery from an earlier chapter to a [[CTE]] in Video 0201, I would like you to convert the subquery that you created in our first challenge into a CTE.
 >
 > **[0:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=16)** In this problem, we'll be using the same table as we did in our first challenge, the Inventory Table.
 >
@@ -944,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[CTE]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** cte (3)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** next video (1)
@@ -963,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=16)** In case you didn't get the correct results or want an explanation of how I arrived at the solution, we'll head over to the database to walk through the solution together.
 >
-> **[0:25](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=25)** To arrive at this answer, we'll first want to construct a CTE expression which I'll call low stock that starts with the with clause and it extracts a column called stock.
+> **[0:25](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=25)** To arrive at this answer, we'll first want to construct a [[CTE]] expression which I'll call low stock that starts with the [[CTE|with clause]] and it extracts a column called stock.
 >
 > **[0:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=39)** The CTE will contain what we use as a subquery in the last example where we'll select the average in stock as stock from the Red30Tech inventory table.
 >
@@ -993,7 +993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[CTE]] (5), [[Microsoft Products|Products]] (1), [[CTE|With clause]] (1)
 > **Env Vars:** cte (5)
 > **Cross-References:** in the last (2), in the next (1)
 > **Code Identifiers:** lowstock (1)
@@ -1004,7 +1004,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=0)** - [Instructor] With all of this talk about the similarities of subqueries and CTEs, you might be wondering, what's the difference and how should I go about deciding when to use one versus the other?
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=0)** - [Instructor] With all of this talk about the similarities of subqueries and [[CTE|CTEs]], you might be wondering, what's the difference and how should I go about deciding when to use one versus the other?
 >
 > **[0:09](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=9)** Aside from the obvious syntactical differences, there are a few other defining characteristics of each type of operation, but as it turns out, a lot of it depends on the use case you're dealing with and your preferences.
 >
@@ -1022,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=55)** While CTEs have only been around since the late '90s.
 >
-> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=59)** since the CTE appeared later, it's not always supported by some older database engines or the tools that came before it.
+> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=59)** since the [[CTE]] appeared later, it's not always supported by some older database engines or the tools that came before it.
 >
 > **[1:06](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=66)** Subqueries also take up less memory.
 >
@@ -1046,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (8), [[SQL]] (2), [[Windows]] (2), [[CTE]] (1)
 > **Env Vars:** sql (2), cte (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1199,17 +1199,17 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=366)** There's other ways where we can filter on this result set without using the where clause.
 >
-> **[6:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=371)** Like remember subqueries and CTEs from earlier?
+> **[6:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=371)** Like remember subqueries and [[CTE|CTEs]] from earlier?
 >
 > **[6:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=374)** Yes, they are making a comeback.
 >
-> **[6:17](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=377)** Because it's my personal preference, I'm going to solve this problem with a CTE to filter the query based on the row number column.
+> **[6:17](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=377)** Because it's my personal preference, I'm going to solve this problem with a [[CTE]] to filter the query based on the row number column.
 >
 > **[6:23](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=383)** But remember that the same goal can also be accomplished using the subquery if that's what you prefer and if you'd like to try it out on your own.
 >
 > **[6:32](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=392)** So starting a new line, let's use a CTE to solve this problem.
 >
-> **[6:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=398)** All right, so first thing that we want to do is establish our CTE using the with clause.
+> **[6:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=398)** All right, so first thing that we want to do is establish our CTE using the [[CTE|with clause]].
 >
 > **[6:43](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=403)** And I'm just going to call this CTE row numbers, write as, we leave our parentheses.
 >
@@ -1233,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Database Management]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[CTE]] (5), [[Database Management]] (1), [[SQL]] (1), [[CTE|Ctes]] (1)
 > **Env Vars:** cte (5), sql (1)
 > **Code Identifiers:** row_num (2)
 > **Definitions:** is a  (2)
@@ -1281,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=26)** Now, I'm going to set this problem up in a similar way that I did with our last example.
 >
-> **[0:31](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=31)** Using a CTE to eventually be able to filter on the row number column.
+> **[0:31](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=31)** Using a [[CTE]] to eventually be able to filter on the row number column.
 >
 > **[0:36](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=36)** But remember, you can use a subquery to get the same results.
 >
@@ -1355,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3)
+> **Frameworks & Libraries:** [[CTE]] (4), [[Windows]] (3)
 > **Env Vars:** cte (4), ssms (1), row_numbers (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** row_num (1)
@@ -1537,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=90)** And then finally, we'll group by order date.
 >
-> **[1:35](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=95)** Since these values are the values that we'll want to reference as the daily order quantities, I'm going to make this query a CTE so we can reference it the same way that we would reference a table.
+> **[1:35](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=95)** Since these values are the values that we'll want to reference as the daily order quantities, I'm going to make this query a [[CTE]] so we can reference it the same way that we would reference a table.
 >
 > **[1:46](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=106)** To do that, remember that we'll start with our width clause, give our CTE a name, and then wrap our CTE in parentheses.
 >
@@ -1593,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[SQL]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[CTE]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[SQL]] (1), [[Windows]] (1)
 > **Env Vars:** cte (6), sql (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next chapter (1), in the next (1)
@@ -1817,11 +1817,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=164)** Dense rank is one, two or three in the where clause.
 >
-> **[2:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=168)** But remember, that as we've seen another videos you can not filter on columns created by a [[Windows]] function in the where clause without a subquery or a CTE.
+> **[2:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=168)** But remember, that as we've seen another videos you can not filter on columns created by a [[Windows]] function in the where clause without a subquery or a [[CTE]].
 >
 > **[2:56](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=176)** And because I prefer the syntax of a CTE I'm going to wrap this query in a CTE and call it ranks.
 >
-> **[3:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=185)** To do that, we'll start with our with clause give our CTE name and wrap in parentheses.
+> **[3:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=185)** To do that, we'll start with our [[CTE|with clause]] give our CTE name and wrap in parentheses.
 >
 > **[3:17](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=197)** And here again, just for readability sake I'm going to tab over on the CTE statement.
 >
@@ -1863,7 +1863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [[CTE]] (6), [[Windows]] (1), [[CTE|With clause]] (1)
 > **Env Vars:** cte (6)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat music) (1)

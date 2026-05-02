@@ -1399,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=128)** We quickly realized that something had to be done in terms of code maintainability and readability.
 >
-> **[2:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=134)** In this series of videos, we're going to explore an amazing SQL feature called Common Table Expressions or CTEs.
+> **[2:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=134)** In this series of videos, we're going to explore an amazing SQL feature called Common Table Expressions or [[CTE|CTEs]].
 >
 > **[2:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=142)** CTEs are tools that make code easier to read and that reduce the potential for errors.
 >
@@ -1413,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8)
+> **Frameworks & Libraries:** [[SQL]] (8), [[CTE|Ctes]] (4)
 > **Env Vars:** sql (8), sum (1), average (1)
 > **Analogies:** imagine (2), for example (1), it's like (1)
 > **CLI Commands:** make (3)
@@ -1424,11 +1424,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=0)** - [Instructor] A common table expression or CTE is a temporary result set that is used within a larger query.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=0)** - [Instructor] A [[CTE|common table expression]] or [[CTE]] is a temporary result set that is used within a larger query.
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=8)** It can be thought of as a temporary view that is only accessible within the query in which it is defined.
 >
-> **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=14)** CTEs are useful for breaking down complex queries into smaller, more manageable pieces.
+> **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=14)** [[CTE|CTEs]] are useful for breaking down complex queries into smaller, more manageable pieces.
 >
 > **[0:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=22)** They can also be used to improve the performance of queries by allowing the database engine to reuse the results of a CTE multiple times.
 >
@@ -1490,7 +1490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Data Structures]] (1)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (15), [[CTE]] (4), [[SQL]] (4), [[CTE|Common table expression]] (1), [[Data Structures]] (1)
 > **Env Vars:** cte (4), sql (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1500,9 +1500,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=0)** - [Instructor] Let's get hands-on using CTEs in dbt.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=0)** - [Instructor] Let's get hands-on using [[CTE|CTEs]] in dbt.
 >
-> **[0:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=4)** In order to use a CTE, you'll need to define it with your dbt model.
+> **[0:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=4)** In order to use a [[CTE]], you'll need to define it with your dbt model.
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=9)** CTEs are defined using the WITH keyword, followed by the CTE name and the query that generates the results set.
 >
@@ -1556,7 +1556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3)
+> **Frameworks & Libraries:** [[CTE]] (14), [[CTE|Ctes]] (4), [[SQL]] (3)
 > **Env Vars:** cte (14), select (3), sql (3), where (1), left (1)
 > **Code Identifiers:** order_items_cte (2), order_items (2), order_id (2), source_table (1), ordered_items_cte (1)
 > **SQL:** select (3), where (1), left join (1)
@@ -1593,7 +1593,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=61)** Inside the file, you'll find repeated code from the construction team scripts.
 >
-> **[1:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=66)** Our task is to simplify the construction team scripts using a CTE or common table expression.
+> **[1:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=66)** Our task is to simplify the construction team scripts using a [[CTE]] or [[CTE|common table expression]].
 >
 > **[1:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=74)** The goal is to make the code easy and understandable.
 >
@@ -1607,11 +1607,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=107)** Good luck with the challenge.
 >
-> **[1:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=109)** By using CTEs effectively, we should be able to streamline the maintenance work identification process and make everything more readable and easy to manage for the construction team.
+> **[1:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=109)** By using [[CTE|CTEs]] effectively, we should be able to streamline the maintenance work identification process and make everything more readable and easy to manage for the construction team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[CTE]] (2), [[Codespaces]] (1), [[CTE|Common table expression]] (1), [[CTE|Ctes]] (1)
 > **File Paths:** schema.yml (1), excavators.sql (1), jobs.sql (1), maintenance.sql (1), maintenance_cte.sql (1)
 > **Code Identifiers:** raw_excavators (2), raw_jobs (2), maintenance_cte (1)
 > **CLI Commands:** make (2), find (1)
@@ -1624,7 +1624,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=0)** - [Instructor] Congratulations on completing the implementing CTEs challenge.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=0)** - [Instructor] Congratulations on completing the implementing [[CTE|CTEs]] challenge.
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=9)** You've experienced firsthand how CTEs can significantly improve the readability of your code.
 >
@@ -1634,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=28)** When we open maintenance.sql, we notice a lot of repeated logic, making basic maintenance operations error-prone in its entire file.
 >
-> **[0:38](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=38)** To address this, we'll rewrite the code using a CTE.
+> **[0:38](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=38)** To address this, we'll rewrite the code using a [[CTE]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=42)** Our target CTE will be the excavator readiness evaluation, since it appears in every block.
 >
@@ -1680,7 +1680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5)
+> **Frameworks & Libraries:** [[CTE]] (7), [[SQL]] (5), [[CTE|Ctes]] (4)
 > **Env Vars:** cte (7)
 > **File Paths:** maintenance.sql (4), maintenance_cte.sql (1)
 > **Code Identifiers:** maintenance_cte (3), failing_excavators (1)
@@ -2052,7 +2052,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=153)** Open it up.
 >
-> **[2:35](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=155)** This test uses a CTE to first create a table with the cohort and count the number of adid's in that cohort.
+> **[2:35](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=155)** This test uses a [[CTE]] to first create a table with the cohort and count the number of adid's in that cohort.
 >
 > **[2:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=165)** Then in the main query, we filter for the cohorts that have a cohort count of greater than 100.
 >
@@ -2076,7 +2076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[CTE]] (2), [[SQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dbt (2), cte (2), sql (2)
 > **File Paths:** chapter5/models/schema.yaml (1), schema.yaml (1)
 > **CLI Commands:** make (2)

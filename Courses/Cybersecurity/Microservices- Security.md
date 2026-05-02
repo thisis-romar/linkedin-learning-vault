@@ -549,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=156)** This feature can integrate with the IAM platform to meet OAuth standards surrounding client registration, in order to provide a seamless and secure access to the microservices.
 >
-> **[2:47](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=167)** If you've ever consumed a Facebook API or a stack overflow API, you've had to register your client, and this is the capability that a developer portal can provide.
+> **[2:47](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=167)** If you've ever consumed a [[Facebook]] API or a stack overflow API, you've had to register your client, and this is the capability that a developer portal can provide.
 >
 > **[3:00](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=180)** As you explore identity and access management platforms and API gateways, do not be surprised if you find a bit of overlap between their capabilities.
 >
@@ -569,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (10), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Dashboards]] (1), [[Facebook]] (1)
 > **Env Vars:** api (11), iam (3)
 > **CLI Commands:** find (4), make (1)
 > **Documentation:** stack overflow (1)
@@ -1350,7 +1350,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=55)** You've probably seen this scenario before.
 >
-> **[0:59](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=59)** Organizations like [[LinkedIn]], [[Google]] or Facebook allow applications they don't own to use their identity provider.
+> **[0:59](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=59)** Organizations like [[LinkedIn]], [[Google]] or [[Facebook]] allow applications they don't own to use their identity provider.
 >
 > **[1:07](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=67)** If you've ever used a sign in with button, you've seen OpenID Connect in action.
 >
@@ -1446,7 +1446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[LinkedIn]] (1), [[Tokens]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[LinkedIn]] (1), [[Facebook]] (1), [[Tokens]] (1), [[Microservices]] (1)
 > **Env Vars:** oidc (3), api (1), eyj (1), hs256 (1)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)

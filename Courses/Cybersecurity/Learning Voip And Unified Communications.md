@@ -231,7 +231,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=158)** However, businesses still should plan and prepare the network and address the security needs of the VoIP system.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=168)** In addition to businesses in homes, we're also seeing voiceover IP used with cell phones that can use wifi hotspots and eliminate any costs of a cell plan or data plan.
+> **[2:48](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=168)** In addition to businesses in homes, we're also seeing voiceover IP used with cell phones that can use [[Wi-Fi|wifi]] hotspots and eliminate any costs of a cell plan or data plan.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=183)** Every function is included, such as calling, texting, browsing and sending email.
 >
@@ -245,7 +245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[Android]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)

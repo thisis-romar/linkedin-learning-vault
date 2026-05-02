@@ -113,7 +113,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-and-dns-in-windows-server-2019?u=76281980&t=0)** - [Ed Liberman] DHCP and DNS are the two main networking components for any functioning [[Windows Server]] network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-and-dns-in-windows-server-2019?u=76281980&t=0)** - [Ed Liberman] [[DHCP]] and DNS are the two main networking components for any functioning [[Windows Server]] network.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-and-dns-in-windows-server-2019?u=76281980&t=7)** In fact, without them, you essentially don't even have a network.
 >
@@ -131,7 +131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (5), [[Windows Server]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dhcp (5), dns (4)
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [ed (1)
@@ -189,11 +189,11 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=0)** - [Instructor] Before you deploy any networking service role out on to your network, it's important that you have an understanding of what that networking service is going to provide and what kind of an effect it's going to have in your network environment.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=14)** So here, I'd like to talk to you about the DHCP networking service, and really, you should know that DHCP is a server role in [[Windows Server]] 2019.
+> **[0:14](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=14)** So here, I'd like to talk to you about the [[DHCP]] networking service, and really, you should know that DHCP is a server role in [[Windows Server]] 2019.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=26)** And additionally, you'll see that it is a protocol, meaning it's not a [[Microsoft]] thing, it's a networking protocol in any environment.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=36)** So the letters DHCP actually stand for the Dynamic Host Configuration Protocol, and this is a protocol that's used to simplify the configuration of IP clients out on your network and reducing the complexity and amount of administrative work by using automatic IP configuration.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=36)** So the letters DHCP actually stand for the [[DHCP|Dynamic Host Configuration Protocol]], and this is a protocol that's used to simplify the configuration of IP clients out on your network and reducing the complexity and amount of administrative work by using automatic IP configuration.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980&t=58)** So the real simplified definition is that it's a way of dynamically or automatically configuring IP addresses out on your clients.
 >
@@ -215,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (8), [[Windows Server]] (1), [[Microsoft]] (1), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** dhcp (8)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
@@ -224,7 +224,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-generation?u=76281980&t=0)** - [Instructor] So let's talk about the actual DHCP Lease Generation process.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-generation?u=76281980&t=0)** - [Instructor] So let's talk about the actual [[DHCP]] Lease Generation process.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-generation?u=76281980&t=7)** It is a four-step process, commonly known as DORA.
 >
@@ -292,6 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (18)
 > **Env Vars:** dhcp (18), dora (3), ack (1)
 > **Definitions:** is a  (2), stands for (2), known as (1), is called (1)
 > **CLI Commands:** make (2)
@@ -301,7 +302,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-renewal?u=76281980&t=0)** - [Instructor] When a client gets his IP address from a DHCP server, we called it a DHCP lease.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-renewal?u=76281980&t=0)** - [Instructor] When a client gets his IP address from a [[DHCP]] server, we called it a DHCP lease.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/lease-renewal?u=76281980&t=7)** And if you think of the term lease, it's almost kind of like you're renting it.
 >
@@ -369,6 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (15)
 > **Env Vars:** dhcp (15), dora (2)
 > **Versions:** 87.5 (1)
 > **Analogies:** kind of like (1)
@@ -383,7 +385,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-the-dhcp-server-role?u=76281980&t=0)** - [Instructor] The first step when it comes to deploying DHCP out in your network would be to install the DHCP server role onto one of your servers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-the-dhcp-server-role?u=76281980&t=0)** - [Instructor] The first step when it comes to deploying [[DHCP]] out in your network would be to install the DHCP server role onto one of your servers.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-the-dhcp-server-role?u=76281980&t=9)** To demonstrate this, I'm going to connect to a server I have here called DC-1.
 >
@@ -453,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), [[Security Risk]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (15), [[Active Directory]] (4), [[Security Risk]] (1)
 > **Env Vars:** dhcp (15)
 > **Prerequisites:** install (5), before you begin (1)
 > **UI Navigation:** click on (2)
@@ -466,7 +468,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/authorize-a-dhcp-server?u=76281980&t=0)** - [Instructor] Before you can perform any real management of DHCP, you need to make certain that the DHCP server has been authorized in [[Active Directory]] to be able to serve clients in your environment.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/authorize-a-dhcp-server?u=76281980&t=0)** - [Instructor] Before you can perform any real management of [[DHCP]], you need to make certain that the DHCP server has been authorized in [[Active Directory]] to be able to serve clients in your environment.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/authorize-a-dhcp-server?u=76281980&t=17)** So here in the Server Manager, we're going to go up to the Tools menu and you'll see there is a selection for DHCP because we have installed the role.
 >
@@ -508,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (13), [[Active Directory]] (1), [[Microsoft]] (1)
 > **Env Vars:** dhcp (13)
 > **UI Navigation:** click on (7), toggle (2)
 > **Definitions:** is a  (2)
@@ -521,7 +523,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-dhcp-scopes?u=76281980&t=0)** - [Instructor] Once you have installed the DHCP Server Role and you have confirmed that the server is authorized and ready to serve clients, the next thing you need to do is create a scope.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-dhcp-scopes?u=76281980&t=0)** - [Instructor] Once you have installed the [[DHCP]] Server Role and you have confirmed that the server is authorized and ready to serve clients, the next thing you need to do is create a scope.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-dhcp-scopes?u=76281980&t=11)** So here we're in the DHCP Manager on dc-1, where we've installed the DHCP Server Role, and you'll notice that we have IP version four and six, and we're going to be dealing with IP version four here.
 >
@@ -599,6 +601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (5)
 > **UI Navigation:** click on (5), right-click (1), select the (1), go to (1)
 > **Env Vars:** dhcp (5), dns (1)
 > **Versions:** 10.35.4 (4), 255.0.0 (1), 255.255.255 (1)
@@ -611,7 +614,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-options?u=76281980&t=0)** - [Instructor] DHCP options give us the ability to make it that we're not just configuring our clients with an IP address but with a complete IP configuration.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-options?u=76281980&t=0)** - [Instructor] [[DHCP]] options give us the ability to make it that we're not just configuring our clients with an IP address but with a complete IP configuration.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-options?u=76281980&t=9)** So we can include things like a default gateway and a DNS server, stuff like that.
 >
@@ -677,6 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (4)
 > **Env Vars:** dns (8), dhcp (4)
 > **UI Navigation:** click on (2), scroll down (2), right-click (1)
 > **Versions:** 10.35.4 (3)
@@ -693,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/activate-a-scope?u=76281980&t=7)** The next thing we need to do is activate the scope so that it can begin handing out IP configuration to the clients.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/activate-a-scope?u=76281980&t=15)** So here, in the DHCP Administrator, you'll notice that over on the left, let's kind of look at everything here.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/activate-a-scope?u=76281980&t=15)** So here, in the [[DHCP]] Administrator, you'll notice that over on the left, let's kind of look at everything here.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/activate-a-scope?u=76281980&t=23)** First of all, IP version 4, you'll notice that it no longer has a green circle with a check mark but it actually has a blue circle with an exclamation point.
 >
@@ -751,6 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **UI Navigation:** click on (7), toggle (1)
 > **Versions:** version 4 (3), 10.35.4 (1)
 > **CLI Commands:** make (2)
@@ -758,13 +763,12 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), earlier in (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
-> **Prerequisites:** set up (1)
 
 #### [Configure DHCP clients](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-clients?u=76281980&t=0)** - [Instructor] Once you've installed the DHCP server role, created a scope, and activated it, it's time to go ahead and set up your clients to be able to start retrieving their IP configuration from a DHCP server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-clients?u=76281980&t=0)** - [Instructor] Once you've installed the [[DHCP]] server role, created a scope, and activated it, it's time to go ahead and set up your clients to be able to start retrieving their IP configuration from a DHCP server.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-clients?u=76281980&t=12)** So to demonstrate that, I have a couple of client machines that I have running here, and I'm going to connect to Client-1, which is simply a [[Windows 10]] client computer running in our domain.
 >
@@ -854,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (2), [[Windows 10]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (13), [[IP Addressing]] (2), [[Windows 10]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Env Vars:** dhcp (13), dns (2), dc1 (2), apipa (1), cmd (1)
 > **UI Navigation:** click on (11), go to (2), right-click (1), checkbox (1)
 > **Prerequisites:** configure (5), set up (2), install (1)
@@ -867,7 +871,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-reservations?u=76281980&t=0)** - [Instructor] Sometimes when working with DHCP clients, we still want them to be configured dynamically, but we want to make sure that we get a consistent IP address every single time.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-reservations?u=76281980&t=0)** - [Instructor] Sometimes when working with [[DHCP]] clients, we still want them to be configured dynamically, but we want to make sure that we get a consistent IP address every single time.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-reservations?u=76281980&t=12)** One example of this might be a printer out on your network.
 >
@@ -965,6 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (4)
 > **Env Vars:** dhcp (4), mac (4), dora (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (3), right-click (1)
@@ -972,7 +977,6 @@ created: 2026-05-02
 > **Tools:** command prompt (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1), - 10 (1)
-> **Prerequisites:** set up (1)
 
 
 ### 3. Managing DHCP
@@ -983,7 +987,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/components-of-a-dhcp-database?u=76281980&t=0)** - [Instructor] The DHCP database is a dynamic database and a very resilient database containing data that relates to scopes, address leases and reservations.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/components-of-a-dhcp-database?u=76281980&t=0)** - [Instructor] The [[DHCP]] database is a dynamic database and a very resilient database containing data that relates to scopes, address leases and reservations.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/components-of-a-dhcp-database?u=76281980&t=11)** The database also contains a data file that stores both the DHCP configuration information along with the least data for clients who have list their IP address from that the DHCP server.
 >
@@ -1071,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (14), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (12)
 > **UI Navigation:** click on (4), go to (3), select the (1)
 > **CLI Commands:** make (3), find (2)
@@ -1084,7 +1088,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/reconcile-dhcp-scopes?u=76281980&t=0)** - [Instructor] Sometimes when managing the DHCP database, you will find yourself in a situation where there is an inconsistency.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/reconcile-dhcp-scopes?u=76281980&t=0)** - [Instructor] Sometimes when managing the [[DHCP]] database, you will find yourself in a situation where there is an inconsistency.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/reconcile-dhcp-scopes?u=76281980&t=9)** One example might be that you have a client who no longer exists on your network, but yet your database is showing that there's still a lease out there for that system.
 >
@@ -1126,6 +1130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (6)
 > **Env Vars:** dhcp (6), dc1 (2)
 > **UI Navigation:** click on (4), right-click (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -1136,7 +1141,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/database-statistics?u=76281980&t=0)** - [Instructor] When it comes to managing a DHCP server, we've already seen that there's not a lot that you have to do.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/database-statistics?u=76281980&t=0)** - [Instructor] When it comes to managing a [[DHCP]] server, we've already seen that there's not a lot that you have to do.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/database-statistics?u=76281980&t=5)** You kind of set it up and it does it's thing and it's very resilient.
 >
@@ -1208,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4)
+> **Frameworks & Libraries:** [[DHCP]] (6), [[Statistics]] (4)
 > **Env Vars:** dhcp (6), dora (2), dc1 (1)
 > **UI Navigation:** click on (2), scroll down (1), scroll up (1), go to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1220,7 +1225,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/secure-dhcp?u=76281980&t=0)** - [Instructor] Because DHCP is an unauthenticated protocol, it's a pretty good idea to go ahead and take some form of precaution to ensure that only valid clients that are supposed to be on your network are actually getting network information from your DHCP server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/secure-dhcp?u=76281980&t=0)** - [Instructor] Because [[DHCP]] is an unauthenticated protocol, it's a pretty good idea to go ahead and take some form of precaution to ensure that only valid clients that are supposed to be on your network are actually getting network information from your DHCP server.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/secure-dhcp?u=76281980&t=17)** Now, there's a couple things that you can do as far as settings within the server, so let's go take a look at those.
 >
@@ -1278,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (20), [[Windows]] (1)
 > **Env Vars:** dhcp (19), dns (6), ptr (1)
 > **UI Navigation:** go to (5), right-click (1)
 > **Versions:** version 4 (3), version 6 (1)
@@ -1291,7 +1296,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/troubleshoot-dhcp?u=76281980&t=0)** - [Instructor] When it comes to troubleshooting a DHCP server itself, you got a whole lot you have to do because just like with any of the [[Representational State Transfer (REST)|rest]] of the maintenance we've talked about, DHCP is designed to be kind of a self-maintaining and resilient service.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/troubleshoot-dhcp?u=76281980&t=0)** - [Instructor] When it comes to troubleshooting a [[DHCP]] server itself, you got a whole lot you have to do because just like with any of the [[Representational State Transfer (REST)|rest]] of the maintenance we've talked about, DHCP is designed to be kind of a self-maintaining and resilient service.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/troubleshoot-dhcp?u=76281980&t=17)** But there is still a certain aspect of the process of DHCP that you may need to have to troubleshoot when certain things aren't working.
 >
@@ -1355,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (17), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dhcp (17)
 > **Warnings:** troubleshoot (2), be aware (1)
 > **CLI Commands:** make (1), find (1)
@@ -1373,7 +1378,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-failover?u=76281980&t=0)** - [Instructor] In [[Windows Server]] 2019, we have a high availability feature called DHCP Failover.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-failover?u=76281980&t=0)** - [Instructor] In [[Windows Server]] 2019, we have a high availability feature called [[DHCP]] Failover.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-failover?u=76281980&t=7)** Now in order to implement DHCP Failover, we need two DHCP servers.
 >
@@ -1499,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (11), [[Statistics]] (2), [[Windows Server]] (1)
 > **Env Vars:** dhcp (11), dchp (1)
 > **UI Navigation:** go to (3), click on (2), switch to (1)
 > **CLI Commands:** make (3)
@@ -1511,7 +1516,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/manage-dhcp-failover?u=76281980&t=0)** - [Instructor] Once you have implemented DHCP failover, there's just a couple of quick management tasks that you should be aware of.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/manage-dhcp-failover?u=76281980&t=0)** - [Instructor] Once you have implemented [[DHCP]] failover, there's just a couple of quick management tasks that you should be aware of.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/manage-dhcp-failover?u=76281980&t=7)** So here I'm on DC1 and we're looking at the DHCP Manager.
 >
@@ -1573,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4)
+> **Frameworks & Libraries:** [[DHCP]] (7), [[Statistics]] (4)
 > **Env Vars:** dhcp (7), dc2 (4), dc1 (3), ipv4 (1)
 > **UI Navigation:** click on (4), go to (3)
 > **CLI Commands:** make (4)
@@ -1586,7 +1591,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-in-a-routed-environment?u=76281980&t=0)** - [Instructor] Since DHCP uses broadcast communication for the least generation process, things can get quite complicated when working in a routed environment.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-in-a-routed-environment?u=76281980&t=0)** - [Instructor] Since [[DHCP]] uses broadcast communication for the least generation process, things can get quite complicated when working in a routed environment.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-in-a-routed-environment?u=76281980&t=12)** If you have clients who are on one subnet, and then there's a router separating that client from a DHCP server that's on a different subnet, by default they're not going to be able to communicate.
 >
@@ -1616,6 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (13)
 > **Env Vars:** dhcp (13), rfc (3)
 > **Documentation:** rfc (3)
 > **CLI Commands:** make (1)
@@ -1626,7 +1632,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-a-dhcp-relay-agent?u=76281980&t=0)** - [Instructor] One option for allowing a client to receive IP configuration from a DHCP server on a routed network is to use a DHCP relay agent.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-a-dhcp-relay-agent?u=76281980&t=0)** - [Instructor] One option for allowing a client to receive IP configuration from a [[DHCP]] server on a routed network is to use a DHCP relay agent.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-a-dhcp-relay-agent?u=76281980&t=9)** Now in order to demonstrate this, I have to create a routed network.
 >
@@ -1690,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (11), [[Routing]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (11), cmd (1)
 > **Prerequisites:** set up (7), configure (1)
 > **UI Navigation:** go to (3), right-click (2), click on (1)
@@ -1703,7 +1709,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/test-relay-agent?u=76281980&t=0)** - [Instructor] Once you've implemented the DHCP relay agent, the first thing you really, probably should do is check to make sure that a remote client is able to go ahead and receive an IP address from a DHCP server on a different network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/test-relay-agent?u=76281980&t=0)** - [Instructor] Once you've implemented the [[DHCP]] relay agent, the first thing you really, probably should do is check to make sure that a remote client is able to go ahead and receive an IP address from a DHCP server on a different network.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/test-relay-agent?u=76281980&t=15)** So here, I'm on member one which is my router and you can see I have indeed implemented the DHCP relay agent.
 >
@@ -1761,6 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (11)
 > **Env Vars:** dhcp (11), apipa (1), dora (1)
 > **Prerequisites:** set up (5)
 > **Versions:** 192.168.1 (3), 169.254 (1)
@@ -1768,7 +1775,6 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
-> **Tools:** command prompt (1)
 
 
 ### 5. Deploying DNS (Domain Name System)
@@ -1956,7 +1962,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-client-configuration?u=76281980&t=67)** And you'll notice that right now, I am configured to obtain both my IP address and then down below my DNS server information automatically.
 >
-> **[1:15](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-client-configuration?u=76281980&t=75)** That means I'm getting the information from a DHCP server, and that is probably the recommended way to go ahead and get your DNS information is to get it from a DHCP server, and I go over how to push that information down in the Configure DHCP Options video in this course.
+> **[1:15](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-client-configuration?u=76281980&t=75)** That means I'm getting the information from a [[DHCP]] server, and that is probably the recommended way to go ahead and get your DNS information is to get it from a DHCP server, and I go over how to push that information down in the Configure DHCP Options video in this course.
 >
 > **[1:34](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-client-configuration?u=76281980&t=94)** But let me show you how to do it if you're not going to pull from a DHCP server.
 >
@@ -1984,7 +1990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (4), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (17), dhcp (4), dc1 (2), dc2 (1), dc3 (1)
 > **UI Navigation:** click on (6), go to (2), right-click (1)
 > **Prerequisites:** configure (4), setup (1)
@@ -3381,7 +3387,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed learning about implementing DHCP and DNS in [[Windows Server]] 2019 as much as I've enjoyed showing it to you.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed learning about implementing [[DHCP]] and DNS in [[Windows Server]] 2019 as much as I've enjoyed showing it to you.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/next-steps?u=76281980&t=10)** If you want to learn more about networking with Windows Server 2019, please explore our library as we have a number of courses out there to help you.
 >
@@ -3389,7 +3395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[DHCP]] (1)
 > **Env Vars:** dhcp (1), dns (1)
 > **Speakers:** - [ed] (1)
 

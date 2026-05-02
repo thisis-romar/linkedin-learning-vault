@@ -300,7 +300,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=338)** If you're in the computer science world, you probably already know Python is easy to adapt.
 >
-> **[5:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=343)** If you're trained as a researcher in a different field and you acquire a tool to analyze your data, R might be a common choice, but I think of it a little bit like the business world where, you know, nobody would ever say, "Should I advertise my business on Facebook or on Instagram?"
+> **[5:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=343)** If you're trained as a researcher in a different field and you acquire a tool to analyze your data, R might be a common choice, but I think of it a little bit like the business world where, you know, nobody would ever say, "Should I advertise my business on [[Facebook]] or on [[Instagram]]?"
 >
 > **[6:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=360)** The obvious answer is you're going to use both and many other platforms at the same time.
 >
@@ -2077,7 +2077,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=255)** Now, I want to finish with one more thing, when you import data, you can actually do a little bit of [[Data Wrangling]] or preparation right then and there like I did just a second ago when I imported it but then said save it as a tibble.
 >
-> **[4:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=269)** Here, I'm going to take the import function from rio, I'll save the same Excel spreadsheet, statedata.xlsx, and then I'm going to save it as a tibble, and then I'm going to select a few variables, the state code, the psych regions, that's one variable, and then the Instagram through modern dance, which are Google Correlate variables.
+> **[4:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=269)** Here, I'm going to take the import function from rio, I'll save the same Excel spreadsheet, statedata.xlsx, and then I'm going to save it as a tibble, and then I'm going to select a few variables, the state code, the psych regions, that's one variable, and then the [[Instagram]] through modern dance, which are Google Correlate variables.
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=291)** Then I'm going to convert psych regions to a factor, and then I'm going to rename it as Y, sometimes that makes it easier to reuse code if you have your outcome just called Y, and then we'll print it at the bottom.
 >
@@ -6598,7 +6598,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=69)** I'm selecting a few variables.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=71)** I'm going to select the state code, the region, the psych regions, as well as the Google search information, that's Instagram, and then colon entrepreneur means select all of those.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=71)** I'm going to select the state code, the region, the psych regions, as well as the Google search information, that's [[Instagram]], and then colon entrepreneur means select all of those.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=82)** Then I'm going to make two changes.
 >
@@ -6608,7 +6608,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=98)** And then let's [[Zoom]] in on the console here.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=100)** We have a character variable here for state code, factor for region and psych regions, and then you see four columns for Instagram, Facebook, retweet, and entrepreneur, four terms that I had selected on Google Trends to see what people had here.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=100)** We have a character variable here for state code, factor for region and psych regions, and then you see four columns for Instagram, [[Facebook]], retweet, and entrepreneur, four terms that I had selected on Google Trends to see what people had here.
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=116)** And we've got 38 more rows of data 'cause we have 48 rows total.
 >
@@ -6754,7 +6754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (8), [[Zoom]] (8), [[Google]] (5)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Zoom]] (8), [[Google]] (5), [[Instagram]] (2), [[Facebook]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), similar to (1)
@@ -6787,7 +6787,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=49)** Let's take a look at the data down here at the bottom.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=52)** And you can see we have Instagram, Facebook, retweet, so on and so forth through mortgage as the relative popularity of these Google search terms on a state-by-state basis for the 48 continental United States.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=52)** And you can see we have [[Instagram]], [[Facebook]], retweet, so on and so forth through mortgage as the relative popularity of these Google search terms on a state-by-state basis for the 48 continental United States.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=65)** Now the most common way to look at this is to simply create what's called a correlation matrix.
 >
@@ -6909,7 +6909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Zoom]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Instagram]] (7), [[Facebook]] (5), [[Google]] (2), [[Zoom]] (2), [[Privacy]] (2)
 > **Versions:** 0.04 (2), 1.00 (1), 0.12 (1), 0.55 (1), 0.15 (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
@@ -8886,7 +8886,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=52)** Let's [[Zoom]] in on that for a moment.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=54)** So what we have here are all the variables in our dataset from Instagram through modern dance, and it's showing us the density plot for each of the variables.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=54)** So what we have here are all the variables in our dataset from [[Instagram]] through modern dance, and it's showing us the density plot for each of the variables.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=65)** And we've got scatter plots showing the relationships between the variables.
 >
@@ -9040,7 +9040,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=433)** And then for each of the slopes, you get the estimate of the slope, the standard error, the T value, and the probability value or the P value for that T-test.
 >
-> **[7:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=444)** You can see that within the context of this single entry, multiple regression, two of the variables Instagram and Facebook have statistically significant slopes.
+> **[7:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=444)** You can see that within the context of this single entry, multiple regression, two of the variables Instagram and [[Facebook]] have statistically significant slopes.
 >
 > **[7:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=455)** Now it doesn't mean that those would be the same if we remove the other variables.
 >
@@ -9068,7 +9068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (8), [[Linear Regression]] (5), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[Linear Regression]] (5), [[Instagram]] (2), [[Probability]] (2), [[Facebook]] (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)

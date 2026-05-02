@@ -1562,7 +1562,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=274)** RC4 was a byte-oriented stream cipher, and it leveraged variable 64-bit or 128-bit key sizes.
 >
-> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=282)** It was used in secure sockets layer or transport layer security known as SSL or TLS, along with Wired Equivalent [[Privacy]], or WEP, applications for early WiFi.
+> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=282)** It was used in secure sockets layer or transport layer security known as SSL or TLS, along with Wired Equivalent [[Privacy]], or WEP, applications for early [[Wi-Fi|WiFi]].
 >
 > **[4:56](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=296)** The code was released and it exposed RC4's weak implementation structure.
 >
@@ -1598,7 +1598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Privacy]] (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Privacy]] (1), [[Wi-Fi|Wifi]] (1), [[Cryptography]] (1)
 > **Env Vars:** des (11), aes (9), rc4 (5), rc5 (3), rc6 (2)
 > **Definitions:** stands for (2), known as (2), basically means (1)
 > **Analogies:** for example (4)
@@ -2725,7 +2725,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=280)** A related-key attack allows the attacker to observe the operation of a cipher under several different keys whose values were initially unknown, but where some mathematical relationship connecting the keys is known to the attacker.
 >
-> **[4:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=297)** In fact, if you recall our review of common symmetric [[Algorithms]] earlier, this attack exposed the weak implementation structure of Wired Equivalent [[Privacy]], or WEP, applications used in early Wi-Fi, thus contributing to it becoming obsolete as WEP keys could be recovered in as little as three minutes.
+> **[4:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=297)** In fact, if you recall our review of common symmetric [[Algorithms]] earlier, this attack exposed the weak implementation structure of Wired Equivalent [[Privacy]], or WEP, applications used in early [[Wi-Fi]], thus contributing to it becoming obsolete as WEP keys could be recovered in as little as three minutes.
 >
 > **[5:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=321)** Next, we have the side channel attacks.
 >
@@ -2779,7 +2779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (1), [[Algorithms]] (1), [[Privacy]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Algorithms]] (1), [[Privacy]] (1), [[Wi-Fi]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is called (4), means that (1), is a  (1)
 > **Analogies:** such as (5)
 > **Env Vars:** wep (2), usb (1), irs (1)

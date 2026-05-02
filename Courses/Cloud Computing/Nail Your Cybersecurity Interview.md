@@ -94,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=12)** I'm a cyber security practitioner and mentor.
 >
-> **[0:15](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=15)** I built a 23,000 member cyber security career Facebook group and have been providing cyber security career strategies to experienced professionals and those just getting started.
+> **[0:15](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=15)** I built a 23,000 member cyber security career [[Facebook]] group and have been providing cyber security career strategies to experienced professionals and those just getting started.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980&t=26)** Throughout this course, we're going to cover some common areas you need to know to be successful in your cyber security interview.
 >
@@ -104,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - do (1)
 
@@ -232,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=40)** When preparing for an interview, you want to find out from your recruiter the names of the those you'll be interviewing with.
 >
-> **[0:46](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=46)** Armed with these pieces of information, you can continue to gather additional data with the following sources: your network of professional peers, [[LinkedIn]], Facebook, and Twitter.
+> **[0:46](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=46)** Armed with these pieces of information, you can continue to gather additional data with the following sources: your network of professional peers, [[LinkedIn]], [[Facebook]], and Twitter.
 >
 > **[0:59](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/your-recon-mission-information-collection?u=76281980&t=59)** LinkedIn can provide you with a wealth of data points and insights.
 >
@@ -284,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Interviewing]] (3), [[Cybersecurity]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Interviewing]] (3), [[Cybersecurity]] (2), [[Google]] (1), [[Facebook]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **URLs:** [glassdoor.com](https://glassdoor.com) (2), [indeed.com](https://indeed.com) (1)
 > **CLI Commands:** find (1), make (1)
@@ -1136,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=13)** Also, get connected with our community of other cybersecurity professionals.
 >
-> **[0:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=18)** Join our InfoSec 101 Facebook group, and connect with me on [[LinkedIn]].
+> **[0:18](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=18)** Join our InfoSec 101 [[Facebook]] group, and connect with me on [[LinkedIn]].
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/next-steps?u=76281980&t=23)** I'd love to know how the interview went.
 >
@@ -1146,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Facebook]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [tu] (1)
 
 

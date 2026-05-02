@@ -1196,13 +1196,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=25)** Redux is one of them.
 >
-> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=27)** Also and especially if you use [[React.js|React]] I would lean towards leveraging Redux as it has been battle tested through many popular sites, such as Facebook.
+> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=27)** Also and especially if you use [[React.js|React]] I would lean towards leveraging Redux as it has been battle tested through many popular sites, such as [[Facebook]].
 >
 > **[0:37](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=37)** So the combination of React, SSR with next JS and Redux is great for managing your performance and your state of large applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Facebook]] (1)
 > **Env Vars:** ssr (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)

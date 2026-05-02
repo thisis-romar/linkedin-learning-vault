@@ -156,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=38)** Or it might mean taking traffic data and using that to improve the layout of roads or it might even mean taking all of the users posts on a social media site and creating a model from that data that allows us to predict if a given user is suffering from depression or mania.
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=55)** And in fact, Facebook has actually done this.
+> **[0:55](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=55)** And in fact, [[Facebook]] has actually done this.
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980&t=58)** So as you can see, there are a lot of opportunities like this to make sense out of data in such a way that it helps people or businesses, and that is the realm of data science.
 >
@@ -218,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (18), [[Big Data]] (3), [[Statistics]] (2), [[Algorithms]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (18), [[Big Data]] (3), [[Statistics]] (2), [[Algorithms]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (2), python (1), apache (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** such as (1), think of it as (1)
@@ -249,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=62)** Although obviously there are a ton of other websites.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=66)** And additionally social networks such as Facebook, cause I'm sure most of you already know.
+> **[1:06](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=66)** And additionally social networks such as [[Facebook]], cause I'm sure most of you already know.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-examples?u=76281980&t=70)** Are not only able to recommend friends to you based on your current network, but they can also tell you which posts you'll be most interested in based on your previous activity and the activity of people that it deems to be similar to you in certain ways.
 >
@@ -305,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (11), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (11), [[E-Commerce]] (1), [[Facebook]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - so (1)
@@ -322,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=19)** Right, a card that you put in the number and you get some sort of discount off of whatever it is you're buying, or you collect reward points or something like that.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=29)** How many of you have a Facebook account?
+> **[0:29](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=29)** How many of you have a [[Facebook]] account?
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-for-java-developers/data-as-a-business-asset?u=76281980&t=32)** How many of you use [[Google]] Maps?
 >
@@ -368,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Facebook]] (3), [[Google]] (3)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
@@ -588,7 +588,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=350)** A link prediction aims to predict connections between data items, as well as the strength of what those connections might be.
 >
-> **[6:00](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=360)** Now, the main example that comes to mind of this, is Facebook which basically uses this to recommend friends that it thinks you probably know and probably have a pretty strong connection with but you haven't actually connected with yet on Facebook.
+> **[6:00](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=360)** Now, the main example that comes to mind of this, is [[Facebook]] which basically uses this to recommend friends that it thinks you probably know and probably have a pretty strong connection with but you haven't actually connected with yet on Facebook.
 >
 > **[6:16](https://www.linkedin.com/learning/data-science-for-java-developers/types-of-problems-in-data-science?u=76281980&t=376)** And next step, we have data reduction.
 >
@@ -614,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (5), [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Algorithms]] (4), [[Facebook]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is called (2), in other words (2), known as (2)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)

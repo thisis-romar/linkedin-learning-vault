@@ -2613,7 +2613,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=25)** So, to understand the class of problems that this is designed to solve you really want to put your future hat on.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=32)** Uber is using this to process all of their massive amounts of data from their worldwide distributed driver network and companies like Google and Facebook are using it as well.
+> **[0:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=32)** Uber is using this to process all of their massive amounts of data from their worldwide distributed driver network and companies like Google and [[Facebook]] are using it as well.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=43)** So, this is really at the highest volumes of data, the most complex compute, but as I've mentioned, I've been working in the world of genomics and I'm starting to applications from some of these companies be applicable in other domains, such as genomics.
 >

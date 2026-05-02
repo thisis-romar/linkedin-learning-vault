@@ -4187,13 +4187,13 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=0)** - [Instructor] Sequel has a feature known as common table expressions, or CTEs.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=0)** - [Instructor] Sequel has a feature known as common table expressions, or [[CTE|CTEs]].
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=5)** Now, these are basically auxiliary statements that we use when we're working with larger, more complex queries.
 >
 > **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=12)** And what they allow us to do is essentially modularize our query, much like you use modular approaches in programming and [[Software Development]] to break down, say, complex tasks into smaller units, and each unit is its own module or function.
 >
-> **[0:30](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=30)** Well, you can think of a common table expression as a module within a query that allows you to break down and isolate some of the complexity, and so we're able to essentially create what are like temporary tables that are used within a query.
+> **[0:30](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=30)** Well, you can think of a [[CTE|common table expression]] as a module within a query that allows you to break down and isolate some of the complexity, and so we're able to essentially create what are like temporary tables that are used within a query.
 >
 > **[0:46](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=46)** Now, we do this for the same reason we use modularity in programming.
 >
@@ -4203,7 +4203,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=68)** One of the things I particularly like about common table expressions is that they are much easier to read and quickly grasped than, say, a very large, complex, monolithic query with a lot of subqueries.
 >
-> **[1:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=81)** Now, in addition to common table expressions, there is sort of a subtype or a specialized type of common table expression known as a recursive CTE, and recursive CTEs enable queries over hierarchical data.
+> **[1:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=81)** Now, in addition to common table expressions, there is sort of a subtype or a specialized type of common table expression known as a recursive [[CTE]], and recursive CTEs enable queries over hierarchical data.
 >
 > **[1:35](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=95)** So if you need, for example, to encode maybe like a management hierarchy, like in an org chart in a relational data structure, you might want to use recursive CTEs to basically query that structure.
 >
@@ -4233,7 +4233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1)
+> **Frameworks & Libraries:** [[CTE]] (7), [[CTE|Ctes]] (6), [[CTE|Common table expression]] (3), [[Software Development]] (1)
 > **Env Vars:** cte (7), select (4)
 > **SQL:** select (4)
 > **Definitions:** known as (2)
@@ -4281,7 +4281,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=116)** So let's start with region salaries.
 >
-> **[1:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=119)** Since I'm working with a CTE, I'm going to use a with clause and I'm going to say with, and then define region salaries as.
+> **[1:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=119)** Since I'm working with a [[CTE]], I'm going to use a [[CTE|with clause]] and I'm going to say with, and then define region salaries as.
 >
 > **[2:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=131)** And now I simply specify a select statement and that select statement, what I want to get is a region ID.
 >
@@ -4295,7 +4295,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=160)** And I'm going to pull this from the data_sci.employee's table.
 >
-> **[2:50](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=170)** So that's our first common table expression.
+> **[2:50](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=170)** So that's our first [[CTE|common table expression]].
 >
 > **[2:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=172)** Now I have a second one I need to define as well.
 >
@@ -4373,7 +4373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (9), [[SQL]] (1), [[CTE|With clause]] (1), [[CTE|Common table expression]] (1)
 > **Env Vars:** cte (9), sql (1)
 > **Definitions:** is a  (5), is called (3), is an  (1)
 > **CLI Commands:** find (1)
@@ -4384,7 +4384,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=0)** - [Instructor] Now when we work with hierarchical [[Data Structures]], like on organization structures, it's often helpful to use recursive CTEs.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=0)** - [Instructor] Now when we work with hierarchical [[Data Structures]], like on organization structures, it's often helpful to use recursive [[CTE|CTEs]].
 >
 > **[0:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=9)** So let's take a look at how we might organize hierarchical data in a relational database.
 >
@@ -4400,11 +4400,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=48)** So this is an example of some very basic hierarchical structure.
 >
-> **[0:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=52)** Well, if we model this in a relational table, we're probably going to want to use a recursive CTE to query that data.
+> **[0:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=52)** Well, if we model this in a relational table, we're probably going to want to use a recursive [[CTE]] to query that data.
 >
 > **[1:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=61)** So let's take a look at the structure of the CTE and what the syntax looks like.
 >
-> **[1:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=66)** Well, of course it's a CTE, so we start with a WITH clause or a WITH term, and then we have a new term called RECURSIVE.
+> **[1:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=66)** Well, of course it's a CTE, so we start with a [[CTE|WITH clause]] or a WITH term, and then we have a new term called RECURSIVE.
 >
 > **[1:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=74)** So in addition to having the WITH, we want to say WITH RECURSIVE to indicate to [[PostgreSQL|Postgres]] that we're now working with a recursive CTE.
 >
@@ -4460,7 +4460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Data Structures]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[CTE]] (7), [[Microsoft Office|Office]] (3), [[Data Structures]] (1), [[CTE|Ctes]] (1), [[CTE|With clause]] (1)
 > **Env Vars:** union (9), cte (7), ceo (3), recursive (2)
 > **Code Identifiers:** parent_department_id (3), org_structure (2), department_name (2), data_sci (1)
 > **Tools:** terminal (4)
@@ -4473,7 +4473,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=0)** - [Instructor] Let's take a look at a recursive CTE.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=0)** - [Instructor] Let's take a look at a recursive [[CTE]].
 >
 > **[0:04](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=4)** So what we have here is a query that begins using the term with recursive, so we're working with a recursive CTE.
 >
@@ -4533,11 +4533,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=197)** And then if we run that, we see that here we're working with the Northeast sales office that has ID four, and we see that just above that is VP sales and just above that is the CEO office.
 >
-> **[3:28](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=208)** So this is an example of how we can use recursive CTEs to work with hierarchical data.
+> **[3:28](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=208)** So this is an example of how we can use recursive [[CTE|CTEs]] to work with hierarchical data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
+> **Frameworks & Libraries:** [[CTE]] (6), [[Microsoft Office|Office]] (4), [[CTE|Ctes]] (1)
 > **Env Vars:** cte (6), ceo (2)
 > **Tools:** terminal (4)
 > **UI Navigation:** select the (2)
@@ -4552,7 +4552,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980&t=5)** - [Instructor] In this challenge, we're going to be given a query with a subquery in the where clause, and I'd like you to write an equivalent query that uses a common table expression instead of a subquery.
+> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980&t=5)** - [Instructor] In this challenge, we're going to be given a query with a subquery in the where clause, and I'd like you to write an equivalent query that uses a [[CTE|common table expression]] instead of a subquery.
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980&t=16)** Let's take a look at the query we're going to start with.
 >
@@ -4566,6 +4566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (1)
 > **Code Identifiers:** data_sci (3), company_regions (2), region_id (1), region_name (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
@@ -4579,7 +4580,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980&t=5)** - [Instructor] And here's the solution to that challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980&t=7)** So the challenge was to basically move the subquery into a CTE.
+> **[0:07](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980&t=7)** So the challenge was to basically move the subquery into a [[CTE]].
 >
 > **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980&t=12)** So what we've done here is we have defined a CTE called the east regions, and we define that as selecting the ID from the data side company regions table, where the region name is like percent east percent.
 >
@@ -4587,6 +4588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (2)
 > **Env Vars:** cte (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4654,11 +4656,11 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=172)** Now, a SELF join is also rarely used, but that can be used when querying hierarchical data.
 >
-> **[2:58](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=178)** So, it's an alternative to using recursive CTEs.
+> **[2:58](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=178)** So, it's an alternative to using recursive [[CTE|CTEs]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[CTE|Ctes]] (1)
 > **Env Vars:** left (7), outer (5), right (4), cross (4), inner (3)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2)
@@ -5044,7 +5046,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=233)** When we work with hierarchical data, we can, as we've seen, work with hierarchical data in relational databases, but it can be a little bit tricky.
 >
-> **[4:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=242)** For example, working with hierarchical CTEs isn't necessarily intuitive, but when we work with JSON, JSON really lends itself to hierarchical data structures.
+> **[4:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=242)** For example, working with hierarchical [[CTE|CTEs]] isn't necessarily intuitive, but when we work with JSON, JSON really lends itself to hierarchical data structures.
 >
 > **[4:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=251)** So definitely a good use case for JSON and relational databases is working with hierarchical data.
 >

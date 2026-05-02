@@ -1520,7 +1520,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980&t=8)** Then came embedded audio and video players.
 >
-> **[0:11](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980&t=11)** Now we find ourselves where there are more than 400 hours of video uploaded to YouTube, and over 200,000 images uploaded to Facebook every 60 seconds.
+> **[0:11](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980&t=11)** Now we find ourselves where there are more than 400 hours of video uploaded to YouTube, and over 200,000 images uploaded to [[Facebook]] every 60 seconds.
 >
 > **[0:22](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980&t=22)** There are literally hundreds of thousands of hours of podcasts and audio files available on the internet at all times.
 >
@@ -1586,6 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mp3 (1)

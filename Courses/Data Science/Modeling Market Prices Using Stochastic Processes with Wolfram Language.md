@@ -271,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=106)** So in this particular case, I've, you know, already downloaded the data here for you.
 >
-> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=112)** And it's data for throughout 2015 for five companies: [[Google]], [[Microsoft]], Facebook, Apple, and Intel.
+> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=112)** And it's data for throughout 2015 for five companies: [[Google]], [[Microsoft]], [[Facebook]], Apple, and Intel.
 >
 > **[2:03](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=123)** Okay. So what does that look like?
 >
@@ -453,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft]] (2), [[Facebook]] (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (2)
 > **Env Vars:** arma (1), arima (1)

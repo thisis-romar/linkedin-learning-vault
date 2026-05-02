@@ -261,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=203)** Most testers will then develop their skills in specific areas, such as wireless networks, specific operating systems, such as [[Windows]] or [[Linux]], specific services such as web and mobile, or specific applications, such as [[Active Directory]].
 >
-> **[3:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=219)** There are also some specialized areas outside of mainstream IT, such as SCADA systems, control systems used in areas, such as power stations and other utilities.
+> **[3:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=219)** There are also some specialized areas outside of mainstream IT, such as [[SCADA]] systems, control systems used in areas, such as power stations and other utilities.
 >
 > **[3:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=230)** The explosion in technology that is occurring with the [[IoT|Internet of Things]] means there'll be many more specialized areas.
 >
@@ -279,7 +279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (2), [[Windows]] (1), [[Linux]] (1), [[Active Directory]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[OSCP]] (2), [[Windows]] (1), [[Linux]] (1), [[Active Directory]] (1), [[SCADA]] (1)
 > **Analogies:** such as (7)
 > **Env Vars:** oscp (2), scada (1)
 > **CLI Commands:** find (2)
@@ -297,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=18)** A special configuration of Kali for a range of [[Android]] devices has been released, known as Kali NetHunter.
 >
-> **[0:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=25)** And this is designed to be used for wifi and radio based testing.
+> **[0:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=25)** And this is designed to be used for [[Wi-Fi|wifi]] and radio based testing.
 >
 > **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=29)** Kali is a special build of [[Ubuntu]] and deploys onto bare metal as a standard [[Linux]] system.
 >
@@ -359,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Android]] (1), [[Ubuntu]] (1), [[Linux]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Android]] (1), [[Wi-Fi|Wifi]] (1), [[Ubuntu]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), means that (2), known as (1)
 > **Env Vars:** usb (2), arm (1), lan (1)
 > **CLI Commands:** make (2)

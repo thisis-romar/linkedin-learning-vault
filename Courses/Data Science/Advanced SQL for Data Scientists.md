@@ -1465,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=189)** How can we use these generated sensor IDs and timestamps but then also easily get data for temperature and humidity?
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=201)** Well, one way to do that is to use a common table expression and create a common table expression for this query right here.
+> **[3:21](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=201)** Well, one way to do that is to use a [[CTE|common table expression]] and create a common table expression for this query right here.
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/generating-time-series-data?u=76281980&t=210)** So to do that, we'll say with and let's call this sensors date times as and let's indent this a little bit and we'll close up that.
 >
@@ -1537,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (2), [[PostgreSQL|Postgres]] (1), [[IoT]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iot (1), msmt (1)
 > **Cross-References:** previous video (1)
@@ -1615,7 +1615,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=48)** Okay, so that gives us our list of 100.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=51)** And we're going to use this as part of a common table expression.
+> **[0:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=51)** And we're going to use this as part of a [[CTE|common table expression]].
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/analyzing-a-query-with-a-join?u=76281980&t=54)** So I'll say with, let's call the sensor IDs as, and we'll say select as i, and we will select i as ID and then we'll create Sensor and we'll actually use Sensor with a space after it, we'll concatenate that sensor ID number.
 >
@@ -1715,7 +1715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[IoT]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[CTE|Common table expression]] (2), [[IoT]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sensor_name (2), iot_sensors (2), generate_series (1), sensor_ids (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -2614,7 +2614,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=225)** We're using a bloom index and we're going to have three columns in that index, city, state, province and country.
 >
-> **[3:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=232)** Now we can also specify a with clause and specify the length of the bloom filter and the longer the length the higher the accuracy of the bloom filter in the sense of reducing the number of false positives.
+> **[3:52](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=232)** Now we can also specify a [[CTE|with clause]] and specify the length of the bloom filter and the longer the length the higher the accuracy of the bloom filter in the sense of reducing the number of false positives.
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/bloom-filters?u=76281980&t=245)** Now because bloom filters have false positives, you can't assume that all of the data returned will actually satisfy the rule.
 >
@@ -2626,7 +2626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[CTE|With clause]] (1)
 > **Analogies:** for example (5), such as (2)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -3164,7 +3164,7 @@ created: 2026-05-02
 >
 > **[9:41](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=581)** So I'm going to say with, we'll call this paths_to_concatenate, or simply to concat as.
 >
-> **[9:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=591)** So I'm creating a common table expression, and I'm going to paste in what I had below, and I'll just indent this a little bit for me to build them.
+> **[9:51](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=591)** So I'm creating a [[CTE|common table expression]], and I'm going to paste in what I had below, and I'll just indent this a little bit for me to build them.
 >
 > **[10:00](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/hierarchical-data-and-ltrees?u=76281980&t=600)** Okay, so what I've done here is I've created a common table expression, and I'm calling paths to concatenate the table or that's the relation where there's are the Cs in the path.
 >
@@ -3202,7 +3202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[CTE|Common table expression]] (3), [[SQL]] (1)
 > **CLI Commands:** node (16), find (1)
 > **Analogies:** for example (7), such as (1), imagine (1), similar to (1)
 > **Code Identifiers:** paths_to_nodes (6), idx_paths_to_nodes (1), paths_to_concatenate (1), paths_to_concat (1)

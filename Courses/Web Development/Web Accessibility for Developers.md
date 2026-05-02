@@ -1192,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=40)** Now let's click on the link right below combo box.
 >
-> **[0:44](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=44)** That's the Instagram link right over here on the right.
+> **[0:44](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=44)** That's the [[Instagram]] link right over here on the right.
 >
 > **[0:48](https://www.linkedin.com/learning/web-accessibility-for-developers/do-targeted-manual-testing?u=76281980&t=48)** It says interactive elements must be labeled, and there are four links here.
 >
@@ -1260,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Manual Testing]] (3), [[Microsoft Products|Products]] (2), [[Instagram]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** firefox (3)
@@ -1518,7 +1518,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=255)** There's one final issue we caught in Firefox, and that was the social media images missing alt tags.
 >
-> **[4:21](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=261)** So we'll go to this A tag for Instagram, and even though we don't have a real link in here, we'll go ahead and make sure we add in an alt tag for accessibility purposes.
+> **[4:21](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=261)** So we'll go to this A tag for [[Instagram]], and even though we don't have a real link in here, we'll go ahead and make sure we add in an alt tag for accessibility purposes.
 >
 > **[4:32](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980&t=272)** This adds an Aria label to the A tag despite the SVG icon being hid into screen readers, we'll make sure to do it for the other three social media icons as well.
 >
@@ -1530,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[HTML]] (1), [[Instagram]] (1)
 > **Env Vars:** accs (5), css (2), wigac (1), html (1), svg (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 4.5 (1), 0.75 (1), 1.4.3 (1)

@@ -895,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980&t=0)** - [Narrator] The goal of a compliance assessment is to determine whether your security program meets the specific requirements outlined by some external authority.
 >
-> **[0:11](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980&t=11)** One of the most well-known sets of compliance requirements is the payment card industry [[Data Security]] standard, commonly referred to as the PCIDSS.
+> **[0:11](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980&t=11)** One of the most well-known sets of compliance requirements is the [[PCI DSS|payment card industry data security standard]], commonly referred to as the PCIDSS.
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980&t=22)** If an organization stores, processes, or transmits credit card data, then the organization is required to comply with this standard.
 >
@@ -953,7 +953,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=5)** And that they're performed using a list of controls, defined by an authority.
 >
-> **[0:11](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=11)** If your organization processes credit cards, then you can refer to the PCI DSS, that we just discussed.
+> **[0:11](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=11)** If your organization processes credit cards, then you can refer to the [[PCI DSS]], that we just discussed.
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=18)** For a list of requirements that they expect you to comply with.
 >
@@ -973,7 +973,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=83)** "I work as a [[Cybersecurity]] professional.
 >
-> **[1:27](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=87)** "My company processes credit cards, "and is expected to comply with "the Payment Card Industry [[Data Security]] Standard "version 4.0, published in March 2022.
+> **[1:27](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=87)** "My company processes credit cards, "and is expected to comply with "the [[PCI DSS|Payment Card Industry Data Security Standard]] "version 4.0, published in March 2022.
 >
 > **[1:40](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-augmented-compliance-assessments?u=76281980&t=100)** "How do similar organizations demonstrate compliance "with requirement 1.2.6?
 >
@@ -1053,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI Tools]] (6), [[Generative AI]] (2), [[Cybersecurity]] (1), [[Data Security]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (6), [[PCI DSS]] (4), [[Generative AI]] (2), [[Cybersecurity]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** pci (7), dss (4), qsa (2), rdp (2), cde (1)
 > **Versions:** 1.2.6 (3), version 4 (2)
 > **Ports:** port 3386 (2)

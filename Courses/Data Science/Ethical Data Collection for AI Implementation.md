@@ -774,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=219)** Let's use the very public $725 million class action settlement against Meta Platforms as an example.
 >
-> **[3:50](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=230)** The US courts determined that Facebook violated users' [[Privacy]] as part of their Cambridge Analytica dealings.
+> **[3:50](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=230)** The US courts determined that [[Facebook]] violated users' [[Privacy]] as part of their Cambridge Analytica dealings.
 >
 > **[4:00](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980&t=240)** The legal action route is lengthy.
 >
@@ -794,7 +794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Forms]] (1), [[Data Collection]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Data Privacy]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Forms]] (1)
 > **Env Vars:** hipaa (2), gdpr (2), ccpa (2), ftc (1), sec (1)
 > **Versions:** 1.5 (1)
 > **Analogies:** for example (1)

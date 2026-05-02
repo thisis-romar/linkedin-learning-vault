@@ -501,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=147)** Now we do, because it's from the react scripts.
 >
-> **[2:30](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=150)** So this way we can actually go to the owner of that repo, which is in this case Facebook and then let them know there might be an issue, a high, a security issue with one of your packages that you're using in your react scripts repo, and maybe open a PR.
+> **[2:30](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=150)** So this way we can actually go to the owner of that repo, which is in this case [[Facebook]] and then let them know there might be an issue, a high, a security issue with one of your packages that you're using in your react scripts repo, and maybe open a PR.
 >
 > **[2:48](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=168)** And then in here you can click to see more details about that specific issue here.
 >
@@ -772,7 +772,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980&t=62)** Use proper session libraries for that purpose.
 >
-> **[1:05](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980&t=65)** Unsecured HTTP, if you're still not using HTTPS protocols and the user is connected to your site through an insecured network, like a public wifi, then a hacker could grab the session IDs and get any information from them.
+> **[1:05](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980&t=65)** Unsecured HTTP, if you're still not using HTTPS protocols and the user is connected to your site through an insecured network, like a public [[Wi-Fi|wifi]], then a hacker could grab the session IDs and get any information from them.
 >
 > **[1:21](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980&t=81)** In a similar scenario, you could be providing access to users to areas they're not supposed to.
 >
@@ -784,6 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** http (1), https (1)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [instructor] (1)

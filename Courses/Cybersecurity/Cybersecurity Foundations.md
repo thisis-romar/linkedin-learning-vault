@@ -379,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=41)** There have been many data breaches over the last few years.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=45)** This visualization of data breaches shows the massive breaches in the Shanghai Police, Syniverse and Facebook.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=45)** This visualization of data breaches shows the massive breaches in the Shanghai Police, Syniverse and [[Facebook]].
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-emergence-of-the-cyber-threats?u=76281980&t=52)** With a breach of half a billion records, Facebook takes top place in the last year or so.
 >
@@ -409,7 +409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Databases]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** known as (1)
@@ -892,7 +892,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=170)** Phishing attacks, like any cyber attack, can be costly.
 >
-> **[2:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=174)** Between 2013 and 2015, cyber attackers scammed over a hundred million dollars out of Facebook and [[Google]] by asking for it through phishing emails.
+> **[2:54](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=174)** Between 2013 and 2015, cyber attackers scammed over a hundred million dollars out of [[Facebook]] and [[Google]] by asking for it through phishing emails.
 >
 > **[3:08](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/phishing-and-watering-holes?u=76281980&t=188)** Waterholes are another type of attack focused on the user.
 >
@@ -918,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (16), [[Forms]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (16), [[Forms]] (1), [[Facebook]] (1), [[Google]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Env Vars:** fifa (2)
 > **Definitions:** is a  (1), known as (1)
@@ -995,7 +995,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=304)** With its design, Stuxnet can get to its target systems even if they're not connected to the internet.
 >
-> **[5:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=311)** Stuxnet, when it was first released, used four previously unknown vulnerabilities on Windows computers to propagate and deliver the payload to the SCADA system.
+> **[5:11](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=311)** Stuxnet, when it was first released, used four previously unknown vulnerabilities on Windows computers to propagate and deliver the payload to the [[SCADA]] system.
 >
 > **[5:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-advanced-persistent-threats?u=76281980&t=322)** Once on the system, Stuxnet took advantage of a vulnerability in the Siemens WinCC, PCS 7 SCADA control software, which allowed it to take control of the software and then repeatedly speed up and slow down the centrifuges, causing the aluminum tubes to expand and contract, eventually destroying between 900 and 1000 centrifuges.
 >
@@ -1025,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Telecommunications]] (1), [[Microsoft]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[SCADA]] (2), [[Telecommunications]] (1), [[Microsoft]] (1), [[Forms]] (1)
 > **Env Vars:** apt (14), scada (2), http (1), dns (1), btz (1)
 > **CLI Commands:** apt (14), make (1), find (1)
 > **Definitions:** known as (4)
@@ -1827,7 +1827,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=15)** An example of government policy is SP 800-53, Security and [[Privacy]] Controls for Federal Information Systems and Organizations, which federal organizations are required to adopt.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=29)** An authority may be an industry body, such as the Payment Card Industry Council, which requires that merchants adhere to the Payment Card Industry [[Data Security]] Standard.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=29)** An authority may be an industry body, such as the Payment Card Industry Council, which requires that merchants adhere to the [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-control-framework?u=76281980&t=42)** [[NIST]]'s SP 800-53 is one of two important control frameworks used in [[Cybersecurity]], the other being ISO 27002.
 >
@@ -1881,7 +1881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (3), [[Cybersecurity]] (2), [[Privacy]] (1), [[Data Security]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Cybersecurity]] (2), [[Privacy]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** iso (4), nist (3), sql (1)
 > **Analogies:** such as (2), for example (2)
 > **Versions:** 11.5.2 (2)
@@ -1899,7 +1899,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=10)** It's essentially a risk and control framework for managing cybersecurity.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=16)** The Standard of Good Practice is consistent with the major recognized information security standards such as ISO 27002, the [[NIST]] Cybersecurity Framework, COVIT and PCI DSS control standards.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=16)** The Standard of Good Practice is consistent with the major recognized information security standards such as ISO 27002, the [[NIST]] Cybersecurity Framework, COVIT and [[PCI DSS]] control standards.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-standards-of-good-practice?u=76281980&t=30)** It also aligns with the controls required to satisfy Europe's General [[Data Privacy]] Regulations.
 >
@@ -1949,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[NIST]] (1), [[Data Privacy]] (1), [[Vulnerability Assessment]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[NIST]] (1), [[PCI DSS]] (1), [[Data Privacy]] (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** isf (5), dnb (3), iso (1), nist (1), covit (1)
 > **Best Practices:** good practice (7)
 > **Definitions:** is a  (1), known as (1)
@@ -2257,7 +2257,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=142)** Take a moment to think about the challenges in providing guidance for IoT.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=147)** A small sensor may have little memory and a very low power processor but an industrial SCADA device may be as powerful as a modern PC.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=147)** A small sensor may have little memory and a very low power processor but an industrial [[SCADA]] device may be as powerful as a modern PC.
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/securing-things-on-the-internet?u=76281980&t=157)** Think about an IoT soil moisture sensor which is deployed out in the field and has to run in its own internal battery for no less than 10 years.
 >
@@ -2279,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (11), [[IoT|Internet of things]] (6), [[Privacy]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[IoT]] (11), [[IoT|Internet of things]] (6), [[Privacy]] (1), [[OWASP]] (1), [[SCADA]] (1)
 > **Env Vars:** owasp (1), gsma (1), scada (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (2)

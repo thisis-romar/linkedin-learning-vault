@@ -139,7 +139,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=158)** We'll also be using a network printer in this course where we manage network printer certificates that are used to secure the remote management connection between a web browser and the network printer.
 >
-> **[2:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=172)** There are plenty of network printer and wifi router and [[IoT]] device simulators available out there on the internet if you don't have a network printer to actually follow along with.
+> **[2:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=172)** There are plenty of network printer and [[Wi-Fi|wifi]] router and [[IoT]] device simulators available out there on the internet if you don't have a network printer to actually follow along with.
 >
 > **[3:03](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=183)** In Amazon Web services or AWS, we'll be using it primarily for certificate manager where we can establish a private certification authority or CA.
 >
@@ -3475,7 +3475,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=230)** Maybe if we have a private CA in our organization or from a public CA, if we want our printer to be able to authenticate to email servers.
 >
-> **[4:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=240)** For example, if someone scans in a document that wants it emailed to their email account, or if you are using 802.1x devices on your network for authenticating connections to the network, like 802.1x compliant wifi routers or ethernet switches or VPN appliances.
+> **[4:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=240)** For example, if someone scans in a document that wants it emailed to their email account, or if you are using 802.1x devices on your network for authenticating connections to the network, like 802.1x compliant [[Wi-Fi|wifi]] routers or ethernet switches or VPN appliances.
 >
 > **[4:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=259)** We're not doing anything like that.
 >
@@ -3581,7 +3581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[Local Area Network (LAN)|Local area network]] (2)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Local Area Network (LAN)|Local area network]] (2), [[Wi-Fi|Wifi]] (1)
 > **Env Vars:** https (4), tls (2), dns (1), hp4da3fe (1), pki (1)
 > **Prerequisites:** install (5), configure (2)
 > **UI Navigation:** click on (4), in the menu (1), scroll down (1)

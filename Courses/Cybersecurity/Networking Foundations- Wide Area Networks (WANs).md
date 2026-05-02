@@ -474,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=51)** For fast connectivity, we also have WAN via fiber optics, typically used in the backbone of our networks.
 >
-> **[0:58](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=58)** And you may have also heard of SDN or software-defined networking, which is actually now the trend for wide area networks as well.
+> **[0:58](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=58)** And you may have also heard of [[SDN]] or [[SDN|software-defined networking]], which is actually now the trend for wide area networks as well.
 >
 > **[1:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=66)** With SD-WAN, we apply a software-defined approach to managing the wide area network, enabling us to be [[Agile Development|agile]] in responding to the changing business needs and landscapes.
 >
@@ -488,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[5G]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[5G]] (1), [[SDN]] (1), [[SDN|Software-defined networking]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** wan (9), psdn (1), isdn (1), mpls (1), dsl (1)
 > **Analogies:** such as (6)
 > **Speakers:** - [instructor] (1)
@@ -949,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=0)** - [Instructor] In today's time, we are no longer limited to wired network connectivity 'cause we also now have wireless solutions.
 >
-> **[0:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=8)** And so in this video, let us cover the various wireless WAN technologies such as mobile broadband and fixed wireless access plus I'll also share something about municipal Wi-Fi.
+> **[0:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=8)** And so in this video, let us cover the various wireless WAN technologies such as mobile broadband and fixed wireless access plus I'll also share something about municipal [[Wi-Fi]].
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=21)** First we got 3G, 4G and [[5G]] connections, also known as cellular or mobile broadband.
 >
@@ -1017,7 +1017,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=207)** It's much like connecting to Wi-Fi or wireless internet but municipal Wi-Fi uses stronger radio and directional antennas, so to provide service to a greater range.
 >
-> **[3:37](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=217)** Now, I know municipal Wi-Fi is really more of a wireless LAN than a WAN but I just thought of sharing it with you as it is a nice thing to have in a city, right?
+> **[3:37](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=217)** Now, I know municipal Wi-Fi is really more of a [[Wi-Fi|wireless LAN]] than a WAN but I just thought of sharing it with you as it is a nice thing to have in a city, right?
 >
 > **[3:47](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=227)** Well, great, we've just covered wireless WAN technologies.
 >
@@ -1025,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (4), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (5), [[5G]] (4), [[Telecommunications]] (1), [[Wi-Fi|Wireless lan]] (1)
 > **Env Vars:** sim (8), wan (6), rssi (1), lan (1)
 > **Definitions:** known as (2), is a  (2)
 > **Code Identifiers:** esim (1), isim (1)
@@ -1052,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=43)** For example, with Starlink, you'll typically receive a satellite dish, which can be a round dish if it is Gen 1 or rectangular dish if it is Gen 2.
 >
-> **[0:54](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=54)** There's also the Starlink [[Mesh]] Wi-Fi router along with the cables.
+> **[0:54](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=54)** There's also the Starlink [[Mesh]] [[Wi-Fi]] router along with the cables.
 >
 > **[0:59](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=59)** The DVB-S modem translates the signals from your home devices, which are then connected via coax cable to the satellite dish.
 >
@@ -1128,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (1), [[Wi-Fi]] (1)
 > **Env Vars:** leo (7), wan (6), geo (4), dvb (2), vsat (2)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)

@@ -239,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=132)** Unlike the predictability of a structured contact database with first name, last name and phone number in rows and columns, these unstructured systems have to manage all manner of data.
 >
-> **[2:26](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=146)** In Facebook, for example, posts can include various lengths and types of text, and include photos, videos and music.
+> **[2:26](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=146)** In [[Facebook]], for example, posts can include various lengths and types of text, and include photos, videos and music.
 >
 > **[2:35](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=155)** Fortunately, a healthy ecosystem of providers has created tools for managing [[Unstructured Data]] really well.
 >
@@ -311,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (4), [[Blockchain]] (3), [[Unstructured Data]] (1), [[Google]] (1), [[Database Management]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Blockchain]] (3), [[Facebook]] (1), [[Unstructured Data]] (1), [[Google]] (1)
 > **Analogies:** for example (3), imagine (2)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (1)

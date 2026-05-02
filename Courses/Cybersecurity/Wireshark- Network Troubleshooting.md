@@ -223,7 +223,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=285)** For example, restrict NPcap's driver's access to administrators only.
 >
-> **[4:55](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=295)** Along with this one, support raw 802.11 traffic, which is Wi-Fi.
+> **[4:55](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=295)** Along with this one, support raw 802.11 traffic, which is [[Wi-Fi]].
 >
 > **[5:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=305)** Now I'll select Next.
 >
@@ -251,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (17), [[Windows]] (5), [[Microsoft Products|Products]] (1), [[Nmap]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (17), [[Windows]] (5), [[Microsoft Products|Products]] (1), [[Nmap]] (1), [[Wi-Fi]] (1)
 > **Prerequisites:** install (9), you'll need (3)
 > **Analogies:** such as (4), for example (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -792,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=33)** First of all, we see a list of interfaces that are available.
 >
-> **[0:38](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=38)** You can go to manage interfaces and you can find a little bit more information, and as you can see, I'll just pull this over here and you have some VMware adapters, Bluetooth, local area connection, and I can just uncheck those, 'cause really, I just want the wifi and I'll say okay, and then, you can also see that it automatically, since I narrowed that just to the wifi, it just gave me the wifi interface.
+> **[0:38](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=38)** You can go to manage interfaces and you can find a little bit more information, and as you can see, I'll just pull this over here and you have some VMware adapters, Bluetooth, local area connection, and I can just uncheck those, 'cause really, I just want the [[Wi-Fi|wifi]] and I'll say okay, and then, you can also see that it automatically, since I narrowed that just to the wifi, it just gave me the wifi interface.
 >
 > **[1:10](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=70)** Down below here, it says, enable promiscuous mode on all interfaces, and of course, we want that because we want to capture all the traffic including any management, traffic, broadcasts or multicasts.
 >
@@ -848,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (4), [[Wireshark]] (3)
 > **UI Navigation:** go to (6), open the (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
@@ -1627,7 +1627,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=23)** I'm in smallFlows, and there's a lot going on on this.
 >
-> **[0:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=26)** So, this will give us something to look at, but with dropdown Statistics, we'll start with DHCP.
+> **[0:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=26)** So, this will give us something to look at, but with dropdown Statistics, we'll start with [[DHCP]].
 >
 > **[0:32](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=32)** And, as you can see, BOOTP statistics, which is the way it was referred to.
 >
@@ -1741,7 +1741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (10)
+> **Frameworks & Libraries:** [[Statistics]] (10), [[DHCP]] (4)
 > **Env Vars:** dhcp (4), dns (3), http (3), syn (2), png (2)
 > **UI Navigation:** click on (2), dropdown (1), right-click (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2044,7 +2044,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=164)** It'll be consistent and you can then run through and do a number of those within a day.
 >
-> **[2:50](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=170)** So I've just selected the wifi, and then I begin the capture.
+> **[2:50](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=170)** So I've just selected the [[Wi-Fi|wifi]], and then I begin the capture.
 >
 > **[2:54](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=174)** There's no filter, then I watch the number.
 >
@@ -2074,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Metadata]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Wi-Fi|Wifi]] (1), [[Metadata]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (4)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
@@ -2213,7 +2213,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=39)** In addition, when you go to log into a site, it will warn you if the connection is not secure.
 >
-> **[0:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=45)** For example, I'm on Facebook and I were to click this and it says connection secure.
+> **[0:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=45)** For example, I'm on [[Facebook]] and I were to click this and it says connection secure.
 >
 > **[0:50](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=50)** Now I know it's secure because the lock is there.
 >
@@ -2241,7 +2241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Facebook]] (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** http (1), post (1)
 > **Analogies:** such as (1), for example (1)

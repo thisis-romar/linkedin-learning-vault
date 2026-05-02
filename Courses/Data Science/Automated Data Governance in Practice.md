@@ -393,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=75)** Others include requirements for businesses that handle credit and debit cards.
 >
-> **[1:20](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=80)** They must follow payment card industry [[Data Security]] standards or PCI-DSS.
+> **[1:20](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=80)** They must follow payment card industry [[Data Security]] standards or [[PCI DSS|PCI-DSS]].
 >
 > **[1:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=87)** Public companies must comply with the US-based Sarbanes-Oxley Act of 2002 or sox, in that they have specific [[Financial Data]] reporting requirements.
 >
@@ -421,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Governance]] (5), [[Accountability]] (1), [[Data Security]] (1), [[Financial Data]] (1), [[Data Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Accountability]] (1), [[Data Security]] (1), [[PCI DSS|Pci-dss]] (1), [[Financial Data]] (1)
 > **Env Vars:** hipaa (3), phi (2), pci (1), dss (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)

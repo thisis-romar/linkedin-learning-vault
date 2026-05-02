@@ -629,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=102)** However, if you follow React's guidelines and best practices, you should already prevent many other threats as React was built with safety by design.
 >
-> **[1:51](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=111)** Remember that it powers the busiest website in the world, Facebook.
+> **[1:51](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=111)** Remember that it powers the busiest website in the world, [[Facebook]].
 >
 > **[1:56](https://www.linkedin.com/learning/react-securing-applications-2/cross-site-request-forgery-csrf?u=76281980&t=116)** Therefore, it has already been tested for heavy security threats.
 >
@@ -639,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Tokens]] (1), [[Facebook]] (1)
 > **Env Vars:** csrf (1), http (1), url (1), jwt (1)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** general rule (1), you should always (1)

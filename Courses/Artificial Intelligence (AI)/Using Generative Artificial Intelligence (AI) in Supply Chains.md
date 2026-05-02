@@ -197,7 +197,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=130)** A human-machine interface that allows them to communicate with each other.
 >
-> **[2:15](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=135)** Generative AI has changed the curve for computers and the human machine interface is moving further to the right.
+> **[2:15](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=135)** Generative AI has changed the curve for computers and the [[HMI|human machine interface]] is moving further to the right.
 >
 > **[2:23](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=143)** As that happens, more and more of the tasks that we do in a supply chain become targets for automation.
 >
@@ -207,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[HMI|Human machine interface]] (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [speaker] (1)

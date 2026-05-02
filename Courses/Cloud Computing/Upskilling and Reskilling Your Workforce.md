@@ -784,7 +784,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=165)** These could be everything from frontline positions in a factory or back-[[Microsoft Office|office]] processing.
 >
-> **[2:52](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=172)** Some of the environments may not have wifi or access to laptops or mobile devices.
+> **[2:52](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=172)** Some of the environments may not have [[Wi-Fi|wifi]] or access to laptops or mobile devices.
 >
 > **[2:58](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=178)** We often see this in remote onsite locations such as mines or oil rigs.
 >
@@ -810,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1), [[Microsoft Office|Office]] (1), [[Wi-Fi|Wifi]] (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - often (1)

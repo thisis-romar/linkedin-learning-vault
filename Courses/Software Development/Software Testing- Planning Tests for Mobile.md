@@ -1904,7 +1904,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=117)** Locating users isn't always easy.
 >
-> **[2:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=120)** However, a good place to start is with your company's social networking tools, Facebook, Twitter, [[LinkedIn]], and even YouTube, all have methods for communicating with people who are interested in your [[Microsoft Products|products]] and who might be suitable beta candidates.
+> **[2:00](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=120)** However, a good place to start is with your company's social networking tools, [[Facebook]], Twitter, [[LinkedIn]], and even YouTube, all have methods for communicating with people who are interested in your [[Microsoft Products|products]] and who might be suitable beta candidates.
 >
 > **[2:14](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/recruiting-users?u=76281980&t=134)** If you maintain a support database, a marketing registration page, or sales website where you gather user data, these can be valuable resources for locating testers.
 >
@@ -1938,7 +1938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)

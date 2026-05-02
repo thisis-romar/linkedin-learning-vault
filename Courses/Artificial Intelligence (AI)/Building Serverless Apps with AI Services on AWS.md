@@ -4385,7 +4385,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=73)** Other infrastructure as code like [[Terraform]] and CDK, blog posts are learning guides to keep on learning.
 >
-> **[1:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=81)** You can follow me on social media, for example, Twitter, Instagram, or [[LinkedIn]].
+> **[1:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=81)** You can follow me on social media, for example, Twitter, [[Instagram]], or [[LinkedIn]].
 >
 > **[1:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=87)** I always update them with news and announcements from different AWS serverless services.
 >
@@ -4395,7 +4395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[LinkedIn]] (2), [[Generative AI]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[LinkedIn]] (2), [[Generative AI]] (1), [[Terraform]] (1), [[Instagram]] (1)
 > **Env Vars:** aws (7), sam (2), cdk (1)
 > **CLI Commands:** aws (7), find (1), terraform (1)
 > **Definitions:** is a  (1)

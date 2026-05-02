@@ -624,7 +624,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=95)** Link [[Privacy]], link Contact.
 >
-> **[1:38](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=98)** Link Facebook, link Twitter.
+> **[1:38](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=98)** Link [[Facebook]], link Twitter.
 >
 > **[1:40](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=100)** HTML markup, CSS, and-- Visited link Simply Accessible Incorporated.
 >
@@ -680,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Privacy]] (1), [[Facebook]] (1)
 > **Speakers:** - link (2), - proximity (1), - here (1), - visited (1), - that (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** make (2)

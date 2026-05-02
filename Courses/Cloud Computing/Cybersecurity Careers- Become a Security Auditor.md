@@ -87,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=17)** We'll talk about what it takes from a technical level, sure.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=20)** Frameworks like the [[NIST]] CSF and PCI DSS.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=20)** Frameworks like the [[NIST]] CSF and [[PCI DSS]].
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=24)** But a lot of what it takes to be a great auditor isn't technical at all.
 >
@@ -105,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[NIST]] (1), [[PCI DSS]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (1), csf (1), pci (1), dss (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - every (1)
@@ -372,7 +372,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=75)** There are two main security frameworks that we will take a deep dive into during this course.
 >
-> **[1:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=79)** They are the [[NIST]] CSF and the PCI DSS framework.
+> **[1:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=79)** They are the [[NIST]] CSF and the [[PCI DSS]] framework.
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=85)** The NIST CSF, also known as the [[Cybersecurity]] Framework, is a comprehensive framework that can be used by any organization.
 >
@@ -398,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[PCI DSS]] (2), [[Cybersecurity]] (1), [[Data Security]] (1)
 > **Env Vars:** nist (4), csf (4), pci (3), dss (2)
 > **Definitions:** known as (2), is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -524,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=18)** This council was formed from some of the best experts around the world.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=22)** They created what we know now as the Payment Card Industry [[Data Security]] Standards Framework, or PCI DSS.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=22)** They created what we know now as the Payment Card Industry [[Data Security]] Standards Framework, or [[PCI DSS]].
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=29)** Any business that is processing credit cards is held to PCI compliance against this framework.
 >
@@ -574,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (2), [[Data Security]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (16), qsa (6), dss (2)
 > **Definitions:** known as (2), stands for (1), is a  (1), means that (1), is an  (1)
 > **Prerequisites:** required to (3)

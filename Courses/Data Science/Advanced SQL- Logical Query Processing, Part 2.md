@@ -231,11 +231,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=132)** Forgive me students for I have sinned.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=136)** In previous courses, I've used the term common table expressions or CTE.
+> **[2:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=136)** In previous courses, I've used the term common table expressions or [[CTE]].
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=143)** I recently had the pleasure of reading the ANSI [[SQL]] standard for this feature, and was surprised to learn that the term that I've been using all these years simply isn't correct.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=155)** Although SQL Server, Postgres, and a few major vendors use it, the correct term according to the standard is the with clause.
+> **[2:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=155)** Although SQL Server, Postgres, and a few major vendors use it, the correct term according to the standard is the [[CTE|with clause]].
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/setting-expectations?u=76281980&t=165)** So that's what I'm going to use from now on.
 >
@@ -1534,7 +1534,7 @@ created: 2026-05-02
 >
 > **[10:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=618)** So far so good.
 >
-> **[10:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=621)** Let's take this query, wrap it in a WITH clause, call it Vaccination_Ranking, and embark on our statistical analysis quest.
+> **[10:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=621)** Let's take this query, wrap it in a [[CTE|WITH clause]], call it Vaccination_Ranking, and embark on our statistical analysis quest.
 >
 > **[10:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980&t=631)** This query is grouped by animal, but that's not going to be relevant.
 >
@@ -1687,7 +1687,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=178)** Pause the video for a minute and think about it.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=184)** With clause to the rescue.
+> **[3:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=184)** [[CTE|With clause]] to the rescue.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/grouping-sets?u=76281980&t=187)** The aggregation levels we use here are hierarchical.
 >
@@ -1851,7 +1851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[CTE|With clause]] (2)
 > **Definitions:** is an  (5), is called (1), is a  (1)
 > **Env Vars:** sql (3), ansi (1)
 > **CLI Commands:** make (3)
@@ -2116,7 +2116,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=11)** WITH clauses pack a powerful and unique ability to process recursions without resorting to any type of imperative solutions.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=21)** To create a recursive WITH clause, we must specify our intent using the WITH recursive keyword, the recursive query definition consists of two parts.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=21)** To create a recursive [[CTE|WITH clause]], we must specify our intent using the WITH recursive keyword, the recursive query definition consists of two parts.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980&t=33)** The first is a standalone, ordinary select query called the anchor.
 >
@@ -2302,7 +2302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Relational Databases]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[CTE|With clause]] (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (5), sgl (1), url (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** node (1)

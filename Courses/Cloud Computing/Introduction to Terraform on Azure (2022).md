@@ -897,11 +897,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=167)** Since that falls within my subnet, it won't conflict with any of my previous existing resources.
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=174)** Now that we have our subnet ready to go, we can now go into creating our network interface card.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=174)** Now that we have our subnet ready to go, we can now go into creating our [[NIC|network interface card]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (1), [[NIC|Network interface card]] (1)
 > **Code Identifiers:** azurerm_subnet (2), virtual_network (2), address_prefixes (2), azurerm_virtual_network (1), resource_group (1)
 > **CLI Commands:** terraform (1), find (1)
 > **Versions:** 10.0.0 (1)
@@ -911,7 +911,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=0)** - [Instructor] Now that we've created the base for our networking, let's create the network interface card that we want to be attached to our virtual network.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=0)** - [Instructor] Now that we've created the base for our networking, let's create the [[NIC|network interface card]] that we want to be attached to our virtual network.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=9)** Network interface cards are super important since it allows your [[Virtual Machines]] to talk to each other or communicate with different resources within your [[Microsoft Azure|Azure]] environment.
 >
@@ -941,7 +941,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=96)** Since this will be internal and it won't actually go over the internet, I like to make sure that I do mark it as internal and if I do create an external one, I'll create that local name as external just so I know what to reference it as.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=111)** So keeping with my standardized naming convention, I'm going to name it learn-tf-nic-internal and then eastus.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=111)** So keeping with my standardized naming convention, I'm going to name it learn-tf-[[NIC]]-internal and then eastus.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=128)** This time, we do need to reference a location.
 >
@@ -991,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (4), [[NIC]] (4), [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (1), [[Terraform]] (1)
 > **Code Identifiers:** ip_configuration (4), azurerm_resource_group (2), subnet_id (2), azurerm_network_interface (1), private_ip (1)
 > **CLI Commands:** make (5), terraform (1)
 > **Env Vars:** nic (3)
@@ -1074,7 +1074,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=191)** And we want to eliminate all the spaces that we'll potentially having our password in plain text.
 >
-> **[3:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=197)** And now that we have our main components of our virtual machine we do need to attach a network interface card so that it can talk to other resources within our Azure environments.
+> **[3:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=197)** And now that we have our main components of our virtual machine we do need to attach a [[NIC|network interface card]] so that it can talk to other resources within our Azure environments.
 >
 > **[3:30](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=210)** So we have the network interface, IDs, argument.
 >
@@ -1124,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Terraform]] (5), [[Linux]] (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Terraform]] (5), [[NIC|Network interface card]] (4), [[Linux]] (1)
 > **CLI Commands:** rm (6), make (5), terraform (5), find (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sku (2), lrs (1)

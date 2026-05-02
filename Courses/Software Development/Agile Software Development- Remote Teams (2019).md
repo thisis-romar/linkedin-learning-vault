@@ -1100,7 +1100,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980&t=46)** Typically, a VPN doesn't make it any more difficult to do your regular work, but that will depend on the settings that your company puts in place.
 >
-> **[0:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980&t=55)** VPNs can be especially useful on a remote team because there are many places that offer free WiFi, such as hotels and coffee shops, but they're typically unsecured.
+> **[0:55](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980&t=55)** VPNs can be especially useful on a remote team because there are many places that offer free [[Wi-Fi|WiFi]], such as hotels and coffee shops, but they're typically unsecured.
 >
 > **[1:07](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980&t=67)** Using a VPN helps ensure that your internal servers are secure, even in these locations.
 >
@@ -1124,6 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **Prerequisites:** setup (3), you need to have (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), just like (1)
@@ -1158,7 +1159,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=75)** It's also important to note that some industries have particular encryption standards that you'll need to follow.
 >
-> **[1:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=82)** For example if you're interacting with credit card data in any way, you'll want to make sure that you're following the PCI, which is Payment Card Industry [[Data Security]] standard.
+> **[1:22](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=82)** For example if you're interacting with credit card data in any way, you'll want to make sure that you're following the PCI, which is [[PCI DSS|Payment Card Industry data security standard]].
 >
 > **[1:33](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/encryption-and-two-factor-authentication?u=76281980&t=93)** Another type of security measure for your team is two factor authentication.
 >
@@ -1178,7 +1179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Google]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[PCI DSS|Payment card industry data security standard]] (1), [[Google]] (1), [[Hardware]] (1)
 > **Env Vars:** ssh (2), https (1), http (1), ftp (1), pci (1)
 > **Analogies:** such as (3), for example (1), just like (1)
 > **CLI Commands:** make (2), ssh (2)

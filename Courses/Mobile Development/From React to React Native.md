@@ -1636,7 +1636,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=78)** If you felt lost at any point during this course, there are a few [[LinkedIn]] learning courses on React Native and React that can help you push your skills further.
 >
-> **[1:28](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=88)** And of course, the Facebook docs on these two amazing libraries.
+> **[1:28](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=88)** And of course, the [[Facebook]] docs on these two amazing libraries.
 >
 > **[1:32](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=92)** Feel free to click on any of the links in the app we just built.
 >

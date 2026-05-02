@@ -581,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980&t=14)** So let's look at a conceptual example.
 >
-> **[0:17](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980&t=17)** Suppose I declare a delegate type that takes two arguments and returns a result, and then I write three delegate implementations, D1, D2, and D3, that all have the same function signature.
+> **[0:17](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980&t=17)** Suppose I declare a delegate type that takes two arguments and returns a result, and then I write three delegate implementations, D1, D2, and [[D3.js|D3]], that all have the same function signature.
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980&t=31)** Now in my code, I assign each of these functions, two delegate variables, okay, F1, F2, and F3.
 >
@@ -713,6 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[D3.js|D3]] (1)
 > **Env Vars:** f1f2 (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -1464,7 +1465,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980&t=305)** And that's the X argument there.
 >
-> **[5:07](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980&t=307)** So we'll call this one, d3, and we'll define this to be a single argument Lambda that simply takes the value of X and determines if the value of X is greater than 10.
+> **[5:07](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980&t=307)** So we'll call this one, [[D3.js|d3]], and we'll define this to be a single argument Lambda that simply takes the value of X and determines if the value of X is greater than 10.
 >
 > **[5:20](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980&t=320)** So this is going to be a Boolean result.
 >
@@ -1510,6 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[D3.js|D3]] (3)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)

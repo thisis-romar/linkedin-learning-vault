@@ -352,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=138)** That doesn't really add value.
 >
-> **[2:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=140)** And a good example of this is a number of organizations who have passed payment card industry [[Data Security]] standard audit but still have major breaches.
+> **[2:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=140)** And a good example of this is a number of organizations who have passed [[PCI DSS|payment card industry data security standard]] audit but still have major breaches.
 >
 > **[2:32](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=152)** They haven't done what it takes to reduce the risk of actually having a security breach, but they've passed compliance.
 >
@@ -584,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (2), [[Customer Journey Mapping]] (2), [[Security Risk]] (1), [[Data Security]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Customer Journey Mapping]] (2), [[Security Risk]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (11), find (5)
 > **Definitions:** is a  (7)
 > **UI Navigation:** go to (4)

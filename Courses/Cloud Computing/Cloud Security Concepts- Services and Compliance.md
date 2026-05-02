@@ -490,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/compliance-and-security?u=76281980&t=85)** Humans can play a more important role than most understand.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/compliance-and-security?u=76281980&t=89)** PCI, or the Payment Card Industry [[Data Security]] Standard, is a information security standard for companies that handle branded credit cards.
+> **[1:29](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/compliance-and-security?u=76281980&t=89)** PCI, or the [[PCI DSS|Payment Card Industry Data Security Standard]], is a information security standard for companies that handle branded credit cards.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/compliance-and-security?u=76281980&t=98)** The PCI Standard is mandated for businesses that leverage credit cards.
 >
@@ -514,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Cloud Computing]] (1), [[Accountability]] (1), [[Privacy]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Cloud Computing]] (1), [[Accountability]] (1), [[Privacy]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** hipaa (3), pci (3), sox (1), gdpr (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -1120,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-retail?u=76281980&t=5)** This video will define what it means to secure cloud-based systems in the retail vertical.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-retail?u=76281980&t=10)** The world of retail, the primary regulation, at least in the US, is Payment Card Industry [[Data Security]] Standard, or PCI-DSS.
+> **[0:10](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-retail?u=76281980&t=10)** The world of retail, the primary regulation, at least in the US, is [[PCI DSS|Payment Card Industry Data Security Standard]], or [[PCI DSS|PCI-DSS]].
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-retail?u=76281980&t=21)** Many in the industry just say PCI.
 >
@@ -1158,7 +1158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[PCI DSS|Payment card industry data security standard]] (1), [[PCI DSS|Pci-dss]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** pci (7), dss (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

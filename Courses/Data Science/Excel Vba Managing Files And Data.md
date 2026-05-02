@@ -4630,13 +4630,13 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=246)** Press Enter and I get 5.
 >
-> **[4:08](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=248)** Because I referred to the spill output in cell C2 using the formula in D3.
+> **[4:08](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=248)** Because I referred to the spill output in cell C2 using the formula in [[D3.js|D3]].
 >
 > **[4:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=254)** That formula updated automatically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[D3.js|D3]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2)
 > **Env Vars:** a10 (1)

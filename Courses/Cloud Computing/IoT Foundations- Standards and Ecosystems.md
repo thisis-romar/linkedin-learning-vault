@@ -142,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=36)** Today, the Internet of Things has expanded beyond machine-to-machine communication, devices of all types can communicate with each other from anywhere in the world.
 >
-> **[0:49](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=49)** This can include larger scale industrial applications like SCADA systems, commercial [[Microsoft Products|products]], like smartphones or local networks of sensors, like traffic monitoring systems.
+> **[0:49](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=49)** This can include larger scale industrial applications like [[SCADA]] systems, commercial [[Microsoft Products|products]], like smartphones or local networks of sensors, like traffic monitoring systems.
 >
 > **[1:02](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980&t=62)** There are two common term definitions used to represent the concepts regarding IoT environments, Internet of Everything and Industrial IoT.
 >
@@ -154,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (2), [[Forms]] (1), [[Supply Chain Management]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (2), [[Forms]] (1), [[Supply Chain Management]] (1), [[SCADA]] (1)
 > **Env Vars:** mit (1), m2m (1), scada (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -535,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=70)** IEEE 11073 is a standard used for health and medical device communication.
 >
-> **[1:19](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=79)** IEEE 802.11 is one of the standards for Wi-Fi.
+> **[1:19](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=79)** IEEE 802.11 is one of the standards for [[Wi-Fi]].
 >
 > **[1:27](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/iot-standards?u=76281980&t=87)** IEEE 2413 is a standard, defines an IOT architecture.
 >
@@ -551,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), [[Electronics]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Electronics]] (1), [[Wi-Fi]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** ieee (4), iso (3), iot (2), iec (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 802.11 (1)
@@ -997,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980&t=53)** The field level includes all the devices used within the field.
 >
-> **[0:59](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980&t=59)** The control level includes the different types of controllers, such as PLC that is used to control the design process.
+> **[0:59](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980&t=59)** The control level includes the different types of controllers, such as [[PLC]] that is used to control the design process.
 >
 > **[1:08](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980&t=68)** The management and information level contains the logic, and design element of the system, and any monitoring applications of the process.
 >
@@ -1007,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5)
+> **Frameworks & Libraries:** [[IoT]] (5), [[PLC]] (1)
 > **Env Vars:** plc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1058,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/common-iot-standards-in-industrial-automation?u=76281980&t=55)** The standard regulates communication between different equipment located in a substation, such as protection control and measurement equipment, as well as intelligent electric devices or IEDs.
 >
-> **[1:11](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/common-iot-standards-in-industrial-automation?u=76281980&t=71)** For field level, couple of the network standards for sensors are DeviceNet, HART communication, and PROFIBUS protocol.
+> **[1:11](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/common-iot-standards-in-industrial-automation?u=76281980&t=71)** For field level, couple of the network standards for sensors are [[DeviceNet]], HART communication, and [[PROFIBUS]] protocol.
 >
 > **[1:22](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/common-iot-standards-in-industrial-automation?u=76281980&t=82)** Another example is the IEC 61158 standard, which regulates industrial communication networks, fieldbus specifications.
 >
@@ -1074,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[DeviceNet]] (1), [[PROFIBUS]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** iec (3), ieee (2), profinet (1), hart (1), profibus (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

@@ -335,7 +335,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=122)** And the third scenario is followers on social media platforms.
 >
-> **[2:06](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=126)** And in this one, your analysis shows that your client has many more followers on Facebook than it has on TikTok.
+> **[2:06](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=126)** And in this one, your analysis shows that your client has many more followers on [[Facebook]] than it has on TikTok.
 >
 > **[2:14](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/try-it-is-it-actionable?u=76281980&t=134)** Is it, or is it not an actionable insight?
 >
@@ -349,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Facebook]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -411,7 +411,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980&t=143)** And then number three is about Followers on Social Media Platforms.
 >
-> **[2:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980&t=147)** Your analysis shows that your client has many more followers on Facebook than it has on TikTok.
+> **[2:27](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980&t=147)** Your analysis shows that your client has many more followers on [[Facebook]] than it has on TikTok.
 >
 > **[2:33](https://www.linkedin.com/learning/actionable-insights-and-business-data-in-practice/check-it-is-it-actionable?u=76281980&t=153)** And well, that's nice and everything, but as I see it, it is not actionable.
 >
@@ -437,6 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 

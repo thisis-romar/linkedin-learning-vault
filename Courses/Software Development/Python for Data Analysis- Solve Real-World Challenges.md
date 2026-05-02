@@ -2462,7 +2462,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=11)** This means that effective [[Data Storytelling]] could be the difference between motivating change in an organization and statistics falling by the wayside to never drive any value.
 >
-> **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=22)** A couple prominent examples are the Stories feature on Instagram and Snapchat that let users post photos or videos for 24 hours.
+> **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=22)** A couple prominent examples are the Stories feature on [[Instagram]] and Snapchat that let users post photos or videos for 24 hours.
 >
 > **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=32)** Instagram's "Stories" is credited with adding 200 million users in its first year, or 160% growth, or the analysis of the 500 most popular "Ted Talk" presentations, which found that "Stories" made up at least 65% of their content.
 >
@@ -2516,7 +2516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Data Storytelling]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Data Storytelling]] (2), [[Instagram]] (2), [[Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** means that (1)

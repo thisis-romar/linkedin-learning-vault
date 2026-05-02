@@ -165,7 +165,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=77)** You might hear these cables called, CAT 5 or CAT 6 cables, that access to the network, might be over a wireless [[Local Area Network (LAN)|local area network]], or wireless land.
 >
-> **[1:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=87)** You might hear that called wifi for short.
+> **[1:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=87)** You might hear that called [[Wi-Fi|wifi]] for short.
 >
 > **[1:29](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=89)** And that covers a relatively limited geographical region.
 >
@@ -173,7 +173,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=101)** And for example, consider a cell phone.
 >
-> **[1:44](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=104)** Now my cell phone can send and receive data, using cellular service, but if I'm in an environment, that has a wireless LAN, I can connect to that network, using this phone's wireless capabilities.
+> **[1:44](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=104)** Now my cell phone can send and receive data, using cellular service, but if I'm in an environment, that has a [[Wi-Fi|wireless LAN]], I can connect to that network, using this phone's wireless capabilities.
 >
 > **[1:58](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980&t=118)** So some devices like the cell phone, they have more than one wireless option.
 >
@@ -221,7 +221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[IoT]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[IoT]] (1), [[IoT|Internet of things]] (1), [[Wi-Fi|Wifi]] (1), [[Wi-Fi|Wireless lan]] (1)
 > **Env Vars:** wan (4), cat (2), lan (2), pan (2), man (2)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** cat (2), find (1)
@@ -300,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=33)** But besides just watching TV, there's tons of other things that I can do online.
 >
-> **[0:38](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=38)** I'm a big YouTube watcher, and I occasionally, I scroll through Facebook, Instagram, I'll have audio or video calls with my family or clients, who might be around the world.
+> **[0:38](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=38)** I'm a big YouTube watcher, and I occasionally, I scroll through [[Facebook]], [[Instagram]], I'll have audio or video calls with my family or clients, who might be around the world.
 >
 > **[0:50](https://www.linkedin.com/learning/networking-foundations-networking-basics/how-you-re-using-networking-every-day-25000812?u=76281980&t=50)** I can do that using Skype.
 >
@@ -318,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Facebook]] (1), [[Instagram]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** iot (2), dvr (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - think (1)
@@ -344,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980&t=28)** And the specific physical address that we want to consider is the media access control address, or the MAC address for short.
 >
-> **[0:37](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980&t=37)** Consider a network interface card, or NIC.
+> **[0:37](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980&t=37)** Consider a [[NIC|network interface card]], or [[NIC]].
 >
 > **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980&t=40)** When a company manufacturers the card, they assign it a unique MAC address, and no other device in the world should have that same MAC address.
 >
@@ -370,6 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (1), [[NIC]] (1)
 > **Env Vars:** mac (9), oui (2), nic (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -490,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980&t=1)** - If we have a PC that wants to communicate on our network, it needs to have some sort of circuitry that will allow us to send and receive data on either a wired or wireless network.
 >
-> **[0:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980&t=12)** Now that circuitry is found in a network interface card or NIC for short.
+> **[0:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980&t=12)** Now that circuitry is found in a [[NIC|network interface card]] or [[NIC]] for short.
 >
 > **[0:18](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980&t=18)** Some PCs and laptops and other network devices they have NIC functionality built into the motherboard of the device.
 >
@@ -512,6 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIC]] (11), [[NIC|Network interface card]] (1)
 > **Env Vars:** nic (11), usb (1)
 > **Speakers:** - if (1)
 
@@ -521,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980&t=0)** - One of the most common network devices we have is an ethernet switch.
 >
-> **[0:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980&t=5)** And we talked earlier about how network interface cards and we said, we could put this into a device like a PC and we would plug in an ethernet cable into the network interface card, but what happens to the other end of this cable?
+> **[0:05](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980&t=5)** And we talked earlier about how network interface cards and we said, we could put this into a device like a PC and we would plug in an ethernet cable into the [[NIC|network interface card]], but what happens to the other end of this cable?
 >
 > **[0:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/switches-25202614?u=76281980&t=19)** Well at almost all cases we're going to plug that into an ethernet switch port.
 >
@@ -595,6 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is called (1)
 > **UI Navigation:** switch to (1)
@@ -1082,9 +1085,9 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=179)** So when I think of NTP, I hear that tune in my head with the lyric NTP, easy as 123 and specifically, it's UDP port 123 that NTT is using.
 >
-> **[3:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=192)** And another protocol that we'll investigate in the next chapter is DHCP.
+> **[3:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=192)** And another protocol that we'll investigate in the next chapter is [[DHCP]].
 >
-> **[3:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=197)** Now, that stands for Dynamic Host Configuration Protocol.
+> **[3:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=197)** Now, that stands for [[DHCP|Dynamic Host Configuration Protocol]].
 >
 > **[3:21](https://www.linkedin.com/learning/networking-foundations-networking-basics/common-protocols-to-know-25000816?u=76281980&t=201)** This is a super useful protocol because it gives us a way to automatically assign IP addresses to our network devices without having to visit each device and do a manual configuration and I'd like you to know that DHCP uses UDP port 67.
 >
@@ -1092,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Web Servers]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[DHCP]] (3), [[Web Servers]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** tcp (8), udp (6), ntp (5), dns (3), dhcp (3)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
@@ -1114,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980&t=7)** But if we've got lots of devices, it can be a huge administrative burden to go to each device one at a time and configure all that IP address information.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980&t=15)** Fortunately, there's a protocol that can help us out, it's called Dynamic Host Configuration Protocol, or DHCP for short.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980&t=15)** Fortunately, there's a protocol that can help us out, it's called [[DHCP|Dynamic Host Configuration Protocol]], or [[DHCP]] for short.
 >
 > **[0:23](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980&t=23)** And we can have a DHCP server that can hand out IP address information to all of our different network devices.
 >
@@ -1208,6 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (30), [[DHCP|Dynamic host configuration protocol]] (1)
 > **Env Vars:** dhcp (30), dns (3), dora (1), ndp (1), eui (1)
 > **Versions:** version 6 (6), version 4 (3)
 > **UI Navigation:** go to (1), select the (1)
@@ -1228,7 +1232,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=33)** Consider this typology, where the PC it wants to reach the [[[LinkedIn]].com](https://linkedin.com) web server.
 >
-> **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=40)** Usually an end-user device, like this PC, it knows the IP address of a DNS server, that's one of the pieces of information that it learned from its DHCP server, and if the PC does indeed know the IP address of the DNS server, it can send out a request to that DNS server saying, "Hey, what's the IP address of [linkedin.com](https://linkedin.com)?"
+> **[0:40](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=40)** Usually an end-user device, like this PC, it knows the IP address of a DNS server, that's one of the pieces of information that it learned from its [[DHCP]] server, and if the PC does indeed know the IP address of the DNS server, it can send out a request to that DNS server saying, "Hey, what's the IP address of [linkedin.com](https://linkedin.com)?"
 >
 > **[1:04](https://www.linkedin.com/learning/networking-foundations-networking-basics/dns-overview-25000809?u=76281980&t=64)** The DNS server receives that request and it might have that information stored locally, but if it doesn't, it can reach out to another DNS server on the internet that does have the information.
 >
@@ -1238,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Domain Name System (DNS)|Domain name system]] (1), [[DHCP]] (1)
 > **Env Vars:** dns (8), dhcp (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **Versions:** 203.0.113 (1)
@@ -1561,13 +1565,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=36)** Instead, two wireless devices, they can communicate directly between themselves.
 >
-> **[0:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=42)** Now, while this type of network doesn't scale, it wouldn't be suitable as the primary type of wireless LAN for a business or even a home, it's very convenient for the occasional file transfer between devices.
+> **[0:42](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=42)** Now, while this type of network doesn't scale, it wouldn't be suitable as the primary type of [[Wi-Fi|wireless LAN]] for a business or even a home, it's very convenient for the occasional file transfer between devices.
 >
 > **[0:55](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=55)** A common example of an ad hoc wireless LAN is using the airdrop feature between a couple of Apple iPhones to transfer something like a photo or a video.
 >
 > **[1:07](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=67)** This transfer is made without the need for any sort of an infrastructure.
 >
-> **[1:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=72)** Instead, Bluetooth or Wi-Fi wireless communication could be used directly between those two devices.
+> **[1:12](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=72)** Instead, Bluetooth or [[Wi-Fi]] wireless communication could be used directly between those two devices.
 >
 > **[1:19](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980&t=79)** The most common type of wireless LAN we have is an infrastructure wireless LAN.
 >
@@ -1615,7 +1619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wireless lan]] (7), [[Mesh]] (3), [[Wi-Fi]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Scalability]] (1)
 > **Env Vars:** lan (7)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1674,7 +1678,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980&t=156)** And we could continue this pattern indefinitely, allowing us to have a very large coverage area while avoiding channel interference.
 >
-> **[2:45](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980&t=165)** In addition to the 2.4 gigahertz frequency band the other popular frequency band for wifi networks is the five gigahertz frequency band.
+> **[2:45](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980&t=165)** In addition to the 2.4 gigahertz frequency band the other popular frequency band for [[Wi-Fi|wifi]] networks is the five gigahertz frequency band.
 >
 > **[2:53](https://www.linkedin.com/learning/networking-foundations-networking-basics/2-4-ghz-vs-5-ghz-wireless-networking-25204204?u=76281980&t=173)** And the good news is the five gigahertz band, it's not nearly as congested as 2.4 gigahertz band.
 >
@@ -1718,6 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2)
 > **Versions:** 2.4 (10)
 > **Prerequisites:** configure (1)
 > **Speakers:** - wireless (1)
@@ -1726,7 +1731,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=0)** - [Instructor] For over two decades, Wi-Fi networks relied on the 2.4 gigahertz and five gigahertz frequency bands, as we discussed in our previous video.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=0)** - [Instructor] For over two decades, [[Wi-Fi]] networks relied on the 2.4 gigahertz and five gigahertz frequency bands, as we discussed in our previous video.
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/6-ghz-freqency-band?u=76281980&t=9)** Then in 2021, an extension was added to Wi-Fi 6, which is also known as IEEE 802.11ax, and this extension was called Wi-Fi 6E, and it added support for the six gigahertz frequency band, which gives our wireless networks an additional 1,200 megahertz frequency range to use.
 >
@@ -1746,7 +1751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (5), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ieee (1), wpa3 (1)
 > **Versions:** 2.4 (2)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1762,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=8)** But it's an antenna that actually does the job of transmitting and receiving those signals.
 >
-> **[0:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=14)** So in this video, we want to consider two types of Wi-Fi antennas that we might run into and discuss what might be a good use case for each type.
+> **[0:14](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=14)** So in this video, we want to consider two types of [[Wi-Fi]] antennas that we might run into and discuss what might be a good use case for each type.
 >
 > **[0:23](https://www.linkedin.com/learning/networking-foundations-networking-basics/wireless-network-antenna-types-25000811?u=76281980&t=23)** First, let's consider an omnidirectional antenna.
 >
@@ -1800,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** mimo (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** stands for (1)
@@ -1816,7 +1821,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=1)** - One of the industry buzzwords that we hear a lot these days is SDN, and that stands for software defined networking.
+> **[0:01](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=1)** - One of the industry buzzwords that we hear a lot these days is [[SDN]], and that stands for software defined networking.
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980&t=8)** And in this video, we're going to examine what SDN does for us and some of the pieces and parts that make it work.
 >
@@ -1898,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[SDN]] (25), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** sdn (25), rest (3), http (3), api (1), sbi (1)
 > **Definitions:** stands for (2), is called (2), in other words (1), is a  (1)
 > **CLI Commands:** make (3), python (1)
@@ -2076,7 +2081,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=9)** In fact, these technologies, they often run faster than our high speed wired LANs, which might be running at a gigabit per second.
 >
-> **[0:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=17)** These two technologies are [[5G]] and Wi-Fi 6, where 5G is a cellular data service and Wi-Fi 6 is a wireless LAN standard.
+> **[0:17](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=17)** These two technologies are [[5G]] and [[Wi-Fi]] 6, where 5G is a cellular data service and Wi-Fi 6 is a [[Wi-Fi|wireless LAN]] standard.
 >
 > **[0:27](https://www.linkedin.com/learning/networking-foundations-networking-basics/5g-and-wi-fi-6-25205054?u=76281980&t=27)** First, let's consider 5G which stands for the fifth generation of cellular technology.
 >
@@ -2170,7 +2175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (16), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (23), [[5G]] (16), [[Wi-Fi|Wireless lan]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), means that (2), stands for (1), in other words (1), is called (1)
 > **Env Vars:** lan (1), vlf (1), ieee (1), qam (1), ofdma (1)
 > **Versions:** 1.5 (1), 2.4 (1), 9.6 (1), 3.5 (1)

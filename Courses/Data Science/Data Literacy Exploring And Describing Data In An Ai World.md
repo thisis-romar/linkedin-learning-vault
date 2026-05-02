@@ -1045,7 +1045,7 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=487)** Make ads and make web pages that have higher rates of click-throughs.
 >
-> **[8:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=491)** Sell products where people like them so much, they take a picture of it and they stick it on Instagram and say I love this.
+> **[8:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=491)** Sell products where people like them so much, they take a picture of it and they stick it on [[Instagram]] and say I love this.
 >
 > **[8:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=498)** Those are the things that you want.
 >
@@ -1069,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Big Data]] (1), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Instagram]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (15), find (1)
 > **Env Vars:** suv (5)
 > **Analogies:** for instance (3), picture (1)
@@ -3912,9 +3912,9 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=212)** So that's what we can do right here.
 >
-> **[3:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=215)** Now they're in descending values, and it's easy to see in this fictional data that this organization has almost twice as many followers on Facebook as on any other platform.
+> **[3:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=215)** Now they're in descending values, and it's easy to see in this fictional data that this organization has almost twice as many followers on [[Facebook]] as on any other platform.
 >
-> **[3:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=223)** Twitter and Instagram are nearly tied.
+> **[3:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=223)** Twitter and [[Instagram]] are nearly tied.
 >
 > **[3:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=225)** Pinterest isn't far behind.
 >
@@ -4095,7 +4095,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=275)** And by the way, I've deleted the access lines.
 >
-> **[4:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=277)** And so, for example, with my fictional data, I can say that Instagram and Facebook account for 57% of the total audience engagement.
+> **[4:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=277)** And so, for example, with my fictional data, I can say that [[Instagram]] and [[Facebook]] account for 57% of the total audience engagement.
 >
 > **[4:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=285)** So two of the six platforms account for almost three out of five engagements.
 >
@@ -4131,7 +4131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Instagram]] (1), [[Facebook]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), for instance (2), similar to (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -4209,7 +4209,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=181)** I highlight one category.
 >
-> **[3:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=183)** I put all the [[Representational State Transfer (REST)|rest]] in gray and then right there in the middle I'll say Facebook is 32% of total subscribers.
+> **[3:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=183)** I put all the [[Representational State Transfer (REST)|rest]] in gray and then right there in the middle I'll say [[Facebook]] is 32% of total subscribers.
 >
 > **[3:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=189)** Now it reads like a gauge and that's really easy to read.
 >
@@ -4309,7 +4309,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=401)** That actually influences the way that you read the angles.
 >
-> **[6:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=404)** Plus, very often this black rim across the bottom gets colored the same color as the slices and it gets read as data and it would make those bottom two, Instagram and Twitter, look much bigger than they should be.
+> **[6:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=404)** Plus, very often this black rim across the bottom gets colored the same color as the slices and it gets read as data and it would make those bottom two, [[Instagram]] and Twitter, look much bigger than they should be.
 >
 > **[6:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=418)** And so it's very easy to misinterpret, especially if you use a 3D pie chart.
 >
@@ -4333,7 +4333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** general rule (2)
@@ -4387,7 +4387,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=128)** I can label the one directly.
 >
-> **[2:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=129)** I can say Facebook has 550 followers.
+> **[2:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=129)** I can say [[Facebook]] has 550 followers.
 >
 > **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=132)** And if I'm trying to draw attention to that one in particular, this is an effective way of doing it.
 >
@@ -4457,7 +4457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Relations]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Customer Relations]] (1), [[Statistics]] (1), [[Facebook]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)

@@ -323,7 +323,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=193)** We'll be talking about many of these tools in this course.
 >
-> **[3:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=196)** Talking about compliance of AWS, the AWS infrastructure is compliant with popular standards such as SOC1, two, and three, FedRAMP, PCI DSS Level 1, ISO 9001, ISO 27001, and more.
+> **[3:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=196)** Talking about compliance of AWS, the AWS infrastructure is compliant with popular standards such as SOC1, two, and three, FedRAMP, [[PCI DSS]] Level 1, ISO 9001, ISO 27001, and more.
 >
 > **[3:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=212)** To know more about AWS compliance, please refer to the risk and compliance document.
 >
@@ -540,7 +540,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=102)** This allows you to configure temporary access for users who already have a password elsewhere.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=107)** For example, in your corporate network or with an internet identity provider like Amazon, Facebook, or [[Google]].
+> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=107)** For example, in your corporate network or with an internet identity provider like Amazon, [[Facebook]], or [[Google]].
 >
 > **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=115)** Administrators find this useful as they can use existing identities instead of creating new IAM users.
 >
@@ -558,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Google]] (1), [[Security Risk]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Facebook]] (1), [[Google]] (1), [[Security Risk]] (1), [[Forms]] (1)
 > **Env Vars:** iam (13), aws (9), ec2 (2), aim (1)
 > **CLI Commands:** aws (9), find (1)
 > **Analogies:** for example (3), such as (2)
@@ -7184,7 +7184,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=0)** - [Instructor] When you migrate your [[Active Directory]]-dependent and [[Windows]] workloads to the AWS cloud, they will need access to Active Directory Domain Controllers, or DCs.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=0)** - [Instructor] When you migrate your [[Active Directory]]-dependent and [[Windows]] workloads to the AWS cloud, they will need access to Active Directory Domain Controllers, or [[DCS]].
 >
 > **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=10)** Also, if you plan to use AWS services, such as Amazon WorkSpaces, with your Active Directory account, you will need to integrate them with Active Directory.
 >

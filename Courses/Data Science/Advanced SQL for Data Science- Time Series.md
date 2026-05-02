@@ -1633,7 +1633,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980&t=7)** So in this example, I want to work with the daily average temperature and I want to be able compare a couple of days' temperatures.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980&t=14)** So I'm going to use a common table expression, or essentially a temporary table and I'll call it the daily average temp and we'll simply define that as we did earlier, Select.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980&t=14)** So I'm going to use a [[CTE|common table expression]], or essentially a temporary table and I'll call it the daily average temp and we'll simply define that as we did earlier, Select.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980&t=25)** I'm going to work with just the day so we'll truncate to the day, the event time, and we'll calculate the average.
 >
@@ -1691,6 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (1)
 > **Code Identifiers:** time_series (2), location_temp (1), event_time (1)
 > **Versions:** 28.06529 (2)
 > **UI Navigation:** select the (2)
@@ -1747,7 +1748,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980&t=12)** So let's see how we could do that.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980&t=14)** We're going to start using our common table expression, WITH, and we'll use daily_avg_temp again.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980&t=14)** We're going to start using our [[CTE|common table expression]], WITH, and we'll use daily_avg_temp again.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980&t=23)** And I'll just type it in without detailed explanation again since we've done this a number of times.
 >
@@ -1857,6 +1858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE|Common table expression]] (1)
 > **Code Identifiers:** event_date (3), daily_avg_temp (2), date_trunc (1)
 > **SQL:** select (2), where (1)
 > **Env Vars:** select (2), where (1)
@@ -1864,7 +1866,6 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
-> **Speakers:** - [instructor] (1)
 
 #### [Forecasting with linear regression](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980)
 
@@ -1969,7 +1970,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=65)** Now, you'll notice this is recursive.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=67)** We could calculate this using Common Table Expressions, because there is a recursion support within CTEs, but it's not recommended for large datasets.
+> **[1:07](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=67)** We could calculate this using Common Table Expressions, because there is a recursion support within [[CTE|CTEs]], but it's not recommended for large datasets.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=77)** They just don't perform very well.
 >
@@ -1977,7 +1978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[CTE|Ctes]] (1), [[Statistical Analysis]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** recommended (2)

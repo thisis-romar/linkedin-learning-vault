@@ -280,7 +280,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/solution-4-compare-order-totals-over-time?u=76281980&t=0)** - [Instructor] In this solution, I'm using CTE or common table expression notation to save some typing, because this challenge requires joining across three tables.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/solution-4-compare-order-totals-over-time?u=76281980&t=0)** - [Instructor] In this solution, I'm using [[CTE]] or [[CTE|common table expression]] notation to save some typing, because this challenge requires joining across three tables.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-practice-window-functions/solution-4-compare-order-totals-over-time?u=76281980&t=8)** You don't have to, though.
 >
@@ -330,6 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[CTE]] (1), [[CTE|Common table expression]] (1)
 > **Env Vars:** cte (1)
 > **Speakers:** - [instructor] (1)
 
@@ -339,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=0)** - [Instructor] Here's how I solve this challenge.
 >
-> **[0:02](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=2)** As with the previous solution, I'm using CTE notation here to save on typing.
+> **[0:02](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=2)** As with the previous solution, I'm using [[CTE]] notation here to save on typing.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=6)** And just like in that one, we're using our three tables here to get the values we need for this challenge.
 >
@@ -411,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[CTE]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)

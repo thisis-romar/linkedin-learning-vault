@@ -245,7 +245,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=142)** For example, if the goal is growing your audience on social media by 10% in 90 days, a metric you could look to is the change in the number of followers on each social network.
 >
-> **[2:33](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=153)** If your goal is improved brand awareness, then metrics like impressions, views and reach would be helpful for monitoring your efforts on TikTok and Instagram specifically.
+> **[2:33](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=153)** If your goal is improved brand awareness, then metrics like impressions, views and reach would be helpful for monitoring your efforts on TikTok and [[Instagram]] specifically.
 >
 > **[2:45](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=165)** While there's many to choose from, pick metrics that indicate your progress, ones that are well established in the industry and are straightforward to calculate using the right tools.
 >
@@ -269,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Social Media Marketing]] (2)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2), [[Instagram]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -320,13 +320,13 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=209)** Here you'd list the social media they most often use, creators they follow, podcasts they listen to, publications they read, [[Newsletters]] they subscribe to, et cetera.
 >
-> **[3:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=221)** For the Yogi Parents persona, they might follow influencers on TikTok and Instagram known for clean eating and meal prep, and read publications like Yoga Journal or Mindbodygreen.
+> **[3:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=221)** For the Yogi Parents persona, they might follow influencers on TikTok and [[Instagram]] known for clean eating and meal prep, and read publications like Yoga Journal or Mindbodygreen.
 >
 > **[3:54](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=234)** While your personas are always a work in progress, use them as a litmus test for ensuring all of your social media campaigns are aimed at reaching the right people, your customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (1), [[Newsletters]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** crm (1)
@@ -340,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=8)** Often, the effort and expertise required to succeed with social media is underestimated, leading to lackluster results since the medium isn't given proper support from the start.
 >
-> **[0:19](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=19)** The best case scenario is to add a social media manager to your team, as they have the experience and skills to properly manage platforms like Instagram, YouTube, and TikTok to build awareness, drive engagement, and improve conversions for your business.
+> **[0:19](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=19)** The best case scenario is to add a social media manager to your team, as they have the experience and skills to properly manage platforms like [[Instagram]], YouTube, and TikTok to build awareness, drive engagement, and improve conversions for your business.
 >
 > **[0:37](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=37)** A social media manager's focus in terms of channels will vary depending on the type of organization, how big their company is, the complexity of their marketing activities, and the size of their audience on these channels.
 >
@@ -394,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Content Creation]] (2), [[Social Media Marketing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (2), [[Content Creation]] (2), [[Social Media Marketing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -418,7 +418,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=28)** To determine which options are a match for your company, recognize that there's different types of social channels with unique use cases, strengths, and weaknesses to account for.
 >
-> **[0:39](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=39)** One of the most popular types are community-based social networks like Facebook, Instagram, Twitter, and [[LinkedIn]].
+> **[0:39](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=39)** One of the most popular types are community-based social networks like [[Facebook]], [[Instagram]], Twitter, and [[LinkedIn]].
 >
 > **[0:47](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=47)** These are social networks where users populate the content in their own feed by choosing to follow certain accounts, usually their friends, family, coworkers, and other connections.
 >
@@ -462,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Microsoft Products|Products]] (2), [[Algorithms]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[LinkedIn]] (4), [[Instagram]] (3), [[Microsoft Products|Products]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** b2b (1)
@@ -532,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=4)** Social messaging apps are another category of social media channels where people send private messages to each other one-on-one in a small group chat, or directly with businesses.
 >
-> **[0:16](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=16)** Unlike texting, WeChat, Facebook Messenger, WhatsApp, and Snapchat are free to use, available internationally, offer lots of functionality for mobile audiences and sometimes have stronger security, allowing for a secure and private space for family and friends to connect.
+> **[0:16](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=16)** Unlike texting, WeChat, [[Facebook]] Messenger, WhatsApp, and Snapchat are free to use, available internationally, offer lots of functionality for mobile audiences and sometimes have stronger security, allowing for a secure and private space for family and friends to connect.
 >
 > **[0:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=36)** For businesses, social messaging apps like these are an opportunity to deliver customer service by manually responding to customer outreach or setting up an automated chatbot.
 >
@@ -542,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=70)** WeChat is a Chinese messaging app where users can communicate with friends, pay bills, buy [[Microsoft Products|products]], and video chat, which is why it's often referred to as a super app.
 >
-> **[1:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=81)** Because popular apps like Facebook, Instagram, Snapchat, and Twitter are blocked by the Chinese government, this is one of the best channels for reaching consumers in China.
+> **[1:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=81)** Because popular apps like Facebook, [[Instagram]], Snapchat, and Twitter are blocked by the Chinese government, this is one of the best channels for reaching consumers in China.
 >
 > **[1:33](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=93)** Businesses driving results on WeChat consistently publish content, invest in advertising, work with creators, known as key opinion leaders in China, and create their own mini programs.
 >
@@ -564,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Microsoft Products|Products]] (1), [[Instagram]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - not (1)
@@ -583,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=36)** For instance, Yelp is a review site for restaurants and local businesses.
 >
-> **[0:42](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=42)** TripAdvisor showcases reviews for travel experiences like hotels and excursions, and G2 aggregates user reviews for business software, compared to [[Google]] Business Profile, OpenTable, Amazon and Facebook that provide a wide range of services, including allowing people to post reviews of [[Microsoft Products|products]] and businesses.
+> **[0:42](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=42)** TripAdvisor showcases reviews for travel experiences like hotels and excursions, and G2 aggregates user reviews for business software, compared to [[Google]] Business Profile, OpenTable, Amazon and [[Facebook]] that provide a wide range of services, including allowing people to post reviews of [[Microsoft Products|products]] and businesses.
 >
 > **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=64)** Generating reviews for your company matters as it's a way of collecting valuable feedback on how to improve your offerings.
 >
@@ -617,7 +617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (1), [[Facebook]] (1), [[Building Trust]] (1)
 > **Definitions:** is a  (5)
 > **Documentation:** stack overflow (2)
 > **CLI Commands:** make (1)
@@ -778,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=59)** So what does it look like to better humanize your content on social media?
 >
-> **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=64)** Well, one example is Ben & Jerry's on Instagram, as the ice cream brand not only posts about new flavors, but discusses social issues aligned to their values, like addressing voting barriers for minorities in the US and the importance of combating [[Climate Change]].
+> **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=64)** Well, one example is Ben & Jerry's on [[Instagram]], as the ice cream brand not only posts about new flavors, but discusses social issues aligned to their values, like addressing voting barriers for minorities in the US and the importance of combating [[Climate Change]].
 >
 > **[1:22](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=82)** While it wouldn't make sense for most brands to chime in on these topics on social media, it works for Ben & Jerry's, as their communications reflect their mission statement and the actions the company consistently takes to help find solutions for these societal problems.
 >
@@ -810,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Building Trust]] (1), [[Climate Change]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Instagram]] (1), [[Climate Change]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - authenticity (1)
@@ -840,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=85)** Alternatively, social listening is focused on understanding consumer perceptions in your industry, analyzing your competitors, and staying culturally relevant with trending topics.
 >
-> **[1:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=98)** For example, if a restaurant chain reviews TikTok, Facebook, and Instagram to find questions about their menu items and identify customer service issues, then that's social monitoring.
+> **[1:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=98)** For example, if a restaurant chain reviews TikTok, [[Facebook]], and [[Instagram]] to find questions about their menu items and identify customer service issues, then that's social monitoring.
 >
 > **[1:50](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=110)** Having said that, if they use social media to pinpoint food trends in certain regions, then that's social listening, as the conversations aren't about their brand, but can impact their business.
 >
@@ -876,7 +876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Facebook]] (1), [[Instagram]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - listening (1), - there (1)
 > **Definitions:** is an  (1)
@@ -899,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=41)** In some cases, you'll start a conversation on a topic that you want your company to be associated with as a thought leader, whether that's eco-friendly farming or something on the stock market.
 >
-> **[0:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=53)** For example, TurboTax, a software for handling tax returns might use Instagram to begin a discussion on how to facilitate financial literacy amongst teens.
+> **[0:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=53)** For example, TurboTax, a software for handling tax returns might use [[Instagram]] to begin a discussion on how to facilitate financial literacy amongst teens.
 >
 > **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=64)** While not the same focus as their tax services, it's a subject related enough to their expertise and could be a cause they want to help solve and be associated with as a leader long-term.
 >
@@ -943,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[LinkedIn]] (1), [[Building Trust]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - starting (1)
@@ -976,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=118)** And that's the general approach your business should follow with reactive engagement.
 >
-> **[2:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=123)** Begin with social monitoring to keep track of messages, comments, and reviews on channels like Facebook, TikTok, Instagram, Twitter, Yelp or your [[Google]] Business profile.
+> **[2:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=123)** Begin with social monitoring to keep track of messages, comments, and reviews on channels like [[Facebook]], TikTok, [[Instagram]], Twitter, Yelp or your [[Google]] Business profile.
 >
 > **[2:16](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=136)** Next, address all the questions, complaints, and requests for help you receive, whether they're positive or negative as long as they're constructive, ideally aim to answer their question or resolve the issue with your initial response.
 >
@@ -1006,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Facebook]] (1), [[Instagram]] (1), [[Google]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
@@ -1097,7 +1097,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=126)** Another approach to partnering is sending free products to creators for them to consider reviewing, so they can decide if it's worth sharing the item's pros and cons on social media.
 >
-> **[2:18](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=138)** This is a widely used tactic by consumer goods brands who often send their newest apparel, food, and self-care products to earn reviews on channels, like TikTok, YouTube, or Instagram.
+> **[2:18](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=138)** This is a widely used tactic by consumer goods brands who often send their newest apparel, food, and self-care products to earn reviews on channels, like TikTok, YouTube, or [[Instagram]].
 >
 > **[2:32](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=152)** A less common type of creator partnership, but typically highly profitable, is creating a co-branded product with a creator or a group of creators and sharing the resulting revenue.
 >
@@ -1115,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Instagram]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mac (1)

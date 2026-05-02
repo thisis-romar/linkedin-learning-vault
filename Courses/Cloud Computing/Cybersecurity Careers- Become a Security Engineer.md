@@ -805,9 +805,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=18)** Let's take a real-world example of a task I was presented to handle as a [[Cloud Security]] engineer.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=25)** My organization was looking to expand our product into new markets and wanted to become PCI-DSS certified.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=25)** My organization was looking to expand our product into new markets and wanted to become [[PCI DSS|PCI-DSS]] certified.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=34)** For those of you who might not be familiar, PCI, also known as the payment card industry [[Data Security]] standard, is a set of regulatory requirements that define how to handle credit cards for major brands.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=34)** For those of you who might not be familiar, PCI, also known as the [[PCI DSS|payment card industry data security standard]], is a set of regulatory requirements that define how to handle credit cards for major brands.
 >
 > **[0:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=48)** This was my first time leading a large-scale project and I had to define and implement how we would go from point A, which is the current state, to point Z, which is compliance certified.
 >
@@ -853,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[PCI DSS|Pci-dss]] (1), [[Data Security]] (1)
 > **Env Vars:** pci (4), dss (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1), make (1)

@@ -357,7 +357,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=23)** The suite defines how data is packet-ized, addressed, transmitted, and routed.
 >
-> **[0:29](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=29)** Dynamic Host Configuration Protocol supplies network hosts with an IP address and other configuration information such as the subnet mask and default gateway.
+> **[0:29](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=29)** [[DHCP|Dynamic Host Configuration Protocol]] supplies network hosts with an IP address and other configuration information such as the subnet mask and default gateway.
 >
 > **[0:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=43)** [[Real-Time]] Transport Protocol transports audio and video.
 >
@@ -377,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (3), [[Call Control]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[DHCP|Dynamic host configuration protocol]] (1), [[Call Control]] (1)
 > **Env Vars:** tcp (1), rtp (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
@@ -412,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=84)** Transmission Control Protocol is a connection-oriented protocol that provides reliable data transfer by sequencing and acknowledging data.
 >
-> **[1:35](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=95)** User Datagram Protocol is a connectionless transport layer protocol for data transport and is used for time-sensitive applications, such as voice over IP, video conferencing, DHCP, and DNS.
+> **[1:35](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=95)** User Datagram Protocol is a connectionless transport layer protocol for data transport and is used for time-sensitive applications, such as voice over IP, video conferencing, [[DHCP]], and DNS.
 >
 > **[1:52](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=112)** On a network, TCP is the more predominant transport layer protocol.
 >
@@ -424,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[DHCP]] (1)
 > **Env Vars:** tcp (8), icmp (2), udp (2), http (1), ftp (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3)
@@ -434,9 +434,9 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=0)** - [Instructor] Dynamic Host Configuration Protocol dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=0)** - [Instructor] [[DHCP|Dynamic Host Configuration Protocol]] dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
 >
-> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=8)** A Cisco IP phone needs the DHCP server to provide an IP address.
+> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=8)** A Cisco IP phone needs the [[DHCP]] server to provide an IP address.
 >
 > **[0:15](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=15)** Special DHCP option 150 is used to send the unified communications manager's address to the VoIP devices so they can register and receive configuration information.
 >
@@ -472,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (8), [[DHCP|Dynamic host configuration protocol]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (8), vlan (2)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **Tools:** terminal (1)

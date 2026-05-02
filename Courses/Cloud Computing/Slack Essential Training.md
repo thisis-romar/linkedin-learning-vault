@@ -651,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=23)** While the only folks who can search or view the contents of a private channel are the invited members of that channel.
 >
-> **[0:29](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=29)** Our next choice is direct messaging, which works exactly as it does in, for example, iOS chat or on Facebook Messenger.
+> **[0:29](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=29)** Our next choice is direct messaging, which works exactly as it does in, for example, iOS chat or on [[Facebook]] Messenger.
 >
 > **[0:37](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=37)** Direct messages are for one-to-one or for small group conversations, you and your recipient or recipients.
 >
@@ -733,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6)
+> **Frameworks & Libraries:** [[Slack]] (6), [[Facebook]] (1)
 > **Tools:** slack (6)
 > **Analogies:** for example (3), picture (1), just like (1)
 > **CLI Commands:** make (3), find (1)

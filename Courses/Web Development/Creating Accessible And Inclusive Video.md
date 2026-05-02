@@ -488,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=59)** It may surprise you to learn how many videos are played silently.
 >
-> **[1:03](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=63)** For example, 85 percent of Facebook videos are watched without sound.
+> **[1:03](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=63)** For example, 85 percent of [[Facebook]] videos are watched without sound.
 >
 > **[1:08](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=68)** I'm sure, even if you're not hearing impaired, you've used captions many times in many different environments.
 >
@@ -566,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Speech Recognition]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (2), [[Facebook]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Analogies:** for example (1)
 
 #### [Create subtitles and consider other localization strategies](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-subtitles-and-consider-other-localization-strategies?u=76281980)
@@ -718,7 +718,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=211)** Transcripts are also useful in situations where video bandwidth is an issue.
 >
-> **[3:37](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=217)** Sometimes you just don't have the ability to play a video due to Wi-Fi or device limitations, but if you have the transcript, you'll have a great solution to consume the content.
+> **[3:37](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=217)** Sometimes you just don't have the ability to play a video due to [[Wi-Fi]] or device limitations, but if you have the transcript, you'll have a great solution to consume the content.
 >
 > **[3:47](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=227)** And of course, transcripts are also wonderful for SEO and discoverability.
 >
@@ -748,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Wi-Fi]] (1), [[Speech Recognition]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1), click on (1)
 > **Analogies:** imagine (1), just like (1)

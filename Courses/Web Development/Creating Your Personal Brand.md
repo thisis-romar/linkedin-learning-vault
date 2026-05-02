@@ -644,13 +644,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=112)** If you're trying to get the attention of business leaders and professionals, you're probably going to spend a lot of time on [[LinkedIn]], it's where business professionals go.
 >
-> **[2:00](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=120)** If you're more of the creative type and you want to get the attention of ad directors or marketing firms, a platform like Instagram might be more relevant for you.
+> **[2:00](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=120)** If you're more of the creative type and you want to get the attention of ad directors or marketing firms, a platform like [[Instagram]] might be more relevant for you.
 >
 > **[2:09](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=129)** It's important when you're building your online presence to build your reputation that you think about where your audience is.
 >
 > **[2:16](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=136)** And certainly let your audiences online know how they can help you, take advantage of the real estate you have on all these sites to build your brand and let people know what you do.
 >
-> **[2:27](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=147)** On Facebook, for instance, does your timeline photo show a sunset or a picture of your dog?
+> **[2:27](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=147)** On [[Facebook]], for instance, does your timeline photo show a sunset or a picture of your dog?
 >
 > **[2:33](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=153)** Well, you might consider using a picture of you speaking to a large group because that will help your friends remember that you're a great public speaker who, by the way, is available for hire.
 >
@@ -688,7 +688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Personal Branding]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Facebook]] (3), [[Personal Branding]] (2), [[Privacy]] (1), [[Instagram]] (1)
 > **Analogies:** for instance (2), picture (2), just like (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)

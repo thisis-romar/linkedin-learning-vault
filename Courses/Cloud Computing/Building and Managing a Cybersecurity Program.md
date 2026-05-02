@@ -459,7 +459,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=68)** I would also ask the finance team to calculate the daily losses under the worst case scenario and to figure out the maximum ransom value that they could pay within 48 hours if they had to.
 >
-> **[1:23](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=83)** Finally, I would work on a public relations strategy to decide in advance whether to be fully open about the attack, and I would include having senior staff host daily webcasts and press conferences from their headquarters, post updates to Facebook and other social media.
+> **[1:23](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=83)** Finally, I would work on a public relations strategy to decide in advance whether to be fully open about the attack, and I would include having senior staff host daily webcasts and press conferences from their headquarters, post updates to [[Facebook]] and other social media.
 >
 > **[1:43](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=103)** I would want them to welcome journalists into their operations control rooms and maybe even launch a new company website to post updates of the restoration.
 >
@@ -469,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -573,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=39)** In September 2018, it was put out of business by a ransomware attack.
 >
-> **[0:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=44)** Their abrupt shutdown was announced on their Facebook page.
+> **[0:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=44)** Their abrupt shutdown was announced on their [[Facebook]] page.
 >
 > **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=48)** All customers lost their orders and their money.
 >
@@ -641,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Integrity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Facebook]] (1), [[Data Integrity]] (1)
 > **Env Vars:** ceo (1), cfo (1)
 > **Versions:** 1.4 (1), 12.7 (1)
 > **URLs:** [vice.com](https://vice.com) (1)
@@ -669,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=59)** That means information security programs need to make sure their organization's [[Financial Data]] is safeguarded, whether they are publicly traded or not.
 >
-> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=69)** The Payment Card Industry [[Data Security]] Standard is a set of requirements for securing payment card customer data.
+> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=69)** The [[PCI DSS|Payment Card Industry Data Security Standard]] is a set of requirements for securing payment card customer data.
 >
 > **[1:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=77)** It was developed by the founders of the PCI Security Standards Council which includes American Express, MasterCard, and Visa.
 >
@@ -717,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (2), [[Cybersecurity]] (1), [[Financial Data]] (1), [[Data Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (2), [[Cybersecurity]] (1), [[Financial Data]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** hipaa (3), gdpr (2), sox (1), pci (1), pcidss (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -769,7 +769,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=153)** It's the ongoing effort of ensuring that your organization is abiding by both industry regulations and government legislation.
 >
-> **[2:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=162)** Examples of common compliance mandates affecting information security include the Payment Card Industry [[Data Security]] Standard, the Health Insurance Portability and [[Accountability]] Act of 1996, the Sarbanes-Oxley Act of 2002, and the Federal [[Information Security Management]] Act.
+> **[2:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=162)** Examples of common compliance mandates affecting information security include the [[PCI DSS|Payment Card Industry Data Security Standard]], the Health Insurance Portability and [[Accountability]] Act of 1996, the Sarbanes-Oxley Act of 2002, and the Federal [[Information Security Management]] Act.
 >
 > **[3:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=181)** It's important for you to know that there is a material difference between being compliant and being secure.
 >
@@ -777,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=190)** When that happens, they can get so consumed by complicated regulations that they stop focusing on security altogether.
 >
-> **[3:18](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=198)** Using PCI DSS as an example, Target Corporation comes to mind.
+> **[3:18](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=198)** Using [[PCI DSS]] as an example, Target Corporation comes to mind.
 >
 > **[3:24](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=204)** Recall that over 40 million credit and debit card numbers were stolen from them in late 2013, but this happened even though Target was validated as being PCI-compliant just two months before the breach.
 >
@@ -803,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Accountability]] (1), [[Information Security Management]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[PCI DSS|Payment card industry data security standard]] (1), [[Accountability]] (1), [[Information Security Management]] (1), [[PCI DSS]] (1), [[Decision-Making]] (1)
 > **Env Vars:** erm (5), pci (2), grc (2), oecd (1), dss (1)
 > **Definitions:** is a  (3), in other words (1), is an  (1), defined as (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
@@ -1351,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=46)** How will you assess them?
 >
-> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=48)** In contrast, the Payment Card Industry [[Data Security]] Standard or PCI DSS tells you in great detail what to do to protect credit card data.
+> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=48)** In contrast, the [[PCI DSS|Payment Card Industry Data Security Standard]] or [[PCI DSS]] tells you in great detail what to do to protect credit card data.
 >
 > **[0:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=58)** For example, the first thing the standard tells you to do is build and maintain a secure network and systems.
 >
@@ -1445,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (3), [[Data Security]] (1), [[Network Security]] (1), [[Privacy]] (1), [[Information Security Management]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[PCI DSS|Payment card industry data security standard]] (1), [[PCI DSS]] (1), [[Network Security]] (1), [[Privacy]] (1)
 > **Env Vars:** cobit (3), nist (3), iso (3), sans (2), sox (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **Analogies:** for example (2), such as (2)
@@ -1529,7 +1529,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=55)** That's too much duplication of effort, which leads to extra expenses, and is overwhelming for your staff.
 >
-> **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=61)** For example, there is a requirement to change vendor, default settings in compliance mandates published by many different regulators, including the Payment Card Industry [[Data Security]] Standard, the Federal Financial Institutions Examination Council, National Institute of Standards and Technology, and the Internal Revenue Service.
+> **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=61)** For example, there is a requirement to change vendor, default settings in compliance mandates published by many different regulators, including the [[PCI DSS|Payment Card Industry Data Security Standard]], the Federal Financial Institutions Examination Council, National Institute of Standards and Technology, and the Internal Revenue Service.
 >
 > **[1:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=82)** And while conceptually similar, the details can be different enough to make it difficult for practitioners and expensive for their organizations.
 >
@@ -1621,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Program Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Security]] (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Program Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)

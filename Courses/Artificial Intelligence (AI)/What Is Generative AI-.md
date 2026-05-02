@@ -496,7 +496,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=138)** It took Netflix 49 months to reach 1 million users.
 >
-> **[2:23](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=143)** It took Twitter 24 months, it took Airbnb 30 months, Facebook, 10 months, and it took Instagram two-and-a half-months to reach 1 million users.
+> **[2:23](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=143)** It took Twitter 24 months, it took Airbnb 30 months, [[Facebook]], 10 months, and it took [[Instagram]] two-and-a half-months to reach 1 million users.
 >
 > **[2:35](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=155)** Let's remember, it took ChatGPT only one week.
 >

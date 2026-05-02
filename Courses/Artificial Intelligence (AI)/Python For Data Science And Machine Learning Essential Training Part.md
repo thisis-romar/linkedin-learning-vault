@@ -472,7 +472,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=268)** But one of the nice things about having a business is that the growth potential is pretty open-ended.
 >
-> **[4:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=274)** I mean, look at Facebook and how much money and impact that Mark Zuckerberg had with that platform.
+> **[4:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=274)** I mean, look at [[Facebook]] and how much money and impact that Mark Zuckerberg had with that platform.
 >
 > **[4:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=281)** At its core, Facebook is a data company.
 >
@@ -480,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Science]] (13), [[Market Research]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (13), [[Facebook]] (2), [[Market Research]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** ceo (1)

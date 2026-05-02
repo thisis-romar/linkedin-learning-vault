@@ -1224,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=90)** These new retail locations known as Capital One Cafes were definitely not your typical bank branches.
 >
-> **[1:37](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=97)** They felt more like Starbucks: comfortable, inviting spaces, coffee and pastries, free Wi-Fi.
+> **[1:37](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=97)** They felt more like Starbucks: comfortable, inviting spaces, coffee and pastries, free [[Wi-Fi]].
 >
 > **[1:44](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=104)** They also had Capital One Ambassadors on-hand to answer any banking questions.
 >
@@ -1256,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (5)
+> **Frameworks & Libraries:** [[Banking]] (5), [[Wi-Fi]] (1)
 > **Definitions:** known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)

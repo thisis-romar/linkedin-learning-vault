@@ -1944,7 +1944,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=144)** The other two device packages shown here are SOT packages, which stands for small outlying transistor.
 >
-> **[2:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=151)** SOTs are surface mount components with a small footprint for compact printed circuit board designs.
+> **[2:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=151)** SOTs are surface mount components with a small footprint for compact [[PCB|printed circuit board]] designs.
 >
 > **[2:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=158)** For [[Prototyping]] circuits on my breadboard, I tend to use transistors with the TO-92 package type.
 >
@@ -2090,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PCB|Printed circuit board]] (1), [[Prototyping]] (1)
 > **Env Vars:** npn (3), pnp (3), bc547 (2), tip29 (2), bc557 (1)
 > **Definitions:** is a  (5), stands for (2), known as (1)
 > **Versions:** 0.2 (1), 0.1 (1), 0.65 (1), 0.85 (1), 0.7 (1)

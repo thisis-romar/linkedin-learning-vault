@@ -6116,9 +6116,9 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=281)** So keep in mind, whenever you're trying to retrieve the data, if you can minimize this retrieval, do that.
 >
-> **[4:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=290)** Another ninja technique would be is optimize the subquery using the CTE.
+> **[4:50](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=290)** Another ninja technique would be is optimize the subquery using the [[CTE]].
 >
-> **[4:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=296)** CTE stands for common table expression.
+> **[4:56](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=296)** CTE stands for [[CTE|common table expression]].
 >
 > **[5:01](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=301)** Now, sometimes you use these subqueries, a query within a query, to get the result.
 >
@@ -6126,7 +6126,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=312)** Subqueries makes the things work slow.
 >
-> **[5:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=315)** So, whenever you encounter the subquery, instead of using the subquery, you can create the CTEs or common table expression and then use that CTE to do the work.
+> **[5:15](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=315)** So, whenever you encounter the subquery, instead of using the subquery, you can create the [[CTE|CTEs]] or common table expression and then use that CTE to do the work.
 >
 > **[5:29](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/basic-performance-tuning-techniques?u=76281980&t=329)** If you do this way, you're going to have the better performance.
 >
@@ -6168,7 +6168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Database Queries]] (1), [[PostgreSQL]] (1), [[Scalability]] (1), [[User Management]] (1)
+> **Frameworks & Libraries:** [[CTE]] (5), [[SQL]] (2), [[CTE|Common table expression]] (2), [[CTE|Ctes]] (2), [[Database Queries]] (1)
 > **Env Vars:** cte (5), sql (2)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), just like (1), imagine (1)

@@ -1547,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=26)** There is an essentials course, or you can even try GraphQL with Relay.
 >
-> **[0:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=32)** GraphQL is a perfect match for [[React.js|React]], and both were created by Facebook.
+> **[0:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=32)** GraphQL is a perfect match for [[React.js|React]], and both were created by [[Facebook]].
 >
 > **[0:38](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=38)** As a backend developer, if you've been looking for the right excuse to learn [[Front-End Development]], React is ideal for GraphQL.
 >
@@ -1561,7 +1561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Front-End Development]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Facebook]] (1), [[Front-End Development]] (1)
 > **Env Vars:** rest (1), api (1), sql (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** node.js (1)

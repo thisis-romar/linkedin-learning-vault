@@ -696,7 +696,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980&t=83)** While no customer data was affected, the employee's personal information, including bank accounts, were compromised.
 >
-> **[1:30](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980&t=90)** Now, this seems to be a fault of a team member using an unauthorized basic password and you're already seeing employees posting questions and angry message on Facebook and Glassdoor.
+> **[1:30](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980&t=90)** Now, this seems to be a fault of a team member using an unauthorized basic password and you're already seeing employees posting questions and angry message on [[Facebook]] and Glassdoor.
 >
 > **[1:40](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980&t=100)** The second scenario is talks about on a Wednesday morning, team members saying they're computer froze and they got that dreaded ransomware note on the screen.
 >
@@ -726,6 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Env Vars:** cio (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)

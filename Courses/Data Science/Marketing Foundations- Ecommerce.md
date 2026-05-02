@@ -450,7 +450,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=83)** So if people are actively searching for your product, then this is a great avenue.
 >
-> **[1:28](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=88)** If however you have an innovative product that people are not necessarily searching for, then you might want more of an interruption marketing method and that might include methods such as Facebook or Instagram advertisements.
+> **[1:28](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=88)** If however you have an innovative product that people are not necessarily searching for, then you might want more of an interruption marketing method and that might include methods such as [[Facebook]] or [[Instagram]] advertisements.
 >
 > **[1:44](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980&t=104)** Overall, you want a strategy that helps to bring people back to your website to make additional purchases.
 >
@@ -460,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Google]] (2), [[Marketing Strategy]] (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Google]] (2), [[Marketing Strategy]] (1), [[Facebook]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -475,13 +475,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=8)** Well, there are a number of tools that you can utilize.
 >
-> **[0:10](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=10)** And the first one that I want to speak about is the Facebook Insights tool.
+> **[0:10](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=10)** And the first one that I want to speak about is the [[Facebook]] Insights tool.
 >
 > **[0:15](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=15)** Now you can access this tool simply by going to Facebook, going into your Ads Manager, and then go in into the Facebook Audience Insights tool.
 >
 > **[0:24](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=24)** And it should take you into something that looks like this.
 >
-> **[0:27](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=27)** Now, this is a way to analyze your current audience on Instagram and on Facebook.
+> **[0:27](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=27)** Now, this is a way to analyze your current audience on [[Instagram]] and on Facebook.
 >
 > **[0:31](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/researching-your-market-for-ecommerce?u=76281980&t=31)** You can have a breakdown of the gender of people who are following you, as well as their age, some of your top countries and cities, and some top pages as well, that are similar to your page.
 >
@@ -585,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Google]] (4), [[Instagram]] (2), [[Microsoft Products|Products]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
 > **Analogies:** similar to (2), for example (1)
@@ -839,7 +839,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=79)** If you decide that your target customers are spending a lot of time on YouTube and you want to create a YouTube channel, then you need to make sure that your YouTube videos are engaging.
 >
-> **[1:31](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=91)** If, however, you decide that you want to start creating content on Instagram, then make use of all of the different types of content you can produce on Instagram, Instagram Reels, Instagram IGTVs, also Instagram Stories, and different platforms are coming up with different ways to create content all of the time, whether that be video content, image content, or even written articles.
+> **[1:31](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=91)** If, however, you decide that you want to start creating content on [[Instagram]], then make use of all of the different types of content you can produce on Instagram, Instagram Reels, Instagram IGTVs, also Instagram Stories, and different platforms are coming up with different ways to create content all of the time, whether that be video content, image content, or even written articles.
 >
 > **[1:59](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/building-brand-awareness-on-social-media?u=76281980&t=119)** You want to make sure that you're being native on whatever platform you're creating content for, producing that content on a consistent basis in a way that resonates with your target customers.
 >
@@ -857,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Social Media Marketing]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (6), [[LinkedIn]] (1), [[Social Media Marketing]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** coming up (1)
@@ -1059,9 +1059,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=31)** But because users are prompting these ads to appear with their search terms, then they can prove to convert at a high rate.
 >
-> **[0:39](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=39)** Facebook Ads are also very effective.
+> **[0:39](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=39)** [[Facebook]] Ads are also very effective.
 >
-> **[0:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=42)** Facebook also own Instagram, so your ads created in the Facebook Ads Manager can actually have a large reach.
+> **[0:42](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=42)** Facebook also own [[Instagram]], so your ads created in the Facebook Ads Manager can actually have a large reach.
 >
 > **[0:49](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980&t=49)** [[LinkedIn]] is a great opportunity if your [[Microsoft Products|products]] target professionals of specific industries.
 >
@@ -1107,7 +1107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (3), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (4), [[Google]] (3), [[LinkedIn]] (3), [[E-Commerce]] (2), [[Instagram]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1132,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=41)** And you want to be able to give your campaigns the time that they deserve without overspending.
 >
-> **[0:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=47)** Now, there's so many different ad campaigns such as Instagram ads, Facebook ads, [[LinkedIn]] ads, influencer marketing, just to name a few.
+> **[0:47](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=47)** Now, there's so many different ad campaigns such as [[Instagram]] ads, [[Facebook]] ads, [[LinkedIn]] ads, influencer marketing, just to name a few.
 >
 > **[0:57](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/paid-traffic-sources?u=76281980&t=57)** You really want to think about where your target customers spend the majority of their time online and invest your ads in those platforms.
 >
@@ -1162,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Instagram]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - with (1)
@@ -1243,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=25)** So if you click on the Amazon Associates Program then affiliates can actually sign up to earn money promoting Amazon's products.
 >
-> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=32)** So for example, someone might come across your website and maybe they have a large following on YouTube, on Instagram, or maybe they have a big network on [[LinkedIn]].
+> **[0:32](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=32)** So for example, someone might come across your website and maybe they have a large following on YouTube, on [[Instagram]], or maybe they have a big network on [[LinkedIn]].
 >
 > **[0:43](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/attracting-affiliates-to-your-ecommerce-store?u=76281980&t=43)** And if they really like your product and they think that their followers would enjoy it too then you can make it easy for people to sign up to your affiliate program by simply creating one and leaving a link to it where people can sign up in the footer of your website.
 >
@@ -1271,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Instagram]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ecommerce (1)

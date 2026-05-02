@@ -271,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=85)** So it all starts with the data.
 >
-> **[1:27](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=87)** Facebook had a similar challenge in that people put Facebook ads and Facebook is very demographic driven.
+> **[1:27](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=87)** [[Facebook]] had a similar challenge in that people put Facebook ads and Facebook is very demographic driven.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-are-some-examples-of-how-ai-creates-hiring-bias?u=76281980&t=94)** So I'm not going to get an ad from Facebook for a young woman.
 >
@@ -331,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (2)
+> **Frameworks & Libraries:** [[Facebook]] (5), [[Interviewing]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - how (1)

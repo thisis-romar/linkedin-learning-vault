@@ -566,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=42)** The AI will quickly learn how to answer questions in the most human way possible based on these trainings.
 >
-> **[0:48](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=48)** You can use it on your website or connect it to apps like Facebook Messenger, Instagram, or WhatsApp.
+> **[0:48](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=48)** You can use it on your website or connect it to apps like [[Facebook]] Messenger, [[Instagram]], or WhatsApp.
 >
 > **[0:53](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/ai-powered-chatbots-for-customer-service-and-engagement?u=76281980&t=53)** Zendesk AI can automatically answer your customers' questions instantly, and it works in many languages across many platforms like emails, DM Slacks.
 >
@@ -594,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Instagram]] (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** faq (1), api (1)
 > **URLs:** [quickchat.ai](https://quickchat.ai) (1)

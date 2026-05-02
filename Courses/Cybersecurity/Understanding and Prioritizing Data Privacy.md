@@ -1068,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/response-and-repair-after-an-incident?u=76281980&t=114)** Communicate openly with affected parties, providing them with information on what happened, what data was compromised, and what steps you are taking.
 >
-> **[2:03](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/response-and-repair-after-an-incident?u=76281980&t=123)** For example, after the Facebook-Cambridge Analytica scandal, the company faced public backlash, but took steps to improve transparency and user control over data.
+> **[2:03](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/response-and-repair-after-an-incident?u=76281980&t=123)** For example, after the [[Facebook]]-Cambridge Analytica scandal, the company faced public backlash, but took steps to improve transparency and user control over data.
 >
 > **[2:15](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/response-and-repair-after-an-incident?u=76281980&t=135)** This response helped to rebuild trust, albeit slowly.
 >
@@ -1078,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (2), [[Phishing]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Phishing]] (1), [[React.js|React]] (1), [[Facebook]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - so (1)
 

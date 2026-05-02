@@ -2890,7 +2890,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980&t=24)** I have two columns of data, and you can see them there in worksheet columns A and B.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980&t=29)** And then in cell D3, which I've selected, I can calculate the correlation between those two sets of values.
+> **[0:29](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980&t=29)** And then in cell [[D3.js|D3]], which I've selected, I can calculate the correlation between those two sets of values.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-the-correlation-between-two-columns-of-data-24045732?u=76281980&t=38)** So in cell D3, I'll type an equal sign, and the function I want to use is coral or correl, C-O-R-R-E-L, finds the correlation coefficient between two datasets.
 >
@@ -2932,6 +2932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[D3.js|D3]] (2)
 > **Versions:** 0.69 (3), 0.7 (1), 0.6948 (1), 0.1 (1), 0.05 (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** a12 (1), b12 (1)
@@ -3015,7 +3016,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=191)** And last one.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=192)** Equal correlation, I'm working in cell G9, and that will be D3 absolute to D12 absolute, pressing F4, comma A3 to A12.
+> **[3:12](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=192)** Equal correlation, I'm working in cell G9, and that will be [[D3.js|D3]] absolute to D12 absolute, pressing F4, comma A3 to A12.
 >
 > **[3:28](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-correlation-among-multiple-pairs-of-columns-24048671?u=76281980&t=208)** And Enter.
 >
@@ -3041,7 +3042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[D3.js|D3]] (1)
 > **Env Vars:** a12 (8), correl (1), b12 (1), c12 (1), d12 (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (3)
@@ -3329,7 +3330,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=146)** And I see the expected value of scenario 1, $50,000 with a 25% probability is $12,500.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=156)** Now, I will use the fill handle to drag the contents of cell D2 so that it covers D3 and D4, and I get those calculations there.
+> **[2:36](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=156)** Now, I will use the fill handle to drag the contents of cell D2 so that it covers [[D3.js|D3]] and D4, and I get those calculations there.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-expected-value-24046708?u=76281980&t=168)** So I have 60% times minus 25,000 equals minus 15,000.
 >
@@ -3343,7 +3344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (2), [[D3.js|D3]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** alt (1)
 > **Exercise Files:** exercise files (1)

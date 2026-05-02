@@ -298,7 +298,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=11)** The Accounting department uses specialized proprietary software and needs an open connection to the vendor.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=18)** Marketing does a lot of work with social media, so they'll need access to Facebook, Twitter, and [[LinkedIn]].
+> **[0:18](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=18)** Marketing does a lot of work with social media, so they'll need access to [[Facebook]], Twitter, and [[LinkedIn]].
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/recognizing-security-contexts?u=76281980&t=24)** But, concurrently, we don't want the Sales department to go to sites such as Facebook or YouTube.
 >
@@ -348,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[LinkedIn]] (1)
 > **Env Vars:** asa (7), vpn (1), url (1)
 > **Analogies:** such as (3), imagine (1), for example (1)
 > **Prerequisites:** you'll need (2)

@@ -703,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=19)** As with a lot of these challenges, there are multiple ways to solve the problem.
 >
-> **[0:23](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=23)** However, for this challenge, we're going to try and think about using a common table expression, or CTE.
+> **[0:23](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=23)** However, for this challenge, we're going to try and think about using a [[CTE|common table expression]], or [[CTE]].
 >
 > **[0:28](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980&t=28)** A common request for businesses is to look at sales data across the year to ensure things are trending in the right direction.
 >
@@ -743,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (7), [[CTE|Common table expression]] (2), [[SQL]] (1)
 > **Env Vars:** cte (7), sql (1)
 > **Non-Speech:** (computerized music) (2)
 > **CLI Commands:** make (1)
@@ -985,7 +985,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=72)** And if we run this query we can see that we've got total sales per month displayed.
 >
-> **[1:19](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=79)** We're also going to utilize a common table expression, or CTE here to simplify our final query.
+> **[1:19](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=79)** We're also going to utilize a [[CTE|common table expression]], or [[CTE]] here to simplify our final query.
 >
 > **[1:24](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-report-showing-sales-per-month-and-an-annual-total?u=76281980&t=84)** The CTE is going to contain the query we crafted in the last step.
 >
@@ -1005,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1)
+> **Frameworks & Libraries:** [[CTE]] (2), [[SQL]] (1), [[CTE|Common table expression]] (1)
 > **Env Vars:** cte (2), sql (1)
 > **Non-Speech:** (bouncy playful music) (2)
 > **Cross-References:** in the last (1)

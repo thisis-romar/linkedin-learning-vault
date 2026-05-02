@@ -352,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=142)** Another really valuable OSINT tool is just a search engine like [[Google]].
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=148)** If I enter the name of Audry Topsy, which is our fake identity for this course, and I search on Google, information that pulls up is a [[LinkedIn]] account, information that may be tied to a business, potential images, a Twitter account, a Facebook account.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=148)** If I enter the name of Audry Topsy, which is our fake identity for this course, and I search on Google, information that pulls up is a [[LinkedIn]] account, information that may be tied to a business, potential images, a Twitter account, a [[Facebook]] account.
 >
 > **[2:44](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980&t=164)** If you've never Googled your name, you definitely should, because it's likely there's a lot of information about you out there.
 >
@@ -466,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[LinkedIn]] (1), [[Windows]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[LinkedIn]] (1), [[Facebook]] (1), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** osint (12), fdny (1)
 > **Definitions:** is a  (7), is called (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
@@ -950,9 +950,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=39)** I will walk you through some of the most common apps so you can get a sense of what to look for when you're going into these applications and accounts and trying to change the privacy settings.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=50)** Let's start with Instagram, which is a very popular social media app that I'm sure almost everybody has already heard of.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=50)** Let's start with [[Instagram]], which is a very popular social media app that I'm sure almost everybody has already heard of.
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=57)** Now, this is just one example for social media, but it is representative of other platforms like TikTok or Facebook.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=57)** Now, this is just one example for social media, but it is representative of other platforms like TikTok or [[Facebook]].
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980&t=63)** So you should be able to take the principles and lessons from this example and apply them to all of your other social media accounts.
 >
@@ -1202,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (33), [[LinkedIn]] (14), [[Data Privacy]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (33), [[LinkedIn]] (14), [[Instagram]] (6), [[Data Privacy]] (2), [[Facebook]] (1)
 > **CLI Commands:** make (15), find (11)
 > **UI Navigation:** click on (4), go to (3), scroll down (2)
 > **Analogies:** just like (3), for example (2), picture (1), such as (1), similar to (1)
@@ -1327,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=47)** Your phone collects information about your location constantly.
 >
-> **[0:51](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=51)** It collects very precise information in a variety of different ways and different sensors, including GPS, cell phone towers that can triangulate you, and things like wifi, Bluetooth and NFC are signals that can be used to identify your location.
+> **[0:51](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=51)** It collects very precise information in a variety of different ways and different sensors, including GPS, cell phone towers that can triangulate you, and things like [[Wi-Fi|wifi]], Bluetooth and NFC are signals that can be used to identify your location.
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980&t=65)** People have been triangulated through wifi signals, as an example.
 >
@@ -1369,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gps (1), nfc (1)
 > **Cross-References:** in the next (1)

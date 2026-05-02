@@ -1329,7 +1329,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=68)** Challenge-Handshake Authentication Protocol or CHAP is a challenge-response authentication method.
 >
-> **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=75)** Password Authentication Protocol or PAP is similar to a normal login procedure and Extensible Authentication Protocol or EAP is used in point-to-point and Wi-Fi networks.
+> **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=75)** Password Authentication Protocol or PAP is similar to a normal login procedure and Extensible Authentication Protocol or EAP is used in point-to-point and [[Wi-Fi]] networks.
 >
 > **[1:30](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=90)** 802.1X is Port-based authentication that provides Network Access Control.
 >
@@ -1383,7 +1383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (1), [[Linux]] (1)
 > **Env Vars:** radius (19), tacacs (8), tcp (2), udp (2), chap (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (2)
@@ -1474,7 +1474,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=79)** The protocols work in the following manner.
 >
-> **[1:22](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=82)** RADIUS is primarily used for network access control for Wi-Fi and VPN users by authenticating end users and devices.
+> **[1:22](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=82)** RADIUS is primarily used for network access control for [[Wi-Fi]] and VPN users by authenticating end users and devices.
 >
 > **[1:33](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=93)** TACACS+ is often used for administrative access to network devices, such as routers, switches, or firewalls.
 >
@@ -1502,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (1), [[Multi-factor Authentication]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Wi-Fi]] (1), [[Multi-factor Authentication]] (1), [[Active Directory]] (1)
 > **Env Vars:** aaa (8), radius (7), ice (7), tacacs (4), vpn (2)
 > **Analogies:** such as (5)
 > **Definitions:** is an  (1)

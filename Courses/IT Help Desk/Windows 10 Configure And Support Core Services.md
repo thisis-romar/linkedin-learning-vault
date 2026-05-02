@@ -169,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=92)** You'll learn more about that shortly.
 >
-> **[1:35](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=95)** The most popular way to assign a computer an IP address is to use Dynamic Host Configuration Protocol or DHCP which is a technology that automatically assigns each node on a network a unique address.
+> **[1:35](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=95)** The most popular way to assign a computer an IP address is to use [[DHCP|Dynamic Host Configuration Protocol]] or [[DHCP]] which is a technology that automatically assigns each node on a network a unique address.
 >
 > **[1:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=111)** A computer is assigned an address when it joins if DHCP is enabled.
 >
@@ -257,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (8), [[LinkedIn]] (2), [[Windows 10]] (1), [[DHCP|Dynamic host configuration protocol]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dhcp (8), cmd (1), dns (1), iana (1)
 > **CLI Commands:** find (2), node (2), make (2)
 > **Definitions:** is a  (3), means that (2)
@@ -318,7 +318,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=135)** Notice the two numbers.
 >
-> **[2:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=137)** Now go ahead and look at your default gateway and your DHCP server.
+> **[2:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=137)** Now go ahead and look at your default gateway and your [[DHCP]] server.
 >
 > **[2:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=142)** You should see the same numbers there.
 >
@@ -412,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (1), [[Windows]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Microsoft]] (3), [[Windows 10]] (1), [[Windows]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (28), dhcp (3), tcp (1), isp (1)
 > **CLI Commands:** find (4)
 > **Versions:** 10.35 (1), 8.8.8 (1), 8.8.4 (1)
@@ -427,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=0)** - [Instructor] [[Windows 10]] is compatible and supports many types of networks and network configurations.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=6)** It can physically connect to networks via ethernet, and employee various [[Forms]] of wireless, such as Bluetooth, near-field communications, and Wi-Fi.
+> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=6)** It can physically connect to networks via ethernet, and employee various [[Forms]] of wireless, such as Bluetooth, near-field communications, and [[Wi-Fi]].
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=14)** There are a range of network configurations, including those that are created manually by sharing folders, by using more formal work groups, and by connecting to enterprise domains.
 >
@@ -535,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (5), [[Windows 10]] (2), [[Forms]] (1)
 > **UI Navigation:** right-click (2), toggle (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Cross-References:** go back to (1)
@@ -638,7 +638,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=241)** And I can do the same for public.
 >
-> **[4:03](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=243)** You might want to do this if you're using an unsecured wifi connection at an airport or hotel.
+> **[4:03](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=243)** You might want to do this if you're using an unsecured [[Wi-Fi|wifi]] connection at an airport or hotel.
 >
 > **[4:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=249)** I've covered just about all you need to know about Windows Firewall, and this movie is almost to its end.
 >
@@ -648,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (4)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (4), [[Wi-Fi|Wifi]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (2)
 > **Best Practices:** make sure to (1), good practice (1)
@@ -759,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=15)** You can access these from the bottom right corner by clicking the network icon.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=20)** This turns on or off WiFi.
+> **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=20)** This turns on or off [[Wi-Fi|WiFi]].
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=23)** This turns on or off airplane mode.
 >
@@ -845,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Wi-Fi|Wifi]] (2), [[Windows 10]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -859,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980&t=0)** - [Narrator] There are a few more wireless features to look at before we move on.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980&t=4)** We've already talked about what's available from the task bar, where you can toggle on and off Wi-Fi, airplane mode, and mobile hotspots, and where you can connect to different networks, and even disconnect from them.
+> **[0:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980&t=4)** We've already talked about what's available from the task bar, where you can toggle on and off [[Wi-Fi]], airplane mode, and mobile hotspots, and where you can connect to different networks, and even disconnect from them.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980&t=18)** You've explored settings in network and internet.
 >
@@ -889,6 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 2.0 (1)
 > **UI Navigation:** toggle (1)
@@ -1089,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=0)** - [Instructor] Finding the problem when network issues arise is sometimes easy, like reconnecting a disconnected ethernet cable.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=7)** With a laptop, perhaps is something simple as well, like re-enabling WiFi or turning off airplane mode.
+> **[0:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=7)** With a laptop, perhaps is something simple as well, like re-enabling [[Wi-Fi|WiFi]] or turning off airplane mode.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=14)** These options are available from the task bar and the network icon.
 >
@@ -1175,7 +1176,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=245)** I'm going to go ahead and click Properties now and show you one last little thing.
 >
-> **[4:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=250)** Here, on Internet Protocol Version 4, sometimes we run into problems with network adapters, even if they're enabled, if DHCP has been somehow turned off.
+> **[4:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=250)** Here, on Internet Protocol Version 4, sometimes we run into problems with network adapters, even if they're enabled, if [[DHCP]] has been somehow turned off.
 >
 > **[4:21](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=261)** I'm going to click Properties here.
 >
@@ -1205,7 +1206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (5), [[Windows]] (2), [[DHCP]] (1)
 > **UI Navigation:** select the (2), toggle (1), scroll down (1), double-click (1), go to (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (3)
@@ -3337,7 +3338,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=157)** You can set options for public documents in various policies for things like camera and security.
 >
-> **[2:48](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=168)** Here are some of the policies options: camera, security, system, and wifi.
+> **[2:48](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=168)** Here are some of the policies options: camera, security, system, and [[Wi-Fi|wifi]].
 >
 > **[3:01](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=181)** Feel free to look through all of these options as time allows.
 >
@@ -3369,7 +3370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1), [[Wi-Fi|Wifi]] (1)
 > **Prerequisites:** install (4), set up (2), you'll need (2)
 > **Env Vars:** adk (2)
 > **CLI Commands:** make (1)

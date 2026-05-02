@@ -139,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=23)** Front end tools like React can not talk to a database or provide a backend infrastructure like PHP can.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=30)** Further, popular [[Content Management Systems (CMS)|content management systems]] like [[WordPress]] and [[Drupal]] and websites like Facebook, Wikipedia, and Yahoo, all use PHP.
+> **[0:30](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=30)** Further, popular [[Content Management Systems (CMS)|content management systems]] like [[WordPress]] and [[Drupal]] and websites like [[Facebook]], Wikipedia, and Yahoo, all use PHP.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=40)** In fact, 80% of all websites use at least some PHP.
 >

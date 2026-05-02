@@ -2415,7 +2415,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=33)** It allows teams to not only create websites quickly but to keep scaling them for millions of new users.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=41)** Some well known sites using Django are Spotify, Discus and Instagram.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=41)** Some well known sites using Django are Spotify, Discus and [[Instagram]].
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/how-python-is-used-in-the-real-world?u=76281980&t=47)** Next up, animation.
 >

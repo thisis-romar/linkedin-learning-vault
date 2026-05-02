@@ -1482,7 +1482,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=75)** Specifically, think about production systems that were running normally, and then due to some event, which definitely wasn't your fault, the situation normal was all messed up.
 >
-> **[1:26](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=86)** If you're new in your career, you may not have seen incidents on the scale of [[Google]] or Facebook going offline, but try to recall an incident that affected production-level services.
+> **[1:26](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=86)** If you're new in your career, you may not have seen incidents on the scale of [[Google]] or [[Facebook]] going offline, but try to recall an incident that affected production-level services.
 >
 > **[1:36](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=96)** Once you have your incident in mind, use the story time method to tell the interviewer what happened.
 >
@@ -1506,7 +1506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Facebook]] (1), [[DevOps]] (1)
 > **Speakers:** - describe (1), - during (1)
 > **Env Vars:** rca (1)
 

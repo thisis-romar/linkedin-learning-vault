@@ -1514,7 +1514,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=49)** Now the NIST catalog is free, and the ISO catalog costs money for you to access.
 >
-> **[0:54](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=54)** Now, you can also choose controls from other standards, like the Center for Internet Security's critical security controls, the Payment Card Industry [[Data Security]] standard, or even the Australian [[Cybersecurity]] Center's essential eight controls.
+> **[0:54](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=54)** Now, you can also choose controls from other standards, like the Center for Internet Security's critical security controls, the [[PCI DSS|Payment Card Industry data security standard]], or even the Australian [[Cybersecurity]] Center's essential eight controls.
 >
 > **[1:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=71)** I've used 800-53 the most because it's been very helpful in my work.
 >
@@ -1558,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (2), [[Databases]] (2), [[Data Security]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (2), [[Databases]] (2), [[PCI DSS|Payment card industry data security standard]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nist (4), iso (3)
 > **Best Practices:** recommended (1), remember to (1)
 > **Definitions:** known as (1)

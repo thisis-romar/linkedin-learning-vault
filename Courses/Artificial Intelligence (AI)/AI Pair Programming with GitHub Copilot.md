@@ -127,7 +127,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=0)** - So, what is [[GitHub Copilot]], and why did Mike Krieger, who is the co-founder of Instagram, initially refer to it as, "The single most mind-blowing application "of machine learning?"
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=0)** - So, what is [[GitHub Copilot]], and why did Mike Krieger, who is the co-founder of [[Instagram]], initially refer to it as, "The single most mind-blowing application "of machine learning?"
 >
 > **[0:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=13)** GitHub Copilot is a growing set of AI-powered developer tools.
 >
@@ -165,7 +165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), [[Instagram]] (1)
 > **Env Vars:** gpt (3)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)

@@ -210,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=71)** Microsoft Bot Framework was a platform for building and deploying chatbots and [[Conversational AI]] applications.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=79)** It provided developers with tools and resources to create bots that could interact with users through various channels such as Facebook Messenger, Skype, [[Slack]], and more.
+> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=79)** It provided developers with tools and resources to create bots that could interact with users through various channels such as [[Facebook]] Messenger, Skype, [[Slack]], and more.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=89)** Soon it was integrated into Azure Bot Service, which is a part of Azure AI.
 >
@@ -228,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft]] (7), [[Data Science]] (1), [[Conversational AI]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft]] (7), [[Data Science]] (1), [[Conversational AI]] (1), [[Facebook]] (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1912,7 +1912,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980&t=63)** Let's look at conversations.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980&t=67)** Here's a conversation, Setting Up a Wifi Connection.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980&t=67)** Here's a conversation, Setting Up a [[Wi-Fi|Wifi]] Connection.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980&t=72)** This is a customer service conversation.
 >
@@ -1930,6 +1930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2)
 > **CLI Commands:** brew (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
@@ -2466,7 +2467,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=123)** The Bot Framework SDK is a set of tools and libraries for building chatbots and conversational agents.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=129)** It provides developers with a framework for creating bots that can communicate with users through various channels such as Facebook Messenger, Skype, and [[Slack]].
+> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=129)** It provides developers with a framework for creating bots that can communicate with users through various channels such as [[Facebook]] Messenger, Skype, and [[Slack]].
 >
 > **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=138)** The SDK includes a range of features such as natural language processing, dialogue management, and message [[Routing]].
 >

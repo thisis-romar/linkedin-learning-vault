@@ -1815,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=29)** Our profit loss statement has a list of all of our [[Microsoft Products|products]] for the first half of the year and how they're doing in sales.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=38)** In cell D3, I've created a [[Data Validation]] rule and used the product list in column A to create a dropdown menu for people to choose a product from.
+> **[0:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=38)** In cell [[D3.js|D3]], I've created a [[Data Validation]] rule and used the product list in column A to create a dropdown menu for people to choose a product from.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=50)** Our next step for conditional formatting will be to create a rule so when someone selects Canino, for instance, it'll come down and highlight that entire row.
 >
@@ -1987,7 +1987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Validation]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (2), [[Microsoft Products|Products]] (1), [[Data Validation]] (1)
 > **UI Navigation:** go to (4), dropdown (2), double-click (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)

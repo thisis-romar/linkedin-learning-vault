@@ -4351,7 +4351,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=136)** You can ask a question or start a discussion.
 >
-> **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=139)** There are also plenty of Jira theme groups on [[LinkedIn]] and Facebook.
+> **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=139)** There are also plenty of Jira theme groups on [[LinkedIn]] and [[Facebook]].
 >
 > **[2:23](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=143)** Next, studying for Atlassian certification is a great way to learn more about Jira.
 >
@@ -4373,7 +4373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (11), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (11), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1), [[Facebook]] (1)
 > **Tools:** jira (12)
 > **Env Vars:** jsm (4), url (3)
 > **CLI Commands:** find (2), make (2)

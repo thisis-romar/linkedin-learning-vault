@@ -380,7 +380,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=60)** While plenty was written about the invasion of people's privacy online, we didn't see consumers shifting their behavior.
 >
-> **[1:07](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=67)** People kept posting pictures of their kids on Facebook, shopping on Amazon, and searching [[Google]].
+> **[1:07](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=67)** People kept posting pictures of their kids on [[Facebook]], shopping on Amazon, and searching [[Google]].
 >
 > **[1:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=72)** People did not flee these sites and yearn for the days of dial-up the way privacy advocates predicted.
 >
@@ -420,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Facebook]] (3), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** ceo (1), cia (1)
 > **Definitions:** means that (1), is a  (1)
 > **Code Identifiers:** iphone (1)

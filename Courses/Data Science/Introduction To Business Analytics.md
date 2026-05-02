@@ -1366,7 +1366,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980&t=98)** For example, you may find that your top selling product is resonating with female in Georgia between the age of 35 and 45.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980&t=106)** So instead of buying ads for the entire country, you can now focus your Facebook ads just on this specific demographic.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980&t=106)** So instead of buying ads for the entire country, you can now focus your [[Facebook]] ads just on this specific demographic.
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980&t=114)** And you can see a much higher return on investment for your marketing spend.
 >
@@ -1378,6 +1378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sales (1)
@@ -1408,7 +1409,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=70)** But as time goes on, you'll want to start to focus your marketing budget on the channels that are providing the biggest ROI.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=78)** For my consulting business, Facebook ads don't really move the needle much, but [[LinkedIn]] ads have a much better return.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=78)** For my consulting business, [[Facebook]] ads don't really move the needle much, but [[LinkedIn]] ads have a much better return.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=85)** Third, you can use data to inform when and where you are targeting your audience.
 >
@@ -1438,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Facebook]] (1), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Ports:** :00 (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)

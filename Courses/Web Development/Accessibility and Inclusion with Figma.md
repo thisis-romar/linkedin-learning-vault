@@ -719,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=24)** If you look at this modal, it's pretty straightforward.
 >
-> **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=28)** You can use Twitter X or Facebook to log in, or you can enter your username and a password.
+> **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=28)** You can use Twitter X or [[Facebook]] to log in, or you can enter your username and a password.
 >
 > **[0:36](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=36)** All of this can be picked up by a screen reader and made accessible.
 >
@@ -775,7 +775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** aria (8)
 > **Definitions:** is a  (2), short for (1)
 > **CLI Commands:** make (2)

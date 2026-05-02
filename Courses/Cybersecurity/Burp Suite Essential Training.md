@@ -1082,11 +1082,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=94)** Back in the bank, I can see verification that the transaction amount of $99 has been transferred.
 >
-> **[1:42](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=102)** If we're using a public wifi hotspot to do our banking, we're leaving ourselves open to a man in the middle attack, and to the attacker changing not only the amount we're remitting, but also the account it's going to.
+> **[1:42](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=102)** If we're using a public [[Wi-Fi|wifi]] hotspot to do our banking, we're leaving ourselves open to a man in the middle attack, and to the attacker changing not only the amount we're remitting, but also the account it's going to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (3), [[Banking]] (3)
+> **Frameworks & Libraries:** [[Burp Suite]] (3), [[Banking]] (3), [[Wi-Fi|Wifi]] (1)
 > **URLs:** [security.com](https://security.com) (1)
 > **Env Vars:** http (1)
 > **Cross-References:** go back to (1)

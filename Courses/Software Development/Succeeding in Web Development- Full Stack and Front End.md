@@ -783,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=0)** - A lot of people have a misconception about developers.
 >
-> **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=4)** That we're all a bunch of loners, working in our rooms, on the next big Facebook or [[Google]].
+> **[0:04](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=4)** That we're all a bunch of loners, working in our rooms, on the next big [[Facebook]] or [[Google]].
 >
 > **[0:10](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/version-control?u=76281980&t=10)** In reality, most developers work as part of a team.
 >
@@ -823,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Google]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Facebook]] (1), [[Google]] (1)
 > **CLI Commands:** make (3), git (1)
 > **Speakers:** - a (1)
 
@@ -1027,7 +1027,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=30)** There are popular tools that make working with data simple.
 >
-> **[0:34](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=34)** The D3 library can help you create interactive charts by combining data with a structured language.
+> **[0:34](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=34)** The [[D3.js|D3]] library can help you create interactive charts by combining data with a structured language.
 >
 > **[0:41](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/frameworks-and-libraries?u=76281980&t=41)** There are also some older libraries that are very common, like jQuery.
 >
@@ -1065,7 +1065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (3), [[HTML]] (2), [[JavaScript]] (2), [[Vue.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (3), [[HTML]] (2), [[JavaScript]] (2), [[D3.js|D3]] (1)
 > **Env Vars:** dom (2), html (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** jquery (2)
@@ -1083,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=16)** Developers often create these to simplify the sharing of data.
 >
-> **[0:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=20)** Now this is how some sites allow you to log in through your Facebook, [[Google]], or Twitter accounts.
+> **[0:20](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=20)** Now this is how some sites allow you to log in through your [[Facebook]], [[Google]], or Twitter accounts.
 >
 > **[0:27](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/apis-and-services?u=76281980&t=27)** And this is made possible by something called an API, or application programming interface.
 >
@@ -1115,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (2), [[Google]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[LinkedIn]] (2), [[Facebook]] (1), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** api (1), http (1), post (1), json (1), rest (1)
 > **Definitions:** is a  (3)
 > **API Endpoints:** get  (1), post

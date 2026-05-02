@@ -314,7 +314,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/technology-as-a-commodity?u=76281980&t=184)** There's also a wide range in what intuitive means.
 >
-> **[3:09](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/technology-as-a-commodity?u=76281980&t=189)** I may think Facebook is extremely intuitive and easy to use but Facebook for Dummies has sold tens of millions of copies and will soon be putting out a ninth edition.
+> **[3:09](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/technology-as-a-commodity?u=76281980&t=189)** I may think [[Facebook]] is extremely intuitive and easy to use but Facebook for Dummies has sold tens of millions of copies and will soon be putting out a ninth edition.
 >
 > **[3:20](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/technology-as-a-commodity?u=76281980&t=200)** Still, it's a question that will come up and it needs to be addressed.
 >
@@ -330,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)

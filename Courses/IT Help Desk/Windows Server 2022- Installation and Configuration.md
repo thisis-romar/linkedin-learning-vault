@@ -197,7 +197,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=120)** You'll notice that they're going to be almost completely identical.
 >
-> **[2:04](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=124)** I believe in this first section, there's one difference here on software-defined networking.
+> **[2:04](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=124)** I believe in this first section, there's one difference here on [[SDN|software-defined networking]].
 >
 > **[2:10](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980&t=130)** You need Datacenter edition for that.
 >
@@ -676,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=17)** And you'll see here, there's a section for ethernet.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=20)** And so it says IPv4 address assigned by DHCP, which may be what you want it to do, although typically with a server, that would not necessarily be the case.
+> **[0:20](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=20)** And so it says IPv4 address assigned by [[DHCP]], which may be what you want it to do, although typically with a server, that would not necessarily be the case.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-server-manager?u=76281980&t=32)** Again, I don't want to go into too much detail.
 >
@@ -732,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (4), right-click (1), go to (1), checkbox (1)
 > **Env Vars:** dhcp (3), dns (3)
 > **Versions:** 192.168.1 (3), version 4 (1), 255.0 (1)
@@ -834,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=32)** We see that on the list, index number one, but it already has an IP address assigned.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=36)** And the reason is because it was assigned via a DHCP server, just as the other server was.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=36)** And the reason is because it was assigned via a [[DHCP]] server, just as the other server was.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-tcp-ip-with-sconfig?u=76281980&t=42)** The other server, we didn't ever look at it, but it did have an IP address that was assigned to it.
 >
@@ -884,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Windows Server]] (1)
 > **Env Vars:** dns (9), dhcp (3), tcp (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 1.242 (1)
 > **UI Navigation:** select the (1)

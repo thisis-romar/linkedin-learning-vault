@@ -1173,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=36)** As an identity provider, it does everything we have mentioned so far.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=41)** As a broker, it allows your application to take advantage of social logins, such as Amazon, Facebook, and [[Google]], and map those logins to a user profile to be used within your application.
+> **[0:41](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=41)** As a broker, it allows your application to take advantage of social logins, such as Amazon, [[Facebook]], and [[Google]], and map those logins to a user profile to be used within your application.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980&t=54)** One very important feature as well is the ability to trade Cognito credentials for AWS temporary credentials.
 >
@@ -1195,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Facebook]] (1), [[Google]] (1)
 > **Env Vars:** aws (6), saml (3)
 > **CLI Commands:** aws (6), find (1)
 > **Definitions:** stands for (1), is an  (1)
@@ -1212,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=17)** It begins with the user trying to reach your application from their mobile device.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=21)** This individual may choose one of the available social login providers such as Facebook, Amazon, or [[Google]] to avoid having to type a username and password.
+> **[0:21](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=21)** This individual may choose one of the available social login providers such as [[Facebook]], Amazon, or [[Google]] to avoid having to type a username and password.
 >
 > **[0:31](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/workflow?u=76281980&t=31)** If this is the case, their identity will be verified against their provider of choice.
 >
@@ -1252,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Facebook]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (10), saml (1), sts (1), ldap (1), iam (1)
 > **CLI Commands:** aws (10)
 > **Cross-References:** go back to (1), as you saw (1)
@@ -1299,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=65)** We'll click on App integration.
 >
-> **[1:08](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=68)** We're now going to set up Facebook as our social identity provider.
+> **[1:08](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=68)** We're now going to set up [[Facebook]] as our social identity provider.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-demonstration?u=76281980&t=72)** We'll start by adding a domain.
 >
@@ -1461,7 +1461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (20), [[LinkedIn]] (1)
 > **Env Vars:** url (11), aws (1), api (1), owa (1)
 > **UI Navigation:** click on (6), go to (5), scroll down (1)
 > **Cross-References:** go back to (4)

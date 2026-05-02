@@ -3110,11 +3110,11 @@ created: 2026-05-02
 >
 > **[9:10](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=550)** - [Instructor] And if I move across.
 >
-> **[9:11](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=551)** - [NVDA Voice] Row four, Instagram.
+> **[9:11](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=551)** - [NVDA Voice] Row four, [[Instagram]].
 >
 > **[9:12](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=552)** Row five, [[LinkedIn]].
 >
-> **[9:13](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=553)** Row six, Facebook.
+> **[9:13](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=553)** Row six, [[Facebook]].
 >
 > **[9:15](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/creative-table-solutions?u=76281980&t=555)** Projected column, 245%.
 >
@@ -3142,7 +3142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Instagram]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (5), - [nvda (4)
 > **Env Vars:** nvda (5), pdf (2), ctrl (1)
 > **CLI Commands:** make (3), find (3)
@@ -8511,7 +8511,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980&t=70)** It's totally free, and you can get it on any of the major podcast platforms, you know, Spotify, Apple Music, you name it.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980&t=79)** Another great resource that a lot of people are leveraging is the PDF Accessibility Facebook group.
+> **[1:19](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980&t=79)** Another great resource that a lot of people are leveraging is the PDF Accessibility [[Facebook]] group.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980&t=86)** Now, again, I know some of you're saying, well, I'm really a Facebook user, and that's totally okay.
 >
@@ -8569,7 +8569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[DAX]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Microsoft Word|Word]] (2), [[DAX]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** pdf (3), csun (2), chax (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **UI Navigation:** go to (3)

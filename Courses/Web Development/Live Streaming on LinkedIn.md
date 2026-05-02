@@ -219,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=87)** And it's more of a question than a requirement.
 >
-> **[1:30](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=90)** Do you need to go with a wired connection or can you just use wifi?
+> **[1:30](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=90)** Do you need to go with a wired connection or can you just use [[Wi-Fi|wifi]]?
 >
 > **[1:36](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=96)** If you asked me that in 2013 when I first started streaming, listen, you couldn't be on my show unless you plugged into your modem.
 >
@@ -235,7 +235,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=129)** There is no Live button and this is not a Jedi mind trick.
 >
-> **[2:13](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=133)** I know there's one on Facebook and Instagram and YouTube and Twitter, but there's not one on LinkedIn.
+> **[2:13](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=133)** I know there's one on [[Facebook]] and [[Instagram]] and YouTube and Twitter, but there's not one on LinkedIn.
 >
 > **[2:18](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=138)** So here's what you need.
 >
@@ -271,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Wi-Fi|Wifi]] (3), [[Facebook]] (1), [[Instagram]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Prerequisites:** assuming you have (1)

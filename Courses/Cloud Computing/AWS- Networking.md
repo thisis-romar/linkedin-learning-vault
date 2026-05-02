@@ -275,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=175)** Finally, if you need to establish connectivity between VPCs, it is possible to establish appearing connection.
 >
-> **[3:02](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=182)** DHCP option sets allow you to create your own DHCP options.
+> **[3:02](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=182)** [[DHCP]] option sets allow you to create your own DHCP options.
 >
 > **[3:07](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=187)** For instance, if you want to specify your own DNS servers instead of using the AWS provided DNS, you can create an option set and assign it to a VPC.
 >
@@ -353,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Servers]] (3)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Web Servers]] (3)
 > **Env Vars:** vpc (25), aws (20), nat (7), dhcp (3), dns (2)
 > **CLI Commands:** aws (20), make (3), az (1)
 > **Prerequisites:** configure (5), you'll need (3), set up (2)
@@ -839,7 +839,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=222)** We can see at the time of this recording that the Canada Central region looks like it has two availability zones while North Virginia has six and Oregon has four.
 >
-> **[3:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=233)** Specifically for Ohio, I see that I have one VPC active, three subnets, one route table, one internet gateway, one DHCP option set, one network ACL, and one security group.
+> **[3:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=233)** Specifically for Ohio, I see that I have one VPC active, three subnets, one route table, one internet gateway, one [[DHCP]] option set, one network ACL, and one security group.
 >
 > **[4:08](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=248)** Clicking on the VPC link in the center of the screen brings me to the VPC detail page.
 >
@@ -955,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (1), [[Amazon EC2|Ec2]] (1), [[Virtual Machines]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Routing]] (1), [[Amazon EC2|Ec2]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
 > **Env Vars:** vpc (41), aws (10), acl (4), cidr (3), dhcp (2)
 > **CLI Commands:** aws (10), find (2)
 > **Code Identifiers:** nacl (3)
@@ -1171,7 +1171,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=250)** Clicking on that takes me back to the your VPCs section and applies a filter to show just the VPC that was created.
 >
-> **[4:19](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=259)** Note that it has the demo name we specified, the IPv4 CIDR block, and the DHCP option set, which is AWS-provided.
+> **[4:19](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=259)** Note that it has the demo name we specified, the IPv4 CIDR block, and the [[DHCP]] option set, which is AWS-provided.
 >
 > **[4:28](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=268)** If I clear that filter by clicking on the little x, it will show all VPCs that I have in this region.
 >
@@ -1205,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Servers]] (4), [[Amazon EC2|Ec2]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (4), [[Amazon EC2|Ec2]] (2), [[DHCP]] (2), [[Hardware]] (1)
 > **Env Vars:** vpc (23), aws (8), cidr (3), acl (3), rds (2)
 > **CLI Commands:** aws (8)
 > **Warnings:** note that (3), be aware (1)
@@ -4544,7 +4544,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=19)** You can move an EIP from one instance to another.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=23)** This is software-defined networking or SDN at its finest.
+> **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=23)** This is [[SDN|software-defined networking]] or [[SDN]] at its finest.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=27)** While I don't know what software AWS uses for SDN, I do know that you don't have to be an SDN expert to use an EIP.
 >
@@ -4580,7 +4580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[SDN]] (3), [[Amazon EC2|Ec2]] (1), [[SDN|Software-defined networking]] (1)
 > **Env Vars:** eip (8), aws (4), sdn (3), ec2 (1)
 > **CLI Commands:** aws (4), make (1)
 > **Definitions:** is a  (3), is an  (1)

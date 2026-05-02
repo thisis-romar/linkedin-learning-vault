@@ -769,7 +769,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=136)** The people category was replaced with a customer category, and only business units and user classes were kept under these.
 >
-> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=142)** Some in the room needed clarification from others on the nature of some of the components; for example, that server roles are services Service can run, like DNS, AD, DHCP and so on.
+> **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=142)** Some in the room needed clarification from others on the nature of some of the components; for example, that server roles are services Service can run, like DNS, AD, [[DHCP]] and so on.
 >
 > **[2:35](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=155)** The main objective of all this brainstorming is to produce a list of action items: who will do what and by when.
 >
@@ -819,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (2), [[DevOps]] (1), [[DevOps Tools]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2), [[DevOps]] (1), [[DevOps Tools]] (1), [[DHCP]] (1)
 > **Env Vars:** sla (3), api (1), dns (1), dhcp (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -2376,7 +2376,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=89)** The team proceeds until they reach the root cause events, which do not require further investigation and for which you can establish a countermeasure.
 >
-> **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=97)** In this example, either the server being down, the server's network interface card being disabled, or the network that the server's attached to being down could cause the server to appear offline.
+> **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=97)** In this example, either the server being down, the server's [[NIC|network interface card]] being disabled, or the network that the server's attached to being down could cause the server to appear offline.
 >
 > **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=108)** Now the team assesses the [[Probability]] and impact of each root cause and the cost and effort required to address it.
 >
@@ -2466,7 +2466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft SQL Server|Sql server]] (1), [[NIC|Network interface card]] (1)
 > **Env Vars:** dns (4), sql (1), roi (1)
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)

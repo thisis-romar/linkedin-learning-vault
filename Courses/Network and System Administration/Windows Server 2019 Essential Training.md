@@ -391,7 +391,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=30)** Each role and each application will have its own set of requirements.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=35)** Some, like DNS and DHCP, have a very small footprint and may be able to coexist on a server, possibly even with other roles.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=35)** Some, like DNS and [[DHCP]], have a very small footprint and may be able to coexist on a server, possibly even with other roles.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=47)** Others have varying demands.
 >
@@ -489,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), [[Active Directory]] (3), [[Windows Server]] (3), [[Hardware]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Active Directory]] (3), [[Windows Server]] (3), [[DHCP]] (1), [[Hardware]] (1)
 > **Prerequisites:** install (5), configure (2), you'll need (1)
 > **Env Vars:** adfs (3), dns (1), dhcp (1), gui (1)
 > **Tools:** powershell (3)
@@ -504,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=0)** - [Instructor] There are two roles that are commonly associated with the management of TCP/IP within a network.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=7)** DHCP configures IP information on the various hosts as they start up, and DNS maintains a directory of where to find everything.
+> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=7)** [[DHCP]] configures IP information on the various hosts as they start up, and DNS maintains a directory of where to find everything.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=18)** Now when I say everything, I do mean everything.
 >
@@ -594,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Windows Server]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[ASP.NET]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (6), [[Active Directory]] (6), [[Windows Server]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** dns (14), dhcp (6), ipam (3), net (2), tcp (1)
 > **Prerequisites:** install (5), configure (2)
 > **CLI Commands:** find (6)
@@ -683,7 +683,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=296)** Now I'm not going on record as saying that in-place upgrades don't work.
 >
-> **[5:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=301)** I have successfully run this upgrade process on file servers, a DHCP server, and even on a RADIUS server, and they all worked out fine.
+> **[5:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=301)** I have successfully run this upgrade process on file servers, a [[DHCP]] server, and even on a RADIUS server, and they all worked out fine.
 >
 > **[5:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=311)** But there are roles that shouldn't be upgraded.
 >
@@ -707,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (10), [[Windows]] (4), [[Active Directory]] (4), [[Microsoft]] (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (10), [[Windows]] (4), [[Active Directory]] (4), [[Microsoft]] (3), [[DHCP]] (2)
 > **Env Vars:** smig (3), dhcp (2), dvd (1), radius (1), adfs (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** is a  (1)
@@ -1354,7 +1354,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=78)** It's also a certificate authority, so the certification authority tool is readily available.
 >
-> **[1:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=84)** There's a role that's not installed, let's say DHCP.
+> **[1:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=84)** There's a role that's not installed, let's say [[DHCP]].
 >
 > **[1:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=88)** And so that tool is not in the list.
 >
@@ -1410,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (4), [[Microsoft Products]] (1), [[Active Directory]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (8), [[Powershell]] (5), [[Windows]] (4), [[Microsoft Products]] (1), [[Active Directory]] (1)
 > **Env Vars:** dhcp (8), dns (2), mmc (1), gui (1)
 > **Prerequisites:** install (10)
 > **Tools:** powershell (5)
@@ -1749,7 +1749,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=0)** - [Narrator] If Software-Defined Networks, or SDN, have escaped your radar to this point, [[Windows Server]] 2019 has given you at least one good reason to take a serious look.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=0)** - [Narrator] If Software-Defined Networks, or [[SDN]], have escaped your radar to this point, [[Windows Server]] 2019 has given you at least one good reason to take a serious look.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=13)** One of the security features of Windows Server 2019 is the ability to encrypt traffic between [[Virtual Machines]] on a per-subnet basis.
 >
@@ -1775,7 +1775,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=131)** Right above the [[Hardware]], and before the IP or network layer, is where network packets are prepared for delivery.
 >
-> **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=139)** This is normally where the NIC drivers take over and create datagrams specific to your type of network.
+> **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=139)** This is normally where the [[NIC]] drivers take over and create datagrams specific to your type of network.
 >
 > **[2:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=148)** The SDN-encrypted networks take these packets and encrypt them right before dumping them onto the cable.
 >
@@ -1799,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Powershell]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[SDN]] (2), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Powershell]] (2)
 > **Env Vars:** sdn (2), ntfs (1), osi (1), nic (1)
 > **Tools:** powershell (2)
 > **Prerequisites:** set up (2)

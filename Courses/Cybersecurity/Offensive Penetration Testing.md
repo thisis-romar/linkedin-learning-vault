@@ -3253,7 +3253,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=72)** Now we're going to kind of flip that and let's say we're intercepting packets over a wire, maybe we're sniffing packets.
 >
-> **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=79)** Of course, legally, over Wi-Fi or something like that.
+> **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=79)** Of course, legally, over [[Wi-Fi]] or something like that.
 >
 > **[1:23](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=83)** Or we have our own server and we're having victims visit our server so we can see what kind of browser they're using.
 >

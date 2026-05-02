@@ -298,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=68)** Standard perfboard contains pre-drilled holes spaced at tenth of an inch intervals and which may or may not be interconnected like a breadboard.
 >
-> **[1:17](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=77)** If you want to make several of the same prototype and you want to save time wiring components, or if you just want a neater looking prototype, you can design and order a custom printed circuit board, or PCB.
+> **[1:17](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=77)** If you want to make several of the same prototype and you want to save time wiring components, or if you just want a neater looking prototype, you can design and order a custom [[PCB|printed circuit board]], or [[PCB]].
 >
 > **[1:29](https://www.linkedin.com/learning/arduino-prototyping/prototype-form-factors?u=76281980&t=89)** Software such as KiCad, Eagle, and others can be used to design your boards from a schematic.
 >
@@ -326,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Arduino]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[PCB]] (2), [[Forms]] (1), [[Arduino]] (1), [[Prototyping]] (1), [[PCB|Printed circuit board]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -526,7 +526,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=28)** You've probably already used resistors and LEDs.
 >
-> **[0:32](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=32)** These through-hole components have wires or leads that are designed to feed through holes in a breadboard or a PCB.
+> **[0:32](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=32)** These through-hole components have wires or leads that are designed to feed through holes in a breadboard or a [[PCB]].
 >
 > **[0:40](https://www.linkedin.com/learning/arduino-prototyping/select-components-and-libraries?u=76281980&t=40)** Some components, however, are not designed for [[Prototyping]].
 >
@@ -596,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), [[Prototyping]] (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (7), [[Prototyping]] (3), [[PCB]] (2), [[Hardware]] (1)
 > **Env Vars:** lcd (3), pcb (2)
 > **CLI Commands:** make (3)
 > **Versions:** 3.3 (2)

@@ -3219,13 +3219,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=224)** Monorepos as I mentioned before, include many of the benefits from both of the extremes, monoliths and multi-repos.
 >
-> **[3:53](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=233)** Now, a key thing to know about monorepos too is that they're used by many large tech companies, including [[Google]], Facebook, [[Microsoft]], Twitter, and many others.
+> **[3:53](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=233)** Now, a key thing to know about monorepos too is that they're used by many large tech companies, including [[Google]], [[Facebook]], [[Microsoft]], Twitter, and many others.
 >
 > **[4:03](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=243)** So it's pretty clear that monorepos have some pretty nice benefits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Facebook]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** in other words (2)

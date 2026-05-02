@@ -1482,19 +1482,20 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980&t=19)** Now, last summer, we conducted a comprehensive survey of our social media usage at our mall stores, which I plotted in this pie chart.
 >
-> **[0:28](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980&t=28)** You can see from my chart that our Instagram presence is really expanding, as 52% of the survey respondent said they learned about the company from Instagram.
+> **[0:28](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980&t=28)** You can see from my chart that our [[Instagram]] presence is really expanding, as 52% of the survey respondent said they learned about the company from Instagram.
 >
 > **[0:40](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-social-media-survey?u=76281980&t=40)** I am quite confident that we should invest our dollars in Instagram ads to continue double digit profit growth.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (3)
 > **Speakers:** - [dean] (1)
 
 #### [Case study 5: Explanation](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980&t=0)** - Despite the enthusiastic endorsement of your CMO, before you devote a larger share of the budget to a targeted Instagram advertising campaign, you think this might need more exploration.
+> **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980&t=0)** - Despite the enthusiastic endorsement of your CMO, before you devote a larger share of the budget to a targeted [[Instagram]] advertising campaign, you think this might need more exploration.
 >
 > **[0:10](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-explanation?u=76281980&t=10)** What would you do to dig a little deeper into these results?
 >
@@ -1512,6 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1)
 > **Env Vars:** cmo (2)
 > **Speakers:** - despite (1)
 
@@ -1521,7 +1523,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=0)** - Our CMO continues to defend their survey.
 >
-> **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=3)** They suggest that the results are not biased by the questions and is asking for further investment in Instagram marketing.
+> **[0:03](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=3)** They suggest that the results are not biased by the questions and is asking for further investment in [[Instagram]] marketing.
 >
 > **[0:10](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=10)** They present these more detailed results in the exercise file 0604.
 >
@@ -1547,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=101)** After understanding the methodology, you turned to the results and noticed that the conclusions were inappropriate.
 >
-> **[1:48](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=108)** The percentage of the total respondents who even heard about our company through social media was only 43%, and the percent of the total that actually heard about us through Instagram was 22%, while for Facebook it was 9%.
+> **[1:48](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=108)** The percentage of the total respondents who even heard about our company through social media was only 43%, and the percent of the total that actually heard about us through Instagram was 22%, while for [[Facebook]] it was 9%.
 >
 > **[2:04](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/case-study-five-statistical-deep-dive?u=76281980&t=124)** You ask for a second report that breaks down who heard of the company through social media by over or under 30 years of age.
 >
@@ -1573,6 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (4), [[Facebook]] (1)
 > **Ports:** :00 (4)
 > **Env Vars:** cmo (1)
 > **Exercise Files:** exercise file (1)

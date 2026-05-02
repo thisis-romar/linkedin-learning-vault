@@ -500,7 +500,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=294)** Publicly traded companies in the United States must comply with Sarbanes-Oxley, while financial services organizations must meet the requirements laid out in the Gramm-Leach-Bliley Act.
 >
-> **[5:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=307)** Healthcare organizations in the US are expected to protect healthcare information in accordance with the Health Insurance Portability and [[Accountability]] Act, and any organization that processes credit card information needs to know their obligations to the Payment Card Industry [[Data Security]] Standard.
+> **[5:07](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=307)** Healthcare organizations in the US are expected to protect healthcare information in accordance with the Health Insurance Portability and [[Accountability]] Act, and any organization that processes credit card information needs to know their obligations to the [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[5:27](https://www.linkedin.com/learning/static-application-security-testing/security-frameworks?u=76281980&t=327)** Regarding [[Privacy]], the EU's General Data Protection Regulation, the US California Consumer Privacy Act, and Canada's Personal Information Protection and Electronic Documents Act all have a lot to say about protecting consumer and citizen information.
 >
@@ -772,7 +772,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=172)** Compliance and policy looks at both internal documentation and external standards and regulations.
 >
-> **[2:59](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=179)** Things like HIPAA and the PCI DSS to make sure that what you're doing lines up with what you said you would do.
+> **[2:59](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=179)** Things like HIPAA and the [[PCI DSS]] to make sure that what you're doing lines up with what you said you would do.
 >
 > **[3:07](https://www.linkedin.com/learning/static-application-security-testing/bsimm?u=76281980&t=187)** Training acknowledges that we're not born with some innate knowledge of software security and we need to take time to make sure everyone is on the same page that we're all using the same security language.
 >
@@ -822,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Application Security]] (3), [[Code Review]] (2), [[OWASP]] (1), [[LinkedIn]] (1), [[Security Testing]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (3), [[Code Review]] (2), [[OWASP]] (1), [[LinkedIn]] (1), [[PCI DSS]] (1)
 > **Env Vars:** bsimm (6), ssdl (2), owasp (1), samm (1), hipaa (1)
 > **CLI Commands:** make (4), find (1)
 > **Documentation:** the documentation (1)
@@ -1442,7 +1442,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=245)** "It doesn't apply to me," they say, "so why should I look at it?"
 >
-> **[4:09](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=249)** Because section 10 of the PCI DSS is the simplest, most concise guidance on logging and monitoring that I have ever seen.
+> **[4:09](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=249)** Because section 10 of the [[PCI DSS]] is the simplest, most concise guidance on logging and monitoring that I have ever seen.
 >
 > **[4:19](https://www.linkedin.com/learning/static-application-security-testing/logging-and-monitoring-policy?u=76281980&t=259)** It tells you which events you should log plus the individual artifacts that each log should contain.
 >

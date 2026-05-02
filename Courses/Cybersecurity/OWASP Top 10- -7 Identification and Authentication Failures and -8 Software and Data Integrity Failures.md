@@ -338,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=130)** The rationale behind this idea, is that if a password has been compromised, changing that password would remove the access of an unauthorized user.
 >
-> **[2:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=140)** PCI DSS, the Payment Card Industry [[Data Security]] Standard is a [[Cybersecurity]] standard that applies to the use of credit cards in web applications.
+> **[2:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=140)** [[PCI DSS]], the [[PCI DSS|Payment Card Industry Data Security Standard]] is a [[Cybersecurity]] standard that applies to the use of credit cards in web applications.
 >
 > **[2:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=152)** PCI, as that's commonly referred to, requires that passwords be changed every 90 days.
 >
@@ -354,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** pci (2), dss (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)

@@ -115,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=43)** And we'll cover the services that make these IP addresses so functional and valuable for us.
 >
-> **[0:49](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=49)** Such as the DHCP and DNS services.
+> **[0:49](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=49)** Such as the [[DHCP]] and DNS services.
 >
 > **[0:53](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=53)** Hi, I'm Anthony Sequeira.
 >
@@ -129,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Env Vars:** tcpip (1), dhcp (1), dns (1), ccie (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -218,7 +218,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=163)** And if you struggle to find it by scanning with your eyes like I do, then you can go to the Search Remember.
 >
-> **[2:52](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=172)** Let's click here, and if we go into the graphical user interface here, it's really pretty cool you can see the different options that I would have for making network connections and you can see I'm currently connected via WiFi Now notice right here is this advanced button.
+> **[2:52](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=172)** Let's click here, and if we go into the graphical user interface here, it's really pretty cool you can see the different options that I would have for making network connections and you can see I'm currently connected via [[Wi-Fi|WiFi]] Now notice right here is this advanced button.
 >
 > **[3:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=191)** So if I click Advanced, it's going to show me the advanced properties for that connection.
 >
@@ -228,7 +228,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=203)** This is the TCP IP settings that we're interested in.
 >
-> **[3:28](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=208)** And notice that we are using something called DHCP to get the IP address onto this system.
+> **[3:28](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=208)** And notice that we are using something called [[DHCP]] to get the IP address onto this system.
 >
 > **[3:37](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=217)** And the IPV4 address that I have currently received is 172.20.6.50.
 >
@@ -290,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (9), [[DHCP]] (4), [[Windows]] (3), [[Microsoft]] (1), [[Android]] (1)
 > **Env Vars:** ipv4 (5), dhcp (4), dns (3), tcp (1)
 > **Versions:** 172.20.6 (3), 172.20.0 (1), 172.20.15 (1), 127.0.0 (1)
 > **UI Navigation:** go to (5), select the (1)
@@ -1408,7 +1408,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=0)** - [Instructor] The Dynamic Host Configuration Protocol or DHCP has been a popular method of IP address assignment for a very long time.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=0)** - [Instructor] The [[DHCP|Dynamic Host Configuration Protocol]] or [[DHCP]] has been a popular method of IP address assignment for a very long time.
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=9)** DHCP uses the client server concept.
 >
@@ -1446,7 +1446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (13), [[DHCP|Dynamic host configuration protocol]] (1), [[Linux]] (1), [[Windows Server]] (1)
 > **Env Vars:** dhcp (13), dns (1), dora (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1455,7 +1455,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=0)** - Well, when it comes to DHCP settings and configuration I'm sure you're wondering what that's going to exactly look like.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=0)** - Well, when it comes to [[DHCP]] settings and configuration I'm sure you're wondering what that's going to exactly look like.
 >
 > **[0:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=7)** Well, here we are in a [[Windows 10]] Client settings app.
 >
@@ -1527,7 +1527,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=238)** It says, okay, we have to add these features as well.
 >
-> **[4:01](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=241)** It warns me about a DHCP assigned address on our network interface card.
+> **[4:01](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=241)** It warns me about a DHCP assigned address on our [[NIC|network interface card]].
 >
 > **[4:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=248)** That's pretty funny.
 >
@@ -1617,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (2), [[Windows 10]] (1), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (20), [[Windows]] (2), [[Windows Server]] (2), [[Windows 10]] (1), [[Google]] (1)
 > **Env Vars:** dhcp (20), dns (2), tcp (1)
 > **Versions:** 10.10.0 (3), 172.31 (1), 58.194 (1), 255.255.240 (1), 172.31.58 (1)
 > **UI Navigation:** go to (6), scroll down (1)
@@ -1677,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=0)** - What about the configuration of DNS?
 >
-> **[0:03](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=3)** Well, it's a lot like DHCP.
+> **[0:03](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=3)** Well, it's a lot like [[DHCP]].
 >
 > **[0:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=5)** It's going to be a bit more challenging on the server side of the equation but both the client and the server configurations are not bad at all.
 >
@@ -1727,7 +1727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (1), [[Linux]] (1), [[Windows Server]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Windows 10]] (1), [[Linux]] (1), [[Windows Server]] (1), [[Routing]] (1)
 > **Env Vars:** dns (10), dhcp (2), aws (2), tcp (1), udp (1)
 > **CLI Commands:** make (3), aws (2)
 > **URLs:** [id10ttech.com](https://id10ttech.com) (2), [anthonysequeira.net](https://anthonysequeira.net) (1)
@@ -1840,7 +1840,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980&t=11)** This challenge should take you under five minutes to complete.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980&t=15)** Notice you're going to match the DHCP terms on the left with the correct definitions on the right.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980&t=15)** Notice you're going to match the [[DHCP]] terms on the left with the correct definitions on the right.
 >
 > **[0:23](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980&t=23)** So, you'll be finding a place for request, discover, lease, pool, and offer.
 >
@@ -1858,6 +1858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** dhcp (1), dns (1), aaaa (1), cname (1), rfc (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** rfc (1)
@@ -1870,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980&t=0)** - [Instructor] So, how did you do on this challenge?
 >
-> **[0:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980&t=8)** In this first one, we had to match the DHCP terms with the correct definitions.
+> **[0:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980&t=8)** In this first one, we had to match the [[DHCP]] terms with the correct definitions.
 >
 > **[0:14](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980&t=14)** So what I do in something like this is I'll pick what I think would be the easiest one to recognize, like a lease.
 >
@@ -1906,6 +1907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (4)
 > **Env Vars:** dhcp (4), dns (3), aaaa (1), cname (1), rfc (1)
 > **Versions:** 172.16 (1), 172.31 (1), 255.255 (1), 192.168.0 (1), 192.168.255 (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1913,7 +1915,6 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
-> **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
@@ -1930,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=9)** You've learned more advanced [[IP Addressing]] concepts, such as VLSM and CIDR.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=15)** You've learned of the various critical IP address components, like subnet masks and default gateways and DNS server addresses, and the important related services, like DNS, DHCP, and NAT.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=15)** You've learned of the various critical IP address components, like subnet masks and default gateways and DNS server addresses, and the important related services, like DNS, [[DHCP]], and NAT.
 >
 > **[0:30](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=30)** But there's so much more to learn.
 >
@@ -1944,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (2), [[DHCP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dns (2), vlsm (1), cidr (1), dhcp (1), nat (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [anthony] (1)

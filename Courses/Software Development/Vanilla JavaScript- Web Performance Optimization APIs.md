@@ -101,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=34)** We are going to get information, and we are going to see everything that we can do to improve and keep a consistent experience across different context.
 >
-> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=43)** Not matter if the user is on a desktop computer on a wifi connection, or if the user is on a very cheap [[Android]] device on a bad 2G connection.
+> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=43)** Not matter if the user is on a desktop computer on a [[Wi-Fi|wifi]] connection, or if the user is on a very cheap [[Android]] device on a bad 2G connection.
 >
 > **[0:54](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980&t=54)** We will try to keep the experience consistent using reactive web performance techniques, and we will also see how to execute code efficiently, understanding the browsers, frame management and the new APIs available for us.
 >
@@ -109,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (1), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Wi-Fi|Wifi]] (1), [[Android]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -181,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=105)** The problem is that the real web performance out there is based on users' contexts.
 >
-> **[1:50](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=110)** For example, the user may be on an iPhone X on a Wi-Fi connection, or it can be a laptop using 3G, there are laptops with cellular connections.
+> **[1:50](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=110)** For example, the user may be on an iPhone X on a [[Wi-Fi]] connection, or it can be a laptop using 3G, there are laptops with cellular connections.
 >
 > **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980&t=120)** We can be a Moto G, an [[Android]] device, 4th generation, so let's say two to three years old, and it's currently on a bad LTE connection, so it's a 4G, but it's not working properly with that connection, because the user can be on a bath.
 >
@@ -199,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (3), [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (3), [[Wi-Fi]] (1), [[Google]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** lte (1), cpu (1)
 > **Analogies:** for example (2)
@@ -292,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=59)** In this case, the idea of reactive web performance is to be closer to our user centric goals on every situation, no matter what.
 >
-> **[1:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=69)** So if we want to show the user meaningful content in three seconds, we need to do that if the user is on desktop with a Wifi connection, if the user is on Galaxy S9, on 4G, and also if the user is on an IPhone SE over a bad 3G connection.
+> **[1:09](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=69)** So if we want to show the user meaningful content in three seconds, we need to do that if the user is on desktop with a [[Wi-Fi|Wifi]] connection, if the user is on Galaxy S9, on 4G, and also if the user is on an IPhone SE over a bad 3G connection.
 >
 > **[1:31](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/real-user-monitoring-rum-and-reactive-web-performance?u=76281980&t=91)** So we need to change the idea that we sometimes have as web developers, oh it's not my fault.
 >
@@ -370,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Android]] (2), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Android]] (2), [[Simulation]] (1), [[Wi-Fi|Wifi]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** rum (1), http (1)
@@ -555,7 +555,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=107)** On level one for example we can get the amount of redirects that the user had to have in that particular navigation using performance.navigation.redirectCount.
 >
-> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=120)** So for example if you went to [Facebook.com](https://Facebook.com) from a mobile device and [Facebook.com](https://Facebook.com) redirected to m.[facebook.com](https://facebook.com) because you're on mobile browser in that case performance navigation rediectCount will give you one.
+> **[2:00](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=120)** So for example if you went to [[[Facebook]].com](https://Facebook.com) from a mobile device and [Facebook.com](https://Facebook.com) redirected to m.[facebook.com](https://facebook.com) because you're on mobile browser in that case performance navigation rediectCount will give you one.
 >
 > **[2:15](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980&t=135)** Because there was one redirect to get to that point.
 >
@@ -571,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (7), url (1)
 > **Code Identifiers:** timeorigin (2), timeorgin (1), redirectcount (1), rediectcount (1)
 > **URLs:** [facebook.com](https://facebook.com) (3)
@@ -1635,7 +1635,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=76)** So for example, if we are getting an rtt value less than 50, that's milliseconds, it means we are in a fast-wired connection.
 >
-> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=86)** Typically, from 50 to 200 milliseconds, we are typically in the Wi-Fi or in 4G.
+> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=86)** Typically, from 50 to 200 milliseconds, we are typically in the [[Wi-Fi]] or in 4G.
 >
 > **[1:32](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980&t=92)** From 200 to 450, we are typically in 3G, or maybe a bad 4G.
 >
@@ -1693,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (5), [[User Experience (UX)|User experience]] (2), [[Windows]] (1)
 > **Analogies:** for example (6), such as (3)
 > **Definitions:** is a  (3), means that (2), known as (2)
 > **Documentation:** spec (5)

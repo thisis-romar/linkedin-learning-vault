@@ -90,7 +90,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=0)** - [Grant] With the advent of [[Cloud Computing]] and mobile devices, companies like [[Google]], Amazon, Facebook and Twitter are turning to [[Linux]] to provide their services.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=0)** - [Grant] With the advent of [[Cloud Computing]] and mobile devices, companies like [[Google]], Amazon, [[Facebook]] and Twitter are turning to [[Linux]] to provide their services.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=8)** Welcome to Linux Overview and Installation.
 >
@@ -114,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Cloud Computing]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Cloud Computing]] (1), [[Google]] (1), [[Facebook]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [grant] (1)
 
@@ -198,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=63)** The most popular scripting languages, including [[PHP]], [[Python (Programming Language)|Python]] and Ruby are open source, and also come with Linux.
 >
-> **[1:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=70)** Cloud-based services such as Google, Amazon, Twitter and Facebook rely on data centers full of Linux servers to provide their services.
+> **[1:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=70)** Cloud-based services such as Google, Amazon, Twitter and [[Facebook]] rely on data centers full of Linux servers to provide their services.
 >
 > **[1:19](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=79)** Many companies use Linux as the basis for their [[Microsoft Products|products]], including Roku, Amazon, and TiVo media players, Linksys, Buffalo, and NETGEAR routers, Amazon, Barnes & Noble and Kobo eReaders, Google's Chromebooks and most in-car interactive displays are Linux.
 >
@@ -2100,7 +2100,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=91)** Click the back arrow for the main configuration items.
 >
-> **[1:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=94)** You can configure the Wi-Fi connections, desktop background images, notifications, system search, region and language, universal access, and even online accounts for [[Cloud Storage]] and communication as well as [[Privacy]] settings.
+> **[1:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=94)** You can configure the [[Wi-Fi]] connections, desktop background images, notifications, system search, region and language, universal access, and even online accounts for [[Cloud Storage]] and communication as well as [[Privacy]] settings.
 >
 > **[1:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=114)** If you scroll down a bit, you can see settings for the sound devices, power management and of course network, which we just looked at and physical devices, including keyboard and mouse as well as printers and removable media.
 >
@@ -2138,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Cloud Storage]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Wi-Fi]] (1), [[Cloud Storage]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (11), go to (1), scroll down (1)
 > **Prerequisites:** configure (6), install (2), you'll need (1)
 > **URLs:** [x.org](https://x.org) (2), [localnet.com](https://localnet.com) (1), [custom.com](https://custom.com) (1)

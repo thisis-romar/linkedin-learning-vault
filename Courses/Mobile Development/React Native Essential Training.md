@@ -122,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=36)** React Native enables software developers to build rich native mobile applications on both iOS and [[Android]] using just [[JavaScript]].
 >
-> **[0:45](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=45)** It's a very popular framework and the list of who uses it out there is impressive and has big names like Facebook, Instagram, Uber, and jsComplete.
+> **[0:45](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=45)** It's a very popular framework and the list of who uses it out there is impressive and has big names like [[Facebook]], [[Instagram]], Uber, and jsComplete.
 >
 > **[0:53](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=53)** Okay, the last one is not big but the signal here is that the knowledge I'll be sharing in this course is practical and real.
 >
@@ -172,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (7), [[Android]] (2), [[Agile Development|Agile]] (1), [[JavaScript]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[React Native]] (7), [[Android]] (2), [[Agile Development|Agile]] (1), [[JavaScript]] (1), [[Facebook]] (1)
 > **Code Identifiers:** ios (4), jscomplete (2)
 > **CLI Commands:** make (1), git (1)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (2)
@@ -325,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=89)** The [[User Experience (UX)|user experience]] overall on a webview based mobile application feels a little off.
 >
-> **[1:34](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=94)** Facebook actually started their mobile apps using webviews up until 2012 or so.
+> **[1:34](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=94)** [[Facebook]] actually started their mobile apps using webviews up until 2012 or so.
 >
 > **[1:39](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=99)** The webview based Facebook application was famous for its slowness and bad overall user experience.
 >
@@ -1180,7 +1180,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=0)** - [Instructor] The [[React Native]] repository on [[GitHub]] under the Facebook organization here has a few really good reference examples and packages that you should explore.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=0)** - [Instructor] The [[React Native]] repository on [[GitHub]] under the [[Facebook]] organization here has a few really good reference examples and packages that you should explore.
 >
 > **[0:09](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=9)** But let me point your attention to one particular package that is very helpful.
 >

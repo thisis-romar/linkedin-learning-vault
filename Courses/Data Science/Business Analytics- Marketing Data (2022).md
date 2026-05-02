@@ -134,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=49)** But as time goes on, you'll start to focus your marketing on the channels that provide the biggest return.
 >
-> **[0:56](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=56)** For my consulting business, Facebook ads didn't move the needle much, but [[LinkedIn]] ads had a much better return.
+> **[0:56](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=56)** For my consulting business, [[Facebook]] ads didn't move the needle much, but [[LinkedIn]] ads had a much better return.
 >
 > **[1:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=63)** And third, you can use data to inform when and where you are targeting your audience.
 >
@@ -158,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Facebook]] (1), [[LinkedIn]] (1)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)

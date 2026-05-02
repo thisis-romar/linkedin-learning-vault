@@ -1537,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=109)** The organization is also expected to control any external processes, [[Microsoft Products|products]], or services they consume.
 >
-> **[1:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=118)** With clause 8.2, AI risk assessment, the organization is directed to perform AI risk assessments per clause 6.1.2 at planned intervals, or when significant changes are proposed or occur.
+> **[1:58](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=118)** [[CTE|With clause]] 8.2, AI risk assessment, the organization is directed to perform AI risk assessments per clause 6.1.2 at planned intervals, or when significant changes are proposed or occur.
 >
 > **[2:15](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/operational-planning-and-control-clauses-8-1-8-2?u=76281980&t=135)** Documented information on the results of all AI risk assessments must be created and maintained.
 >
@@ -1551,7 +1551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[CTE|With clause]] (1)
 > **Env Vars:** aims (1), nxa (1), nxb (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Versions:** 8.2 (1), 6.1.2 (1)

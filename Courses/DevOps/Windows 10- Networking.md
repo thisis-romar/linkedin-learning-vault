@@ -91,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980&t=28)** You'll learn how to configure network adapters and troubleshoot common and not so common problems.
 >
-> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980&t=33)** You'll become familiar with the networking terms you need to know, like DHCP, TCPIP, DNS, and others.
+> **[0:33](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980&t=33)** You'll become familiar with the networking terms you need to know, like [[DHCP]], TCPIP, DNS, and others.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980&t=40)** So what are you waiting for?
 >
@@ -99,6 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** dhcp (1), tcpip (1), dns (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** configure (1)
@@ -205,7 +206,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=263)** I'll choose NotYourWifi.
 >
-> **[4:25](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=265)** This is a network I offer to guests and it's a 2.4 gigahertz network that my older wifi devices can also use to connect to the internet.
+> **[4:25](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=265)** This is a network I offer to guests and it's a 2.4 gigahertz network that my older [[Wi-Fi|wifi]] devices can also use to connect to the internet.
 >
 > **[4:34](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980&t=274)** Not all older devices can see or use a five gigahertz network.
 >
@@ -340,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=21)** Right-click the network icon on the task bar, and select Open Network and Internet Settings.
 >
-> **[0:28](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=28)** Click Wifi, and then click Change Advanced Sharing Settings.
+> **[0:28](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=28)** Click [[Wi-Fi|Wifi]], and then click Change Advanced Sharing Settings.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-advanced-profile-sharing-options?u=76281980&t=37)** To see the settings associated with a private network profile, expand Private if it isn't already.
 >
@@ -396,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Wi-Fi|Wifi]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), configure (1)
 > **Cross-References:** in the last (1)
@@ -425,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=50)** In technical terms, the two main functions are to define the host computer, as well as that computer's location on the network.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=58)** Most of the time, a computer obtains its IP address from a DHCP server, which we'll talk about in the next movie.
+> **[0:58](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=58)** Most of the time, a computer obtains its IP address from a [[DHCP]] server, which we'll talk about in the next movie.
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=66)** The IP address, along with other addressing technologies, are only part of the networking picture though.
 >
@@ -447,7 +448,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=107)** You can scroll through them.
 >
-> **[1:49](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=109)** I'm going to scroll down to wifi and I'm going to look at my IPv4 address.
+> **[1:49](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=109)** I'm going to scroll down to [[Wi-Fi|wifi]] and I'm going to look at my IPv4 address.
 >
 > **[1:58](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-tcp-ip?u=76281980&t=118)** We talked about these addresses earlier, and here it is.
 >
@@ -493,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Windows]] (2), [[Hardware]] (1), [[Wi-Fi|Wifi]] (1), [[IP Addressing]] (1)
 > **Env Vars:** tcp (4), dhcp (2), mac (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** picture (1), for instance (1), such as (1)
@@ -507,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=0)** - [Instructor] When working with TCP/IP addresses, you can choose to assign the addresses manually or let [[Windows]] assign them automatically.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=8)** DHCP, or Dynamic Host Configuration Protocol, is used to assign IP addresses automatically.
+> **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=8)** [[DHCP]], or [[DHCP|Dynamic Host Configuration Protocol]], is used to assign IP addresses automatically.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-networking-22602895/network-connectivity-dhcp-and-dns?u=76281980&t=16)** It's likely that DHCP is enabled for your network connection.
 >
@@ -585,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (3), [[IP Addressing]] (2)
+> **Frameworks & Libraries:** [[DHCP]] (6), [[Windows]] (3), [[Hardware]] (3), [[DHCP|Dynamic host configuration protocol]] (2), [[IP Addressing]] (2)
 > **Env Vars:** dhcp (6), dns (6), tcp (3), apipa (2), mac (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1), right-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -618,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=43)** You can see here that I have three types of adapters.
 >
-> **[0:46](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=46)** One is a wifi adapter, and it's connected to my network called Rockstars.
+> **[0:46](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=46)** One is a [[Wi-Fi|wifi]] adapter, and it's connected to my network called Rockstars.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-network-adapters?u=76281980&t=51)** The other is a Bluetooth adapter, and it's not connected to anything.
 >
@@ -714,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (4), [[Windows]] (3)
 > **Env Vars:** usb (1), wan (1), tcpip (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -909,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=62)** Whatever the reason, to forget a network, click "Start", "Settings", and "Network and Internet".
 >
-> **[1:12](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=72)** Because you can only forget Wi-Fi networks, click "Wi-Fi" in the left pane.
+> **[1:12](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=72)** Because you can only forget [[Wi-Fi]] networks, click "Wi-Fi" in the left pane.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980&t=77)** Now you can click "Manage Known Networks" to see a list.
 >
@@ -979,7 +980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Wi-Fi]] (5), [[Windows 10]] (1)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
@@ -995,7 +996,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=7)** Click the Network icon on the task bar to get started.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=12)** From here, you can quickly enable or disable Wi-Fi.
+> **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=12)** From here, you can quickly enable or disable [[Wi-Fi]].
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-networking-22602895/manage-wireless-networks?u=76281980&t=16)** You might want to disable Wi-Fi if your battery power is low to keep [[Windows]] from looking for wireless networks when you don't need one.
 >
@@ -1041,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (4), [[Wireless Networking]] (1), [[Windows]] (1)
 > **Best Practices:** it's best to (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
@@ -1056,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=3)** But when they do, you should always try the most common solutions first.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=8)** Much of the time, especially for laptop users, it's disabled Wi-Fi.
+> **[0:08](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=8)** Much of the time, especially for laptop users, it's disabled [[Wi-Fi]].
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=12)** It's easy to check to see if Wi-Fi is disabled on the laptop.
 >
@@ -1150,13 +1151,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=258)** You can look for the obvious first, such as a disabled Wi-Fi adapter or having airplane mode enabled.
 >
-> **[4:24](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=264)** You can move on to other options after that, including checking the network adapter status, running troubleshooters, and resolving DHCP issues manually.
+> **[4:24](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=264)** You can move on to other options after that, including checking the network adapter status, running troubleshooters, and resolving [[DHCP]] issues manually.
 >
 > **[4:34](https://www.linkedin.com/learning/windows-10-networking-22602895/troubleshoot-wireless-network-connectivity?u=76281980&t=274)** For the most part, these techniques will resolve your wireless problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (7), [[Windows]] (2), [[Windows 10]] (1), [[DHCP]] (1)
 > **UI Navigation:** right-click (4)
 > **CLI Commands:** find (3)
 > **Env Vars:** adhcp (1), dhcp (1)
@@ -1182,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=17)** Here are some of the networks I've connected to recently.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=20)** To see yours, go to Settings, Wi-Fi, and Manage known networks.
+> **[0:20](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=20)** To see yours, go to Settings, [[Wi-Fi]], and Manage known networks.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980&t=26)** Have you ever wondered what keeps your computer safe in all of these different environments and how that safety is achieved?
 >
@@ -1272,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft Defender|Defender]] (8)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft Defender|Defender]] (8), [[Wi-Fi]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -1505,7 +1506,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=0)** - [Instructor] Finding the problem when network issues arise is sometimes easy, like when an Ethernet cable has become disconnected, when Wi-Fi is disabled, or airplane mode is on.
+> **[0:00](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=0)** - [Instructor] Finding the problem when network issues arise is sometimes easy, like when an Ethernet cable has become disconnected, when [[Wi-Fi]] is disabled, or airplane mode is on.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980&t=12)** You can often resolve these from the taskbar.
 >
@@ -1625,7 +1626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), [[Routing]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Routing]] (2), [[Wi-Fi]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **Tools:** powershell (5), command prompt (3)
 > **Versions:** 127.0.0 (2), 192.168.1 (2), 192.168 (1), 1.82 (1)
 > **Env Vars:** tcp (1), ipv4 (1), ipv6 (1)
@@ -1642,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=9)** Your best bet is to use the ipconfig command.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=13)** Ipconfig can be used to troubleshoot and fix problems for DHCP, DNS, TCP/IP and others.
+> **[0:13](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=13)** Ipconfig can be used to troubleshoot and fix problems for [[DHCP]], DNS, TCP/IP and others.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=21)** You can use this command at a command prompt or using [[Windows]] [[Powershell]].
 >
@@ -1660,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=62)** I'll click the network icon on the task bar and see what's going on.
 >
-> **[1:06](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=66)** You can see WiFi is not enabled, so I'll click it.
+> **[1:06](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=66)** You can see [[Wi-Fi|WiFi]] is not enabled, so I'll click it.
 >
 > **[1:12](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=72)** Let's try that command again.
 >
@@ -1668,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=78)** I have an ethernet adapter that's not connected.
 >
-> **[1:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=81)** I've got a wireless LAN adapter that's not connected.
+> **[1:21](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=81)** I've got a [[Wi-Fi|wireless LAN]] adapter that's not connected.
 >
 > **[1:24](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ipconfig-to-troubleshoot-network-connectivity?u=76281980&t=84)** I've got another one not connected, but here we are with the wireless LAN adapter for WiFi.
 >
@@ -1770,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), [[Windows]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (6), [[Wi-Fi|Wifi]] (5), [[Wi-Fi|Wireless lan]] (4), [[Powershell]] (3), [[Windows]] (2)
 > **Env Vars:** dhcp (6), lan (5), dns (2), tcp (1)
 > **Tools:** powershell (3), command prompt (1)
 > **Non-Speech:** (keyboard clicking) (3), (mouse clicking) (1)
@@ -1938,7 +1939,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=27)** If you'd like to learn more about networking, search for additional courses on [[LinkedIn]] learning.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=32)** Make sure to search for terms like DHCP, APIPA, DNS, and TCP/IP.
+> **[0:32](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=32)** Make sure to search for terms like [[DHCP]], APIPA, DNS, and TCP/IP.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980&t=40)** As always, I want to hear from you.
 >
@@ -1946,7 +1947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), [[Powershell]] (1), [[DHCP]] (1)
 > **Env Vars:** vpn (1), dhcp (1), apipa (1), dns (1), tcp (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Tools:** command line (1), powershell (1)

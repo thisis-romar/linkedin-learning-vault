@@ -258,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=94)** Sometimes the account names for these are carefully controlled.
 >
-> **[1:38](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=98)** There's only one [[John the Ripper|John]] Smith at [rouxacademy.com](https://rouxacademy.com), but anyone can be John Smith on Facebook.
+> **[1:38](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=98)** There's only one [[John the Ripper|John]] Smith at [rouxacademy.com](https://rouxacademy.com), but anyone can be John Smith on [[Facebook]].
 >
 > **[1:44](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=104)** Every step in account creation is vulnerable to threats.
 >
@@ -280,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Facebook]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (1)
 > **Definitions:** is called (1)
@@ -627,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980&t=28)** Someone you know authenticates you at the front desk and you get an old school visitor badge.
 >
-> **[0:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980&t=34)** Who you know is used on Facebook as a way of checking if you know the people in their understanding of your social network.
+> **[0:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980&t=34)** Who you know is used on [[Facebook]] as a way of checking if you know the people in their understanding of your social network.
 >
 > **[0:42](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980&t=42)** This has an entertaining failure mode with real estate agents who meet a lot of people, even show up in photos with them, when they're often not that close.
 >
@@ -645,6 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - who (1)
 
@@ -810,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980&t=13)** Why spoof at another layer?
 >
-> **[0:16](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980&t=16)** A hacker could spoof a MAC address to use expensive airplay and WiFi on someone else's bill.
+> **[0:16](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980&t=16)** A hacker could spoof a MAC address to use expensive airplay and [[Wi-Fi|WiFi]] on someone else's bill.
 >
 > **[0:21](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980&t=21)** Here's how to commit that crime.
 >
@@ -884,6 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2)
 > **Env Vars:** dns (7), tcp (5), mac (3), osi (1)
 > **Code Identifiers:** rouxacademy (3)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (3)
@@ -1132,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=8)** Some websites have limits on overlap between display names.
 >
-> **[0:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=12)** Now Facebook has some controls over names, but frankly, they don't work very consistently, and when they are consistent, they don't deal with the fact that there are a lot of [[John the Ripper|John]] Smiths in the world.
+> **[0:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=12)** Now [[Facebook]] has some controls over names, but frankly, they don't work very consistently, and when they are consistent, they don't deal with the fact that there are a lot of [[John the Ripper|John]] Smiths in the world.
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=23)** They're better at catching obvious fakery, which is okay until you realize that there probably are parents who really name their kids after fruits or seasons or.
 >
@@ -1168,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[John the Ripper|John]] (1)
 > **Speakers:** - if (1)
 
 #### [Spoofing a person in video and audio](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980)

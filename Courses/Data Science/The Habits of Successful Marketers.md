@@ -366,7 +366,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=98)** From there, develop a hypothesis to guide your experiment, which is a statement outlining your prediction for what's expected to happen as you complete a test.
 >
-> **[1:47](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=107)** For example, your hypothesis may be that you'll achieve two times the number of conversions with less budget when investing in TikTok ads versus Facebook ads.
+> **[1:47](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=107)** For example, your hypothesis may be that you'll achieve two times the number of conversions with less budget when investing in TikTok ads versus [[Facebook]] ads.
 >
 > **[1:57](https://www.linkedin.com/learning/the-habits-of-successful-marketers/take-risks-by-regularly-experimenting?u=76281980&t=117)** The point in coming up with a hypothesis is finding an answer to an important question, and ensuring the experiment is focused on achieving a specific outcome.
 >
@@ -392,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (1)
@@ -732,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=0)** - [Instructor] The major difference between marketers that thrive and those that don't is their ability to observe how their customers evolve and learn how to embrace these developments.
 >
-> **[0:11](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=11)** If you consider how rapidly TikTok and Instagram grew in popularity, it's a strong example of a change that required marketers to quickly learn how to effectively use these channels.
+> **[0:11](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=11)** If you consider how rapidly TikTok and [[Instagram]] grew in popularity, it's a strong example of a change that required marketers to quickly learn how to effectively use these channels.
 >
 > **[0:23](https://www.linkedin.com/learning/the-habits-of-successful-marketers/observe-and-learn-consistently-as-a-marketer?u=76281980&t=23)** Observing and learning how to continue to [[Microsoft Excel|excel]] with marketing is a daily practice that's required to ensure your messaging drives results and so you remain competitive as a marketer.
 >
@@ -776,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)

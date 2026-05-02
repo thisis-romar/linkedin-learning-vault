@@ -610,9 +610,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=19)** It took Netflix 3.5 years to get to one million users.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=23)** It took Twitter two years. It took Facebook 10 months.
+> **[0:23](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=23)** It took Twitter two years. It took [[Facebook]] 10 months.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=27)** Instagram took 2.5 months, which is pretty good.
+> **[0:27](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=27)** [[Instagram]] took 2.5 months, which is pretty good.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/generative-ai-tools?u=76281980&t=30)** But ChatGPT took a mere five days.
 >
@@ -640,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Google]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Google]] (3), [[Facebook]] (1), [[Instagram]] (1), [[Microsoft]] (1)
 > **Versions:** 3.5 (1), 2.5 (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
@@ -2968,7 +2968,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=123)** I could role play to get better responses.
 >
-> **[2:05](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=125)** But even with a simple prompt like that, it's saying, "This selected SQL snippet is part of a CTE, "or Common Table Expression.
+> **[2:05](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=125)** But even with a simple prompt like that, it's saying, "This selected SQL snippet is part of a [[CTE]], "or [[CTE|Common Table Expression]].
 >
 > **[2:13](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-canvas-interface?u=76281980&t=133)** "Here's exactly what it does, step by step."
 >

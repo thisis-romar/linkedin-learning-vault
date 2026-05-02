@@ -1966,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=22)** An NSG can contain multiple inbound and outbound security rules that enable you to filter traffic to and from resources by source and destination IP address, ports and protocols.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=39)** NSGs can be associated at the NIC level of a VM.
+> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=39)** NSGs can be associated at the [[NIC]] level of a VM.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=43)** It can also be associated to a subnet depending on the network architecture requirements.
 >
@@ -2002,13 +2002,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=176)** For example, I have created an RDP allow rule with priority 300 in this case.
 >
-> **[3:04](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=184)** Finally, [[Microsoft]] recommends associating NSG to a subnet or network interface card, but not both, to avoid conflicting rule creation leading to unexpected communication issues.
+> **[3:04](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=184)** Finally, [[Microsoft]] recommends associating NSG to a subnet or [[NIC|network interface card]], but not both, to avoid conflicting rule creation leading to unexpected communication issues.
 >
 > **[3:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=198)** With this, we come to an end of the NSG support section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (4), [[Microsoft Azure|Azure]] (3), [[Application Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (4), [[Microsoft Azure|Azure]] (3), [[NIC]] (1), [[Application Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** nsg (8), nic (1), tcp (1), udp (1), icmp (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)

@@ -82,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980&t=23)** I'll review key VoIP protocols and codecs while guiding you through best practices to boost performance and ensure quality of service.
 >
-> **[0:32](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980&t=32)** We'll cover how to verify DNS settings, monitor traffic with simple network management protocol, along with ways to optimize DHCP configurations to eliminate errors.
+> **[0:32](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980&t=32)** We'll cover how to verify DNS settings, monitor traffic with simple network management protocol, along with ways to optimize [[DHCP]] configurations to eliminate errors.
 >
 > **[0:45](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980&t=45)** Are you ready to take your VoIP expertise to the next level?
 >
@@ -90,6 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** dns (1), dhcp (1)
 > **Speakers:** - voice (1)
 
@@ -934,7 +935,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=0)** - A misconfigured DHCP server can cause delays in IP address assignments, which can affect VoIP traffic.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=0)** - A misconfigured [[DHCP]] server can cause delays in IP address assignments, which can affect VoIP traffic.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980&t=9)** In this segment, we'll summarize ways to manage servers to optimize VoIP performance.
 >
@@ -990,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (16), [[IP Addressing]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (16)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1), it's best to (1)
@@ -1001,7 +1002,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=0)** - [Instructor] DHCP automatically assigns IP addresses along with other information, such as the default gateway and DNS servers on a [[Local Area Network (LAN)|local area network]].
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=0)** - [Instructor] [[DHCP]] automatically assigns IP addresses along with other information, such as the default gateway and DNS servers on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/provisioning-dhcp?u=76281980&t=12)** In this segment, we'll outline best practices to ensure proper DHCP provisioning.
 >
@@ -1073,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (24), [[Local Area Network (LAN)|Local area network]] (2), [[IP Addressing]] (1)
 > **Env Vars:** dhcp (24), dns (5), mac (1), vlan (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **CLI Commands:** make (3)
@@ -1084,7 +1085,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=0)** - [Instructor] In some deployments, VoIP phones use DHCP option 66 and 150 to locate the server hosting their configuration files.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=0)** - [Instructor] In some deployments, VoIP phones use [[DHCP]] option 66 and 150 to locate the server hosting their configuration files.
 >
 > **[0:11](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/mitigating-66-150-errors?u=76281980&t=11)** In this segment, we'll discuss methods to identify and prevent DHC 66/150 errors.
 >
@@ -1166,7 +1167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (17), [[Wireshark]] (2), [[Server Configuration]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** dhcp (17), tftp (7), dhc (1), url (1), hcp (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1555,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=18)** We then outlined ways to enhance VoIP performance, including optimizing switches and routers, ensuring quality of service, verifying DNS settings, and monitoring VoIP with Simple Network Management Protocol.
 >
-> **[0:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=33)** I summarized ways to optimize DHCP, including managing servers, handling IP address allocation, properly provisioning VoIP-specific DHCP options, and mitigating 66/150 errors.
+> **[0:33](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=33)** I summarized ways to optimize [[DHCP]], including managing servers, handling IP address allocation, properly provisioning VoIP-specific DHCP options, and mitigating 66/150 errors.
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980&t=50)** Finally, we outlined ways to manage common SIP issues, including registration problems, setup delays, [[Routing]] errors, and SIP header manipulation.
 >
@@ -1569,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (1), [[Wireshark]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (2), [[Routing]] (1), [[Wireshark]] (1), [[Ethical Hacking]] (1)
 > **Env Vars:** dhcp (2), sip (2), nat (1), dns (1)
 > **Prerequisites:** setup (2)
 > **Speakers:** - thank (1)

@@ -977,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=32)** Let's click save changes.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=35)** We can also configure settings for some of the bigger social networks including Facebook, Twitter, and Pinterest.
+> **[0:35](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=35)** We can also configure settings for some of the bigger social networks including [[Facebook]], Twitter, and Pinterest.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=41)** Let's go to Facebook to show you how to configure some of these settings.
 >
@@ -1031,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Facebook]] (6), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** seo (3), url (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Prerequisites:** configure (2)
@@ -1268,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=123)** On this step, we can add all of our social media accounts.
 >
-> **[2:07](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=127)** Now, you don't have to add every single one, our business, Topsy Turvy, just has a Facebook, Twitter, Instagram, and Pinterest.
+> **[2:07](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=127)** Now, you don't have to add every single one, our business, Topsy Turvy, just has a [[Facebook]], Twitter, [[Instagram]], and Pinterest.
 >
 > **[2:14](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=134)** So let's add those.
 >
@@ -1294,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Facebook]] (1), [[Instagram]] (1), [[Metadata]] (1)
 > **Env Vars:** seo (6)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1), in the menu (1)
@@ -1654,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980&t=20)** You can specify an image, a title, and a description.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980&t=24)** Facebook uses a standard called Open Graph, which most other social networks also use.
+> **[0:24](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980&t=24)** [[Facebook]] uses a standard called Open Graph, which most other social networks also use.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980&t=29)** So if you specify an image for Facebook, it'll also work for Pinterest and many other social networks.
 >
@@ -1680,6 +1680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (2)
 > **UI Navigation:** click on (3), in the sidebar (1)
 > **Env Vars:** seo (3)
 > **CLI Commands:** make (1), find (1)
@@ -2112,7 +2113,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980&t=80)** And let's remove some of these social media accounts.
 >
-> **[1:27](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980&t=87)** You might see a Facebook connect key.
+> **[1:27](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980&t=87)** You might see a [[Facebook]] connect key.
 >
 > **[1:29](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980&t=89)** If you do, you want to get rid of that one too.
 >
@@ -2126,6 +2127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (1)
 > **Env Vars:** seo (2), url (1)
 > **Prerequisites:** install (1), setup (1), set up (1)
 > **UI Navigation:** go to (1), click on (1)

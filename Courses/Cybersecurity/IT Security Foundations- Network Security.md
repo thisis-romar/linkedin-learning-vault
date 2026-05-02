@@ -1384,9 +1384,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=145)** And with auditing activity, we define the activity to be monitored and issue alerts whenever there is a policy violation.
 >
-> **[2:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=154)** Now, some of these guidelines you might not be familiar with, but some of them are embedded in regulations, such as PCI DSS.
+> **[2:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=154)** Now, some of these guidelines you might not be familiar with, but some of them are embedded in regulations, such as [[PCI DSS]].
 >
-> **[2:43](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=163)** Now that is Payment Card Industry [[Data Security]] Standard.
+> **[2:43](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=163)** Now that is [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[2:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=167)** There's granular references to how we secure our environments when dealing with cardholder data, and the link is included in your link document, but here it talks about requirements and testing procedures.
 >
@@ -1404,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cloud Services]] (2), [[Local Area Network (LAN)|Local area network]] (2), [[Virtual Machines]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cloud Services]] (2), [[Local Area Network (LAN)|Local area network]] (2), [[PCI DSS]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** pci (2), dss (2), api (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), similar to (1)
@@ -2138,7 +2138,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=0)** - [Instructor] Dynamic Host Configuration Protocol dynamically assigns IP addresses.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=0)** - [Instructor] [[DHCP|Dynamic Host Configuration Protocol]] dynamically assigns IP addresses.
 >
 > **[0:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=8)** The four step process is called the DORA Process, Discover, Offer, Request, and Acknowledge.
 >
@@ -2148,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=32)** The server will then respond with an offer.
 >
-> **[0:36](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=36)** The client then formally requests an IP address, and the server will then formally acknowledge by sending a DHCP ACK.
+> **[0:36](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=36)** The client then formally requests an IP address, and the server will then formally acknowledge by sending a [[DHCP]] ACK.
 >
 > **[0:48](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=48)** The acknowledgement contains critical configuration information, such as the IP address of the DNS server and the default gateway.
 >
@@ -2208,7 +2208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (12), [[Active Directory]] (2), [[DHCP|Dynamic host configuration protocol]] (1), [[Windows]] (1)
 > **Env Vars:** dhcp (12), dora (3), vlan (3), dns (2), ack (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
@@ -2752,7 +2752,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=7)** In this challenge, we'll take a look at physical security requirements, but first, let me give you a little bit of background.
 >
-> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=15)** Payment Card Industry [[Data Security]] Standard, or PCI DSS, is a set of widely accepted requirements to secure credit card transactions.
+> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=15)** [[PCI DSS|Payment Card Industry Data Security Standard]], or [[PCI DSS]], is a set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=26)** Several major credit card companies developed PCI DSS, and that included American Express, Discover, JCB International, MasterCard, and Visa.
 >
@@ -2776,7 +2776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (4), [[PCI DSS|Payment card industry data security standard]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (4), dss (4), jcb (1)
 > **Versions:** version 4 (1), 9.2 (1)
 > **UI Navigation:** go to (1), open the (1)

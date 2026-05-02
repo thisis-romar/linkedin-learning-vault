@@ -619,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=33)** A [[Virtual Private Network (VPN)|virtual private network]], or VPN, is almost like a tunnel you can turn on and off when connected to a public network.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=42)** This tunnel, when turned on, serves as a way to encrypt data being transmitted, which in turn is an extra layer of security when utilizing public wifi.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=42)** This tunnel, when turned on, serves as a way to encrypt data being transmitted, which in turn is an extra layer of security when utilizing public [[Wi-Fi|wifi]].
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=54)** Your company may require use of a VPN in order to access certain information within your company environment.
 >
@@ -651,7 +651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Wellness]] (1)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Wi-Fi|Wifi]] (1), [[Wellness]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vpn (2)

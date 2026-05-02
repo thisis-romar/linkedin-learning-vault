@@ -1057,7 +1057,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=455)** We're using a FAISS vector store.
 >
-> **[7:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=457)** So that's Facebook AI Similarity Search.
+> **[7:37](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=457)** So that's [[Facebook]] AI Similarity Search.
 >
 > **[7:40](https://www.linkedin.com/learning/prompt-engineering-with-langchain/retrieval-interface-with-application-specific-data?u=76281980&t=460)** I believe that's what that stands for, but it's just an in-memory vector store.
 >

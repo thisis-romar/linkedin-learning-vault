@@ -211,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-linux-command-line-2023/a-very-quick-intro-to-linux?u=76281980&t=35)** This emphasis on freedom, both of cost and modification, has helped Linux to become popular for many different applications and purposes.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-linux-command-line-2023/a-very-quick-intro-to-linux?u=76281980&t=43)** And Linux has popped up everywhere from the majority of the servers that run web services we all use, to many super computers, to many Wi-Fi routers, and other network hardware, to some car entertainment and navigation systems, some mobile phones and tablets, and all sorts of other devices.
+> **[0:43](https://www.linkedin.com/learning/learning-linux-command-line-2023/a-very-quick-intro-to-linux?u=76281980&t=43)** And Linux has popped up everywhere from the majority of the servers that run web services we all use, to many super computers, to many [[Wi-Fi]] routers, and other network hardware, to some car entertainment and navigation systems, some mobile phones and tablets, and all sorts of other devices.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-linux-command-line-2023/a-very-quick-intro-to-linux?u=76281980&t=62)** While the Linux kernel is at the heart of all installations of Linux, the software that surrounds the kernel that provides capabilities like software [[Package Management]], control of services, the location of configuration files, and so on, differs between them.
 >
@@ -255,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (20), [[Ubuntu]] (4), [[Hardware]] (2), [[Package Management]] (1), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (20), [[Ubuntu]] (4), [[Hardware]] (2), [[Wi-Fi]] (1), [[Package Management]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** gnu (3), minix (1)
 > **Tools:** command line (3), bash (1)

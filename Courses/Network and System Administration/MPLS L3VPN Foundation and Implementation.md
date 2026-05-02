@@ -2702,7 +2702,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=89)** In an L3VPN, this means P routers can steer traffic with explicit label stacks, cutting complexity in the core.
 >
-> **[1:38](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=98)** Paired that with automation tools like SDN controllers are programming these pass dynamically.
+> **[1:38](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=98)** Paired that with automation tools like [[SDN]] controllers are programming these pass dynamically.
 >
 > **[1:45](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/future-of-mpls-l3vpn-trends-and-evolution?u=76281980&t=105)** Why does it matter?
 >

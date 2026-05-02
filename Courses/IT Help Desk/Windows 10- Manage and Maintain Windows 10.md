@@ -199,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=179)** There are two areas to consider, computer configuration and user configuration, because I want to apply changes to the computer in this instance, I'll expand computer configuration and navigate to this settings, computer configuration, administrative templates, Windows components, and down at the bottom Windows update.
 >
-> **[3:25](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=205)** If you're interested in controlling how Windows Updates work you might want to read through the options, you might want to, for instance, allow updates to be downloaded automatically over metered connections, to keep mobile users updated, even if they don't have access to wifi.
+> **[3:25](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=205)** If you're interested in controlling how Windows Updates work you might want to read through the options, you might want to, for instance, allow updates to be downloaded automatically over metered connections, to keep mobile users updated, even if they don't have access to [[Wi-Fi|wifi]].
 >
 > **[3:41](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=221)** Perhaps you don't want to include device drivers with Windows Updates because you want to test all drivers first in the lab.
 >
@@ -213,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (17), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (17), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products]] (1), [[Wi-Fi|Wifi]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -977,7 +977,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=319)** Finally, the Services tab shows a list of services and their status.
 >
-> **[5:23](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=323)** Services like DHCP and Plug and Play need to be running if you want their associated tests to run.
+> **[5:23](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=323)** Services like [[DHCP]] and Plug and Play need to be running if you want their associated tests to run.
 >
 > **[5:29](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=329)** Again, don't stop any service you're unfamiliar with because it might cause problems for the computer.
 >
@@ -1005,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[React.js|React]] (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[React.js|React]] (1), [[Microsoft]] (1), [[Windows]] (1), [[DHCP]] (1)
 > **Env Vars:** cpu (5), dhcp (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** right-click (1), open the (1)

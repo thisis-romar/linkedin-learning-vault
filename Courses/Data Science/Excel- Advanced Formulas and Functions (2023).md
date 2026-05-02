@@ -2803,7 +2803,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980&t=17)** In this video we're going to talk about writing formulas versus helper columns, and you need to be able to decide based on your skill, your comfort, the situation, all of those will dictate whether you use helper columns or formulas.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980&t=38)** In this situation, with all of these meeting spaces, from 37th Avenue down to The Triton, we want to calculate the square meters for all venues that have both Wi-Fi and a projector.
+> **[0:38](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980&t=38)** In this situation, with all of these meeting spaces, from 37th Avenue down to The Triton, we want to calculate the square meters for all venues that have both [[Wi-Fi]] and a projector.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980&t=55)** For other venues we want those to stay blank.
 >
@@ -2933,6 +2933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi]] (4)
 > **Env Vars:** convert (6), textafter (4), counta (3), textbefore (3)
 > **UI Navigation:** double-click (5), go to (3)
 > **Warnings:** troubleshoot (4), be careful (1)

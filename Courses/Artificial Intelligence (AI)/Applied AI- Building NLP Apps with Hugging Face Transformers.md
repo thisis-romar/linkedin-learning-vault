@@ -569,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=13)** BART stands for Bidirectional Auto-Regressive Transformers.
 >
-> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=18)** It is proposed by a team from Facebook.
+> **[0:18](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=18)** It is proposed by a team from [[Facebook]].
 >
 > **[0:21](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/the-bart-model-architecture?u=76281980&t=21)** It is another transformer architecture that uses both the encoder and the decoder stacks like T5.
 >
@@ -583,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Facebook]] (1)
 > **Env Vars:** bart (5), bert (2), gpt (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Analogies:** similar to (2)
@@ -857,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=8)** We first create a pipeline using the conversational task.
 >
-> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=12)** We choose a specific model checkpoint, called Facebook/blenderbot_Small_90M.
+> **[0:12](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=12)** We choose a specific model checkpoint, called [[Facebook]]/blenderbot_Small_90M.
 >
 > **[0:19](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers/chatbot-conversation-example?u=76281980&t=19)** This is a relatively small model that can respond to general questions, and can ask follow-up questions.
 >
@@ -897,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Facebook]] (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)

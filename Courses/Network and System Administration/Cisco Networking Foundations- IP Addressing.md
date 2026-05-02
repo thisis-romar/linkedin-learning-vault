@@ -701,7 +701,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=101)** You boot it up.
 >
-> **[1:42](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=102)** You don't assign it an IP address, and it's not able to dynamically obtain an IP address from a DHCP server.
+> **[1:42](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=102)** You don't assign it an IP address, and it's not able to dynamically obtain an IP address from a [[DHCP]] server.
 >
 > **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/public-vs-private-ipv4-addresses?u=76281980&t=109)** So it says, I guess I'll just assign myself an IP address and it does that from this block of APIPA addresses.
 >
@@ -749,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Windows]] (1), [[DHCP]] (1)
 > **Env Vars:** rfc (7), apipa (5), nat (2), dhcp (1)
 > **Documentation:** rfc (7)
 > **Versions:** 192.168 (2), 172.16 (1), 172.31 (1), 169.254 (1)
@@ -2259,7 +2259,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980&t=153)** If you closely examine the format of a MAC address, you'll learn that the seventh bit in a MAC address is called the U bit and that stands for universal.
 >
-> **[2:43](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980&t=163)** And if that bit is set to a zero, that means it was universally assigned, meaning that an organization like the IANA that we discussed assigned a vendor code to the manufacturer of this network interface card.
+> **[2:43](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980&t=163)** And if that bit is set to a zero, that means it was universally assigned, meaning that an organization like the IANA that we discussed assigned a vendor code to the manufacturer of this [[NIC|network interface card]].
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/eui-64-address?u=76281980&t=176)** And because that vendor code was assigned by that public authority, the seventh bit was set to a zero, meaning that it was universally assigned.
 >
@@ -2283,6 +2283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (1)
 > **Env Vars:** mac (7), eui (1), iana (1), fe80 (1)
 > **Versions:** version 6 (3)
 > **Cross-References:** later in (1), we discussed (1), earlier in (1)
@@ -2303,7 +2304,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980&t=17)** One is stateful auto-configuration and this is where we use a DHCPv6 server.
 >
-> **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980&t=23)** And this works very similarly to a DHCP server for IPv4, where the server can provide all of our IP address information.
+> **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980&t=23)** And this works very similarly to a [[DHCP]] server for IPv4, where the server can provide all of our IP address information.
 >
 > **[0:31](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/ipv6-autoconfiguration?u=76281980&t=31)** In this case, the DHCPv6 server provides PC 1 with everything it needs, the prefix length.
 >
@@ -2327,6 +2328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[DHCP]] (1)
 > **Env Vars:** dns (2), dhcp (1), eui (1)
 > **Definitions:** in other words (3)
 > **Cross-References:** earlier in (1), we talked about (1)

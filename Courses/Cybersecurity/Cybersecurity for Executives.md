@@ -224,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=32)** But just one year later, Colorado Timberline went out of business in less than a month following a ransomware attack.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=40)** They abruptly announced closure on Facebook without fulfilling hundreds of orders they had taken.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=40)** They abruptly announced closure on [[Facebook]] without fulfilling hundreds of orders they had taken.
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=47)** Then in early 2019, all their hard assets including new industrial sized, sophisticated printers, $3.5 million in raw materials and a lot of warehouse equipment appeared on the auction circuit.
 >
@@ -252,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Facebook]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** fbi (1)
@@ -623,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=24)** A single email started a chain reaction that resulted in the biggest known business email compromise of all time.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=31)** Facebook and [[Google]] together lost $121 million to the same phisher.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=31)** [[Facebook]] and [[Google]] together lost $121 million to the same phisher.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=37)** This criminal set up a fake company named Quanta Computer, the same name as a real [[Hardware]] supplier to both victims.
 >
@@ -649,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (8), [[Google]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Facebook]] (2), [[Google]] (2), [[Hardware]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - phishing (1)
 
@@ -836,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=103)** They also need to perform comprehensive data backups with a proven restoration ability.
 >
-> **[1:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=110)** Avoid using public wifi in favor of your mobile hotspot.
+> **[1:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=110)** Avoid using public [[Wi-Fi|wifi]] in favor of your mobile hotspot.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=115)** And finally, you need the ability to lock and wipe data from a lost or a stolen device.
 >
@@ -852,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)

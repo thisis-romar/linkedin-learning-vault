@@ -212,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=89)** [[Adobe Photoshop]], Illustrator, InDesign, Firefox, [[Google]] Chrome, and most web browsers are written in C++.
 >
-> **[1:38](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=98)** Major websites like Amazon, Facebook, and Google are either written in or have significant backend resources written in C++.
+> **[1:38](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=98)** Major websites like Amazon, [[Facebook]], and Google are either written in or have significant backend resources written in C++.
 >
 > **[1:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=106)** In fact, most major programming languages, including [[Java]], [[PHP]], [[Python (Programming Language)|Python]], and Perl are written in C or C++.
 >

@@ -1093,11 +1093,11 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=261)** So we can have different roles based on if the users logged in or not through Cognito.
 >
-> **[4:27](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=267)** And again, you can use different identity providers for the identity pool like user pools, Facebook, Amazon, and so forth, but these are two services that commonly need other permissions to other services in AWS.
+> **[4:27](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=267)** And again, you can use different identity providers for the identity pool like user pools, [[Facebook]], Amazon, and so forth, but these are two services that commonly need other permissions to other services in AWS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[JSON]] (1), [[Facebook]] (1)
 > **Env Vars:** aws (7), iam (4), sdk (1), json (1), ses (1)
 > **CLI Commands:** aws (7), node (1)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1), go to (1)
@@ -1282,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=50)** For the OpenID Connect, you have to specify the URL and the audience.
 >
-> **[0:53](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=53)** This is often the client ID or the application ID defined in either Google or Facebook or Twitter where you create an account through their developer site.
+> **[0:53](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=53)** This is often the client ID or the application ID defined in either Google or [[Facebook]] or Twitter where you create an account through their developer site.
 >
 > **[1:03](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=63)** A really handy resource in this case is the [[AWS Security]] Blog.
 >
@@ -1298,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[AWS Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Facebook]] (1), [[AWS Security]] (1)
 > **Env Vars:** aws (5), iam (3), saml (3), url (1)
 > **CLI Commands:** aws (5), make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)

@@ -571,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=58)** Second, your fiber optic cable leads to your local ISP data center, which is often located 10 to 40 kilometers from your real position.
 >
-> **[1:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=65)** That also means that all your devices connected via wifi could have an inaccurate location.
+> **[1:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=65)** That also means that all your devices connected via [[Wi-Fi|wifi]] could have an inaccurate location.
 >
 > **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=70)** IP accuracy is directly correlated to privacy risk, so simply classifying IP addresses as level one without considering accuracy may lead to unintended consequences.
 >
@@ -609,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), [[Data Classification]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Data Classification]] (2), [[Wi-Fi|Wifi]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** isp (1)
 > **Analogies:** for example (1)

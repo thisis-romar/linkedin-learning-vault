@@ -2664,7 +2664,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=37)** And Vanderbilt has just introduced a new policy.
 >
-> **[0:40](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=40)** They have decided that because of various technical reasons, they no longer want to reimburse Vanderbilt computer science faculty for in-flight wifi purchases.
+> **[0:40](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=40)** They have decided that because of various technical reasons, they no longer want to reimburse Vanderbilt computer science faculty for in-flight [[Wi-Fi|wifi]] purchases.
 >
 > **[0:51](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=51)** So, now, how do we build a custom GPT that can effectively reason about this?
 >
@@ -2720,7 +2720,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=214)** So, now I'm going to ask it, "Can I get reimbursed for in-flight wifi?"
 >
-> **[3:38](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=218)** And it says, "Before I can give you an accurate answer "about in-flight Wi-Fi reimbursement, "could you please let me know your department "or role at Vanderbilt?"
+> **[3:38](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=218)** And it says, "Before I can give you an accurate answer "about in-flight [[Wi-Fi]] reimbursement, "could you please let me know your department "or role at Vanderbilt?"
 >
 > **[3:47](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-addressing-missing-context-for-better-user-interaction?u=76281980&t=227)** So, now, rather than jumping straight into the question and the answer, instead it's jumping into, let me find out about the user, so that I can gather contextual information that I need to make the appropriate decision.
 >
@@ -2772,7 +2772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Custom GPTs]] (1), [[ChatGPT]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (5), [[Wi-Fi]] (2), [[Custom GPTs]] (1), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1)

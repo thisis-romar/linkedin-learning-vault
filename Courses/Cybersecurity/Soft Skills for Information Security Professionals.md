@@ -1490,7 +1490,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=40)** Let's ask a different question.
 >
-> **[0:42](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=42)** When would you use unencrypted Wi-Fi?
+> **[0:42](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=42)** When would you use unencrypted [[Wi-Fi]]?
 >
 > **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=46)** During my pen test, I've used tools that monitor unencrypted Wi-Fi for usernames, passwords, and session [[Tokens]].
 >
@@ -1552,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (6), [[Tokens]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpn (2)
 > **Definitions:** is a  (2)

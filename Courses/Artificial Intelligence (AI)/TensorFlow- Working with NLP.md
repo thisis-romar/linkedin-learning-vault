@@ -298,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=85)** This was in the news a lot because the open AI team didn't want to release the details of the model because of ethical concerns.
 >
-> **[1:31](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=91)** Later that year in October, 2019, Facebook's AI research team released BART, or bi-directional and auto regressive transformer and Google released T5.
+> **[1:31](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=91)** Later that year in October, 2019, [[Facebook]]'s AI research team released BART, or bi-directional and auto regressive transformer and Google released T5.
 >
 > **[1:41](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=101)** Both of these models are larger pre-trained models using the same architecture as the original transformer.
 >
@@ -312,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Hugging Face]] (2), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Hugging Face]] (2), [[Fine Tuning]] (1), [[Facebook]] (1)
 > **Env Vars:** bert (7), gpt (3), nrp (1), bart (1), glue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -618,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=46)** And the data sources that was used to train BERT were Wikipedia and the BookCorpus.
 >
-> **[0:52](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=52)** RoBERTa was developed by Facebook in 2019.
+> **[0:52](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=52)** RoBERTa was developed by [[Facebook]] in 2019.
 >
 > **[0:55](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=55)** The number of parameters was 125 million.
 >
@@ -660,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (2), [[Microsoft Azure|Azure]] (1), [[Fine Tuning]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (2), [[Facebook]] (2), [[Microsoft Azure|Azure]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** bert (7), v100 (2), gpt (1), gpu (1), nlp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -689,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=27)** So the encoder-decoder models are good for generative tasks that require an input such as translation or summarization.
 >
-> **[0:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=35)** Examples of such models are Facebook's Bi-directional and Auto Regressive Transformers, or BART, and [[Google]]'s T5 model.
+> **[0:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=35)** Examples of such models are [[Facebook]]'s Bi-directional and Auto Regressive Transformers, or BART, and [[Google]]'s T5 model.
 >
 > **[0:42](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=42)** Encoder-only models are good for tasks that require understanding of the inputs such as sentence classification and named entity recognition.
 >
@@ -711,7 +711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[Google]] (1)
 > **Env Vars:** bert (5), gpt (4), bart (1)
 > **Analogies:** such as (5)
 > **Speakers:** - [instructor] (1)

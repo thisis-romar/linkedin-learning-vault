@@ -411,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=0)** - [Instructor] The goal of a compliance assessment is to determine whether or not your security program meets the specific requirements outlined by some external authority.
 >
-> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=12)** One of the most well known set of compliance requirements is the Payment Card Industry [[Data Security]] Standard, commonly referred to as the PCI DSS, or sometimes just PCI.
+> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=12)** One of the most well known set of compliance requirements is the [[PCI DSS|Payment Card Industry Data Security Standard]], commonly referred to as the [[PCI DSS]], or sometimes just PCI.
 >
 > **[0:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=24)** If an organization stores, processes or transmits credit card data, then that organization is required to comply with this standard.
 >
@@ -445,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (4), [[PCI DSS|Payment card industry data security standard]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** pci (7), dss (4), hipaa (1), nerc (1), glba (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1363,7 +1363,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=66)** And when it comes to compliance assessments, the specific data set often dictates which controls must be assessed by whom, and how often.
 >
-> **[1:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=79)** Organizations that accept, process, store, and or transmit credit card data need to refer to the payment card industry [[Data Security]] standard.
+> **[1:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=79)** Organizations that accept, process, store, and or transmit credit card data need to refer to the [[PCI DSS|payment card industry data security standard]].
 >
 > **[1:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=90)** Going one level deeper, the specific controls which must be assessed and the determination whether an organization can self-assess their controls or whether they must engage a certified third-party depends on factors like the number of credit card transactions processed each year.
 >
@@ -2734,7 +2734,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=124)** You could enable Wired Equivalent [[Privacy]] or WEP, which is known to be insecure.
 >
-> **[2:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=130)** You could implement Wi-Fi Protected Access or WPA, also broken, or you could implement Wi-Fi Protected Access to WPA2 or WPA3, and either the personal configuration or the enterprise configuration.
+> **[2:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=130)** You could implement [[Wi-Fi]] Protected Access or WPA, also broken, or you could implement Wi-Fi Protected Access to WPA2 or WPA3, and either the personal configuration or the enterprise configuration.
 >
 > **[2:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=148)** From a [[Penetration Testing]] standpoint, any wireless security configuration prior to WPA2 represents a significant risk to the organization.
 >
@@ -2750,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[IoT]] (1), [[Windows]] (1), [[Wireless Networking]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[IoT|Internet of things]] (1), [[IoT]] (1), [[Windows]] (1), [[Wireless Networking]] (1)
 > **Env Vars:** wpa2 (5), wpa3 (3), iot (1), wep (1), wpa (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
@@ -2926,7 +2926,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=376)** And you'll want send it multiple times depending on whether or not you're being disruptive.
 >
-> **[6:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=381)** Again, if somebody's smartphone keeps disconnecting from Wi-Fi, they're probably going to notice.
+> **[6:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=381)** Again, if somebody's smartphone keeps disconnecting from [[Wi-Fi]], they're probably going to notice.
 >
 > **[6:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=387)** They may not notice one or two disconnects.
 >
@@ -2954,7 +2954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Wireless Networking]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Wireless Networking]] (1), [[Wi-Fi]] (1), [[LinkedIn]] (1)
 > **Env Vars:** bssid (4), alfa (1), awus036ach (1), mac (1), enc (1)
 > **CLI Commands:** sudo (4), find (2), make (1)
 > **File Paths:** kismet.csv (1), log.csv (1)
@@ -3177,7 +3177,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=42)** While the goal of many penetration tests is to compromise domain admin credentials, this isn't always the case.
 >
-> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=50)** If performing a pen test as part of your PCI DSS compliance efforts, you should be attempting to compromise cardholder data.
+> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=50)** If performing a pen test as part of your [[PCI DSS]] compliance efforts, you should be attempting to compromise cardholder data.
 >
 > **[0:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=59)** If you can access unencrypted credit cards via an [[Application Security]] vulnerability, or a set of credentials authorized to access that data, then you've accomplished your goal without compromising domain admin credentials.
 >
@@ -3201,7 +3201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (3), [[Application Security]] (1), [[NIST]] (1), [[Threat Modeling]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (3), [[PCI DSS]] (1), [[Application Security]] (1), [[NIST]] (1), [[Threat Modeling]] (1)
 > **Env Vars:** ptes (2), pci (1), dss (1), nist (1)
 > **Speakers:** - [instructor] (1)
 

@@ -219,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=96)** Most companies today should have a social media presence.
 >
-> **[1:40](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=100)** So it's safe to say that they should be on Facebook, Instagram, Twitter, or the like.
+> **[1:40](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=100)** So it's safe to say that they should be on [[Facebook]], [[Instagram]], Twitter, or the like.
 >
 > **[1:45](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=105)** And in this case, pictures say a thousand words.
 >
@@ -235,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1), [[Facebook]] (1), [[Instagram]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -512,11 +512,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=195)** C++ brings to the table a special way of tying procedural style with object-oriented programming.
 >
-> **[3:22](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=202)** It was one of the first object-oriented programming languages written and is responsible for most software items we use today, things like [[Windows]], Facebook and [[Google]], to name a few, have some portion written in C++.
+> **[3:22](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=202)** It was one of the first object-oriented programming languages written and is responsible for most software items we use today, things like [[Windows]], [[Facebook]] and [[Google]], to name a few, have some portion written in C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (1), [[Facebook]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 

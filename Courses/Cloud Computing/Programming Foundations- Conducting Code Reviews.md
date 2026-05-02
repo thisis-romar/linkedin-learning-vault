@@ -796,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=12)** As a code reviewer, you are reviewing another developer's changes to a series of files.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=18)** When you find a piece of code you would like to give a suggestion on, you leave a comment on the file, kind of like a Facebook comment or comment on a [[LinkedIn]] post.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=18)** When you find a piece of code you would like to give a suggestion on, you leave a comment on the file, kind of like a [[Facebook]] comment or comment on a [[LinkedIn]] post.
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980&t=28)** In the last chapter we talked about what feedback you might give during a [[Code Review]].
 >
@@ -902,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Version Control]] (3), [[Code Review]] (3), [[LinkedIn]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Version Control]] (3), [[Code Review]] (3), [[LinkedIn]] (2), [[Facebook]] (1)
 > **Tools:** github (9)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the last (1), we talked about (1), as we saw (1)

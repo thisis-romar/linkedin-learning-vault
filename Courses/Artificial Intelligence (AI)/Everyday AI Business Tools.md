@@ -241,7 +241,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=105)** It's been some of the core capabilities for many of today's largest companies.
 >
-> **[1:50](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=110)** [[Google]] and Facebook predict what ads you'll click.
+> **[1:50](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=110)** [[Google]] and [[Facebook]] predict what ads you'll click.
 >
 > **[1:54](https://www.linkedin.com/learning/everyday-ai-business-tools/the-rise-of-ai-systems?u=76281980&t=114)** [[LinkedIn]] predicts your professional interests.
 >
@@ -275,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Generative AI]] (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[Facebook]] (1)
 > **CLI Commands:** cat (2)
 > **Speakers:** - some (1)
 

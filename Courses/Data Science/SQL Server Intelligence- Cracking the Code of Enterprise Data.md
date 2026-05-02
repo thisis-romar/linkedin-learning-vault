@@ -95,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=8)** Now, that's pretty staggering.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=10)** In just 60 seconds, 2.4 million [[Google]] searches take place, 39,000 Instagram posts and 72,000 Tinder swipes.
+> **[0:10](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=10)** In just 60 seconds, 2.4 million [[Google]] searches take place, 39,000 [[Instagram]] posts and 72,000 Tinder swipes.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980&t=20)** Well, this is where [[SQL]] comes in.
 >
@@ -111,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (1), [[Instagram]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Versions:** 2.4 (1)

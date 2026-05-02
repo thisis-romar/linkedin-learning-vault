@@ -216,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=19)** It took the telephone 50, electricity 46, credit cards 28, and television 22.
 >
-> **[0:27](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=27)** Fast-forward a bit, and it took the Internet seven years, PayPal five years, Facebook three years, and Twitter two years.
+> **[0:27](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=27)** Fast-forward a bit, and it took the Internet seven years, PayPal five years, [[Facebook]] three years, and Twitter two years.
 >
 > **[0:36](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=36)** Now there are games such as Fortnite that take a matter of months to reach 50 million users.
 >
@@ -264,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Facebook]] (1), [[Performance Metrics]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** stac (1)
 > **Definitions:** stands for (1)
@@ -352,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=230)** The last competitive advantage is speed.
 >
-> **[3:53](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=233)** Slack is solely focused on its chat app while larger competitors, such as Microsoft or Facebook, have many competing priorities.
+> **[3:53](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=233)** Slack is solely focused on its chat app while larger competitors, such as Microsoft or [[Facebook]], have many competing priorities.
 >
 > **[4:02](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=242)** This enables them to move quickly with a laser-like focus on what they do best.
 >
@@ -596,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=104)** Digital advertising, optimization, and digital subscription development.
 >
-> **[1:49](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=109)** For example, a product called Zeus boosted low times by 75% and viewability by 20% without relying on [[Google]] or Facebook Instant Articles.
+> **[1:49](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=109)** For example, a product called Zeus boosted low times by 75% and viewability by 20% without relying on [[Google]] or [[Facebook]] Instant Articles.
 >
 > **[1:59](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=119)** Another in house tool, Clavis, is a content recommendation system while Fuse enables the Post to deliver ads natively.
 >
@@ -620,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Google]] (1), [[Product Development]] (1), [[SaaS|Software as a service]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Google]] (1), [[Facebook]] (1), [[Product Development]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** pnl (1), cio (1), sas (1)
 > **Versions:** 30.5 (1)
 > **Definitions:** is a  (1)
@@ -721,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=34)** It's been one of the best performing stocks in the United States this decade.
 >
-> **[0:38](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=38)** That fact alone probably has you thinking I'm referring to Amazon, Apple, [[Google]], or maybe Facebook.
+> **[0:38](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=38)** That fact alone probably has you thinking I'm referring to Amazon, Apple, [[Google]], or maybe [[Facebook]].
 >
 > **[0:46](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=46)** No, this company has outperformed each of them since 2010.
 >
@@ -787,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Office|Office]] (1), [[Facebook]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ceo (1)
 > **Speakers:** - customers (1)

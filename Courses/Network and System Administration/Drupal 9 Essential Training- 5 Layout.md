@@ -2233,12 +2233,13 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980&t=279)** and now my image is 165 by 220, and this image style is 8 kilobytes.
 >
-> **[4:49](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980&t=289)** Now this just isn't for me living out in rural Midwest United States including everyone looking at your site on a mobile device while they're on their LTE service, rather than hooked up to WiFi.
+> **[4:49](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980&t=289)** Now this just isn't for me living out in rural Midwest United States including everyone looking at your site on a mobile device while they're on their LTE service, rather than hooked up to [[Wi-Fi|WiFi]].
 >
 > **[5:01](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980&t=301)** And so between regular image fields and your media fields, you have the ability to make your images any size you want giving your users the best experience possible on your website.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Cross-References:** go back to (3)
@@ -2246,7 +2247,6 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), you'll need (1)
 > **Env Vars:** lte (1)
 > **Versions:** 2.7 (1)
-> **Definitions:** is a  (1)
 
 
 ### 3. Menus Explained

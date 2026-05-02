@@ -554,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=134)** The statement of cash flows is built around operating activities, investing activities, and financing activities.
 >
-> **[2:21](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=141)** Let's look at examples of the statement of cash flows for three companies about which you may have heard, Tesla, Facebook, and Amazon.
+> **[2:21](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=141)** Let's look at examples of the statement of cash flows for three companies about which you may have heard, Tesla, [[Facebook]], and Amazon.
 >
 > **[2:30](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=150)** Now, the first thing I want you to look at is the statement of cash flows for Amazon.
 >
@@ -608,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1), [[Financial Statements]] (1)
 > **Speakers:** - the (1)
 
 

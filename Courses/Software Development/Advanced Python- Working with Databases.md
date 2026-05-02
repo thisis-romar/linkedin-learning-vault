@@ -901,7 +901,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=121)** This conn or connection is actually a proxy for the true Python database API connection.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=130)** Inside the with clause, we'll be able to interact with the database.
+> **[2:10](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=130)** Inside the [[CTE|with clause]], we'll be able to interact with the database.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/executing-a-sql-query-with-sqlalchemy?u=76281980&t=135)** Let's select all the items in the movies table.
 >
@@ -951,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[SQL]] (3), [[Database Queries]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[SQL]] (3), [[Database Queries]] (1), [[CTE|With clause]] (1)
 > **Env Vars:** sql (3), api (2), select (2), orm (1)
 > **CLI Commands:** python (7)
 > **File Paths:** database.py (2)

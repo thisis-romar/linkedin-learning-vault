@@ -95,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=49)** I'll discuss the risks and rewards of this new dynamic.
 >
-> **[0:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=52)** I'll also discuss how to secure and use VPN, wifi, mobile devices and more.
+> **[0:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=52)** I'll also discuss how to secure and use VPN, [[Wi-Fi|wifi]], mobile devices and more.
 >
 > **[0:58](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980&t=58)** Does your IT staff know how to set up a hybrid office?
 >
@@ -105,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (1), [[Wi-Fi|Wifi]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** vpn (1)
 > **Warnings:** troubleshoot (1)
@@ -274,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=138)** That not only protects and encrypts mobile devices but can also separate work from personal applications for bring your own device scenarios.
 >
-> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=148)** Don't allow users to connect to open or public wifi connections, man in the middle attacks can steal data as it travels from their computer to the [[Microsoft Office|office]] even if you're using VPN.
+> **[2:28](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=148)** Don't allow users to connect to open or public [[Wi-Fi|wifi]] connections, man in the middle attacks can steal data as it travels from their computer to the [[Microsoft Office|office]] even if you're using VPN.
 >
 > **[2:42](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/create-a-security-plan-for-a-hybrid-workforce?u=76281980&t=162)** They do this by creating a fake access point that users connect to you and the data is taken before the encryption portion of the stream is even formed.
 >
@@ -475,7 +475,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=146)** Make sure the user is accessing company data, through trusted internet locations.
 >
-> **[2:31](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=151)** Public or open wifi is not to be used or trusted, due to many vulnerabilities.
+> **[2:31](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=151)** Public or open [[Wi-Fi|wifi]] is not to be used or trusted, due to many vulnerabilities.
 >
 > **[2:37](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/vpn-risks?u=76281980&t=157)** Be sure to have the latest anti-malware signatures installed on the user's devices, and control those devices using a mobile device and mobile application management service such as Microsoft Intune or Endpoint Manager.
 >
@@ -756,7 +756,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=0)** - [Instructor] Wi-Fi can be a challenge for IT administrators and has been since we first started using this technology.
+> **[0:00](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=0)** - [Instructor] [[Wi-Fi]] can be a challenge for IT administrators and has been since we first started using this technology.
 >
 > **[0:08](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/wi-fi-at-home-and-in-the-office-29518519?u=76281980&t=8)** Wireless traditionally has been slow, unreliable, and it had security issues.
 >
@@ -864,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Active Directory]] (2), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (14), [[Microsoft Office|Office]] (3), [[Active Directory]] (2), [[Windows Server]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** wpa3 (4), ssid (4), mac (4), wpa2 (2), radius (1)
 > **Analogies:** such as (5), for instance (1)
 > **Prerequisites:** set up (3)
@@ -1137,7 +1137,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=222)** Look at all these different ways you can control your Android devices.
 >
-> **[3:47](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=227)** I'm going to choose the Wi-Fi option and click Create.
+> **[3:47](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=227)** I'm going to choose the [[Wi-Fi]] option and click Create.
 >
 > **[3:52](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/managing-mobile-devices-and-bring-your-own-device-29520413?u=76281980&t=232)** This allows me to control how devices can connect to Wi-Fi using the Android operating system.
 >
@@ -1211,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Windows]] (5), [[Privacy]] (2), [[Microsoft]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi]] (7), [[Android]] (6), [[Windows]] (5), [[Privacy]] (2), [[Microsoft]] (2)
 > **Env Vars:** sim (4), eap (3), tls (2), dc1 (2), ssid (1)
 > **CLI Commands:** make (5), find (1)
 > **Prerequisites:** install (3), set up (1), setup (1)

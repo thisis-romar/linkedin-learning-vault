@@ -225,7 +225,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=119)** These tasks should be automated because computers are better at that kind of work than people are.
 >
-> **[2:06](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=126)** As we move into tasks that involve making decisions, taking action and using judgment, people are better at a lot of those tasks, but somewhere in the middle, there's always a hand-off between people and machines, a human machine interface that allows them to communicate with each other.
+> **[2:06](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=126)** As we move into tasks that involve making decisions, taking action and using judgment, people are better at a lot of those tasks, but somewhere in the middle, there's always a hand-off between people and machines, a [[HMI|human machine interface]] that allows them to communicate with each other.
 >
 > **[2:27](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/track-the-information-value-chain?u=76281980&t=147)** Computers are getting smarter every year.
 >
@@ -239,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[HMI|Human machine interface]] (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
@@ -917,7 +917,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=71)** The next category is wireless [[Mesh]] networks.
 >
-> **[1:15](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=75)** These are wifi networks that are spread out over a large distance so that you can connect to the same network as you move around.
+> **[1:15](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=75)** These are [[Wi-Fi|wifi]] networks that are spread out over a large distance so that you can connect to the same network as you move around.
 >
 > **[1:23](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/improve-supply-chain-communication-technology?u=76281980&t=83)** Many hotels and restaurants and communication companies have deployed wireless mesh networks to make it easy for their customers to access the internet.
 >
@@ -941,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (3), [[Microsoft Products|Products]] (1), [[5G]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (3), [[Microsoft Products|Products]] (1), [[Wi-Fi|Wifi]] (1), [[5G]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rfid (2)
 > **Definitions:** is an  (1)

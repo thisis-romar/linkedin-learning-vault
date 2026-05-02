@@ -261,11 +261,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=1)** - [Instructor] An organization must incorporate safeguards into the security compliance plan to defend against attacks.
 >
-> **[0:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=9)** Over the years standards, regulations, and guidelines such as PCI DSS, HIPAA, SOX, and GDPR have reduced the amount of data exposure.
+> **[0:09](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=9)** Over the years standards, regulations, and guidelines such as [[PCI DSS]], HIPAA, SOX, and GDPR have reduced the amount of data exposure.
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=22)** The standards, regulations, and guidelines are important to understand, as they outline the way the organization should implement appropriate security measures to address and reduce overall risk.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=38)** Payment Card Industry [[Data Security]] Standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
+> **[0:38](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=38)** [[PCI DSS|Payment Card Industry Data Security Standard]], or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:50](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/standards-and-regulations?u=76281980&t=50)** PCI DSS is not a law or a government regulation, however if you do deal with any credit card transactions you must comply.
 >
@@ -329,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Privacy]] (3), [[Data Security]] (1), [[Accountability]] (1), [[Privacy]] (1), [[Data Integrity]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (3), [[Data Privacy]] (3), [[PCI DSS|Payment card industry data security standard]] (1), [[Accountability]] (1), [[Privacy]] (1)
 > **Env Vars:** sox (4), gdpr (4), pci (3), dss (3), hipaa (2)
 > **Definitions:** is a  (2)
 > **Versions:** 1.7 (1)
@@ -391,9 +391,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=1)** - [Instructor] In addition to in-house transactions by merchants, many companies have an outward-facing website.
 >
-> **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=8)** Merchants must design and build an ecommerce site with PCI DSS security in mind.
+> **[0:08](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=8)** Merchants must design and build an ecommerce site with [[PCI DSS]] security in mind.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=17)** Payment card industry [[Data Security]] standard, or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
+> **[0:17](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=17)** [[PCI DSS|Payment card industry data security standard]], or PCI DSS, is the set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:28](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980&t=28)** Several major credit card companies developed PCI DSS in 2004.
 >
@@ -427,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (7), [[PCI DSS|Payment card industry data security standard]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (8), dss (8), jcb (1), dmz (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

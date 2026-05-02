@@ -1018,7 +1018,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=125)** Again, we don't have to add the links to these right now.
 >
-> **[2:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=128)** We can if we want to, but I'll just get the buttons added, Instagram, YouTube, [[GitHub]],
+> **[2:08](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=128)** We can if we want to, but I'll just get the buttons added, [[Instagram]], YouTube, [[GitHub]],
 >
 > **[2:22](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/author-bio-box?u=76281980&t=142)** and then an RSS feed for dealer's choice.
 >
@@ -1084,7 +1084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[GitHub]] (1)
 > **Env Vars:** css (4), cdn (1), rss (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)

@@ -1594,7 +1594,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=383)** App Service is ISO, SOC, and PCI compliant.
 >
-> **[6:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=387)** You can authenticate users with [[Microsoft Entra ID]] or with social logins like [[Google]], Facebook, and Microsoft accounts.
+> **[6:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=387)** You can authenticate users with [[Microsoft Entra ID]] or with social logins like [[Google]], [[Facebook]], and Microsoft accounts.
 >
 > **[6:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=394)** Plus, you can create IP address restrictions and manage service identities.
 >
@@ -2353,7 +2353,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=192)** You can send bulk email with MailChimp and work with short links in Bitly.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=196)** All the social networks are available including [[LinkedIn]], Pinterest, and Facebook, and there are connectors for interacting with [[Google]] apps like Calendar and mail.
+> **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=196)** All the social networks are available including [[LinkedIn]], Pinterest, and [[Facebook]], and there are connectors for interacting with [[Google]] apps like Calendar and mail.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=205)** All logic apps start with a trigger which defines the events that initiate and start a workflow.
 >
@@ -3013,7 +3013,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=63)** What we're talking about here is quantities of data that reach almost incomprehensible proportions.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=68)** Think of Facebook with over three billion users.
+> **[1:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=68)** Think of [[Facebook]] with over three billion users.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=71)** Can you imagine how many pictures are stored in the Facebook system?
 >
@@ -3149,7 +3149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[NoSQL]] (3), [[Scalability]] (2), [[Relational Databases]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[NoSQL]] (3), [[Scalability]] (2), [[Relational Databases]] (2), [[Facebook]] (2)
 > **Env Vars:** api (11), ars (3), json (2), sql (2), sdk (1)
 > **Definitions:** is a  (2), known as (2), refers to (2), is an  (1)
 > **CLI Commands:** apache (2), python (1), node (1), make (1)
@@ -3334,7 +3334,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=194)** All development related to identity management in your organization gets easier since Entra ID utilizes standardized [[Representational State Transfer (REST)|REST]] and ODATA protocols.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=203)** If required, you can easily use identity providers from [[Google]] or Facebook and others, which is useful for extranet situations.
+> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=203)** If required, you can easily use identity providers from [[Google]] or [[Facebook]] and others, which is useful for extranet situations.
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=211)** To summarize, you automatically get Entra ID with your Azure subscription.
 >

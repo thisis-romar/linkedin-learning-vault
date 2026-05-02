@@ -513,7 +513,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980&t=144)** A strong example of finding this balance between getting people's attention and managing expectations with content can be seen in the promotion of the online courses from Patch.
 >
-> **[2:35](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980&t=155)** An online plant company, Patch publishes trailers on Instagram and Facebook to promote its urban planting courses to give customers a sample of their high quality instructional videos.
+> **[2:35](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980&t=155)** An online plant company, Patch publishes trailers on [[Instagram]] and [[Facebook]] to promote its urban planting courses to give customers a sample of their high quality instructional videos.
 >
 > **[2:46](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980&t=166)** Each post is very descriptive, straightforward and features the course instructor who's a journalist and plant expert, helping this content stand out for all the right reasons.
 >
@@ -529,6 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (1), [[Facebook]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Best Practices:** you should always (1), make sure to (1)
@@ -570,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=125)** When recording a podcast, remind listeners of where you're active on social media and how to stay in touch and provide feedback between episodes to help encourage conversation.
 >
-> **[2:16](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=136)** Another technique is optimizing your website with Facebook's Open Graph markup and Twitter Cards to ensure content is displayed correctly when shared on either channel.
+> **[2:16](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=136)** Another technique is optimizing your website with [[Facebook]]'s Open Graph markup and Twitter Cards to ensure content is displayed correctly when shared on either channel.
 >
 > **[2:26](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=146)** And lastly, when sharing video with your customers, include social media related call-to-action, either within the video itself or as a part of the video's description.
 >
@@ -578,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Facebook]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** url (1)
@@ -617,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=108)** Next is shared media which is primarily content on social media but specifically the kind that's co-produced by the input of a company and consumers.
 >
-> **[1:59](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=119)** For instance, after a company shares an Instagram post to their account, their audience comments on it and shares this post with their own network with commentary.
+> **[1:59](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=119)** For instance, after a company shares an [[Instagram]] post to their account, their audience comments on it and shares this post with their own network with commentary.
 >
 > **[2:09](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=129)** If many of the commenters agree or disagree with the post, then this response can reframe the content entirely beyond the organization's control, and that's shared media, when there's multiple parties contributing to a piece of content.
 >
@@ -633,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Instagram]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** peso (2)
@@ -680,13 +681,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=164)** A few influencers published video reviews of their product, which is earned media, driving attention to their brand in the short-term, and months later, increasing their visibility in search.
 >
-> **[2:56](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=176)** To boost the effectiveness of this owned and earned media, we decided to also spend some funds on paid media to advertise their content on YouTube and Facebook, introducing their product to even more people.
+> **[2:56](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=176)** To boost the effectiveness of this owned and earned media, we decided to also spend some funds on paid media to advertise their content on YouTube and [[Facebook]], introducing their product to even more people.
 >
 > **[3:09](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=189)** Whether pitching or paying to reach more customers, get your content to go further by adopting an integrated approach to distribution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (1), [[Facebook]] (1)
 > **Env Vars:** peso (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - earning (1)
@@ -753,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=37)** For example, it's common for companies who repurpose a group of blog posts on related topics into a single e-book.
 >
-> **[0:44](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=44)** Or to repurpose a YouTube video into shorter videos for sharing on Instagram and Twitter, or writing an article based on the transcript of a video.
+> **[0:44](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=44)** Or to repurpose a YouTube video into shorter videos for sharing on [[Instagram]] and Twitter, or writing an article based on the transcript of a video.
 >
 > **[0:54](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=54)** Repurposing content like this is an important approach to adopt for two reasons.
 >
@@ -785,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (1), [[Google]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - you (1)

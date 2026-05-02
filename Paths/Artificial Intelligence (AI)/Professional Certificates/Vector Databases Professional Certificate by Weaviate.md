@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Database Management
   - Software Development
-louvain_cluster: 1
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/artificial-intelligence

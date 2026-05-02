@@ -517,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=23)** Depending on their focus, social media sites have different types of interests they promote.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=29)** For example, Facebook offers a forum for building informal and personal relationships compared to a [[Professional Networking]] tool like [[LinkedIn]].
+> **[0:29](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=29)** For example, [[Facebook]] offers a forum for building informal and personal relationships compared to a [[Professional Networking]] tool like [[LinkedIn]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/social-media-analytics?u=76281980&t=42)** In addition to its size, qualifying as [[Big Data]] another unique value of social media data lies in the data about data or [[Metadata]] it carries.
 >
@@ -539,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Professional Networking]] (1), [[LinkedIn]] (1), [[Big Data]] (1), [[Metadata]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Professional Networking]] (1), [[LinkedIn]] (1), [[Big Data]] (1), [[Metadata]] (1)
 > **Env Vars:** api (2), json (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)

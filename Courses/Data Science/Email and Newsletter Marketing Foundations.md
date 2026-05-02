@@ -200,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=51)** Email marketing, at it's heart, is inexpensive.
 >
-> **[0:55](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=55)** Unlike Facebook advertising, you don't have to pay to get in front of your customer.
+> **[0:55](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=55)** Unlike [[Facebook]] advertising, you don't have to pay to get in front of your customer.
 >
 > **[0:59](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=59)** Granted, you will need to use an email marketing provider, someone like MailChimp in order to send our emails and maintain your lists.
 >
@@ -242,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (10), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (10), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Facebook]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - whether (1)

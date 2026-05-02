@@ -376,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=0)** - Depending on your particular industry, you may be obligated to demonstrate compliance with any number of regulations regarding data movement and storage.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=9)** A few examples include PCI DSS for the handling of financial information, HIPAA and HITECH for health information, and FERPA for the handling of educational records.
+> **[0:09](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=9)** A few examples include [[PCI DSS]] for the handling of financial information, HIPAA and HITECH for health information, and FERPA for the handling of educational records.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/regulatory-compliance-and-aws?u=76281980&t=20)** Some IT professionals, and even CIOs may fear that moving data to the cloud, may put their ability to comply with regulations at risk.
 >
@@ -460,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Amazon EC2|Ec2]] (1), [[Microsoft Word|Word]] (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Amazon EC2|Ec2]] (1), [[Microsoft Word|Word]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** aws (17), pci (2), dss (2), hipaa (2), hitech (1)
 > **CLI Commands:** aws (19), find (5), make (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)

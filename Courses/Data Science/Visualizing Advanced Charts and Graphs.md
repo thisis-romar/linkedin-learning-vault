@@ -992,7 +992,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=228)** Creating Sankey or alluvial diagrams can sometimes be an arduous task.
 >
-> **[3:54](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=234)** This is because most creation tools for these charts are code-based and reliant on code libraries like D3 and [[Python (Programming Language)|Python]] to develop.
+> **[3:54](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=234)** This is because most creation tools for these charts are code-based and reliant on code libraries like [[D3.js|D3]] and [[Python (Programming Language)|Python]] to develop.
 >
 > **[4:05](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/alluvial-charts-and-parallel-sets-what-when-why-and-how?u=76281980&t=245)** Flourish Studio, however, has become one of my favorite free online tools for advanced data visualization.
 >
@@ -1078,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Canva]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[D3.js|D3]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Canva]] (1), [[HTML]] (1)
 > **Env Vars:** nba (4), usa (2), jfk (1), html (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (1)

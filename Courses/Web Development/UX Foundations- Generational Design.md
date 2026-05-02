@@ -996,9 +996,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=130)** Next, think about what social media platforms your customers use and run ads.
 >
-> **[2:15](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=135)** For example, if you're trying to reach a Gen Z audience, run ads on Instagram, YouTube and maybe even TikTok.
+> **[2:15](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=135)** For example, if you're trying to reach a Gen Z audience, run ads on [[Instagram]], YouTube and maybe even TikTok.
 >
-> **[2:23](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=143)** Try Facebook and [[LinkedIn]] if you're trying to reach older Millennials or Gen X.
+> **[2:23](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=143)** Try [[Facebook]] and [[LinkedIn]] if you're trying to reach older Millennials or Gen X.
 >
 > **[2:28](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=148)** For targeting Boomers, Facebook is key.
 >
@@ -1018,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (3), [[Databases]] (1), [[Instagram]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** diy (1)
@@ -1160,7 +1160,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=176)** If you have a multi-generational audience, using personas and journey maps helps to explain generational differences in terms of your product.
 >
-> **[3:05](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=185)** For example, a boomer might discover a product in a retail stores, while a millennial might learn about it through an Instagram ad.
+> **[3:05](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=185)** For example, a boomer might discover a product in a retail stores, while a millennial might learn about it through an [[Instagram]] ad.
 >
 > **[3:13](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=193)** This entry point would be represented on a journey map.
 >
@@ -1172,7 +1172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Storytelling]] (2), [[Google]] (2), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Storytelling]] (2), [[Google]] (2), [[Market Research]] (1), [[Instagram]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - think (1)
 
@@ -1278,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=61)** In today's age of dazzling graphics and high end video, it might sound strange to advocate for a fairly boring [[User Experience (UX)|user experience]], but this is just what a task driven generation needs.
 >
-> **[1:14](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=74)** And if you've ever tried to connect to hotel WiFi or renew your driver's license online, you get the benefit of straightforward simplicity.
+> **[1:14](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=74)** And if you've ever tried to connect to hotel [[Wi-Fi|WiFi]] or renew your driver's license online, you get the benefit of straightforward simplicity.
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=84)** A raw design that provides exactly what you need in the simplest, most logical way possible.
 >
@@ -1306,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Wi-Fi|Wifi]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
@@ -1325,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=40)** They were the first to explore social media, be bombarded by ads online, and stay up late answering emails on their phone and scrolling through news feeds.
 >
-> **[0:49](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=49)** They remember when Facebook was just for college students and were the first generation to engage in meaningful communities and causes online.
+> **[0:49](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=49)** They remember when [[Facebook]] was just for college students and were the first generation to engage in meaningful communities and causes online.
 >
 > **[0:59](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=59)** Let's talk through four [[Design Patterns]] that will capture the attention of millennials and keep them coming back.
 >
@@ -1381,7 +1381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Facebook]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - i (1)
@@ -1406,7 +1406,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980&t=43)** Flights, hotels, activities, even her outfits.
 >
-> **[0:46](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980&t=46)** She had found coupons to save money, had scouted the best food and night life, and had even made a collection of wall murals for Instagram worthy photos all in 10 minutes.
+> **[0:46](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980&t=46)** She had found coupons to save money, had scouted the best food and night life, and had even made a collection of wall murals for [[Instagram]] worthy photos all in 10 minutes.
 >
 > **[0:58](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980&t=58)** Gen Z is changing the game in terms of how they find information and transact online.
 >
@@ -1466,6 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Instagram]] (3)
 > **CLI Commands:** make (4), find (1), snap (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)

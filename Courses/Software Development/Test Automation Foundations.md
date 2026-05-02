@@ -1073,7 +1073,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=76)** And it has its own customizable test runner.
 >
-> **[1:20](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=80)** Jest is a popular framework used and created by Facebook to test all [[React.js|React]] code.
+> **[1:20](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=80)** Jest is a popular framework used and created by [[Facebook]] to test all [[React.js|React]] code.
 >
 > **[1:27](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=87)** Jest is already included when creating a new React project, which allows for a zero configuration experience and makes it quick and easy to get started writing tests.
 >

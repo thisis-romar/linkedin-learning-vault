@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
   - topic/data-science
-course_count: 170
+course_count: 169
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Cloud Computing
 
-> **Type:** Concept | **Courses:** 170 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[Data Science]]
+> **Type:** Concept | **Courses:** 169 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[Data Science]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Cloud Computing Terms Every Beginner Should Know]] — 23 mentions
 10. [[Cloud Computing- Understanding Private Cloud Options]] — 23 mentions
 
-> [!note]- See all 170 courses
+> [!note]- See all 169 courses
 > 11. [[Cloud Concepts- Hybrid Cloud]] — 23 mentions
 > 12. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 21 mentions
 > 13. [[Cybersecurity with Cloud Computing]] — 19 mentions
@@ -165,42 +165,41 @@ created: 2026-05-02
 > 132. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
 > 133. [[Introduction To Web Design And Development]] — 1 mentions
 > 134. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
-> 135. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 136. [[Building a Privacy Program in the Age of GenAI]] — 1 mentions
-> 137. [[Learning Virtualization]] — 1 mentions
-> 138. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
-> 139. [[Cloud Quantum Computing Essentials]] — 1 mentions
-> 140. [[Cisco Network Security Core Security Concepts]] — 1 mentions
-> 141. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
-> 142. [[Creating Spring Boot Microservices]] — 1 mentions
-> 143. [[Microsoft Azure- Identity and Access Management]] — 1 mentions
-> 144. [[Data Quality- Core Concepts]] — 1 mentions
-> 145. [[Leading with Generative AI- Master Change Management for Success]] — 1 mentions
-> 146. [[Learning Vertex AI- MLOps with Google Cloud]] — 1 mentions
-> 147. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 1 mentions
-> 148. [[Azure AI for Developers- LLMs and SLMs]] — 1 mentions
-> 149. [[Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud]] — 1 mentions
-> 150. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 1 mentions
-> 151. [[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]] — 1 mentions
-> 152. [[Artificial Intelligence Case Studies in Different Business Industries]] — 1 mentions
-> 153. [[DevOps Tips]] — 1 mentions
-> 154. [[Google Cloud Foundations]] — 1 mentions
-> 155. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 1 mentions
-> 156. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
-> 157. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
-> 158. [[Learning Excel Desktop Microsoft 365]] — 1 mentions
-> 159. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
-> 160. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
-> 161. [[Windows Server 2019 Essential Training]] — 1 mentions
-> 162. [[Learning JDBC]] — 1 mentions
-> 163. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
-> 164. [[Content Marketing Foundations]] — 1 mentions
-> 165. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
-> 166. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 1 mentions
-> 167. [[Big Data in the Age of AI]] — 1 mentions
-> 168. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
-> 169. [[Essential Jigsaw for PHP and Laravel Developers]] — 1 mentions
-> 170. [[Essential Statamic for PHP and Laravel Developers]] — 1 mentions
+> 135. [[Building a Privacy Program in the Age of GenAI]] — 1 mentions
+> 136. [[Learning Virtualization]] — 1 mentions
+> 137. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
+> 138. [[Cloud Quantum Computing Essentials]] — 1 mentions
+> 139. [[Cisco Network Security Core Security Concepts]] — 1 mentions
+> 140. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
+> 141. [[Creating Spring Boot Microservices]] — 1 mentions
+> 142. [[Microsoft Azure- Identity and Access Management]] — 1 mentions
+> 143. [[Data Quality- Core Concepts]] — 1 mentions
+> 144. [[Leading with Generative AI- Master Change Management for Success]] — 1 mentions
+> 145. [[Learning Vertex AI- MLOps with Google Cloud]] — 1 mentions
+> 146. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 1 mentions
+> 147. [[Azure AI for Developers- LLMs and SLMs]] — 1 mentions
+> 148. [[Google Cloud Digital Leader Cert Prep- 5 Trust and Security with Google Cloud]] — 1 mentions
+> 149. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 1 mentions
+> 150. [[Building an Ethereum Blockchain App- 11 Integrating Non-Blockchain Apps]] — 1 mentions
+> 151. [[Artificial Intelligence Case Studies in Different Business Industries]] — 1 mentions
+> 152. [[DevOps Tips]] — 1 mentions
+> 153. [[Google Cloud Foundations]] — 1 mentions
+> 154. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 1 mentions
+> 155. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
+> 156. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
+> 157. [[Learning Excel Desktop Microsoft 365]] — 1 mentions
+> 158. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
+> 159. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
+> 160. [[Windows Server 2019 Essential Training]] — 1 mentions
+> 161. [[Learning JDBC]] — 1 mentions
+> 162. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
+> 163. [[Content Marketing Foundations]] — 1 mentions
+> 164. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
+> 165. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 1 mentions
+> 166. [[Big Data in the Age of AI]] — 1 mentions
+> 167. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
+> 168. [[Essential Jigsaw for PHP and Laravel Developers]] — 1 mentions
+> 169. [[Essential Statamic for PHP and Laravel Developers]] — 1 mentions
 
 ## Learning Paths
 

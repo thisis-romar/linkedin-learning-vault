@@ -2068,7 +2068,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=51)** Now, different [[Microsoft Products|products]] not only serve a different purpose, but they appeal more or less to different age groups.
 >
-> **[0:57](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=57)** YouTube and Facebook are used by people of almost any age group, but Snapchat, for example, sees little usage from older age groups.
+> **[0:57](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=57)** YouTube and [[Facebook]] are used by people of almost any age group, but Snapchat, for example, sees little usage from older age groups.
 >
 > **[1:05](https://www.linkedin.com/learning/digital-marketing-foundations-2022/how-to-decide-on-a-social-media-platform?u=76281980&t=65)** [[LinkedIn]] sees slightly more adoption among the 30 to 49 year olds, primarily due to its specific focus on [[Professional Networking]].
 >
@@ -2092,7 +2092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Professional Networking]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Facebook]] (1), [[LinkedIn]] (1), [[Professional Networking]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** select the (1)

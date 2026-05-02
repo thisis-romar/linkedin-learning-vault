@@ -1163,7 +1163,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=146)** When I think about YouTube, Netflix, Spotify, the first thing I think about is scale and performance.
 >
-> **[2:35](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=155)** No matter where I am, if I have good Wi-Fi or cell phone reception, these services just tend to work really well.
+> **[2:35](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=155)** No matter where I am, if I have good [[Wi-Fi]] or cell phone reception, these services just tend to work really well.
 >
 > **[2:44](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=164)** This is because they are actively serving requests and handling traffic from many different regions at the same time.
 >
@@ -1253,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Wi-Fi]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** rpo (3), rto (2)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)

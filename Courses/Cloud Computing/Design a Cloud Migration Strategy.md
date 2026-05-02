@@ -1328,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=99)** Another example of an application that might benefit from being replatformed is a utilitarian application.
 >
-> **[1:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=106)** I'm talking about things like [[Web Servers]], DNS servers, maybe even DHCP servers.
+> **[1:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=106)** I'm talking about things like [[Web Servers]], DNS servers, maybe even [[DHCP]] servers.
 >
 > **[1:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=111)** Suppose for a moment that you're running a DNS server on an expensive operating system.
 >
@@ -1346,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Servers]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[DHCP]] (1)
 > **Env Vars:** dns (3), dhcp (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1), you should never (1)

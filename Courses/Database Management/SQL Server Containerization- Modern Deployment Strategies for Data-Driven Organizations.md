@@ -128,7 +128,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=84)** As the name suggests, these boxes serve a purpose.
 >
-> **[1:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=86)** The domain controller machine is my domain controller and also running the DNS and DHCP service.
+> **[1:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=86)** The domain controller machine is my domain controller and also running the DNS and [[DHCP]] service.
 >
 > **[1:32](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=92)** In my Windows client, I started with installing Choco as a package manager.
 >

@@ -564,7 +564,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/deployment-models?u=76281980&t=63)** Cloud providers have responded by ensuring their systems meet many of the security standards in use today.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/deployment-models?u=76281980&t=70)** PCI DSS, Sarbanes-Oxley, HIPAA, SSAE 16, and many more.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/deployment-models?u=76281980&t=70)** [[PCI DSS]], Sarbanes-Oxley, HIPAA, SSAE 16, and many more.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/deployment-models?u=76281980&t=76)** As a result, cloud service providers generally demonstrate a much higher commitment to security than is typical in many businesses, and this goes a long way to providing the confidence necessary to satisfy regulators.
 >
@@ -618,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Cloud Services]] (1), [[Cloud Computing]] (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Cloud Services]] (1), [[PCI DSS]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** pci (1), dss (1), hipaa (1), ssae (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Tools:** notion (1)
@@ -2007,7 +2007,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=32)** Regulations, such as the health insurance portability and [[Accountability]] act and Sarbanes-Oxley requires specific IT control compliance.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=41)** The global payment card industry [[Data Security]] standard affects all organizations that take credit card payments.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=41)** The global [[PCI DSS|payment card industry data security standard]] affects all organizations that take credit card payments.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=49)** These standards require that specific controls are used to protect information and often extend that requirement to service providers.
 >
@@ -2059,7 +2059,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=217)** So that information is proactively and transparently made available by service providers.
 >
-> **[3:42](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=222)** Cloud providers generally hold certifications for a range of various regulations and industry requirements such as PCI DSS, SOC one, SOC two, HIPAA as well as best practice frameworks, like CSAs CCM, [[NIST]] [[Cybersecurity]] framework and global and regional regulations such as, the European union's GDPR.
+> **[3:42](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=222)** Cloud providers generally hold certifications for a range of various regulations and industry requirements such as [[PCI DSS]], SOC one, SOC two, HIPAA as well as best practice frameworks, like CSAs CCM, [[NIST]] [[Cybersecurity]] framework and global and regional regulations such as, the European union's GDPR.
 >
 > **[4:06](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/legal-compliance-and-audit?u=76281980&t=246)** Enterprises typically use audits to ensure policy compliance, including auditing third party providers.
 >
@@ -2075,7 +2075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Legal Compliance]] (1), [[Accountability]] (1), [[Data Security]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Legal Compliance]] (1), [[Accountability]] (1), [[PCI DSS|Payment card industry data security standard]] (1), [[Databases]] (1)
 > **Env Vars:** soc (2), pci (1), dss (1), hipaa (1), ccm (1)
 > **Analogies:** such as (5)
 > **Code Identifiers:** ediscovery (2)
@@ -2667,7 +2667,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/identity-in-the-cloud?u=76281980&t=198)** Such as Active Directory.
 >
-> **[3:20](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/identity-in-the-cloud?u=76281980&t=200)** Or an external recognized source of authenticated identity such as [[Google]], Facebook, Twitter, and so on.
+> **[3:20](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/identity-in-the-cloud?u=76281980&t=200)** Or an external recognized source of authenticated identity such as [[Google]], [[Facebook]], Twitter, and so on.
 >
 > **[3:28](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/identity-in-the-cloud?u=76281980&t=208)** Single sign-on is a security mechanism closely associated with federation.
 >
@@ -2749,7 +2749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Management]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Google]] (1), [[Facebook]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Management]] (1)
 > **Env Vars:** xml (4), saml (4), spml (3), scim (1), rest (1)
 > **Analogies:** such as (6), for example (1)
 > **Definitions:** known as (2), is an  (2), is a  (1)

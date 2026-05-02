@@ -2013,7 +2013,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=0)** - [Instructor] While most of the internet is based upon [[Representational State Transfer (REST)|REST]], another protocol has also grown.
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=6)** [[GraphQL]] was popularized by Facebook for managing complex APIs, which would normally be split between numerous [[Microservices]].
+> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=6)** [[GraphQL]] was popularized by [[Facebook]] for managing complex APIs, which would normally be split between numerous [[Microservices]].
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=16)** The solution makes it much easier as a client to interact with only one endpoint using customized requests rather than making many requests to multiple microservice hosts for the same thing.
 >

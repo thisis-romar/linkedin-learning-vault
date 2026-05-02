@@ -997,7 +997,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=337)** And I'll open up my color blocks and swipe right, and there we go, we get a giant message here in the console, way bigger than any error message you've ever seen before.
 >
-> **[5:46](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=346)** The only time I've ever seen this in use in the wild is on Facebook's website where they tell you not to put anything into the JavaScript console.
+> **[5:46](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=346)** The only time I've ever seen this in use in the wild is on [[Facebook]]'s website where they tell you not to put anything into the JavaScript console.
 >
 > **[5:54](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=354)** But you may enjoy using this in some of your own projects and I wanted to show it to you.
 >
@@ -1033,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), [[Tokens]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Tokens]] (2), [[Microsoft]] (1), [[Facebook]] (1)
 > **Env Vars:** api (7), css (3)
 > **Tools:** safari (2), visual studio (1), firefox (1)
 > **Code Identifiers:** bigerrorstyle (2), jquery (1)

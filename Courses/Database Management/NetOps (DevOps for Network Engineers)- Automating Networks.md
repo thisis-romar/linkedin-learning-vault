@@ -268,7 +268,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=343)** Then we would deploy the equipment per our design.
 >
-> **[5:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=346)** This could be the actual rack and stack, configuring the equipment, and all the necessary supporting infrastructure, such as IP management, DNS, DHCP, firewall policies, and so on.
+> **[5:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=346)** This could be the actual rack and stack, configuring the equipment, and all the necessary supporting infrastructure, such as IP management, DNS, [[DHCP]], firewall policies, and so on.
 >
 > **[5:57](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=357)** Once it is deployed, we will continue to operate and monitor the network.
 >

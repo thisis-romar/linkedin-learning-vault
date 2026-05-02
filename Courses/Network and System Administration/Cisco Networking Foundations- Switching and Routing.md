@@ -195,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=117)** Here's how it works.
 >
-> **[1:58](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=118)** You go to devnetsandbox.[cisco.com](https://cisco.com), and you log in with an existing account, like a Google or Facebook account, or you could create your own free Cisco account.
+> **[1:58](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=118)** You go to devnetsandbox.[cisco.com](https://cisco.com), and you log in with an existing account, like a Google or [[Facebook]] account, or you could create your own free Cisco account.
 >
 > **[2:08](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=128)** Then you can reserve a pod of gear at a certain date and time for a certain duration.
 >
@@ -209,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2), [[Facebook]] (1)
 > **Env Vars:** cml (4), ios (2), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Prerequisites:** set up (1), getting started (1)
@@ -229,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=0)** - [Instructor] In this video, we want to define a MAC address, a Media Access Control address.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=6)** And this is a 48 bit address that we say is burned into a network interface card.
+> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=6)** And this is a 48 bit address that we say is burned into a [[NIC|network interface card]].
 >
 > **[0:12](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=12)** And the reason we say it's burned into a network interface card is when the manufacturer creates that card, they assign as part of the [[Hardware]] of that card, a unique MAC address.
 >
@@ -269,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1)
+> **Frameworks & Libraries:** [[NIC|Network interface card]] (4), [[Hardware]] (1)
 > **Env Vars:** mac (11), oui (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1), select the (1)

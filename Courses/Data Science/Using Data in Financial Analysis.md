@@ -1214,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=116)** [[Google]] Trends is great for survey data, and then there's a variety of other micro data sources that we can gather data on, either related to our firm or to competing firms.
 >
-> **[2:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=128)** For example, we can get data from Facebook or from Twitter now called X, from a variety of different sources, from threads, potentially, from many different social media platforms.
+> **[2:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=128)** For example, we can get data from [[Facebook]] or from Twitter now called X, from a variety of different sources, from threads, potentially, from many different social media platforms.
 >
 > **[2:21](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=141)** This may require textual analysis.
 >
@@ -1272,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Statistics]] (1), [[Google]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Statistics]] (1), [[Google]] (1), [[Facebook]] (1)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Analogies:** picture (2), for example (2), similar to (1)
 > **Definitions:** is a  (1), in other words (1)

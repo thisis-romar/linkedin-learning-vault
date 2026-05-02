@@ -590,7 +590,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980&t=155)** Let's look at an example of the quick reaction to a public earnings announcement.
 >
-> **[2:41](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980&t=161)** On February 1st, 2017, Facebook announced its financial results for the fourth quarter of 2016, the months of October through December.
+> **[2:41](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980&t=161)** On February 1st, 2017, [[Facebook]] announced its financial results for the fourth quarter of 2016, the months of October through December.
 >
 > **[2:50](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980&t=170)** Facebook reported total revenue for the quarter of $8.8 billion.
 >
@@ -618,6 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Facebook]] (5)
 > **Versions:** 8.8 (2), 1.41 (2), 8.5 (1), 1.31 (1)
 > **Env Vars:** sec (2), alis (2)
 > **Definitions:** means that (1), is a  (1)

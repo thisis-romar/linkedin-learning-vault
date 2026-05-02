@@ -607,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=50)** Well the first reason is the most compliance regimes require it.
 >
-> **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=54)** For example PCI DSS requires the changes can be traced back to ensure that the PCI security requirements were addressed in the development process.
+> **[0:54](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=54)** For example [[PCI DSS]] requires the changes can be traced back to ensure that the PCI security requirements were addressed in the development process.
 >
 > **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-change-management/prepare-the-change?u=76281980&t=65)** Similarly, FedRAMP compliance requires analysis and reporting of all significant changes to systems and applications.
 >
@@ -645,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Jira]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (1), [[Software Development]] (1), [[Jira]] (1), [[DevOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** pci (2), dss (1), jira (1)
 > **CLI Commands:** make (2)
 > **Documentation:** spec (1)
@@ -1831,7 +1831,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=204)** You might ask.
 >
-> **[3:27](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=207)** Separation of duties is a compliance requirement for some regimes like SOC 2, PCI DSS, and FISMA.
+> **[3:27](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=207)** Separation of duties is a compliance requirement for some regimes like SOC 2, [[PCI DSS]], and FISMA.
 >
 > **[3:34](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-antipatterns?u=76281980&t=214)** However, it's frequently misunderstood and made more onerous and complex than it really is.
 >
@@ -1869,7 +1869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Accountability]] (1), [[Configuration Management]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[ITIL]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[PCI DSS]] (2), [[Accountability]] (1)
 > **Env Vars:** pci (5), iso (3), cobit (2), itil (2), cmdb (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)

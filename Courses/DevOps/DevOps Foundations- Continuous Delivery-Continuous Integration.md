@@ -205,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=91)** - I mean, it can feel terrifying.
 >
-> **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=92)** - But large-scale web properties like Facebook, Etsy, and Wealthfront use continuous deployment as a key component behind their success.
+> **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=92)** - But large-scale web properties like [[Facebook]], Etsy, and Wealthfront use continuous deployment as a key component behind their success.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=101)** Even at my work, we use continuous deployment for the [[Microservices]] that backup our open thread exchange website.
 >
@@ -1834,7 +1834,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=244)** So you can deploy that new sidebar full of enriched data, turn it on, and then turn it off again if there's a problem.
 >
-> **[4:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=252)** Web companies like Twitter and Facebook make extensive use of this scheme, turning off non-critical screen widgets if they have problems or even if they're having overall performance issues.
+> **[4:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=252)** Web companies like Twitter and [[Facebook]] make extensive use of this scheme, turning off non-critical screen widgets if they have problems or even if they're having overall performance issues.
 >
 > **[4:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=263)** This extends the branching by abstraction pattern into the operational environment.
 >
@@ -1882,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Service Deployment]] (2), [[Microsoft Azure|Azure]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Version Control]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[Service Deployment]] (2), [[Microsoft Azure|Azure]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Facebook]] (1), [[Version Control]] (1)
 > **CLI Commands:** make (4), aws (1), ssh (1), ansible (1), docker (1)
 > **Env Vars:** aws (1), api (1), ssh (1)
 > **Definitions:** in other words (1), is an  (1), is a  (1)

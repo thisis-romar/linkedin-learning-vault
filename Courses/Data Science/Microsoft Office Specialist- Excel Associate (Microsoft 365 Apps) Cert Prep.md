@@ -4389,12 +4389,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-text-using-the-concat-and-textjoin-functions?u=76281980&t=206)** So we want to include them.
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-text-using-the-concat-and-textjoin-functions?u=76281980&t=208)** I'll tab to accept that, type in a comma, and because we're including them in this order Whitfield Demetrius I can select C3 hold my mouse down and grab D3.
+> **[3:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-text-using-the-concat-and-textjoin-functions?u=76281980&t=208)** I'll tab to accept that, type in a comma, and because we're including them in this order Whitfield Demetrius I can select C3 hold my mouse down and grab [[D3.js|D3]].
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/format-text-using-the-concat-and-textjoin-functions?u=76281980&t=222)** Close my parenthesis, hit enter, and there is just another way that you can format text, when you use TEXTJOIN to bring them together.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[D3.js|D3]] (1)
 > **Env Vars:** textjoin (8), concat (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)

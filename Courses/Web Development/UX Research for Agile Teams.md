@@ -459,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=41)** You can also recruit people who aren't yet customers or users.
 >
-> **[0:45](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=45)** You can find where the type of people you want to talk to already spend their time, or use tools like [[Google]] AdWords or Facebook ads to find people who have specific interests.
+> **[0:45](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=45)** You can find where the type of people you want to talk to already spend their time, or use tools like [[Google]] AdWords or [[Facebook]] ads to find people who have specific interests.
 >
 > **[0:56](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=56)** For instance, let's say that you are building an application to help fitness enthusiasts find new classes.
 >
@@ -497,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (2), [[Google]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** cms (1)

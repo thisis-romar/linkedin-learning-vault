@@ -4536,7 +4536,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980&t=91)** And as the sequential implementation is executing, notice that the CPU usage is really low, only a few percent, so it isn't even fully utilizing a single processor.
 >
-> **[1:42](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980&t=102)** However, the wifi usage jumped up, fluctuating around three to five megabits per second.
+> **[1:42](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980&t=102)** However, the [[Wi-Fi|wifi]] usage jumped up, fluctuating around three to five megabits per second.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980&t=109)** This sequential algorithm could take a while, so let's fast forward.
 >
@@ -4566,6 +4566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Wi-Fi|Wifi]] (2)
 > **Env Vars:** cpu (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)

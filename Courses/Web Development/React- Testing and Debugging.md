@@ -1830,7 +1830,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=128)** If you're desperate and you can't wait for something, the other resource that I would go to is Reactiflux, which is a Discord server.
 >
-> **[2:16](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=136)** So if you join Reactiflux, you're going to be on the server where there's people around [[React Native]], Redux, React, Jest, Relay and [[GraphQL]] which are all technologies from Facebook.
+> **[2:16](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=136)** So if you join Reactiflux, you're going to be on the server where there's people around [[React Native]], Redux, React, Jest, Relay and [[GraphQL]] which are all technologies from [[Facebook]].
 >
 > **[2:28](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=148)** And then you would be able to ask your question and most likely there's a developer that will answer it.
 >
@@ -1848,7 +1848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[React.js|React]] (3), [[GitHub]] (2), [[React Native]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[React.js|React]] (3), [[Facebook]] (2), [[GitHub]] (2), [[React Native]] (1)
 > **UI Navigation:** go to (5), open the (1), click on (1)
 > **Tools:** terminal (2), github (2), discord (1)
 > **Analogies:** for example (4)
@@ -2051,7 +2051,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=10)** If the types don't match, type checking throws an error warning that you are trying to pass a number to a variable that is expecting a string for example.
 >
-> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=18)** [[React.js|React]] has prop types that you can use within its libraries but I personally prefer to use a tool like Flow which has much more to offer and is also maintained by the Facebook team.
+> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=18)** [[React.js|React]] has prop types that you can use within its libraries but I personally prefer to use a tool like Flow which has much more to offer and is also maintained by the [[Facebook]] team.
 >
 > **[0:29](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=29)** What's really good about Flow is that you could use it without setting up your types because Flow offers a lot for you out of the box.
 >
@@ -2155,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), [[React.js|React]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[React.js|React]] (2), [[Facebook]] (1), [[JSON]] (1)
 > **Tools:** terminal (4)
 > **File Paths:** single.js (2), package.json (1)
 > **CLI Commands:** npm (3)

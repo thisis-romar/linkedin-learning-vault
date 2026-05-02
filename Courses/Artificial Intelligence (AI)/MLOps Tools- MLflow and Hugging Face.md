@@ -6268,7 +6268,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=455)** This is similar to what potentially people have been doing here, right?
 >
-> **[7:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=458)** In this particular model here you can see that in fact it's based on the original Facebook model, but it's been fine tuned and it's been pushed into this particular directory.
+> **[7:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=458)** In this particular model here you can see that in fact it's based on the original [[Facebook]] model, but it's been fine tuned and it's been pushed into this particular directory.
 >
 > **[7:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=472)** So you can do the same thing yourself by doing fine tuning.
 >

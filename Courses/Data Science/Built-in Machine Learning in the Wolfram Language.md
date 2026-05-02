@@ -134,7 +134,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=308)** We have a topic classifier that is called FacebookTopic.
 >
-> **[5:12](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=312)** Of course, you can use it on any piece of text, it does not have to be a Facebook post.
+> **[5:12](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=312)** Of course, you can use it on any piece of text, it does not have to be a [[Facebook]] post.
 >
 > **[5:16](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=316)** However, it will identify the topic from that piece of text.
 >
@@ -200,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wolfram Language]] (11), [[Computer Vision]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[JavaScript]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Wolfram Language]] (11), [[Computer Vision]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Facebook]] (1), [[JavaScript]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is called (1), is a  (1)

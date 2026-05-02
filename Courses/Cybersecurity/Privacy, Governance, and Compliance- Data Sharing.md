@@ -475,7 +475,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=256)** Here is a quick summary.
 >
-> **[4:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=257)** Cambridge Analytica, a political data firm hired by President Trump's 2016 election campaign, gained access to private data on more than 50 million Facebook users.
+> **[4:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=257)** Cambridge Analytica, a political data firm hired by President Trump's 2016 election campaign, gained access to private data on more than 50 million [[Facebook]] users.
 >
 > **[4:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=267)** The firm offered tools that could identify the personalities of American voters and possibly influence their behavior.
 >
@@ -535,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Sharing]] (9), [[Privacy]] (8), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (9), [[Privacy]] (8), [[Facebook]] (3), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Ports:** :10 (1), :24 (1), :12 (1), :08 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.6 (1)

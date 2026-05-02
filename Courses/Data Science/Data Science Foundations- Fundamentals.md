@@ -1335,7 +1335,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=134)** That gets about 5 billion views per day.
 >
-> **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=136)** Instagram had 95 million posts per day, and that was back in 2016 when it only had half as many users as it does now, and Facebook generates about four petabytes of data per day.
+> **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=136)** [[Instagram]] had 95 million posts per day, and that was back in 2016 when it only had half as many users as it does now, and [[Facebook]] generates about four petabytes of data per day.
 >
 > **[2:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=149)** The data is coming in so fast, it's a fire hose that no common methods that existed before the big data revolution could handle it.
 >
@@ -1403,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (16), [[Data Science]] (8), [[Hadoop]] (2), [[Databases]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (16), [[Data Science]] (8), [[Hadoop]] (2), [[Databases]] (1), [[Instagram]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** gps (1)
@@ -2880,7 +2880,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=83)** Now, APIs can be used for a million different things.
 >
-> **[1:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=87)** Three very common categories include social APIs that allow you to access data from Facebook or a Bluesky or other sources, as well as use them as logins for your own sites; utilities, things like Dropbox and [[Google]] Maps, so you can include that information in your own apps; or commerce: Stripe for processing payments or MailChimp for [[Email Marketing]] or things like [[Slack]] or a million other applications.
+> **[1:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=87)** Three very common categories include social APIs that allow you to access data from [[Facebook]] or a Bluesky or other sources, as well as use them as logins for your own sites; utilities, things like Dropbox and [[Google]] Maps, so you can include that information in your own apps; or commerce: Stripe for processing payments or MailChimp for [[Email Marketing]] or things like [[Slack]] or a million other applications.
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=110)** The data can be open, which means all you need is the address to get it, or it may be proprietary.
 >
@@ -2898,7 +2898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Data Science]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Data Science]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Facebook]] (1)
 > **Env Vars:** api (2), json (2)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **CLI Commands:** python (1), make (1)

@@ -312,7 +312,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=167)** And when I do, you can see that this particular service, the network location awareness service, has several dependencies.
 >
-> **[2:53](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=173)** It depends on the DHCP client service, the network store interface service, the remote procedure call service, the TCP/IP Protocol Driver service and the Windows event log service.
+> **[2:53](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=173)** It depends on the [[DHCP]] client service, the network store interface service, the remote procedure call service, the TCP/IP Protocol Driver service and the Windows event log service.
 >
 > **[3:04](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=184)** So all of these services have to be running in order for the network location awareness service to start.
 >
@@ -348,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[DHCP]] (3), [[Microsoft]] (2), [[Windows 10]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** dhcp (3), tcp (1)
 > **Analogies:** for example (2), just like (1)
@@ -691,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=56)** And when I do that, you can see that this machine is configured to obtain an IP address automatically and to obtain a DNS server address automatically.
 >
-> **[1:04](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=64)** So we're not assigning static IP addresses to this machine, it's getting its addresses from a DHCP server.
+> **[1:04](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=64)** So we're not assigning static IP addresses to this machine, it's getting its addresses from a [[DHCP]] server.
 >
 > **[1:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=70)** So now we need to verify that it actually is acquiring IP addresses.
 >
@@ -723,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[DHCP]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (5), dhcp (2), ipv4 (1), ipv6 (1)
 > **UI Navigation:** go to (3), right-click (2), click on (2), open the (1)
 > **Tools:** command prompt (4)
@@ -1026,7 +1026,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=0)** - [Instructor] If your [[Windows 10]] machine is having trouble with Wi-Fi, then there are several things that you can do to troubleshoot the problem.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=0)** - [Instructor] If your [[Windows 10]] machine is having trouble with [[Wi-Fi]], then there are several things that you can do to troubleshoot the problem.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=7)** One of the first things that I recommend doing is just opening up the task bar and then right-clicking on the network icon, and then we have a troubleshoot problems link right here.
 >
@@ -1088,7 +1088,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=170)** For example, maybe you've got a bad set of credentials or what I've been noticing happening quite a bit lately is wireless access points that are depleting their IP address pool.
 >
-> **[3:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=180)** Because when you connect to a wireless access point, typically, that wireless access point acts as a DHCP server and it assigns an IP address to the machine that's connecting.
+> **[3:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=180)** Because when you connect to a wireless access point, typically, that wireless access point acts as a [[DHCP]] server and it assigns an IP address to the machine that's connecting.
 >
 > **[3:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=190)** But because of the way that DHCP leases work, it's easy for a wireless access point to run out of IP addresses at least for a period of time.
 >
@@ -1102,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Wi-Fi]] (4), [[Windows 10]] (2), [[Windows]] (2), [[DHCP]] (2)
 > **UI Navigation:** go to (5), open the (1), click on (1), right-click (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** make (3)

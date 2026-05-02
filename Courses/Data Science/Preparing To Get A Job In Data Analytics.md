@@ -1312,7 +1312,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=54)** Be sure that you show a variety of skills and tools that are in line with your target role.
 >
-> **[1:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=60)** For example, when showing off your sequel skills, be sure to show a variety of skills and functions within your portfolio, such as JOINs, aggregate functions, CTEs, and more.
+> **[1:00](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=60)** For example, when showing off your sequel skills, be sure to show a variety of skills and functions within your portfolio, such as JOINs, aggregate functions, [[CTE|CTEs]], and more.
 >
 > **[1:12](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980&t=72)** The goal is to show that you have all the necessary skills in each tool.
 >

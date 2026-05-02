@@ -456,7 +456,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=192)** Now, keep in mind, during footprinting, you would most likely reference the target, but for fun, I thought we would do some searches that might surprise you.
 >
-> **[3:23](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=203)** In this example, I've asked for in title, index of SCADA.
+> **[3:23](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=203)** In this example, I've asked for in title, index of [[SCADA]].
 >
 > **[3:28](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=208)** Now, once the results are presented to you, you can search through, and you might find something like this, which is a SCADA system.
 >
@@ -478,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[SCADA]] (2), [[Ethical Hacking]] (1)
 > **Env Vars:** scada (2), pdf (1), mp3 (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), is called (1)
@@ -578,7 +578,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=142)** Now, if you want more information, you will have to pay for it.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=149)** Now, Yasni provides standard information such as telephone and addresses, along with a variety of other information that includes Facebook and [[LinkedIn]] profiles, where they may have worked, education, death notices, books published, and YouTube.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=149)** Now, Yasni provides standard information such as telephone and addresses, along with a variety of other information that includes [[Facebook]] and [[LinkedIn]] profiles, where they may have worked, education, death notices, books published, and YouTube.
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=171)** And the last site that might help you when searching for a list of company employees is SignalHire.
 >
@@ -600,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (1), [[LinkedIn]] (1), [[Phishing]] (1)
 > **Analogies:** such as (6), picture (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -1659,7 +1659,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=188)** And if we select Explore, it will take you to this page where you can explore all types of objects on the internet.
 >
-> **[3:18](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=198)** Billions of devices are on the internet and that includes all types of things such as SCADA, webcams, and other things such as power plants, smart TVs, and even refrigerators.
+> **[3:18](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=198)** Billions of devices are on the internet and that includes all types of things such as [[SCADA]], webcams, and other things such as power plants, smart TVs, and even refrigerators.
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=211)** Shodan is the search engine for the [[IoT|internet of things]] and that's everything that's connected.
 >
@@ -2390,7 +2390,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=199)** Now, most are free applications, so it's important that we take steps to protect the passwords, and also instruct employees to think before posting.
 >
-> **[3:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=210)** I'm at Facebook's information site where you can learn more about Facebook's [[Privacy]] policy and ways to lock down your site.
+> **[3:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=210)** I'm at [[Facebook]]'s information site where you can learn more about Facebook's [[Privacy]] policy and ways to lock down your site.
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=218)** Now, let's test your knowledge.
 >
@@ -2400,7 +2400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Facebook]] (2), [[Privacy]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dns (1)
 > **Documentation:** the documentation (1)

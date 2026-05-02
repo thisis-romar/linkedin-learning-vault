@@ -6499,7 +6499,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=177)** The transient host name is a dynamic host name used by the Colonel.
 >
-> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=182)** By default, when the system starts, it's set to the static host name, but it can change any time by user or a service such as DHCP or MDNS.
+> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=182)** By default, when the system starts, it's set to the static host name, but it can change any time by user or a service such as [[DHCP]] or MDNS.
 >
 > **[3:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=190)** The Pretty host name is a free form UTF8 string of text that is presented to the user.
 >
@@ -6527,7 +6527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1), [[DHCP]] (1)
 > **Env Vars:** eth (3), dns (3), arp (2), addr (2), ctl (2)
 > **CLI Commands:** find (1), sudo (1), yum (1), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -6554,7 +6554,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=43)** These scripts are for all network interface configuration including dynamic and manual configs.
 >
-> **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=48)** A dynamic config may have only few lines in it specifying the name of the device and the boot protocol of DHCP.
+> **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=48)** A dynamic config may have only few lines in it specifying the name of the device and the boot protocol of [[DHCP]].
 >
 > **[0:55](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=55)** This example specifies that it should be enabled at boot and uses DHCP for configuration.
 >
@@ -6622,7 +6622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Linux]] (3)
 > **Env Vars:** dns (6), dhcp (2), ipaddr (1), ipv6addr (1), hwaddr (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
@@ -6722,7 +6722,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=276)** It's now asking me what type of connection I want to edit.
 >
-> **[4:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=279)** I can choose generic, ethernet, WiFi, WiMAX, Bluetooth, and so on, it's very powerful.
+> **[4:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=279)** I can choose generic, ethernet, [[Wi-Fi|WiFi]], WiMAX, Bluetooth, and so on, it's very powerful.
 >
 > **[4:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=285)** After I choose a mode, it will give me more options.
 >
@@ -6740,7 +6740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Wi-Fi|Wifi]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (16), nmtui (5), ncmli (3), emp0s3 (2), tui (1)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -6779,7 +6779,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=51)** Here we can choose the method in which we want to configure the connection.
 >
-> **[0:55](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=55)** Mine is on dynamic using DHCP.
+> **[0:55](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=55)** Mine is on dynamic using [[DHCP]].
 >
 > **[0:58](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=58)** In this mode I can still override the DNS and static route settings.
 >
@@ -6825,7 +6825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (1), [[Linux]] (1)
 > **Env Vars:** gui (5), dns (2), vpn (2), mtu (1), dhcp (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Versions:** version 4 (3), version 6 (1)
@@ -6876,7 +6876,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=108)** The route section is for [[Routing]] information.
 >
-> **[1:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=111)** The DHCP server section is for DHCP server information.
+> **[1:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=111)** The [[DHCP]] server section is for DHCP server information.
 >
 > **[1:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=114)** The bridge section is for configuring network bridges.
 >
@@ -6902,7 +6902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[DHCP]] (2), [[Routing]] (1)
 > **Env Vars:** dhcp (2), suse (1), wicd (1), mac (1), ssid (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (2), configure (1)
@@ -6932,7 +6932,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=31)** Scenario two, if the source and destination hosts are not on the same physical network, then all defined routes in the routing table are tried one after another.
 >
-> **[0:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=40)** These routes could be dynamic routes added by our DHCP server or they could be static routes that we've added manually.
+> **[0:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=40)** These routes could be dynamic routes added by our [[DHCP]] server or they could be static routes that we've added manually.
 >
 > **[0:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=47)** If a proper route is found, the packet is forwarded.
 >
@@ -6944,7 +6944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5)
+> **Frameworks & Libraries:** [[Routing]] (5), [[DHCP]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** dhcp (2)
 > **Speakers:** - [instructor] (1)
@@ -7072,7 +7072,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=42)** If you don't see this, you'll need to troubleshoot it further.
 >
-> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=45)** For the IP address, we can either set it manually or use DHCP.
+> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=45)** For the IP address, we can either set it manually or use [[DHCP]].
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=49)** If we're using DHCP, the [[Representational State Transfer (REST)|rest]] of the settings will probably come along automatically if they're configured right on the DHCP server.
 >
@@ -7266,7 +7266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (3), [[Routing]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[DHCP]] (3), [[Google]] (3), [[LinkedIn]] (3), [[Routing]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (16), dhcp (3), arp (3), enp0s3 (2)
 > **Versions:** 192.168.2 (8), 8.8.8 (2)
 > **Warnings:** troubleshoot (5)
@@ -7603,7 +7603,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=26)** It's not uncommon these days to be connected to more than one dynamic network at a time and each having different name resolution servers.
 >
-> **[0:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=32)** For instance, we may have a VPN connection going through a public Wi-Fi network.
+> **[0:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=32)** For instance, we may have a VPN connection going through a public [[Wi-Fi]] network.
 >
 > **[0:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=36)** The DNS servers associated with these connections would come and go as the connections would.
 >
@@ -7639,7 +7639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Wi-Fi]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (6), vpn (2), nss (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for instance (2)
@@ -7715,7 +7715,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=148)** - -list-services and hit enter.
 >
-> **[2:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=152)** This shows I am allowing three different ports in through the firewall: dhcp, ntp, and ssh.
+> **[2:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=152)** This shows I am allowing three different ports in through the firewall: [[DHCP]], ntp, and ssh.
 >
 > **[2:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=159)** The last thing we'll do is use [[Nmap]] to scan our own computer to see which ports are open.
 >
@@ -7753,7 +7753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Nmap]] (5), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (5), [[Linux]] (1), [[DHCP]] (1)
 > **CLI Commands:** sudo (7), systemctl (2), ssh (2), make (1), yum (1)
 > **Code Identifiers:** st (3), su (1)
 > **Versions:** 127.0.0 (1), 192.168.2 (1)

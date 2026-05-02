@@ -804,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=68)** Let's see it in an example.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=70)** We had three companies, [[Google]], [[Microsoft]], and Facebook and the number of software developers working at each is 8,000, 10,000 and 6,000 respectively.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=70)** We had three companies, [[Google]], [[Microsoft]], and [[Facebook]] and the number of software developers working at each is 8,000, 10,000 and 6,000 respectively.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=82)** Additionally, the percentages of software developers that are coding in [[Python (Programming Language)|Python]] in these companies are 14%, 21%, and 12% respectively.
 >
@@ -848,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), [[Google]] (13), [[Python (Programming Language)|Python]] (12), [[Microsoft]] (6), [[Vanilla]] (4)
+> **Frameworks & Libraries:** [[Probability]] (14), [[Google]] (13), [[Python (Programming Language)|Python]] (12), [[Microsoft]] (6), [[Facebook]] (6)
 > **CLI Commands:** python (12), find (3)
 > **Versions:** 0.33 (2), 0.42 (2), 0.25 (2), 0.14 (1), 0.21 (1)
 > **Definitions:** is a  (1)

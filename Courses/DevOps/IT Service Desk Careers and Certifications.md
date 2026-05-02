@@ -1005,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=28)** When I talk about office-based workers, I mean an office where the IT department had a hand in setting up the physical equipment.
 >
-> **[0:36](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=36)** They've set up the cabling, the wifi, they've supplied the computers, the keyboards, the printers, things are all within their control.
+> **[0:36](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=36)** They've set up the cabling, the [[Wi-Fi|wifi]], they've supplied the computers, the keyboards, the printers, things are all within their control.
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980&t=45)** Having that standard setup, the controlled environment where the printers are the same model throughout the office building or buildings, et cetera, means that it's much easier for the IT department and the IT service desk to provide support.
 >
@@ -1033,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Wi-Fi|Wifi]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
@@ -1057,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=25)** You might have a printer, but it most likely will not be the same as the one in the office.
 >
-> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=30)** Your local coffee shop will have wifi but it won't be the same as the one in the office.
+> **[0:30](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=30)** Your local coffee shop will have [[Wi-Fi|wifi]] but it won't be the same as the one in the office.
 >
 > **[0:35](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/remote-and-hybrid-workplaces?u=76281980&t=35)** So, what happens when things go wrong remotely?
 >
@@ -1093,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Wi-Fi|Wifi]] (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 

@@ -9791,7 +9791,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=0)** - [Chad] So I'd like to leave you with some resources for next steps you can take for upping your PDF accessibility game.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=7)** And I'm going to start here with the PDF Accessibility Facebook group.
+> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=7)** And I'm going to start here with the PDF Accessibility [[Facebook]] group.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=11)** This group is a very active group with about 1,700 members, and it's full of people who are willing to help you with your PDF accessibility questions.
 >
@@ -9833,7 +9833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Facebook]] (1), [[DAX]] (1)
 > **Env Vars:** pdf (13), wcag (1), pdfa (1), pac (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), find (1)

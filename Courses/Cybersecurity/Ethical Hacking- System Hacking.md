@@ -282,7 +282,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=95)** Locating credentials on the internet can be achieved by searching online using [[Google]] hacking or other methods to unearth passwords within a site, or the team could try to obtain a list of default usernames and passwords for the device or devices they're trying to access.
 >
-> **[1:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=115)** Exploiting Wi-Fi networks is another option that can be achieved by attempting to guess, crack, or mimic a signed-in device.
+> **[1:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=115)** Exploiting [[Wi-Fi]] networks is another option that can be achieved by attempting to guess, crack, or mimic a signed-in device.
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=125)** Once in a corporate or Wi-Fi network, it's possible to perform several malicious activities, including sniffing user credentials, executing man-in-the-middle attacks, and redirecting victims to malicious websites.
 >
@@ -298,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Hardware]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Wi-Fi]] (2), [[Ethical Hacking]] (1), [[Hardware]] (1), [[Google]] (1)
 > **Speakers:** - [narrator] (1)
 
 #### [Authenticating a user](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980)

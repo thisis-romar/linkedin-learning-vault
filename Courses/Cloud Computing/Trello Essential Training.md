@@ -3515,7 +3515,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=24)** If you're interested in applying these techniques specifically in the field of film and video post-production, I have not one, but two additional [[LinkedIn]] learning courses where I teach you how to apply these techniques in a more practical setting, "Trello for Video Post-Production" and "Post-Production Productivity."
 >
-> **[0:41](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=41)** And if you'd like to reach out and connect with me directly, you can feel free to connect with me on LinkedIn or Facebook.
+> **[0:41](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=41)** And if you'd like to reach out and connect with me directly, you can feel free to connect with me on LinkedIn or [[Facebook]].
 >
 > **[0:46](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=46)** You can feel free to reach out to me at my website, which is optimizeyourself.me or you can send me an email directly at zack.arnold@optimizeyourself.me.
 >
@@ -3525,7 +3525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (4), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Trello]] (4), [[LinkedIn]] (2), [[Facebook]] (1)
 > **Speakers:** - [instructor] (1)
 
 

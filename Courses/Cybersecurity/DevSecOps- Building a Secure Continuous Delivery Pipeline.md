@@ -1785,7 +1785,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=68)** Now, to say that running a bug bounty always goes well is not really the case.
 >
-> **[1:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=73)** There have been notable cases from Facebook, Uber and others where a bug bounty participant attempts to hold their findings ransom to get a bigger payout.
+> **[1:13](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=73)** There have been notable cases from [[Facebook]], Uber and others where a bug bounty participant attempts to hold their findings ransom to get a bigger payout.
 >
 > **[1:22](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline/modern-application-security?u=76281980&t=82)** Using a service can help mitigate some of this risk.
 >
@@ -1827,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[OWASP]] (1), [[Java]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Facebook]] (1), [[Microsoft Products|Products]] (1), [[OWASP]] (1), [[Java]] (1)
 > **Env Vars:** waf (2), rasp (1), owasp (1), elk (1), net (1)
 > **CLI Commands:** find (2), php (1), python (1), ruby (1)
 > **Code Identifiers:** tcell (1)

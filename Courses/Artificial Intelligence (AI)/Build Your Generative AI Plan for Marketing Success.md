@@ -629,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=71)** And then comes hands-on [[Data Manipulation]].
 >
-> **[1:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=75)** Hey, ChatGPT, can you help me write an API for [[Microsoft Power BI|Power BI]] to get data from Google Analytics, Salesforce, and Facebook?
+> **[1:15](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=75)** Hey, ChatGPT, can you help me write an API for [[Microsoft Power BI|Power BI]] to get data from Google Analytics, Salesforce, and [[Facebook]]?
 >
 > **[1:23](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/how-generative-ai-aids-marketing-measurement?u=76281980&t=83)** Hey, ChatGPT, what are some options for formatting these reports and data visualizations for clarity based on best practices?
 >

@@ -181,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=13)** For [[JavaScript]], it's the Ecma International Technical Committee 39, better known as TC39.
 >
-> **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=20)** For [[React.js|React]] JS, it's the react core contributors operating under Facebook open source found at the main react JS website.
+> **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=20)** For [[React.js|React]] JS, it's the react core contributors operating under [[Facebook]] open source found at the main react JS website.
 >
 > **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=27)** For [[WordPress]], it's the WordPress core contributors found at [wordpress.org](https://wordpress.org).
 >
@@ -249,7 +249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), [[WordPress]] (6), [[JavaScript]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[WordPress]] (6), [[JavaScript]] (1), [[Facebook]] (1), [[Application Development]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Env Vars:** w3c (3), tc39 (2)
 > **Documentation:** w3c (3)

@@ -425,7 +425,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=218)** Keep in mind that a core feature of linking cloud based systems to IoT based systems is the ability to efficiently integrate those systems.
 >
-> **[3:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=228)** Obviously systems that are out and about on very weak wifi networks in some instances, communicating with Bluetooth in other instances, on older networks that may be a part of a factory, have to have some [[Resiliency]] built in them in terms of how information is going to be processed from source to target.
+> **[3:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=228)** Obviously systems that are out and about on very weak [[Wi-Fi|wifi]] networks in some instances, communicating with Bluetooth in other instances, on older networks that may be a part of a factory, have to have some [[Resiliency]] built in them in terms of how information is going to be processed from source to target.
 >
 > **[4:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=246)** Be able to deal with all sorts of issues and do so in efficient ways.
 
@@ -663,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=35)** And so we have a number of IoT opportunities in this particular case.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=39)** We have computerized grading or the ability to in essence not for students to fill out Scantron cards or even work with paper at all, but the ability to leverage computer-based systems that are Wi-Fi connected to not only bring information from the tests or from the studies, but provide interactivity with the students in terms of what they are doing well and what they can do to improve, and we all know it's better for us to get this instant feedback than it is to wait for criticism to come a couple of days after we've done an exam or taken a lesson.
+> **[0:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=39)** We have computerized grading or the ability to in essence not for students to fill out Scantron cards or even work with paper at all, but the ability to leverage computer-based systems that are [[Wi-Fi]] connected to not only bring information from the tests or from the studies, but provide interactivity with the students in terms of what they are doing well and what they can do to improve, and we all know it's better for us to get this instant feedback than it is to wait for criticism to come a couple of days after we've done an exam or taken a lesson.
 >
 > **[1:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=74)** And the ability to get feedback directly to the student via the mobile computing system.
 >
@@ -691,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1), [[Data Storage]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1), [[Data Storage]] (1), [[Wi-Fi]] (1)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** gps (1)
 > **Definitions:** in other words (1)
@@ -1398,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=14)** So that device is typically going to have an operating system, such as [[Linux]], it's going to have some sort of non-volatile storage, and it's going to have some sort of network connectivity.
 >
-> **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=26)** Sometimes Wi-Fi, sometimes Bluetooth, sometimes directly connected.
+> **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=26)** Sometimes [[Wi-Fi]], sometimes Bluetooth, sometimes directly connected.
 >
 > **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=32)** So keep in mind that this is a computer system unto itself.
 >
@@ -1426,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[Linux]] (1), [[Databases]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Linux]] (1), [[Wi-Fi]] (1), [[Databases]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** such as (6)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Env Vars:** cpu (1), aws (1)

@@ -309,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=30)** She didn't realize we had a shared email infrastructure.
 >
-> **[0:34](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=34)** Sites like Instagram store billions of photos, most of which are viewed by less than a handful of people, but Instagram knows they're doing that.
+> **[0:34](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=34)** Sites like [[Instagram]] store billions of photos, most of which are viewed by less than a handful of people, but Instagram knows they're doing that.
 >
 > **[0:44](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/how-attackers-fill-storage?u=76281980&t=44)** What about filling up a file system?
 >
@@ -331,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (1)
+> **Frameworks & Libraries:** [[Instagram]] (2), [[IoT]] (1)
 > **Env Vars:** unix (1), xml (1), iot (1)
 > **Exercise Files:** zip file (2)
 > **Definitions:** is a  (1)

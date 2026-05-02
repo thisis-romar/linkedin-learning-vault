@@ -135,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=30)** - [Kay] And we'll talk about trading stocks and bonds.
 >
-> **[0:32](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=32)** We'll look at the IPOs of [[Microsoft]] and Facebook.
+> **[0:32](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=32)** We'll look at the IPOs of [[Microsoft]] and [[Facebook]].
 >
 > **[0:35](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980&t=35)** - [Jim] We'll learn what an investment bank is.
 >
@@ -153,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Facebook]] (1), [[Financial Planning]] (1)
 > **Speakers:** - and (2), - [kay] (2), - [jim] (2), - it (1), - deciding (1)
 > **Env Vars:** capm (1)
 
@@ -3981,7 +3981,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=131)** First, helping a company go public by serving as an underwriter.
 >
-> **[2:16](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=136)** Facebook went public in May 2012 as a huge initial public offering with a lot of interest.
+> **[2:16](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=136)** [[Facebook]] went public in May 2012 as a huge initial public offering with a lot of interest.
 >
 > **[2:23](https://www.linkedin.com/learning/finance-foundations-24834241/investment-banks?u=76281980&t=143)** Facebook hired 33 different investment bankers who split a fee of over $170 million.
 >
@@ -4021,7 +4021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (8), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)

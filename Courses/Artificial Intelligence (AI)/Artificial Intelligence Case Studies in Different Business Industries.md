@@ -491,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=26)** Founded by Steve Gu and Ying Zheng, computer science PhDs from Duke University AiFi is among the world leaders in enabling autonomous retail, that is physical stores without checkout registers.
 >
-> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=46)** The company's name derives from the founder's mission to make AI as ubiquitous as wifi.
+> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=46)** The company's name derives from the founder's mission to make AI as ubiquitous as [[Wi-Fi|wifi]].
 >
 > **[0:54](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=54)** French retailer Carrefour, Dutch retailer Albert Heijn, which opened an AiFi enabled store inside Amsterdam's Schiphol Airport.
 >
@@ -551,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), [[Computer Vision]] (1), [[Simulation]] (1), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Wi-Fi|Wifi]] (1), [[Computer Vision]] (1), [[Simulation]] (1), [[Hardware]] (1)
 > **Analogies:** picture (3), such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)

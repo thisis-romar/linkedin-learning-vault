@@ -108,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=0)** - [Instructor] Before you start this course, you should be familiar with how ladder logic programming works, knowing the basic operation and basic instructions.
 >
-> **[0:11](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=11)** This course covers the theory part for Allen Bradley PLC memory structure.
+> **[0:11](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=11)** This course covers the theory part for Allen Bradley [[PLC]] memory structure.
 >
 > **[0:17](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=17)** Although no programming is covered in this course, but understanding the memory structure helps in programming, as you will be able to know where to find, refer, and assign data to use in the ladder logic program.
 >
@@ -122,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -131,7 +131,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=0)** - [Instructor] For this course, I'll be using LogixPro PLC simulator from LearningPit.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=0)** - [Instructor] For this course, I'll be using LogixPro [[PLC]] simulator from LearningPit.
 >
 > **[0:07](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=7)** This [[Simulation Software]] mimics Allen Bradley RSLogix 500.
 >
@@ -143,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [[PLC]] (3), [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -156,7 +156,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=0)** - [Narrator] There are different types of PLC controllers on the market from various manufacturers.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=0)** - [Narrator] There are different types of [[PLC]] controllers on the market from various manufacturers.
 >
 > **[0:06](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=6)** Here are a couple of examples of the ones by Allen Bradley from Rockwell Automation.
 >
@@ -196,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Programming]] (1)
+> **Frameworks & Libraries:** [[PLC]] (2), [[PLC Programming]] (1)
 > **Env Vars:** plc (3), slc (2)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
@@ -385,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=55)** This comes in handy when dealing with math operations.
 >
-> **[1:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=60)** This file applies to selected PLC processor types.
+> **[1:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=60)** This file applies to selected [[PLC]] processor types.
 >
 > **[1:06](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980&t=66)** Now files from nine up to 255 are called user-defined files and are used to create any file type from zero through eight.
 >
@@ -401,6 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[PLC]] (1)
 > **Env Vars:** plc (1), slc500 (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -430,7 +431,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=0)** - [Instructor] The I/O addresses for rack-based system are derived using the slot location of the input and output modules within the PLC rack.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=0)** - [Instructor] The I/O addresses for rack-based system are derived using the slot location of the input and output modules within the [[PLC]] rack.
 >
 > **[0:11](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=11)** The rack is the back plane where the controller in the other modules are placed.
 >
@@ -492,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[PLC]] (4), [[Simulation Software]] (1)
 > **Env Vars:** plc (4)
 > **Tools:** terminal (3)
 > **Definitions:** is an  (1)
@@ -507,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=7)** PLCs work on binary numbers.
 >
-> **[0:10](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=10)** So in general, anything that gets stored inside the PLC memory is saved in binary format.
+> **[0:10](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=10)** So in general, anything that gets stored inside the [[PLC]] memory is saved in binary format.
 >
 > **[0:19](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=19)** In a PLC, the memory locations are referred to as words.
 >
@@ -549,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[PLC]] (4)
 > **Env Vars:** plc (4), slc (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -948,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=0)** - [Instructor] Thank you for taking the time to join me in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=4)** This course covers the theory part for Allen Bradley PLC member structure.
+> **[0:04](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=4)** This course covers the theory part for Allen Bradley [[PLC]] member structure.
 >
 > **[0:11](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=11)** If you'd like to learn more about [[PLC Ladder Logic]] Programming, I recommend checking out the learning path; Become a PLC Developer.
 >
@@ -962,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2)
+> **Frameworks & Libraries:** [[PLC]] (3), [[PLC Ladder Logic]] (2)
 > **Env Vars:** plc (5)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

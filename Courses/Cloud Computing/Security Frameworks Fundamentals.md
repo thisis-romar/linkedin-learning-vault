@@ -596,7 +596,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=123)** The Financial Services Information Sharing and Analysis Center, also called FS-ISAC, is an international organization that uses security information, peer information sharing, and controls to try to better mitigate [[Cybersecurity]] threats to the financial industry.
 >
-> **[2:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=143)** Also in the financial sector, although not a government regulation, is PCI DSS, or the Payment Card Industry [[Data Security]] Standard.
+> **[2:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=143)** Also in the financial sector, although not a government regulation, is [[PCI DSS]], or the [[PCI DSS|Payment Card Industry Data Security Standard]].
 >
 > **[2:33](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=153)** This regulation is designed to protect customer credit card information and reduce fraud.
 >
@@ -716,7 +716,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=0)** - [Narrator] PCI DSS, or the Payment Card Industry [[Data Security]] Standard, is both a framework and a compliance standard.
+> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=0)** - [Narrator] [[PCI DSS]], or the [[PCI DSS|Payment Card Industry Data Security Standard]], is both a framework and a compliance standard.
 >
 > **[0:09](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=9)** PCI is an information security standard for any organization that transacts credit cards.
 >
@@ -770,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Security]] (1)
+> **Frameworks & Libraries:** [[PCI DSS]] (1), [[PCI DSS|Payment card industry data security standard]] (1)
 > **Env Vars:** pci (5), dss (1), pos (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)

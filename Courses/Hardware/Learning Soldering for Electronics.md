@@ -99,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980&t=0)** - Hi, I'm Mark De Vinck and welcome to [[Soldering]] for Electronic [[Microsoft Products|Products]] and Manufacturing.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980&t=5)** In this video series, I will teach you everything you need to know about soldering through-hole components, like these LEDs on a PCB, all the way to the basics of hand soldering surface mount components.
+> **[0:05](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980&t=5)** In this video series, I will teach you everything you need to know about soldering through-hole components, like these LEDs on a [[PCB]], all the way to the basics of hand soldering surface mount components.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980&t=16)** Where you go from there is really up to you.
 >
@@ -119,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3), [[Microsoft Products|Products]] (1), [[IoT|Internet of things]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), [[Microsoft Products|Products]] (1), [[PCB]] (1), [[IoT|Internet of things]] (1), [[Arduino]] (1)
 > **Env Vars:** pcb (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -669,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=13)** It's easy to tear.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=14)** And I'll use it in situations like, for instance, securing this small component to a PCB.
+> **[0:14](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=14)** And I'll use it in situations like, for instance, securing this small component to a [[PCB]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=24)** We're going to go ahead and solder the backside, all these pins here, but sometimes it'll fall out.
 >
@@ -711,7 +711,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=105)** I use this one occasionally.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=106)** And then the best one, especially if you're working with PCBs, are these PanaVise, PCB vices, and these are great.
+> **[1:46](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=106)** And then the best one, especially if you're working with [[PCB|PCBs]], are these PanaVise, PCB vices, and these are great.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-soldering-for-electronics/secure-your-work-for-better-connections?u=76281980&t=114)** They have a lot of adjustability and you can do something like this, which is add your PCB in there, tighten it down, get it to just the position you want.
 >
@@ -727,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (1)
+> **Frameworks & Libraries:** [[PCB]] (3), [[PCB|Pcbs]] (2), [[Electronics]] (1)
 > **Env Vars:** pcb (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -882,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-soldering-for-electronics/the-importance-of-the-various-available-fluxes-used-in-soldering?u=76281980&t=51)** My favorite way of doing that is with a flux pen.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-soldering-for-electronics/the-importance-of-the-various-available-fluxes-used-in-soldering?u=76281980&t=55)** This is just a small pen that I can take a PCB and I can just draw on it.
+> **[0:55](https://www.linkedin.com/learning/learning-soldering-for-electronics/the-importance-of-the-various-available-fluxes-used-in-soldering?u=76281980&t=55)** This is just a small pen that I can take a [[PCB]] and I can just draw on it.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-soldering-for-electronics/the-importance-of-the-various-available-fluxes-used-in-soldering?u=76281980&t=62)** Should be able to see it's a little wet right there.
 >
@@ -942,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Flux]] (19), [[Soldering]] (2)
+> **Frameworks & Libraries:** [[Flux]] (19), [[Soldering]] (2), [[PCB]] (1)
 > **Env Vars:** esd (2), pcb (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -1433,7 +1433,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=24)** We're not here to learn about [[Electronics]] we're learning just about the soldering process.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=28)** So once we've identified our LED and we're going to solder it into this half size breadboard, the Perma-Proto board, but really any PCB is the same.
+> **[0:28](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=28)** So once we've identified our LED and we're going to solder it into this half size breadboard, the Perma-Proto board, but really any [[PCB]] is the same.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=39)** Whether it's even a flexible PCB the process is almost identical.
 >
@@ -1481,7 +1481,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=162)** This isn't on just yet.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=164)** And I want to put it right at the connection, right where the wire lead and the printed circuit board meet.
+> **[2:44](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=164)** And I want to put it right at the connection, right where the wire lead and the [[PCB|printed circuit board]] meet.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980&t=170)** I'm heating up that junction.
 >
@@ -1545,7 +1545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (6), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[PCB]] (7), [[Soldering]] (6), [[Electronics]] (1), [[PCB|Printed circuit board]] (1)
 > **Env Vars:** led (9), pcb (7)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1)
@@ -1567,7 +1567,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=14)** The wattage of the resistor is much higher.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=17)** They all go into the PCB very similarly.
+> **[0:17](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=17)** They all go into the [[PCB]] very similarly.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=19)** You would bend the leads down however far apart they need to be to insert into the PCB.
 >
@@ -1581,7 +1581,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=41)** And just like an LED, you can bend the leads up a little bit and then solder it just like an led.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=48)** Now there are certain circumstances where there's not a lot of room on the printed circuit board.
+> **[0:48](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=48)** Now there are certain circumstances where there's not a lot of room on the [[PCB|printed circuit board]].
 >
 > **[0:53](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-resistor-into-a-pcb?u=76281980&t=53)** They're usually boards that have a lot of components and are very small and you might tombstone the LED and that's when you take the LED and you make it sit on the board at about a 45 degree angle.
 >
@@ -1629,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3)
+> **Frameworks & Libraries:** [[PCB]] (4), [[Soldering]] (3), [[PCB|Printed circuit board]] (1)
 > **Env Vars:** pcb (4), led (4)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
@@ -1673,7 +1673,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-capacitor-into-a-pcb?u=76281980&t=67)** And it's just like an LED or a resistor, very easy.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-capacitor-into-a-pcb?u=76281980&t=71)** We want to apply the heat right at the junction of the wire lead and the PCB, about three seconds.
+> **[1:11](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-capacitor-into-a-pcb?u=76281980&t=71)** We want to apply the heat right at the junction of the wire lead and the [[PCB]], about three seconds.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-standard-capacitor-into-a-pcb?u=76281980&t=79)** One, two, three, and we can go in there and flow the solder.
 >
@@ -1707,7 +1707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (1)
+> **Frameworks & Libraries:** [[PCB]] (2), [[Soldering]] (1)
 > **Env Vars:** led (2), pcb (2)
 > **Analogies:** just like (3)
 > **Speakers:** - now (1)
@@ -1716,7 +1716,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=0)** - At some point in your adventures of learning how to solder, you may want to pick up some bare PCBs to practice your surface mount [[Soldering]] or through hole components.
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=0)** - At some point in your adventures of learning how to solder, you may want to pick up some bare [[PCB|PCBs]] to practice your surface mount [[Soldering]] or through hole components.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=9)** And one great aspect of [[Electronics]] is the open source community.
 >
@@ -1728,7 +1728,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=30)** We'll download the files, take a look at some of the layers and things we can learn in Eagle CAD.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=36)** This is not a course on how to design your own PCB.
+> **[0:36](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=36)** This is not a course on how to design your own [[PCB]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-soldering-for-electronics/pcb-design-files?u=76281980&t=39)** This is more about, Hey, I need to get a PCB to do some practice work on it, and I'll walk you through the steps on how to download some files and order up a bunch of PCBs.
 >
@@ -1830,7 +1830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (1), [[Electronics]] (1), [[GitHub]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[PCB]] (6), [[PCB|Pcbs]] (3), [[Soldering]] (1), [[Electronics]] (1), [[GitHub]] (1)
 > **Env Vars:** pcb (6), cad (1), ada (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), scroll down (1), click on (1), navigate to (1)
@@ -1845,7 +1845,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/ordering-a-pcb-and-components?u=76281980&t=0)** - Now that we've gone over the very, very basics of how to open up a board file in a schematic in EAGLE and take a look at some of the layers that are involved, let's go ahead and order one of these boards.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-soldering-for-electronics/ordering-a-pcb-and-components?u=76281980&t=11)** In this example, I used OSHPark, Open-Source [[Hardware]] Park, to order my PCBs.
+> **[0:11](https://www.linkedin.com/learning/learning-soldering-for-electronics/ordering-a-pcb-and-components?u=76281980&t=11)** In this example, I used OSHPark, Open-Source [[Hardware]] Park, to order my [[PCB|PCBs]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-soldering-for-electronics/ordering-a-pcb-and-components?u=76281980&t=16)** You can order them from dozens of different places, whether it's overseas or domestically.
 >
@@ -1903,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Soldering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[PCB|Pcbs]] (1), [[Soldering]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** eagle (1)
 > **Versions:** 1.20 (1)
@@ -1917,7 +1917,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-soldering-for-electronics/identify-and-order-components?u=76281980&t=3)** You figured out how to download it.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-soldering-for-electronics/identify-and-order-components?u=76281980&t=5)** You've uploaded it to your favorite PCB house and now you want to get some practice [[Soldering]].
+> **[0:05](https://www.linkedin.com/learning/learning-soldering-for-electronics/identify-and-order-components?u=76281980&t=5)** You've uploaded it to your favorite [[PCB]] house and now you want to get some practice [[Soldering]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-soldering-for-electronics/identify-and-order-components?u=76281980&t=10)** How do you know what parts to get?
 >
@@ -1967,7 +1967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3), [[Electronics]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[PCB]] (3), [[Soldering]] (3), [[Electronics]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Env Vars:** pcb (3), csv (2), cad (1), ulp (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1977,11 +1977,11 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=0)** - Now that we've gone over the basics on how to order a PCB, let's take a look at one in person.
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=0)** - Now that we've gone over the basics on how to order a [[PCB]], let's take a look at one in person.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=4)** And I like to think of the silkscreen layer as a roadmap.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=7)** It's a good idea when you're designing PCBs to really build one that has a comprehensive roadmap or silkscreen for the PCB helps with assembly, especially if it's by someone else.
+> **[0:07](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=7)** It's a good idea when you're designing [[PCB|PCBs]] to really build one that has a comprehensive roadmap or silkscreen for the PCB helps with assembly, especially if it's by someone else.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-soldering-for-electronics/identification-of-part-and-the-board?u=76281980&t=17)** If it's completely manufactured by robots, and pick and place machines, you might think it's not that important, but it is you'll always have some error when building circuit boards, maybe you have a component that was placed wrong or will ran out, you might need some rework and having designators on there is going to be a lifesaver.
 >
@@ -2023,7 +2023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1)
+> **Frameworks & Libraries:** [[PCB]] (3), [[PCB|Pcbs]] (1), [[Zoom]] (1)
 > **Env Vars:** pcb (3), fcc (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - now (1), - on (1)
@@ -2049,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-soldering-for-electronics/soldering-complex-components-with-lots-of-pins?u=76281980&t=48)** If you solder this socket in and you add too much heat or anything goes wrong, it's a socket, you can kind of fix it, and then later you add the integrated circuit.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-soldering-for-electronics/soldering-complex-components-with-lots-of-pins?u=76281980&t=57)** So we will be looking at this eight pin socket and this PCB, and there's a lot of different ways of approaching this challenge, and I'm going to go over quite a few of them, there's a lot of tips and tricks in this video.
+> **[0:57](https://www.linkedin.com/learning/learning-soldering-for-electronics/soldering-complex-components-with-lots-of-pins?u=76281980&t=57)** So we will be looking at this eight pin socket and this [[PCB]], and there's a lot of different ways of approaching this challenge, and I'm going to go over quite a few of them, there's a lot of tips and tricks in this video.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-soldering-for-electronics/soldering-complex-components-with-lots-of-pins?u=76281980&t=68)** So number one, we look at the PCB, and we can see the silk screen indicates the orientation of the socket.
 >
@@ -2155,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PCB]] (5), [[Soldering]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pcb (5), diy (1), led (1)
 > **Analogies:** just like (2), for instance (1)
 > **Definitions:** is a  (1)
@@ -2168,7 +2168,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-solder-heavy-duty-components?u=76281980&t=0)** - Now we'll take a look at another special case when it comes to [[Soldering]] [[Electronics]], and that is a component with solder lugs, like this USB jack, and the lugs can make electrical connections, quite often they're the ground connection, but they're also typically much thicker metal, and fortunately for us, they also have a bit of a bite to them, they have a little snap to them that usually holds the component in place.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-solder-heavy-duty-components?u=76281980&t=26)** So I'll add this one to the PCB right here.
+> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-solder-heavy-duty-components?u=76281980&t=26)** So I'll add this one to the [[PCB]] right here.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-solder-heavy-duty-components?u=76281980&t=29)** And let's see, I got a little bit of a grab there and what's nice is it doesn't fall out.
 >
@@ -2216,7 +2216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), [[PCB]] (2), [[Electronics]] (1)
 > **CLI Commands:** make (4), snap (1)
 > **Env Vars:** usb (2), pcb (2)
 > **Definitions:** is a  (2)
@@ -2318,7 +2318,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=193)** But if you have super sensitive equipment or something that's really water-intolerant, which most electronics are, this might be a good choice for you to pick up.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=202)** That being said, I would not just douce a PCB in IPA, isopropyl alcohol, if it has buttons on it, crystals.
+> **[3:22](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=202)** That being said, I would not just douce a [[PCB]] in IPA, isopropyl alcohol, if it has buttons on it, crystals.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=211)** Crystals are another reason you might not want to use an ultrasonic cleaner.
 >
@@ -2338,7 +2338,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=240)** And that's a good strategy as well.
 >
-> **[4:02](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=242)** Keep in mind, if you get PCBs that you're ordering from, say, kits, they could be old inventory, so it's not a bad idea to have some of this IPA around and wipe your boards down before you solder anything.
+> **[4:02](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=242)** Keep in mind, if you get [[PCB|PCBs]] that you're ordering from, say, kits, they could be old inventory, so it's not a bad idea to have some of this IPA around and wipe your boards down before you solder anything.
 >
 > **[4:13](https://www.linkedin.com/learning/learning-soldering-for-electronics/clean-up-your-solder-connections?u=76281980&t=253)** It makes a really nice clean, grease-free surface.
 >
@@ -2358,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Flux]] (3), [[Electronics]] (3), [[Soldering]] (2)
+> **Frameworks & Libraries:** [[Flux]] (3), [[Electronics]] (3), [[Soldering]] (2), [[PCB]] (1), [[PCB|Pcbs]] (1)
 > **Env Vars:** ipa (4), diy (2), pcb (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2402,7 +2402,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980&t=59)** So we want to make sure that there's just no oxidation whatsoever on these boards.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980&t=63)** And a quick wipe with some isopropyl alcohol or a specific PCB cleaner is going to save you a lot of aggravation.
+> **[1:03](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980&t=63)** And a quick wipe with some isopropyl alcohol or a specific [[PCB]] cleaner is going to save you a lot of aggravation.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980&t=71)** This is a double-sided board, so I got to get the back here.
 >
@@ -2462,7 +2462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (7)
+> **Frameworks & Libraries:** [[Soldering]] (7), [[PCB]] (1)
 > **CLI Commands:** make (4)
 > **Versions:** 99.9 (1), 1.25 (1), 1.5 (1)
 > **Definitions:** is a  (3)
@@ -2696,7 +2696,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=22)** In my case, I'm just going to leave this small tip on.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=26)** And in my example, today, we're going to be looking at the Metro Mini PCB that we ordered, and only a few components.
+> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=26)** And in my example, today, we're going to be looking at the Metro Mini [[PCB]] that we ordered, and only a few components.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=33)** It would take a long time for me to show you every single component on this board and how it's soldered in.
 >
@@ -2736,7 +2736,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=101)** So we're going to put this metal one aside and use this plastic one.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=105)** The next thing you want to do is you need to squeegee on the paste, just like a silk screener would do, and you can use scrap PCBs to hold the plastic above the PCB like this.
+> **[1:45](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=105)** The next thing you want to do is you need to squeegee on the paste, just like a silk screener would do, and you can use scrap [[PCB|PCBs]] to hold the plastic above the PCB like this.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-soldering-for-electronics/use-a-solder-stencil-for-applying-solder-paste?u=76281980&t=118)** Or you could laser cut yourself something like this.
 >
@@ -2864,7 +2864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (2)
+> **Frameworks & Libraries:** [[PCB]] (7), [[Soldering]] (2), [[PCB|Pcbs]] (2)
 > **Env Vars:** pcb (7), led (3), usb (1), uric (1)
 > **Analogies:** just like (4)
 > **Definitions:** is a  (3)
@@ -2919,11 +2919,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-surface-mount-component-with-a-hot-air-rework-station?u=76281980&t=135)** I'll even turn it a bit so you can see it better, about that sign.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-surface-mount-component-with-a-hot-air-rework-station?u=76281980&t=155)** More good, and that's how easy it is to use solder paste, a stencil and your own custom PCB to make a prototype.
+> **[2:35](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-a-surface-mount-component-with-a-hot-air-rework-station?u=76281980&t=155)** More good, and that's how easy it is to use solder paste, a stencil and your own custom [[PCB]] to make a prototype.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Flux]] (1)
+> **Frameworks & Libraries:** [[Flux]] (1), [[PCB]] (1)
 > **Env Vars:** usb (1), uart (1), pcb (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2939,7 +2939,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980&t=0)** - One very common mistake that beginners make when [[Soldering]] through-hole components is actually adding too much solder and causing a solder bridge, or just having it bubble up and just ball up on top of the PCB.
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980&t=0)** - One very common mistake that beginners make when [[Soldering]] through-hole components is actually adding too much solder and causing a solder bridge, or just having it bubble up and just ball up on top of the [[PCB]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980&t=13)** It's just too much solder and we have to get rid of it.
 >
@@ -2989,7 +2989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (2)
+> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (2), [[PCB]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pcb (1)
 > **Warnings:** common mistake (1)
@@ -3025,7 +3025,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/fixing-a-cold-solder-joint?u=76281980&t=0)** - Another common mistake that beginners make is a cold solder joint, and a cold solder joint occurs when you heat one part of the component or the PCB more than the other and the solder tends to flow to that one component.
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/fixing-a-cold-solder-joint?u=76281980&t=0)** - Another common mistake that beginners make is a cold solder joint, and a cold solder joint occurs when you heat one part of the component or the [[PCB]] more than the other and the solder tends to flow to that one component.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-soldering-for-electronics/fixing-a-cold-solder-joint?u=76281980&t=13)** In my example, I have a cold solder joint here that the solder is balled up on the lead of this LED in the board.
 >
@@ -3049,7 +3049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Flux]] (4), [[Soldering]] (1)
+> **Frameworks & Libraries:** [[Flux]] (4), [[PCB]] (2), [[Soldering]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -3214,11 +3214,11 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-soldering-for-electronics/remove-a-through-hole-component?u=76281980&t=210)** And that's it.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-soldering-for-electronics/remove-a-through-hole-component?u=76281980&t=211)** That's how you remove a component from a PCB.
+> **[3:31](https://www.linkedin.com/learning/learning-soldering-for-electronics/remove-a-through-hole-component?u=76281980&t=211)** That's how you remove a component from a [[PCB]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (3), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Soldering]] (3), [[Flux]] (1), [[PCB]] (1)
 > **Env Vars:** led (3), pcb (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -3317,7 +3317,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-remove-a-surface-mount-integrated-circuit?u=76281980&t=0)** - So now let's talk about how do you remove components from a surface mount PCB?
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-remove-a-surface-mount-integrated-circuit?u=76281980&t=0)** - So now let's talk about how do you remove components from a surface mount [[PCB]]?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-soldering-for-electronics/how-to-remove-a-surface-mount-integrated-circuit?u=76281980&t=5)** You basically have three choices, and we're going to be going over two of them in this video.
 >
@@ -3393,7 +3393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soldering]] (4), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Soldering]] (4), [[PCB]] (2), [[Flux]] (1)
 > **Env Vars:** pcb (2), led (1)
 > **Speakers:** - so (1)
 
@@ -3401,7 +3401,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=0)** - There are two types of people who design PCBs, those that are going to make a mistake and those who have made mistakes.
+> **[0:00](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=0)** - There are two types of people who design [[PCB|PCBs]], those that are going to make a mistake and those who have made mistakes.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=7)** Everyone makes mistakes, even the best engineers.
 >
@@ -3479,7 +3479,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=208)** Yeah, that's secure.
 >
-> **[3:29](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=209)** And we've gone ahead and fixed a bad trace on our PCB.
+> **[3:29](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=209)** And we've gone ahead and fixed a bad trace on our [[PCB]].
 >
 > **[3:34](https://www.linkedin.com/learning/learning-soldering-for-electronics/repair-a-mistake-in-a-pcb?u=76281980&t=214)** And although this is not good for manufacturing, for [[Prototyping]] this is a great way to save a PCB and more importantly, save time from waiting for days for a new PCB to come.
 >
@@ -3487,7 +3487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Flux]] (2), [[Soldering]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[PCB]] (3), [[Flux]] (2), [[PCB|Pcbs]] (1), [[Soldering]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** pcb (3)
 > **UI Navigation:** go to (1)
@@ -3521,7 +3521,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980&t=22)** Code can now control things like an [[Arduino]] or a Raspberry PI and sensors.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980&t=26)** And you can start building your own PCBs.
+> **[0:26](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980&t=26)** And you can start building your own [[PCB|PCBs]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980&t=28)** PCBs are another great topic.
 >
@@ -3531,7 +3531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (1), [[Soldering]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[PCB|Pcbs]] (2), [[Electronics]] (1), [[Soldering]] (1), [[Arduino]] (1)
 > **Env Vars:** eagle (1), cad (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)

@@ -568,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=4)** We filled out the shipping information, and we're going to click the button to continue to the recommended section.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=9)** This page prompts us to install a bunch of related services including the Storefront Theme, Automated Taxes, Mailchimp for Woo Commerce, and Facebook for Woo Commerce.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=9)** This page prompts us to install a bunch of related services including the Storefront Theme, Automated Taxes, Mailchimp for Woo Commerce, and [[Facebook]] for Woo Commerce.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=20)** I highly recommend Storefront since it includes so much free functionality.
 >
@@ -664,7 +664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Facebook]] (2)
 > **Cross-References:** later in (2), next video (2), go back to (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (4)
@@ -2225,7 +2225,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=88)** One of the things I've noticed on this page is there are no social sharing icons and I'm going to go ahead and show you the easiest way to add them.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=97)** This plugin, also made by the [[WooCommerce]] team, adds Facebook, Twitter, Pinterest, and a share by email button; all of the basics.
+> **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=97)** This plugin, also made by the [[WooCommerce]] team, adds [[Facebook]], Twitter, Pinterest, and a share by email button; all of the basics.
 >
 > **[1:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=105)** Let's install this and see how it works.
 >
@@ -2249,7 +2249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[Facebook]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (3)
 > **Prerequisites:** install (2), set up (1)
@@ -3652,7 +3652,7 @@ created: 2026-05-02
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=0)** - [Instructor] You may have heard of this small social media network called Facebook.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=0)** - [Instructor] You may have heard of this small social media network called [[Facebook]].
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=4)** Facebook has over a billion users.
 >
@@ -3724,7 +3724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[Facebook]] (19), [[Microsoft Products|Products]] (2), [[WooCommerce]] (1)
 > **Prerequisites:** install (3), configure (2), setup (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)

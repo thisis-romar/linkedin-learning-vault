@@ -1555,7 +1555,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=144)** Back [[Microsoft Office|office]] functions such as [[Human Resources (HR)|human resources]], information technology, finance and accounting, and so forth often have metrics that are critical to business success.
 >
-> **[2:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=154)** For example, numbers of open positions that need to be filled, the network uptime or wifi quality inside an organization.
+> **[2:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=154)** For example, numbers of open positions that need to be filled, the network uptime or [[Wi-Fi|wifi]] quality inside an organization.
 >
 > **[2:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=162)** Budget accuracy.
 >
@@ -1613,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), [[Wi-Fi|Wifi]] (1), [[Databases]] (1)
 > **Analogies:** for example (4), such as (1), just like (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1)
